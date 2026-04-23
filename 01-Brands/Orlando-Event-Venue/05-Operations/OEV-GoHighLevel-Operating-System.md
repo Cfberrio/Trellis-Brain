@@ -368,3 +368,19 @@ This note is the **operating explanation**, not the engineering map.
 
 ## Source note
 Primary source used for this operating summary: RESUMEN-GHL-INTEGRACION (deferred — source PDF not yet in vault)
+
+## Go High Level Automation Layer
+GHL in OEV is not limited to CRM and communication. It also runs the operational automation layer — handling lifecycle stage syncing, client-facing reminder sequences, and internal notifications tied to event milestones.
+
+Key automation areas confirmed active:
+- **Lifecycle / pipeline stage sync** — stages move as booking status changes
+- **Host report emails** — branches for pre_start, during_event, and post_event
+- **Balance payment reminder sequence** — multi-step email + SMS, tracks attempt count
+- **Post-event cleaning report notification** — internal notification on report completion
+
+Pipeline stages confirmed: Pending → Confirmed → Pre-Event Ready → In Progress → Post-Event → Closed
+
+See:
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Automations|OEV GoHighLevel Automations]]
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center|OEV Admin Command Center]]
+- [[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home|OEV Communication Home]]

@@ -32,3 +32,4 @@ The active source of truth for this layer is DR Communication Rules, which docum
 - n8n variable syntax and merge field reference
 - known template bugs requiring fix before production
 - improvement recommendations for the full communication system
+- [[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|DR GoHighLevel Marketing and Registration Automations]]

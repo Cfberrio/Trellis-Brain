@@ -34,3 +34,4 @@ The active manual is OEV Communication Manual, which documents:
 - venue rules, pricing reference, and merge field reference for automations
 - post-booking sequence logic, tour sequence, and lead capture flow
 - subject line system and signature blocks
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Automations|OEV GoHighLevel Automations]]

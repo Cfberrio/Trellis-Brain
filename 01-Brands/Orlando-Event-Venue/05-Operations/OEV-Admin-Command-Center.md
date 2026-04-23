@@ -360,3 +360,4 @@ This note is only useful if it helps someone:
 - or route Claude to the right operational context.
 
 If it becomes a vague description of “a dashboard that shows things,” it has failed.
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Automations|OEV GoHighLevel Automations]]
