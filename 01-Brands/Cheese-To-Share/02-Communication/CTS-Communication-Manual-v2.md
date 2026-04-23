@@ -14,7 +14,7 @@ channel_stack:
   - sms
   - GoTab
   - Toast POS
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 # Cheese To Share — Communication Manual
@@ -179,27 +179,43 @@ CTS communication is primarily email-led. SMS exists only to support payment com
 
 ---
 
-## Core Email Flows
+## Email Sequence Library
 
-### Flow 1 — Custom Order Inquiry → Confirmed Order
+All sequences include a metadata block: Trigger, Goal, Length, Timing, and Exit Conditions. Every email template includes Subject and Preview text.
 
-**Trigger:** Customer emails with product/customization questions before ordering.
+---
 
-### Standard sequence
-1. Customer inquires
-2. CTS replies and answers all questions in one email
-3. Customer narrows down options
-4. CTS confirms feasibility
-5. Customer places order and asks for price/payment
-6. CTS confirms order, quotes price, offers SMS payment link, asks for phone number
-7. Customer provides phone number
-8. CTS sends payment link by SMS
-9. Customer pays and confirms
-10. CTS sends final confirmation with order details, date, time, and location
-11. Day-of: CTS sends order-ready notification
+### Sequence 1 — Custom Order Inquiry → Confirmed Order
 
-### Step 2 — Reply to inquiry
+```
+Trigger: Customer emails with product or customization questions before ordering
+Goal: Convert inquiry into paid, confirmed order
+Length: 4–6 touchpoints (customer-paced, not timed)
+Channel: Email primary; SMS for payment link only
+Exit conditions: Payment received + final confirmation sent | No response after 3 follow-ups
+```
+
+**Flow**
+
+| Step | Action | Sender |
+|---|---|---|
+| 1 | Customer inquires | Customer |
+| 2 | CTS replies, answers all questions in one email | CTS |
+| 3 | Customer narrows down options | Customer |
+| 4 | CTS confirms feasibility | CTS |
+| 5 | Customer places order, asks for price/payment | Customer |
+| 6 | CTS confirms order, quotes price, requests phone for payment | CTS |
+| 7 | Customer provides phone number | Customer |
+| 8 | CTS sends payment link by SMS | CTS |
+| 9 | Customer pays and confirms | Customer |
+| 10 | CTS sends final confirmation with full order summary | CTS |
+| 11 | Day-of: CTS sends order-ready notification | CTS |
+
+**Step 2 — Reply to inquiry**
 ```text
+Subject: Re: [their subject line]
+Preview: Here's everything you need — let us know how you'd like to proceed.
+
 Good [morning/afternoon] Mr [Name],
 
 Thank you so much for reaching out!
@@ -215,8 +231,11 @@ Warm regards,
 [Signature]
 ```
 
-### Step 6 — Order confirmed + payment request
+**Step 6 — Order confirmed + payment request**
 ```text
+Subject: Your order is all set — one last step
+Preview: Send us your number and we'll text you a payment link right away.
+
 Good [morning/afternoon] Mr [Name],
 
 Thank you so much for your message! Yes, we can absolutely prepare that exactly as you described.
@@ -233,8 +252,11 @@ Best regards,
 [Signature]
 ```
 
-### Step 10 — Post-payment confirmation
+**Step 10 — Post-payment confirmation**
 ```text
+Subject: Your order is confirmed for [Day, Date]
+Preview: Full details inside — date, time, location, and everything you ordered.
+
 Good [morning/afternoon] Mr [Name],
 
 Thank you! We've received your payment and your order is confirmed.
@@ -251,30 +273,44 @@ We look forward to seeing you!
 [Signature]
 ```
 
-### Critical rule
-The post-payment confirmation must always include:
-- exact item ordered
-- customizations
-- pickup date
-- pickup time
-- full pickup location
+**Step 11 — Order ready**
+```text
+Subject: Your order is ready
+Preview: Come by whenever you're ready — we'll see you soon.
 
-No customer should have to send a follow-up email just to confirm where or when to pick up.
+Hi Mr [Name]!
+
+Your order is ready 😊
+
+[Signature]
+```
+
+**Critical rule**
+Post-payment confirmation must always include: exact item ordered, customizations, pickup date, pickup time, full pickup location. No customer should follow up just to confirm where or when to pick up.
 
 ---
 
-### Flow 2 — Same-Day / Returning Customer Order
+### Sequence 2 — Same-Day / Returning Customer Order
 
-**Trigger:** Returning customer emails a same-day or near-term order with customizations.
+```
+Trigger: Returning customer emails a same-day or near-term order
+Goal: Fast confirmation, matched energy, clean handoff to pickup
+Length: 2 emails (confirmation + ready notification)
+Channel: Email
+Exit conditions: Order ready notification sent
+```
 
-### What matters most
-- reply fast
-- confirm clearly
-- match customer energy
-- do not overcomplicate
+**What matters most**
+- Reply fast
+- Confirm clearly
+- Match customer energy
+- Do not overcomplicate
 
-### Quick order confirmation
+**Quick order confirmation**
 ```text
+Subject: Got it — you're all set!
+Preview: [No preview needed for quick sends]
+
 Hello good morning Mr [Name]!!!
 
 Yes! Of course!! [emoji if tone matches]
@@ -284,8 +320,11 @@ Yes! Of course!! [emoji if tone matches]
 [Signature]
 ```
 
-### Order ready notification
+**Order ready notification**
 ```text
+Subject: Your order is ready
+Preview: Come pick it up whenever you're ready.
+
 Hi Mr [Name]!
 
 Your order is ready 😊
@@ -293,25 +332,168 @@ Your order is ready 😊
 [Signature]
 ```
 
-### Rules
-- Speed is a brand signal
+**Rules**
+- Speed is a brand signal — reply fast
 - Match the customer's energy
-- If the order is complex, briefly echo back the important customizations
+- Echo back key customizations if the order is complex
 - Keep the ready notification short
 
 ---
 
-### Flow 3 — Seasonal / Holiday Special Orders
+### Sequence 3 — Catering Inquiry → Booking
 
-**Trigger:** Seasonal menu activation, inbound questions about seasonal items, or limited-time product pushes.
+```
+Trigger: Customer inquires about catering for an event
+Goal: Convert inquiry into confirmed, deposited catering booking
+Length: 5–6 touchpoints (customer-paced)
+Channel: Email primary; GoTab for structured order capture; SMS for deposit payment
+Exit conditions: Deposit received + event date confirmed | No response after 2 follow-ups
+```
 
-### Seasonal announcement template
+**Flow**
+
+| Step | Action | Sender |
+|---|---|---|
+| 1 | Customer inquires about catering | Customer |
+| 2 | CTS replies, gathers event details | CTS |
+| 3 | Customer provides event details | Customer |
+| 4 | CTS sends catering proposal | CTS |
+| 5 | Customer approves or requests changes | Customer |
+| 6 | CTS confirms scope, requests deposit via SMS | CTS |
+| 7 | Deposit received — CTS sends booking confirmation | CTS |
+| 8 | 48–72 hrs before event: pre-event logistics confirmation | CTS |
+
+**Step 2 — Catering inquiry reply**
 ```text
-Subject: [Holiday] specials are here — order yours before [date]
+Subject: Re: [their subject line]
+Preview: A few quick questions so we can put together the right proposal.
+
+Good [morning/afternoon] [Name],
+
+Thank you for reaching out — we'd love to help make your event special!
+
+To put together the best proposal, a few quick questions:
+
+- What's the occasion or event type?
+- Approximate date and time?
+- Roughly how many guests?
+- Do you have a style in mind — grazing board, spread, individual servings?
+- Any dietary restrictions we should know about?
+
+Once we have those details, we'll put together some options for you.
+
+Warm regards,
+[Signature]
+```
+
+**Step 4 — Catering proposal**
+```text
+Subject: Catering proposal for [Event / Date]
+Preview: Here's what we're thinking — let us know what you'd like to adjust.
+
+Good [morning/afternoon] [Name],
+
+Based on what you've shared, here's what we'd suggest:
+
+[Option 1: Name + description + price]
+[Option 2: Name + description + price, if applicable]
+
+Presentation: [Setup style, boards, packaging]
+Serves: [Guest count range]
+Logistics: [Pickup / delivery / on-site setup]
+Deposit required: $[Amount or %]
+Full payment due: [Timeline]
+
+We can customize this — just let us know what feels right and we'll lock in the details.
+
+Best regards,
+[Signature]
+```
+
+**Step 6 — Booking confirmation + deposit request**
+```text
+Subject: Let's lock this in — deposit details inside
+Preview: One last step to confirm your catering booking.
+
+Good [morning/afternoon] [Name],
+
+Here's a summary of what we're confirming:
+
+Event: [Type]
+Date: [Date + Time]
+Location: [Venue or pickup address]
+Order: [Items + presentation]
+Total: $[X]
+Deposit due: $[X] to confirm your date
+
+Please send us your phone number and we'll text a payment link right away.
+
+[Signature]
+```
+
+**Step 7 — Booking confirmed**
+```text
+Subject: Your catering booking is confirmed — [Date]
+Preview: Full event details inside. We're looking forward to it.
+
+Good [morning/afternoon] [Name],
+
+Your deposit is received and your catering booking is confirmed.
+
+Event summary:
+- Event: [Type]
+- Date: [Date] at [Time]
+- Location: [Full address or venue]
+- Order: [Items + presentation]
+- Remaining balance: $[X] due [date / at pickup]
+
+We'll be in touch 48 hours before the event to confirm logistics. If anything changes before then, just reach out.
+
+Warm regards,
+[Signature]
+```
+
+**Step 8 — Pre-event logistics confirmation (send 48–72 hrs out)**
+```text
+Subject: Final details for your event on [Date]
+Preview: Confirming everything is set — just reply if anything has changed.
 
 Hi [Name],
 
-[Seasonal hook — 1 sentence that makes it sound appetizing]
+Your event is coming up on [Date] and we wanted to confirm everything is on track.
+
+Order: [Items + presentation]
+Pickup/Delivery: [Time + location]
+Remaining balance: $[X] due at pickup [if applicable]
+
+If anything has changed or you have questions, just reply here.
+
+Looking forward to it!
+
+[Signature]
+```
+
+---
+
+### Sequence 4 — Seasonal / Holiday Campaign
+
+```
+Trigger: Seasonal menu activation or limited-time product push
+Goal: Drive pre-orders before deadline
+Length: 2 emails
+Timing: Email 1 on launch day; Email 2 (last chance) 2–3 days before order deadline
+Channel: Email
+Exit conditions: Order placed | Order deadline passed
+```
+
+**Email 1 — Launch**
+```text
+Subject: [Holiday] specials are here — order yours before [date]
+Preview: [One appetizing sentence about the seasonal offering]
+
+Hi [Name],
+
+[Seasonal hook — 1 sentence that makes it sound appetizing and occasion-specific]
 
 This [season/holiday], we're offering:
 - [Special item 1]
@@ -329,11 +511,121 @@ Luis Torres
 Cheese To Share
 ```
 
-### Rules
-- Lead with appetite or occasion
-- Include deadline
-- Keep CTA simple
-- Send seasonal announcements as a short sequence, not constant blasts
+**Email 2 — Last chance (send 2–3 days before deadline)**
+```text
+Subject: Last chance — [Holiday] orders close [day]
+Preview: Don't miss out — we're taking orders until [date].
+
+Hi [Name],
+
+Just a reminder — [holiday] orders close on [date].
+
+[1 sentence making it sound worth acting on]
+
+[CTA button: Order Before It's Too Late]
+
+Questions? Reply here or call (407) 276-3234.
+
+Talk soon,
+Luis Torres
+Cheese To Share
+```
+
+**Rules**
+- Lead with appetite or occasion, not logistics
+- Include deadline in both subject lines
+- 2 emails per seasonal push only — launch + last chance
+- Never add a third blast to the same seasonal thread
+
+---
+
+### Sequence 5 — Review Request
+
+```
+Trigger: Order ready notification sent (pickup assumed complete)
+Timing: 24–48 hours after order-ready notification
+Goal: Capture Google review while experience is fresh
+Length: 1 email — no follow-up
+Channel: Email
+Exit conditions: Review submitted | 48 hours elapsed with no response
+```
+
+```text
+Subject: How was your order, Mr [Name]?
+Preview: Hope everything was a hit — a quick note from us inside.
+
+Hi Mr [Name],
+
+It was great seeing you on [day]. Hope everything was a hit!
+
+If you have a moment, we'd love to hear how it went. A quick review helps us a lot:
+
+[LEAVE A REVIEW button]
+
+See you next time,
+Luis
+Cheese To Share
+```
+
+**Rules**
+- Send 24–48 hours after pickup — not same-day
+- Only send after clean, completed orders
+- Do not send after any complaint, confusion, or issue thread
+- One request per order — no follow-up if no response
+
+---
+
+### Sequence 6 — Re-Engagement
+
+```
+Trigger: No order or contact in 60+ days from a previously active customer
+Goal: Reconnect and prompt next order
+Length: 2 emails
+Timing: Email 1 at 60-day mark; Email 2 seven days later if no response
+Channel: Email
+Exit conditions: Order placed | Unsubscribed | No response after Email 2
+```
+
+**Email 1 — Check-in**
+```text
+Subject: It's been a while — hope you're doing well
+Preview: We've missed you. A little something inside.
+
+Hi [Name],
+
+It's been a little while since your last order and we just wanted to check in.
+
+We've been adding [new item / seasonal item] and thought you might enjoy it.
+
+Whenever you're ready for your next order, we're here.
+
+[CTA button: Order Now]
+
+Warm regards,
+Luis Torres
+Cheese To Share
+```
+
+**Email 2 — Last touch (send 7 days after Email 1 if no response)**
+```text
+Subject: One last thing before we stop reaching out
+Preview: We'll keep your spot — just let us know when you're back.
+
+Hi [Name],
+
+We don't want to fill your inbox — so this is our last check-in for a while.
+
+If you ever want to place an order or ask about something seasonal, just reply here and we'll pick right up.
+
+Take care,
+Luis
+Cheese To Share
+```
+
+**Rules**
+- Tone stays warm — no promotional pressure, no discounts
+- Only runs on customers who have previously placed an order, not cold contacts
+- After Email 2 with no response, remove from active re-engagement list
 
 ---
 
@@ -444,67 +736,64 @@ Move from normal support email to documented escalation. Preserve dates, agreeme
 
 ## Subject Line Patterns
 
-| Type | Pattern | Example |
-|---|---|---|
-| Operational outbound | Direct, descriptive | "Your order is confirmed for February 14" |
-| Seasonal announcement | Hook + deadline | "Valentine's boards are available — order before Feb 12" |
-| Review request | Warm + specific | "How was your order, Mr Derek?" |
-| Order ready | Ultra-short | "Your order is ready" |
+| Type | Pattern | Preview text approach | Example subject |
+|---|---|---|---|
+| Operational outbound | Direct, descriptive | Extend with key detail | "Your order is confirmed for February 14" |
+| Payment request | Action + outcome | Urgency without pressure | "Your order is all set — one last step" |
+| Catering confirmation | Event anchor + confidence signal | Full details in email | "Your catering booking is confirmed — [Date]" |
+| Seasonal announcement | Hook + deadline | Appetizing 1-liner | "Valentine's boards are available — order before Feb 12" |
+| Review request | Warm + specific | Soft intrigue | "How was your order, Mr Derek?" |
+| Order ready | Ultra-short | Logistics nudge | "Your order is ready" |
+| Re-engagement | Genuine, non-promotional | Keep it human | "It's been a while — hope you're doing well" |
 
 ### Rules
 - Operational emails: clarity over cleverness
 - Seasonal emails: appetite or occasion first, deadline second
+- Preview text extends the subject — never repeat it
 - Use customer name in subject only when it feels naturally personal
-- Do not chain marketing into old operational threads unnecessarily
+- Do not chain marketing into old operational threads
 
 ---
 
-## Review and Follow-Up Opportunity
+## Sequence Metrics
 
-CTS should actively ask for reviews after successful orders instead of relying only on a passive signature button.
+Minimum metrics to track per sequence once email automation is active.
 
-### Review request template
-```text
-Subject: How was your order, Mr [Name]?
+| Sequence | Key metric | Target | Watch for |
+|---|---|---|---|
+| Seq 1 — Custom order | Time to payment from first email | Under 24 hrs | Long back-and-forth = missing info in initial reply |
+| Seq 2 — Same-day | Reply time | Under 2 hrs | Delayed ready notification erodes trust |
+| Seq 3 — Catering | Deposit rate from proposal sent | 70%+ | Low rate = proposal too vague or missing logistics |
+| Seq 4 — Seasonal | Open rate | 35–45% | Below 30% = subject line or list problem |
+| Seq 4 — Seasonal | Order conversion | 15–25% of opens | Below 10% = CTA or timing issue |
+| Seq 5 — Review | Review submission rate | 20–30% of sends | Below 15% = timing off or wrong segment |
+| Seq 6 — Re-engagement | Email 1 reply or click rate | 10–15% | Below 5% = list is stale or segment too broad |
 
-Hi Mr [Name],
-
-It was great seeing you on [day]. Hope everything was a hit!
-
-If you have a moment, we'd love to hear how it went. A quick review helps us a lot:
-
-[LEAVE A REVIEW button]
-
-See you next time,
-Luis
-Cheese To Share
-```
+**Rules**
+- Track open rate and click rate at minimum once automation is live
+- Do not optimize sequences based on fewer than 30 sends
+- Review sequence performance monthly, not per campaign
 
 ---
 
 ## Improvement Recommendations
 
-### 1. Standardize post-payment confirmation
-Make the confirmation email the point where the customer no longer has to ask anything basic.
+### Priority 1 — Implement now
 
-### 2. Seasonal sequence
-Use a simple 2-email seasonal sequence:
-- email 1: launch
-- email 2: last chance
+1. **Post-payment confirmation standard** — Sequence 1, Step 10 defines this. Audit any existing GHL or GoTab templates against this standard before activating.
+2. **Seasonal 2-email structure** — Enforce launch + last chance only. No ad-hoc seasonal blasts outside this structure.
+3. **Catering pre-event confirmation** — Sequence 3, Step 8 should be templated in GHL and fired automatically 48–72 hrs after deposit received.
 
-### 3. Review request automation
-Trigger a review request 24–48 hours after pickup.
+### Priority 2 — Build next
 
-### 4. Capture more customer emails
-Build email capture at pickup and in structured ordering flows.
+4. **Review request automation** — Trigger Sequence 5 automatically 24–48 hrs after order-ready notification. Map the trigger in GHL or n8n.
+5. **Email capture at pickup** — Build intake at pickup (QR code, tablet, or verbal ask). Route captured emails into the active customer segment.
+6. **Re-engagement automation** — Build Sequence 6 in GHL. Set 60-day inactivity trigger on active customer segment.
 
-### 5. Centralize vendor account records
-Maintain one reference note with:
-- rep names
-- account terms
-- billing agreements
-- account IDs
-- current issues
+### Priority 3 — Infrastructure
+
+7. **Vendor account reference note** — Create one Obsidian note with rep names, account terms, billing agreements, account IDs, and current open issues for GoTab and Toast.
+8. **Legacy email migration** — Audit all active pages, signatures, and automations for cheesetosharenaturalfood@gmail.com. Migrate everything to info@cheesetoshare.us.
 
 ---
 
