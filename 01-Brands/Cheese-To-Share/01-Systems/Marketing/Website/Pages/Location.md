@@ -15,7 +15,6 @@ used_for_ai: true
 ## Related
 - [[Menu]]
 - [[Contact]]
-- [[Sales-Process]]
 
 ## Section title
 Location

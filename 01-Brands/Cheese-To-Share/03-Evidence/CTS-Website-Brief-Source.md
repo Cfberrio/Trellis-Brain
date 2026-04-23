@@ -4,18 +4,21 @@ area: evidence
 note_type: source
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
 ---
 
 # CTS Website Brief — Source
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
-- [[Sitemap]]
-- [[Copy]]
-- [[Catering]]
-- [[Location]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Sitemap|CTS Sitemap]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Copy|CTS Website Copy]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Catering|CTS Catering Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Location|CTS Location Page]]
 
 ## Source summary
 This note captures the direct website brief used to shape the CTS website architecture, CTA logic, page breakdown, and catering offer structure.

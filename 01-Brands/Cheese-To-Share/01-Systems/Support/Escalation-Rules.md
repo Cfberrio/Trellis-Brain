@@ -13,7 +13,7 @@ used_for_ai: true
 - [[Support-Process]]
 
 ## Related
-- [[Payment-Rules]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Payment-Rules|CTS Payment Rules]]
 
 ## Escalate when
 - event details are unclear but urgent

@@ -4,17 +4,21 @@ area: brand-core
 note_type: canonical
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: child
 ---
 
 # Value Proposition
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
-- [[Positioning]]
-- [[Offers]]
-- [[Copy]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Positioning|CTS Positioning]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Offers|CTS Offers]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Copy|CTS Website Copy]]
 
 ## Core value proposition
 Cheese To Share offers European-inspired foods that feel elevated, shareable, and memorable without making the buyer work hard to understand what to order or how to book.

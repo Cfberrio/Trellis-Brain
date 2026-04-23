@@ -1,11 +1,22 @@
+---
+brand: Discipline-Rift
+area: training
+sport: Pickleball
+note_type: home
+status: active
+canonical: true
+used_for_ai: true
+sensitivity: internal
+last_updated: 2026-04-23
+---
+
 # Pickleball Home
 
 ## Parent
-- [[Sports-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home|DR Sports Home]]
 
 ## Related
-- [[Brand-Home]]
-- [[Delivery-Process]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Current state
 Pickleball is an active DR sport and it fills, but **no pickleball PDFs were present in the imported archive**.

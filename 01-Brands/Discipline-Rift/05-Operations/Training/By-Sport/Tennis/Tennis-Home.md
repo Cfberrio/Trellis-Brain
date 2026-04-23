@@ -1,11 +1,22 @@
+---
+brand: Discipline-Rift
+area: training
+sport: Tennis
+note_type: home
+status: active
+canonical: true
+used_for_ai: true
+sensitivity: internal
+last_updated: 2026-04-23
+---
+
 # Tennis Home
 
 ## Parent
-- [[Sports-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home|DR Sports Home]]
 
 ## Related
-- [[Brand-Home]]
-- [[Delivery-Process]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Strategic role
 Tennis is an active DR sport that fills, but its imported resource set is currently much lighter than volleyball and flag football.

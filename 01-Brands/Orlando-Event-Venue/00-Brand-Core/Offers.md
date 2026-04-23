@@ -12,7 +12,7 @@ owner: Luis
 last_updated: 2026-04-21
 sensitivity: internal
 related_systems: [sales, finance, marketing]
-related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]", "[[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|OEV DNA Home]]"]
+related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]"]
 hub_role: child
 tags: [oev, offers]
 ---
@@ -25,7 +25,6 @@ tags: [oev, offers]
 ## Related
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]
-- [[01-Brands/Orlando-Event-Venue/06-DNA/Offer|OEV DNA - Offer]]
 
 ## Offer Ladder Summary
 ### Entry

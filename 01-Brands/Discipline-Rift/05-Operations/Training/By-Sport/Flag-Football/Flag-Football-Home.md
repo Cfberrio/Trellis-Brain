@@ -1,12 +1,23 @@
+---
+brand: Discipline-Rift
+area: training
+sport: Flag Football
+note_type: home
+status: active
+canonical: true
+used_for_ai: true
+sensitivity: internal
+last_updated: 2026-04-23
+---
+
 # Flag Football Home
 
 ## Parent
-- [[Sports-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home|DR Sports Home]]
 
 ## Related
-- [[Brand-Home]]
-- [[Delivery-Process]]
-- [[Offers]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
 
 ## Strategic role
 Flag football is one of DR’s strong secondary sports and has a solid imported curriculum stack that supports both weekly progression and specific skill teaching.

@@ -10,7 +10,7 @@ used_for_ai: true
 # Books Excluded From Markdown Package
 
 ## Parent
-- [[Training-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
 
 ## Why this note exists
 This package intentionally excludes the large training books from the markdown-only ZIP. The goal is to keep the package light while still extracting all non-book operational PDFs into markdown.

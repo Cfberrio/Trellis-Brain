@@ -13,8 +13,8 @@ used_for_ai: true
 - [[Sitemap]]
 
 ## Related
-- [[Pricing-Logic]]
-- [[Payment-Rules]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic|CTS Pricing Logic]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Payment-Rules|CTS Payment Rules]]
 - [[Delivery-Process]]
 - [[Required-Inputs]]
 

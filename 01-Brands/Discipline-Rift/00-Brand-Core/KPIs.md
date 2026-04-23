@@ -11,12 +11,10 @@ used_for_ai: true
 # KPIs
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related
-- [[Metrics]]
-- [[Lead-Definition]]
-- [[Retention-Strategy]]
+- [[01-Brands/Discipline-Rift/06-DNA/Metrics|DR Metrics]]
 
 ## Core weekly numbers
 1. Leads created.

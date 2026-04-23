@@ -16,43 +16,29 @@ hub_role: child
 # OEV Admin Command Center
 
 ## Parent
-- [[Brand-Home]]
-- [[Marketing-Home]]
-- [[Sales-Home]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
 
 ## Children
-- [[Website-Current-State]]
-- [[Sitemap]]
-- [[Copy]]
-- [[Assets]]
-- [[Lead-Definition]]
-- [[Sales-Process]]
-- [[Follow-Up-Rules]]
-- [[Pricing-Logic]]
-- [[Payment-Rules]]
-- [[Collection-Process]]
-- [[KPIs]]
-- [[Metrics]]
-- [[Source-Reconciliation]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Lead-Definition|OEV Lead Definition]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Process|OEV Sales Process]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules|OEV Follow-Up Rules]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules|OEV Payment Rules]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Collection-Process|OEV Collection Process]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs|OEV KPIs]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation|OEV Source Reconciliation]]
 
 ## Related
-- [[Positioning]]
-- [[Offers]]
-- [[Value-Proposition]]
-- [[Constraints]]
-- [[Opportunities]]
-- [[Message]]
-- [[Funnel]]
-- [[Sales]]
-- [[Retention]]
-- [[OEV-Staff-Operations-Console]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Positioning|OEV Positioning]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Offers|OEV Offers]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Value-Proposition|OEV Value Proposition]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints|OEV Constraints]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Opportunities|OEV Opportunities]]
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Staff-Operations-Console|OEV Staff Operations Console]]
 
 ## Strategy References
-- [[Value-Equation]]
-- [[Lead-Magnets]]
-- [[Trust-Building]]
-- [[Referral-Loops]]
-- [[Testing-Loops]]
+Deferred — Value-Equation, Lead-Magnets, Trust-Building, Referral-Loops, Testing-Loops
 
 ## Purpose
 This note defines what the **admin-side operating system** of Orlando Event Venue should help Luis or any admin/operator do quickly and accurately. It is not just a dashboard description. It is the control center for demand, booking conversion, website alignment, payment movement, event readiness, and post-event closeout.

@@ -14,24 +14,19 @@ hub_role: supporting-system
 # OEV — GoHighLevel Operating System
 
 ## Parent
-- [[Brand-Home]]
-- [[OEV-Admin-Command-Center]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center|OEV Admin Command Center]]
 
 ## Related
-- [[Communication-Home]]
-- [[OEV-Communication-Manual]]
-- [[Sales-Home]]
-- [[Lead-Definition]]
-- [[Sales-Process]]
-- [[Follow-Up-Rules]]
-- [[Support-Process]]
-- [[Retention-Strategy]]
-- [[Pricing-Logic]]
-- [[Payment-Rules]]
-- [[KPIs]]
-- [[Message]]
-- [[Funnel]]
-- [[Delivery-Process]]
+- [[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home|OEV Communication Home]]
+- [[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual|OEV Communication Manual]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Lead-Definition|OEV Lead Definition]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Process|OEV Sales Process]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules|OEV Follow-Up Rules]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules|OEV Payment Rules]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs|OEV KPIs]]
 
 ## What this note is
 This note explains **how GoHighLevel functions inside Orlando Event Venue as an operating system**, not as a technical integration map.
@@ -120,10 +115,10 @@ GHL is not the financial source of truth.
 GHL is not the full operational brain of OEV.
 
 Instead:
-- the **brand** lives in notes like [[Brand-Home]], [[Message]], [[Voice-and-Tone]], [[Language-Rules]]
-- the **communication rules** live in [[OEV-Communication-Manual]]
-- the **offer and pricing logic** live in notes like [[Offers]], [[Pricing-Logic]], and [[Payment-Rules]]
-- the **delivery reality** lives in [[Delivery-Process]] and the staff/admin dashboards
+- the **brand** lives in notes like [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Brand-Home]], Message (deferred), [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone|Voice-and-Tone]], [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules|Language-Rules]]
+- the **communication rules** live in [[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual|OEV-Communication-Manual]]
+- the **offer and pricing logic** live in notes like [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Offers|Offers]], [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|Pricing-Logic]], and [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules|Payment-Rules]]
+- the **delivery reality** lives in Delivery-Process (deferred) and the staff/admin dashboards
 - **GHL operationalizes follow-up around those rules**
 
 If this boundary is not respected, the team starts treating GHL like policy — and that creates confusion fast.
@@ -230,7 +225,7 @@ If admin has to manually inspect every case to guess what should happen next, GH
 GHL should surface only what operations actually needs for timing and readiness — not flood ops with sales noise.
 
 ### For communication
-GHL should never invent the tone. It should execute the tone and timing already defined in [[OEV-Communication-Manual]].
+GHL should never invent the tone. It should execute the tone and timing already defined in [[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual|OEV-Communication-Manual]].
 
 ### For leadership
 GHL should help leadership answer:
@@ -372,4 +367,4 @@ This note is the **operating explanation**, not the engineering map.
 
 
 ## Source note
-Primary source used for this operating summary: [[RESUMEN-GHL-INTEGRACION]]
+Primary source used for this operating summary: RESUMEN-GHL-INTEGRACION (deferred — source PDF not yet in vault)

@@ -10,10 +10,9 @@ used_for_ai: true
 # Collection Process
 
 ## Parent
-- [[Payment-Rules]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Payment-Rules|CTS Payment Rules]]
 
 ## Related
-- [[Sales-Process]]
 
 ## Collection flow
 1. inquiry / package fit

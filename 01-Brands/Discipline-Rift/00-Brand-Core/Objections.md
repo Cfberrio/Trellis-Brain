@@ -11,12 +11,10 @@ used_for_ai: true
 # Objections
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related
-- [[Avatar]]
-- [[Sales-Process]]
-- [[Closing-Logic]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]
 
 ## Parent objections
 ### Segment 1 — anxious beginner

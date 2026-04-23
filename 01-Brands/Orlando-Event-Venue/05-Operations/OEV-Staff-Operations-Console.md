@@ -16,33 +16,21 @@ hub_role: child
 # OEV Staff Operations Console
 
 ## Parent
-- [[Brand-Home]]
-- [[Delivery-Process]]
-- [[Support-Process]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]
 
 ## Children
-- [[Quality-Standards]]
-- [[Dependencies]]
-- [[Required-Inputs]]
-- [[Payment-Rules]]
-- [[Collection-Process]]
-- [[Metrics]]
-- [[Constraints]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules|OEV Payment Rules]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Collection-Process|OEV Collection Process]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints|OEV Constraints]]
 
 ## Related
-- [[OEV-Admin-Command-Center]]
-- [[Onboarding-Process]]
-- [[Welcome-Flows]]
-- [[Retention]]
-- [[KPIs]]
-- [[Offers]]
-- [[Source-Reconciliation]]
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center|OEV Admin Command Center]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs|OEV KPIs]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Offers|OEV Offers]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation|OEV Source Reconciliation]]
 
 ## Strategy References
-- [[Process-Reliability]]
-- [[Standardization]]
-- [[Constraint-Identification]]
-- [[Feedback-Loops]]
+Deferred — Process-Reliability, Standardization, Constraint-Identification, Feedback-Loops
 
 ## Purpose
 This note defines what the **staff-side operational console** of Orlando Event Venue should make obvious before, during, and after an event. It is the execution-side translation of the sale.

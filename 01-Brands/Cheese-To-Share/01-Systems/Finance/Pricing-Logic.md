@@ -5,16 +5,20 @@ domain: finance
 note_type: canonical
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: system-home
 ---
 
 # Pricing Logic
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
 - [[Catering]]
-- [[Payment-Rules]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Payment-Rules|CTS Payment Rules]]
 - [[Refund-Rules]]
 
 ## Known pricing anchors

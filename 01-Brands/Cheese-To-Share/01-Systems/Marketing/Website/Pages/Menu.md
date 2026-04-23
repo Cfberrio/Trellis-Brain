@@ -16,7 +16,7 @@ used_for_ai: true
 - [[Location]]
 - [[Assets]]
 - [[CTS-Material-Final-Product-Library]]
-- [[Pricing-Logic]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic|CTS Pricing Logic]]
 
 ## Purpose
 Show the regular food menu, not catering.
@@ -25,8 +25,8 @@ Show the regular food menu, not catering.
 “A collection of European-inspired favorites made for sharing.”
 
 ## CTA behavior
-- Top button: Order Now → [[Location]]
-- Bottom button: Order Now → [[Location]]
+- Top button: Order Now → [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Location|CTS Location Page]]
+- Bottom button: Order Now → [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Location|CTS Location Page]]
 
 ## Menu categories
 - Cheese Boards

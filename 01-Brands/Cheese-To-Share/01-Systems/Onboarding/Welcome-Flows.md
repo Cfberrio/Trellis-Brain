@@ -14,7 +14,6 @@ used_for_ai: true
 
 ## Related
 - [[Contact]]
-- [[Sales-Process]]
 
 ## Catering welcome flow
 - inquiry received

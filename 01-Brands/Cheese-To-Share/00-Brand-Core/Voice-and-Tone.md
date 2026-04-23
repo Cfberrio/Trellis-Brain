@@ -4,17 +4,21 @@ area: brand-core
 note_type: canonical
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: child
 ---
 
 # Voice and Tone
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
-- [[Language-Rules]]
-- [[Messaging-Strategy]]
-- [[Copy]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Language-Rules|CTS Language Rules]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Messaging-Strategy|CTS Messaging Strategy]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Copy|CTS Website Copy]]
 
 ## Voice
 - Warm

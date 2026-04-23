@@ -11,14 +11,12 @@ used_for_ai: true
 # Offers
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related
-- [[Value-Proposition]]
-- [[Pricing-Logic]]
-- [[Offer]]
-- [[Funnel]]
-- [[Retention-Strategy]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition|DR Value Proposition]]
+- [[01-Brands/Discipline-Rift/06-DNA/Offer|DR Offer]]
+- [[01-Brands/Discipline-Rift/06-DNA/Funnel|DR Funnel]]
 
 ## Canon core offer
 **Discipline Rift On-Campus Sports Season**

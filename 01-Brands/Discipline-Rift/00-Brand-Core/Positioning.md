@@ -11,14 +11,14 @@ used_for_ai: true
 # Positioning
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related
-- [[Value-Proposition]]
-- [[Avatar]]
-- [[Market]]
-- [[Message]]
-- [[Offers]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition|DR Value Proposition]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]
+- [[01-Brands/Discipline-Rift/06-DNA/Market|DR Market]]
+- [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
 
 ## Core positioning
 Discipline Rift is an on-campus after-school sports brand for kids ages 6–12. It is positioned against off-campus friction, club intensity, and unstructured after-school time.

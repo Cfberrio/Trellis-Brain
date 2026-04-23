@@ -18,7 +18,7 @@ related_systems:
   - delivery
   - retention
   - finance
-hub_role: brand-root
+hub_role: brand-hub
 tags:
   - oev
   - brand-home
@@ -46,17 +46,20 @@ OEV is positioned first as a professional, logistics-safe venue for corporate ga
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints|OEV Constraints]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Opportunities|OEV Opportunities]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs|OEV KPIs]]
-- [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home|OEV Marketing Home]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
-- [[01-Brands/Orlando-Event-Venue/01-Systems/Onboarding/Onboarding-Process|OEV Onboarding Process]]
-- [[01-Brands/Orlando-Event-Venue/01-Systems/Delivery/Delivery-Process|OEV Delivery Process]]
-- [[01-Brands/Orlando-Event-Venue/01-Systems/Retention/Retention-Strategy|OEV Retention Strategy]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]
-- [[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|OEV DNA Home]]
-- [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Website/Website-Current-State|OEV Website Current State]]
-- [[01-Brands/Orlando-Event-Venue/05-Operations/Tools/OEV-Dashboard-Summary|OEV Dashboard Summary]]
-- [[01-Brands/Orlando-Event-Venue/05-Operations/Tools/OEV-Staff-Dashboard-Summary|OEV Staff Dashboard Summary]]
+- [[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home|OEV Communication Home]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation|OEV Source Reconciliation]]
+
+## Deferred Systems
+These systems are planned for OEV but notes do not yet exist. Do not link from active routing until built.
+- Marketing-Home — OEV marketing system hub
+- Onboarding-Process — client onboarding flow
+- Delivery-Process — event day delivery
+- Retention-Strategy — post-event retention
+- Website-Current-State — current website state documentation
+- DNA-Home — OEV has no 06-DNA folder yet; create when DNA layer is built out
+- OEV-Dashboard-Summary, OEV-Staff-Dashboard-Summary — operations dashboard notes (Tools/ folder does not exist; check against OEV-Admin-Command-Center and OEV-Staff-Operations-Console)
 
 ## Related
 - [[00-Trellis-Core/Routing-Rules|Routing Rules]]

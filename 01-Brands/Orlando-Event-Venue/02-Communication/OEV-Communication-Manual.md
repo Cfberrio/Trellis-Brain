@@ -1,14 +1,16 @@
 ---
 brand: Orlando-Event-Venue
-domain: communication
-area: manual
-subarea: canonical
+area: communication
+subarea: manual
 note_type: canonical
 status: active
 source: user-provided communication rules
 canonical: true
 used_for_ai: true
-hub_role: manual
+source_type: curated
+owner: Luis
+sensitivity: internal
+hub_role: leaf
 last_updated: 2026-04-21
 tags:
   - OEV
@@ -23,19 +25,17 @@ tags:
 # OEV Communication Manual
 
 ## Parent
-- [[Communication-Home]]
-- [[Brand-Home]]
+- [[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home|OEV Communication Home]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
 
 ## Related
-- [[Voice-and-Tone]]
-- [[Language-Rules]]
-- [[Sales-Home]]
-- [[Follow-Up-Rules]]
-- [[Payment-Rules]]
-- [[Support-Process]]
-- [[Message]]
-- [[Constraints]]
-- [[KPIs]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone|OEV Voice and Tone]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules|OEV Language Rules]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules|OEV Follow Up Rules]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules|OEV Payment Rules]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints|OEV Constraints]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs|OEV KPIs]]
 
 ## Purpose
 This note is the **single source of truth** for Orlando Event Venue communication across:
@@ -481,15 +481,15 @@ Weak communication usually looks like:
 When Claude is writing or restructuring communication for OEV, this note should be treated as the canonical communication layer.
 
 Claude should consult in this order:
-1. [[Communication-Home]]
+1. [[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home|OEV Communication Home]]
 2. this note
-3. [[Voice-and-Tone]]
-4. [[Language-Rules]]
+3. [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone|OEV Voice and Tone]]
+4. [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules|OEV Language Rules]]
 5. the relevant operational system note:
-   - [[Sales-Home]]
-   - [[Follow-Up-Rules]]
-   - [[Payment-Rules]]
-   - [[Support-Process]]
+   - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
+   - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules|OEV Follow Up Rules]]
+   - [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules|OEV Payment Rules]]
+   *(Support-Process: does not exist for OEV — deferred)*
 6. historical evidence only if examples are needed
 
 Claude should not use another brand's communication logic unless explicitly instructed.

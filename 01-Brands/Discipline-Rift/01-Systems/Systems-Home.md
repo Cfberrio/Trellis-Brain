@@ -1,9 +1,14 @@
 ---
 brand: Discipline-Rift
 area: systems
-note_type: hub
+note_type: home
 status: active
+canonical: true
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: system-hub
 aliases:
   - DR Systems Home
 ---
@@ -11,20 +16,19 @@ aliases:
 # Systems Home
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Children
-- [[Parent-App-Home]]
-- [[Coach-Portal-Home]]
-- [[Admin-Operations-App-Home]]
-- [[DR-Shared-Entities-and-Integrations]]
-- [[DR-Operational-Flows]]
+- [[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home|DR Parent App Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home|DR Coach Portal Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home|DR Admin Operations App Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations|DR Shared Entities and Integrations]]
+- [[01-Brands/Discipline-Rift/01-Systems/DR-Operational-Flows|DR Operational Flows]]
 
 ## Related
-- [[KPIs]]
-- [[Offers]]
-- [[Pricing-Logic]]
-- [[Training-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/KPIs|DR KPIs]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
 
 ## What this section is
 This note is the hub for all Discipline Rift product systems.

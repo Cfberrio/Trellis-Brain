@@ -11,16 +11,14 @@ used_for_ai: true
 # Avatar
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Children
 - [[Avatar#Primary avatar — parent payer]]
 - [[Avatar#Secondary avatar — school gatekeeper]]
 
 ## Related
-- [[Objections]]
-- [[Lead-Definition]]
-- [[Sales-Process]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Objections|DR Objections]]
 
 ## Primary avatar — parent payer
 Parent of a child ages 6–12 at a participating school who wants their child active, confident, and socially connected, and prefers a low-friction, on-campus, beginner-friendly season over off-campus sports logistics.

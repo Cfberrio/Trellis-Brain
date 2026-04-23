@@ -5,12 +5,16 @@ domain: support
 note_type: working
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: system-home
 ---
 
 # Support Process
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
 - [[Resolution-Logic]]

@@ -1,14 +1,24 @@
+---
+brand: Discipline-Rift
+area: training
+note_type: home
+status: active
+canonical: true
+used_for_ai: true
+sensitivity: internal
+last_updated: 2026-04-23
+---
+
 # Shared Coaching Resources Home
 
 ## Parent
-- [[Training-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
 
 ## Related
 - [[Volleyball-Home]]
 - [[Tennis-Home]]
 - [[Flag-Football-Home]]
 - [[Pickleball-Home]]
-- [[Delivery-Process]]
 
 ## Purpose
 These are cross-sport resources that should influence coaching quality, teaching method, and group leadership across all DR programs.

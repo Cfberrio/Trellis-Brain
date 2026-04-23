@@ -13,7 +13,6 @@ used_for_ai: true
 - [[Sitemap]]
 
 ## Related
-- [[Sales-Process]]
 - [[Required-Inputs]]
 - [[Support-Process]]
 

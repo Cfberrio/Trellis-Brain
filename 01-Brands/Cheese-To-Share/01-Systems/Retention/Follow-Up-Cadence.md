@@ -13,7 +13,6 @@ used_for_ai: true
 - [[Retention-Strategy]]
 
 ## Related
-- [[Sales-Process]]
 
 ## Core cadence ideas
 - post-event thank you

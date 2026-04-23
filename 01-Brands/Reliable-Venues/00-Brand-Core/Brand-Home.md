@@ -2,34 +2,39 @@
 brand: Reliable-Venues
 area: brand-core
 domain: overview
-note_type: canonical
+note_type: home
 status: active
+canonical: true
 used_for_ai: true
 owner: Luis Torres
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: brand-hub
 ---
 # Reliable Venues — Brand Home
 
 
 ## Parent
-- [[Trellis-Home]]
+- [[00-Trellis-Core/Trellis-Home|Trellis Home]]
 
 ## Children
-- [[Positioning]]
-- [[Avatar]]
-- [[Offers]]
-- [[Value-Proposition]]
-- [[Objections]]
-- [[Constraints]]
-- [[Opportunities]]
-- [[KPIs]]
-- [[Systems-Home]]
-- [[DNA-Home]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Positioning|RV Positioning]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Avatar|RV Avatar]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Offers|RV Offers]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Value-Proposition|RV Value Proposition]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Objections|RV Objections]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Constraints|RV Constraints]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Opportunities|RV Opportunities]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/KPIs|RV KPIs]]
+- [[01-Brands/Reliable-Venues/06-DNA/DNA-Home|RV DNA Home]]
+- [[01-Brands/Reliable-Venues/02-Communication/Communication-Home|RV Communication Home]]
 
 ## Related
-- [[Website-Home]]
-- [[Sales-Process]]
-- [[Pricing-Logic]]
-- [[GHL-Embed-Reference]]
+- [[01-Brands/Reliable-Venues/03-Evidence/GHL-Embed-Reference|RV GHL Embed Reference]]
+
+## Deferred
+- Systems-Home — RV has no 01-Systems folder yet; build when brand expands
+- Website-Home, Sales-Process, Pricing-Logic — referenced but not yet built out for this brand
 
 ## Brand Summary
 Reliable Venues is a B2B service brand that sells **systems-driven venue management** for event venues. The promise is simple: replace manual chaos with predictable operations, better conversion, and peace of mind.

@@ -11,12 +11,10 @@ used_for_ai: true
 # Constraints
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related
-- [[Market]]
-- [[Pricing-Logic]]
-- [[Delivery-Process]]
+- [[01-Brands/Discipline-Rift/06-DNA/Market|DR Market]]
 
 ## Fixed constraints from current model
 - Ages: 6–12.

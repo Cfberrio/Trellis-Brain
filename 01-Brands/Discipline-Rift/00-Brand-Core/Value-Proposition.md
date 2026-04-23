@@ -11,13 +11,13 @@ used_for_ai: true
 # Value Proposition
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related
-- [[Positioning]]
-- [[Offers]]
-- [[Problem]]
-- [[Message]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Positioning|DR Positioning]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
+- [[01-Brands/Discipline-Rift/06-DNA/Problem|DR Problem]]
+- [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
 
 Discipline Rift creates value by solving the biggest blocker to youth sports participation: **friction**. It removes parent logistics, reduces beginner fear, and packages sports into a predictable, low-pressure seasonal commitment that fits normal family life.
 

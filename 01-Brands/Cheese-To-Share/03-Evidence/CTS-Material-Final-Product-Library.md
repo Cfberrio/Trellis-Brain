@@ -4,17 +4,20 @@ area: evidence
 note_type: source
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
 ---
 
 # CTS Material Final — Product Library
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
-- [[Assets]]
-- [[Menu]]
-- [[Content-Strategy]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Assets|CTS Website Assets]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Menu|CTS Menu Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Content-Strategy|CTS Content Strategy]]
 
 ## What this note is
 This note extracts the practical value from the uploaded “Material Final” source package:

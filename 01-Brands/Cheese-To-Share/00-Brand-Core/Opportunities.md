@@ -4,18 +4,22 @@ area: brand-core
 note_type: canonical
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: child
 ---
 
 # Opportunities
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
-- [[Campaigns]]
-- [[Retention-Strategy]]
-- [[Catering]]
-- [[Assets]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Campaigns|CTS Campaigns]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Retention/Retention-Strategy|CTS Retention Strategy]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Catering|CTS Catering Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Assets|CTS Website Assets]]
 
 ## High-leverage opportunities
 - Stronger separation between menu and catering

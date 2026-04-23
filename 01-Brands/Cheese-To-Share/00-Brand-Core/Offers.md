@@ -4,22 +4,26 @@ area: brand-core
 note_type: canonical
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: child
 ---
 
 # Offers
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Children
-- [[Value-Proposition]]
-- [[Pricing-Logic]]
-- [[Delivery-Process]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Value-Proposition|CTS Value Proposition]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic|CTS Pricing Logic]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Delivery/Delivery-Process|CTS Delivery Process]]
 
 ## Related
-- [[Menu]]
-- [[Catering]]
-- [[Location]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Menu|CTS Menu Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Catering|CTS Catering Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Location|CTS Location Page]]
 
 ## Core offer stack
 

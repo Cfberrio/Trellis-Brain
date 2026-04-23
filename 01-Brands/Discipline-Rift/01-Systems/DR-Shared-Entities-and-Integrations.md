@@ -13,7 +13,7 @@ aliases:
 # DR Shared Entities and Integrations
 
 ## Parent
-- [[Systems-Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
 
 ## Related
 - [[Parent-App-Home]]

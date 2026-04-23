@@ -1,43 +1,53 @@
 ---
 brand: Discipline-Rift
 domain: brand-core
-area: overview
-note_type: canonical
+area: brand-core
+note_type: home
 status: active
 canonical: true
 used_for_ai: true
+source_type: curated
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: brand-hub
 ---
 
 # Discipline Rift — Brand Home
 
 ## Parent
-- [[Trellis-Home]]
+- [[00-Trellis-Core/Trellis-Home|Trellis Home]]
 
 ## Children
-- [[Positioning]]
-- [[Avatar]]
-- [[Offers]]
-- [[Value-Proposition]]
-- [[Objections]]
-- [[Constraints]]
-- [[Opportunities]]
-- [[KPIs]]
-- [[Pricing-Logic]]
-- [[Marketing-Home]]
-- [[Sales-Home]]
-- [[Onboarding-Process]]
-- [[Delivery-Process]]
-- [[Retention-Strategy]]
-- [[DNA-Home]]
-- [[Training-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Positioning|DR Positioning]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition|DR Value Proposition]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Objections|DR Objections]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Constraints|DR Constraints]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Opportunities|DR Opportunities]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/KPIs|DR KPIs]]
+- [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
+- [[01-Brands/Discipline-Rift/06-DNA/DNA-Home|DR DNA Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
 
 ## Related
-- [[Market]]
-- [[Problem]]
-- [[Offer]]
-- [[Message]]
-- [[Funnel]]
-- [[Metrics]]
+- [[01-Brands/Discipline-Rift/06-DNA/Market|DR Market]]
+- [[01-Brands/Discipline-Rift/06-DNA/Problem|DR Problem]]
+- [[01-Brands/Discipline-Rift/06-DNA/Offer|DR Offer]]
+- [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
+- [[01-Brands/Discipline-Rift/06-DNA/Funnel|DR Funnel]]
+- [[01-Brands/Discipline-Rift/06-DNA/Metrics|DR Metrics]]
+
+## Deferred Systems
+These systems are planned for DR but notes do not yet exist. Do not link from active routing until built.
+- Marketing-Home — DR marketing system hub
+- Sales-Home — DR sales process hub
+- Onboarding-Process — parent and student onboarding
+- Delivery-Process — session delivery
+- Retention-Strategy — retention and re-enrollment
+- Pricing-Logic — season pricing and payment rules
 
 ## One-line models
 **For parents:** Discipline Rift helps parents of kids 6–12 get their child active, confident, and connected through fun-first, on-campus after-school sports seasons led by trained coaches and designed for beginner-friendly development.

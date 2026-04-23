@@ -11,13 +11,11 @@ used_for_ai: true
 # Opportunities
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related
-- [[Marketing-Home]]
-- [[Retention-Strategy]]
-- [[Training-Home]]
-- [[Sports-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home|DR Sports Home]]
 
 ## Highest-value current opportunities
 1. Turn volleyball into the proof engine while keeping the other sports ready as school-fit options.

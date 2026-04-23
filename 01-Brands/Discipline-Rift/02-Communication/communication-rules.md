@@ -1,4 +1,25 @@
+---
+brand: Discipline-Rift
+area: communication
+note_type: manual
+status: active
+canonical: true
+used_for_ai: true
+source_type: curated
+sensitivity: internal
+hub_role: leaf
+last_updated: 2026-04-21
+owner: Luis
+---
+
 # Discipline Rift — Communication Rules
+
+## Parent
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]
+- [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
 
 **Last updated:** 2026-04-21
 **Brand:** Discipline Rift (DR)

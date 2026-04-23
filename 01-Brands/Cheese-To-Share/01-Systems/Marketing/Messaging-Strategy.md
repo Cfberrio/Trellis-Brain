@@ -10,10 +10,10 @@ used_for_ai: true
 # Messaging Strategy
 
 ## Parent
-- [[Marketing-Home]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Marketing-Home|CTS Marketing Home]]
 
 ## Related
-- [[Voice-and-Tone]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Voice-and-Tone|CTS Voice and Tone]]
 - [[Copy]]
 - [[Story]]
 

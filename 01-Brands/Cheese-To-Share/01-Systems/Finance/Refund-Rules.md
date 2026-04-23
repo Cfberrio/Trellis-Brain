@@ -10,10 +10,10 @@ used_for_ai: true
 # Refund Rules
 
 ## Parent
-- [[Payment-Rules]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Payment-Rules|CTS Payment Rules]]
 
 ## Related
-- [[Pricing-Logic]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic|CTS Pricing Logic]]
 
 ## Known refund-like logic
 Returning guests may receive a refund for returning a catering board.

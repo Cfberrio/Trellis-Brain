@@ -13,15 +13,14 @@ aliases:
 # Admin Operations App Home
 
 ## Parent
-- [[Systems-Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
 
 ## Related
 - [[Parent-App-Home]]
 - [[Coach-Portal-Home]]
 - [[DR-Shared-Entities-and-Integrations]]
 - [[DR-Operational-Flows]]
-- [[Pricing-Logic]]
-- [[Offers]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
 
 ## Purpose
 This is the internal admin operating system for Discipline Rift.

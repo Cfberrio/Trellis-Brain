@@ -1,3 +1,16 @@
+---
+brand: Trellis-Core
+area: system
+note_type: home
+status: active
+canonical: true
+used_for_ai: true
+source_type: curated
+sensitivity: internal
+hub_role: root
+last_updated: 2026-04-23
+---
+
 # Trellis Home
 
 ## Purpose
@@ -143,16 +156,16 @@ Trellis-Brain/
 
 ## Core Hub Links
 ### Core Notes
-- [[Routing-Rules]]
-- [[Metadata-Standard]]
-- [[Hormozi-Home]]
+- [[00-Trellis-Core/Routing-Rules|Routing Rules]]
+- [[00-Trellis-Core/Metadata-Standard|Metadata Standard]]
+- *(Hormozi strategy models — deferred, not yet in vault)*
 
 ### Brand Hubs
-- [[Cheese To Share - Brand-Home]]
-- [[Discipline Rift - Brand-Home]]
-- [[Orlando Event Venue - Brand-Home]]
-- [[Reliable Venues - Brand-Home]]
-- [[Trellis Fields - Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|Cheese To Share — Brand Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|Discipline Rift — Brand Home]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue — Brand Home]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home|Reliable Venues — Brand Home]]
+- *(Trellis Fields — deferred, brand folder does not yet exist)*
 
 If these exact note names change, this page must be updated immediately.
 

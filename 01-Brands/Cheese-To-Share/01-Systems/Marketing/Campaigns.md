@@ -10,7 +10,7 @@ used_for_ai: true
 # Campaigns
 
 ## Parent
-- [[Marketing-Home]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Marketing-Home|CTS Marketing Home]]
 
 ## Related
 - [[Catering]]

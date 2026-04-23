@@ -12,7 +12,7 @@ aliases:
 # DR Operational Flows
 
 ## Parent
-- [[Systems-Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
 
 ## Related
 - [[Parent-App-Home]]

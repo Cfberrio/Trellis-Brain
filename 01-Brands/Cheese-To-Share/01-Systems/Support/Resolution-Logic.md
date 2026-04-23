@@ -13,7 +13,6 @@ used_for_ai: true
 - [[Support-Process]]
 
 ## Related
-- [[Objection-Handling]]
 
 ## Resolution rule
 Solve the routing issue first:

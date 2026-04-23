@@ -1,12 +1,23 @@
+---
+brand: Discipline-Rift
+area: training
+sport: Volleyball
+note_type: home
+status: active
+canonical: true
+used_for_ai: true
+sensitivity: internal
+last_updated: 2026-04-23
+---
+
 # Volleyball Home
 
 ## Parent
-- [[Sports-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home|DR Sports Home]]
 
 ## Related
-- [[Brand-Home]]
-- [[Delivery-Process]]
-- [[Offers]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
 
 ## Strategic role
 Volleyball is the current spearhead sport for DR because it has the strongest demand, the most teams, and the deepest proof base.

@@ -1,4 +1,20 @@
+---
+brand: Trellis-Core
+area: system
+note_type: home
+status: active
+canonical: true
+used_for_ai: true
+source_type: curated
+sensitivity: internal
+hub_role: root
+last_updated: 2026-04-23
+---
+
 # Metadata Standard
+
+## Parent
+- [[00-Trellis-Core/Trellis-Home|Trellis Home]]
 
 ## Purpose
 This document defines the metadata standard for the Trellis Brain.

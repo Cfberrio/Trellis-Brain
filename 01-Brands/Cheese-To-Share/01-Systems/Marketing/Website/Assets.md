@@ -49,6 +49,6 @@ There is also at least one product video asset currently visible in the material
 For the website, visual clarity matters more than showing every single production detail. The long-form product docs should support copy and consistency, not be pasted directly into the website.
 
 ## Fast asset inventory
-- Structured source library: [[CTS-Material-Final-Product-Library]]
+- Structured source library: [[01-Brands/Cheese-To-Share/03-Evidence/CTS-Material-Final-Product-Library|CTS Material Library]]
 - Design style reference: Emergence
 - Menu layout reference: La Piscina del Pedroso

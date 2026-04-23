@@ -4,18 +4,22 @@ area: brand-core
 note_type: canonical
 status: active
 used_for_ai: true
+owner: Luis
+last_updated: 2026-04-23
+sensitivity: internal
+hub_role: child
 ---
 
 # Positioning
 
 ## Parent
-- [[Brand-Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Related
-- [[Value-Proposition]]
-- [[Offers]]
-- [[Sitemap]]
-- [[Copy]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Value-Proposition|CTS Value Proposition]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Offers|CTS Offers]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Sitemap|CTS Sitemap]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Copy|CTS Website Copy]]
 
 ## Positioning Statement
 Cheese To Share is a European-inspired food brand in Orlando that turns menu items and catering into **shareable, presentation-driven experiences** for everyday cravings and meaningful events.

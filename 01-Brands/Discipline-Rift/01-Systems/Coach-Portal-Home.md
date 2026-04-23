@@ -13,14 +13,14 @@ aliases:
 # Coach Portal Home
 
 ## Parent
-- [[Systems-Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
 
 ## Related
 - [[Parent-App-Home]]
 - [[Admin-Operations-App-Home]]
 - [[DR-Shared-Entities-and-Integrations]]
 - [[DR-Operational-Flows]]
-- [[Training-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
 
 ## Purpose
 This is the coach-facing operating app for Discipline Rift.

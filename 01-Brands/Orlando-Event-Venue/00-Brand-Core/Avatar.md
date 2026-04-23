@@ -24,7 +24,6 @@ tags: [oev, avatar]
 
 ## Related
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Objections|OEV Objections]]
-- [[01-Brands/Orlando-Event-Venue/06-DNA/Problem|OEV DNA - Problem]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
 
 ## Best-Fit Buyer

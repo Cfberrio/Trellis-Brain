@@ -12,7 +12,7 @@ owner: Luis
 last_updated: 2026-04-21
 sensitivity: internal
 related_systems: [sales, delivery, retention, finance]
-related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/05-Operations/Tools/OEV-Dashboard-Summary|OEV Dashboard Summary]]", "[[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|OEV DNA Home]]"]
+related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center|OEV Admin Command Center]]"]
 hub_role: child
 tags: [oev, kpis]
 ---
@@ -23,8 +23,7 @@ tags: [oev, kpis]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]
 
 ## Related
-- [[01-Brands/Orlando-Event-Venue/06-DNA/Metrics|OEV DNA - Metrics]]
-- [[01-Brands/Orlando-Event-Venue/05-Operations/Tools/OEV-Dashboard-Summary|OEV Dashboard Summary]]
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center|OEV Admin Command Center]]
 
 ## Acquisition KPIs
 - Inbound leads by source.

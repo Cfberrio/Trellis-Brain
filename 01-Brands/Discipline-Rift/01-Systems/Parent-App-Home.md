@@ -13,15 +13,14 @@ aliases:
 # Parent App Home
 
 ## Parent
-- [[Systems-Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
 
 ## Related
 - [[Coach-Portal-Home]]
 - [[Admin-Operations-App-Home]]
 - [[DR-Shared-Entities-and-Integrations]]
 - [[DR-Operational-Flows]]
-- [[Offers]]
-- [[Pricing-Logic]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
 
 ## Purpose
 This is the parent-facing application for Discipline Rift.

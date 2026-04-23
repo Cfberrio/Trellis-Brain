@@ -12,7 +12,7 @@ owner: Luis
 last_updated: 2026-04-21
 sensitivity: internal
 related_systems: [marketing, sales, retention, operations]
-related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home|OEV Marketing Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Retention/Retention-Strategy|OEV Retention Strategy]]"]
+related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]"]
 hub_role: child
 tags: [oev, opportunities]
 ---
@@ -23,9 +23,8 @@ tags: [oev, opportunities]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]
 
 ## Related
-- [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Website/Website-Current-State|OEV Website Current State]]
-- [[01-Brands/Orlando-Event-Venue/05-Operations/Tools/OEV-Dashboard-Summary|OEV Dashboard Summary]]
-- [[01-Brands/Orlando-Event-Venue/05-Operations/Tools/OEV-Staff-Dashboard-Summary|OEV Staff Dashboard Summary]]
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center|OEV Admin Command Center]]
+- [[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Staff-Operations-Console|OEV Staff Operations Console]]
 
 ## Highest-Leverage Opportunities
 ### 1. Reconcile public website with internal booking rules

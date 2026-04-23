@@ -12,7 +12,7 @@ owner: Luis
 last_updated: 2026-04-21
 sensitivity: internal
 related_systems: [marketing, sales, onboarding]
-related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Website/Website-Current-State|OEV Website Current State]]"]
+related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]"]
 hub_role: child
 tags: [oev, reconciliation, review]
 ---
@@ -23,7 +23,6 @@ tags: [oev, reconciliation, review]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]
 
 ## Related
-- [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Website/Website-Current-State|OEV Website Current State]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints|OEV Constraints]]
 
 ## Why This Note Exists

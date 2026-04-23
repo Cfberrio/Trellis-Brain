@@ -15,29 +15,30 @@ channel_stack:
   - GoTab
   - Toast POS
 last_updated: 2026-04-22
+canonical: true
+sensitivity: internal
+hub_role: leaf
 ---
 
 # Cheese To Share — Communication Manual
 
 ## Parent
-- [[Communication-Home]]
+- [[01-Brands/Cheese-To-Share/02-Communication/Communication-Home|CTS Communication Home]]
 
 ## Related
-- [[Brand-Home]]
-- [[Positioning]]
-- [[Offers]]
-- [[Value-Proposition]]
-- [[Website-Home]]
-- [[Menu-Page]]
-- [[Catering-Page]]
-- [[Location-Page]]
-- [[Story-Page]]
-- [[Contact-Page]]
-- [[Sales-Process]]
-- [[Pricing-Logic]]
-- [[Onboarding-Process]]
-- [[Support-Home]]
-- [[Retention-Strategy]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Positioning|CTS Positioning]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Offers|CTS Offers]]
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Value-Proposition|CTS Value Proposition]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Menu|CTS Menu Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Catering|CTS Catering Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Location|CTS Location Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Story|CTS Story Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Contact|CTS Contact Page]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic|CTS Pricing Logic]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Onboarding/Onboarding-Process|CTS Onboarding Process]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Support/Support-Process|CTS Support Process]]
+- [[01-Brands/Cheese-To-Share/01-Systems/Retention/Retention-Strategy|CTS Retention Strategy]]
 
 ## Purpose
 This file is the canonical source of truth for all Cheese To Share customer-facing, vendor-facing, and internal operational communication. It defines how CTS writes, responds, confirms, follows up, and escalates across email and SMS.
