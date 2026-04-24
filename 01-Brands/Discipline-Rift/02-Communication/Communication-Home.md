@@ -19,6 +19,8 @@ last_updated: 2026-04-23
 ## Children
 - [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]]
 
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Script-Evaluation-Context|DR Script Evaluation Context]]
+
 ## Related
 - [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]

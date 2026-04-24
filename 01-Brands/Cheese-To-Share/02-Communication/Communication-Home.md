@@ -19,6 +19,8 @@ last_updated: 2026-04-23
 ## Children
 - [[01-Brands/Cheese-To-Share/02-Communication/CTS-Communication-Manual-v2|CTS Communication Manual v2]]
 
+- [[01-Brands/Cheese-To-Share/02-Communication/CTS-Script-Evaluation-Context|CTS Script Evaluation Context]]
+
 ## Related
 - [[01-Brands/Cheese-To-Share/00-Brand-Core/Voice-and-Tone|CTS Voice and Tone]]
 - [[01-Brands/Cheese-To-Share/00-Brand-Core/Language-Rules|CTS Language Rules]]
