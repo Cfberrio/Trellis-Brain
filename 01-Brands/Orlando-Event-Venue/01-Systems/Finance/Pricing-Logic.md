@@ -31,6 +31,9 @@ tags: [oev, pricing]
 - Hourly minimum booking floor: $759.
 - Daily special: $899 + $199 cleaning = $1,098.
 
+## Booking Channel
+All bookings are processed online — booking form, payments, quotes, and invoices are fully online. No in-person or phone-only payment paths.
+
 ## Pricing Function
 Pricing should screen for buyers who need a real venue outcome, not a free or ultra-cheap room.
 
@@ -52,5 +55,15 @@ Bar service is a first-class upsell available for all private events. Quoted and
 | Bespoke Bar | $39.63 |
 
 **Quoting rule:** Multiply selected package rate × confirmed guest count. Add as a separate line item on the invoice.
-**Discount rule:** Bar service packages are excluded from multi-day and corporate discounts.
+**Discount rule:** Bar service packages are excluded from all discounts including non-profit.
 **Sequencing rule:** Present bar service after the client confirms booking type and guest count — not before fit is established.
+
+## Discount Rules
+
+| Discount | Amount | Applies to | Condition |
+|---|---|---|---|
+| Multi-day workshop | 25% off | Base rental only | 2–3 day booking |
+| Large / repeat corporate | Up to 50% off | Base rental only | Management approval required |
+| Non-profit | 50% off | Base rental only | Monday–Friday bookings only; proof of non-profit status required |
+
+**Global discount rule:** Discounts apply to base rental only. Never apply to cleaning fee, AV packages, bar service, setup & breakdown, tablecloths, or any other add-on.

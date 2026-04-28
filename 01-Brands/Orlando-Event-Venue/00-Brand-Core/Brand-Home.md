@@ -76,7 +76,12 @@ The practical offer stack is:
 - a simple pricing entry point,
 - optional production packages for AV / LED / streaming,
 - optional execution add-ons for convenience,
+- bar service as a first-class paid add-on (coordinated by OEV),
 - a deposit-first booking path that turns interest into commitment quickly.
+
+All bookings, payments, and invoices are processed fully online.
+
+Non-profits receive 50% off base rental on Monday–Friday bookings.
 
 ## Primary Commercial Logic
 The base economics only work when the lead can afford the true minimum booking threshold, accepts the operational rules, and has a real event date that creates urgency. That means OEV should not chase low-intent room shoppers; it should qualify fast and move good-fit leads into quote clarity, deposit collection, and add-on selection.

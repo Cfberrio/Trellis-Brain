@@ -39,3 +39,6 @@ A qualified OEV lead:
 
 ## Bar Service — Not a Disqualifier
 A lead asking about alcohol or bar service is not a low-quality signal. It is a bar service upsell opportunity. Route to bar package selection after fit is confirmed. See [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/OEV-Beverage-Menu|OEV Beverage Menu]].
+
+## Non-Profit Leads
+Non-profits are qualified leads. They are eligible for 50% off base rental on Monday–Friday bookings. Confirm non-profit status before applying the discount. Discount does not apply to add-ons, cleaning fee, or bar service.

@@ -279,12 +279,15 @@ Use for tours, inquiries, quote follow-up, and sales clarification.
 - Bar service — Bespoke Bar: $39.63/guest
 
 ### Discount rule
-Discount applies to base rental only.  
-It does **not** apply to AV, cleaning, beverage service, or other add-ons unless explicitly approved.
+Discount applies to base rental only. Never applies to cleaning fee, AV, bar service, or any add-on.
 
-### Multi-day reference
+### Discount reference
 - 2–3 day workshop: 25% off base rental
-- large/repeat multi-date corporate: up to 50% off base rental with management approval
+- Large / repeat corporate: up to 50% off base rental (management approval required)
+- Non-profit: 50% off base rental — Monday–Friday bookings only; proof of non-profit status required
+
+### Booking channel
+All bookings, payments, and invoices are processed online.
 
 ---
 
