@@ -45,3 +45,7 @@ hub_role: system-home
 
 ## Pricing rule
 Custom Styled Package should not be presented as standardized self-serve pricing.
+
+
+## Related
+- [[Tech-Sheets-Home]]

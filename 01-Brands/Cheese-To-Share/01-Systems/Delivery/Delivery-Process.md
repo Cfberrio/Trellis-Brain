@@ -36,3 +36,7 @@ CTS delivery logic is not one system. It has:
 - dependent on package type
 - dependent on setup complexity
 - tied to deposit and final payment rules
+
+
+## Related
+- [[Recipes-Home]]
