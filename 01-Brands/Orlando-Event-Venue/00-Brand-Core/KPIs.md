@@ -46,6 +46,8 @@ tags: [oev, kpis]
 ## Economics KPIs
 - Average booking value.
 - Add-on attach rate.
+- Bar service attach rate (% of private event bookings that include a bar package).
+- Bar package distribution (which package — House / Essential / Signature / Bespoke — is selected most).
 - Gross margin per booking.
 
 ## Weekly North-Star Five

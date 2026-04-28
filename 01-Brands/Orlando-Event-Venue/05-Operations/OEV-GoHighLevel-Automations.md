@@ -87,6 +87,31 @@ Confirmed details:
 
 ---
 
+### 5. Bar Service Vendor Assignment Notification *(to be built)*
+**What it does:** Notifies the bar service vendor (a GHL staff account, third-party in reality) when they are assigned to a booking. Mirrors cleaning staff assignment pattern exactly.
+
+**Trigger:** `oev_bar_vendor_assigned` field changes from empty → vendor selected by admin.
+
+**Actions:**
+1. Email to bar vendor → event date, time window, package, guest count, client name, venue address
+2. SMS to bar vendor → short assignment confirmation with date and time
+3. Auto-create task in GHL assigned to bar vendor: **"Contact client — [client first name] — [event date]"**
+
+**Vendor access:** Bar vendor has a limited account in the **Staff Dashboard** (custom built) — not a GHL user account. They see only their assigned bookings and their task queue. They cannot see the pipeline, other clients, or payment records. GHL fires the notification; the Staff Dashboard is where the vendor operates.
+
+**Customer Contacted label/task:**
+- GHL auto-creates a task in the Staff Dashboard assigned to the bar vendor: "Contact client — [client name] — [event date]" — due 24 hours after assignment
+- Vendor logs into Staff Dashboard, sees the task, contacts the client, marks it complete
+- Task completion → GHL trigger fires → field `oev_bar_customer_contacted` flips to `true` → syncs to Admin Dashboard
+- Admin sees on the booking record: **`✓ Customer Contacted`** (green) or **`⚠ Awaiting Vendor Contact`** (yellow)
+- This label is the coordination confirmation signal. Admin does not need to manually verify.
+
+**Pre-Event Ready gate:** Booking cannot advance to `Pre-Event Ready` in the Admin Dashboard if `oev_bar_package ≠ None` and `oev_bar_customer_contacted = false`.
+
+**Certainty level:** Pattern derived from cleaning staff assignment system. Field names, task bridge between GHL and Staff Dashboard, and trigger logic need confirmation against the actual build.
+
+---
+
 ## Notes on Certainty
 
 **Confirmed from user:**

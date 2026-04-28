@@ -29,7 +29,7 @@ tags: [oev, objections]
 1. The total feels expensive after cleaning and production are added.
 2. The rules feel strict and carry penalty risk.
 3. A/V sounds complicated or expensive.
-4. The alcohol policy may not fit the event.
+4. The client asks about alcohol or bar service → this is not an objection; it is a bar service upsell opportunity. Response: "Bar service is available as an add-on — we handle the coordination. Packages start at $18/guest. Want me to include that in your quote?"
 5. Setup and reset feel like too much work.
 
 ## Handling Principle

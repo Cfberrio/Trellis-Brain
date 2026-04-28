@@ -7,7 +7,7 @@ note_type: canonical
 status: active
 source: curated + oev-dna-pdf
 canonical: true
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 used_for_ai: true
 sensitivity: internal
 hub_role: child
@@ -50,11 +50,30 @@ This tool should represent the execution truth of OEV, which includes:
 - event schedule,
 - room setup requirements,
 - production package needs,
-- staffing assignment,
-- alcohol/compliance boundaries,
+- staffing assignment (internal staff and external vendors — bar vendor is treated as staff),
+- bar service coordination status (vendor assigned + customer contacted),
 - pre-event readiness,
 - incident logging,
 - inspection and post-event closeout.
+
+## Bar Service Vendor — Staff Account Model
+The bar service vendor is a third party but is managed inside the Staff Dashboard as a staff account — identical in structure to cleaning staff.
+
+**Account type:** Limited access staff. The vendor can only see bookings they are assigned to and their own task queue. They cannot see the pipeline, other clients, or payment data.
+
+**Their view shows per assigned booking:**
+- Event date and time window
+- Bar package selected
+- Guest count
+- Client name (phone visible on event day only)
+- Task status: Open / Complete
+
+**The coordination task:** When admin assigns the bar vendor to a booking, a task is automatically created in their Staff Dashboard view:
+```
+Task: Contact client — [Client Name] — [Event Date]
+Due: 24 hours after assignment
+```
+The vendor contacts the client to confirm bar service details, then marks the task complete. This flips the `bar_customer_contacted` flag to true on the admin side — the label changes to `✓ Customer Contacted`. Admin does not need to manually verify; the label is the confirmation signal.
 
 ## What The Staff Dashboard Must Make Clear
 
@@ -117,6 +136,16 @@ This should answer:
 - whether tech staffing is required,
 - what testing has to happen before guest arrival,
 - whether there is any high-risk technical dependency.
+
+### E. Bar Service Layer
+When a bar package is selected, a dedicated bar service section must be visible on the event card:
+
+- bar package selected (House Beer & Wine / Essential / Signature / Bespoke)
+- guest count for bar
+- bar vendor assigned (name)
+- customer contacted status: `⚠ Awaiting Vendor Contact` or `✓ Customer Contacted`
+
+**Pre-Event Ready gate:** If `bar_package ≠ None` and `bar_customer_contacted = false`, the event cannot advance to Pre-Event Ready. The gate is shown as a blocking item in the readiness checklist.
 
 Suggested package logic:
 - No Production
@@ -215,7 +244,8 @@ Each event should have these blocks available to staff:
 - special notes
 
 ### Compliance / Constraint Flags
-- alcohol fit
+- bar service package selected (None / House Beer & Wine / Essential / Signature / Bespoke)
+- bar vendor assigned yes/no
 - occupancy fit
 - décor restrictions
 - timing restrictions
@@ -225,6 +255,7 @@ Each event should have these blocks available to staff:
 - event owner
 - setup owner
 - tech owner
+- bar service vendor (assigned when `oev_bar_package ≠ None`; triggers vendor notification via GHL on assignment)
 - inspection owner
 
 ### Closeout Fields

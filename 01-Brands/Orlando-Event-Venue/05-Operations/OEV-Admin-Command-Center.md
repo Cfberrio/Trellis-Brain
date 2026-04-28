@@ -7,7 +7,7 @@ note_type: canonical
 status: active
 source: curated + public-site + oev-dna-pdf
 canonical: true
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 used_for_ai: true
 sensitivity: internal
 hub_role: child
@@ -92,10 +92,11 @@ What has to be true for an event to move from “won” to “safe to execute”
 - client fit is confirmed,
 - date/time are locked,
 - guest count is valid,
-- alcohol fit is confirmed,
+- bar service package confirmed (or confirmed as None),
+- bar service vendor assigned if package is selected (vendor notified via GHL trigger),
 - package/add-on needs are clear,
 - final payment plan is clear,
-- staff assignment is done,
+- cleaning staff assigned,
 - inspection flow is ready,
 - review capture path exists.
 
@@ -176,10 +177,33 @@ Core fields:
 - deposit due,
 - deposit paid,
 - balance due,
-- add-ons selected,
+- all services selected (each rendered as a conditional line item — only appears if selected),
+- bar service package + subtotal (if selected),
 - booking value,
 - payment status,
 - follow-up owner.
+
+**Invoice structure — all services as conditional line items:**
+```
+BASE RENTAL
+  [Hourly / Daily] Rental      [X] hrs × $140.00       $[amount]
+  Cleaning Fee                                           $199.00
+
+SERVICES                          (only render if selected)
+  AV — [Package Name]          [X] hrs × $[rate]        $[amount]
+  Setup & Breakdown                                      $100.00
+  Tablecloth Rental             [qty] × $5 + $25 clean  $[amount]
+  Beverage Station (non-alc.)   [guests] × $6.00        $[amount]
+  Bar Service — [Package Name]  [guests] × $[rate]      $[amount]
+
+  Subtotal                                              $[sum]
+  Processing Fee (3.5%)                                 $[fee]
+  ─────────────────────────────────────────────────────
+  TOTAL                                                 $[total]
+  Deposit Paid (50%)                                    $[amount]
+  Balance Due                                           $[amount]
+```
+No line renders at $0. If a service was not selected, it does not appear on the invoice at all.
 
 ### E. Event Readiness Queue
 This should be the admin bridge into staff operations.
@@ -196,10 +220,23 @@ Status suggestion:
 - Awaiting Deposit
 - Awaiting Final Payment
 - Awaiting Package Confirmation
-- Awaiting Staff Assignment
+- Awaiting Staff Assignment (includes bar vendor assignment when package is selected)
+- Awaiting Vendor Contact (bar package selected, vendor assigned, but `bar_customer_contacted = false`)
 - Ready For Ops
 - Day-Of Active
 - Post-Event Review Pending
+
+**Bar service coordination label — on each booking card:**
+- `⚠ Awaiting Vendor Contact` — vendor assigned but task not yet complete
+- `✓ Customer Contacted` — vendor marked task complete; coordination confirmed
+
+**Pre-Event Ready gate for bar service:**
+A booking cannot move to Pre-Event Ready if `bar_package ≠ None` and `bar_customer_contacted = false`. Admin sees:
+```
+⛔ Cannot move to Pre-Event Ready.
+   Bar service selected but vendor contact not confirmed.
+   → Ensure bar vendor is assigned and has contacted the client.
+```
 
 ## Website Layer — What Admin Needs To Know
 This command center must include a condensed operational understanding of the main website, because the site is not just a marketing asset. It is the **front door of qualification and expectation setting**.
@@ -297,9 +334,12 @@ Contains:
 - event type,
 - booked date/time,
 - core rental structure,
-- add-ons,
+- add-ons (all services selected: AV package, setup/breakdown, tablecloths, beverage station, bar service),
+- bar service package and guest count (if selected),
+- bar vendor assigned (name + GHL user),
+- bar customer contacted status (`oev_bar_customer_contacted` — toggled by vendor),
 - payment status,
-- staffing status,
+- staffing status (cleaning staff + bar vendor),
 - readiness status,
 - event closeout status.
 

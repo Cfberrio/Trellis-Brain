@@ -11,7 +11,7 @@ source_type: curated
 owner: Luis
 sensitivity: internal
 hub_role: leaf
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 tags:
   - OEV
   - communication
@@ -252,7 +252,8 @@ Use whenever rules need to be stated clearly.
 - maximum occupancy: 90 guests
 - setup and breakdown must stay within booking window
 - late cleanup fee: $200/hour
-- no alcohol, drugs, smoking, pets, glitter, confetti, or rice
+- bar service is available as a paid add-on; no outside alcohol or outside bartenders permitted
+- no drugs, smoking, pets, glitter, confetti, or rice
 - no nails, staples, residue tape, or open flames unless pre-approved
 
 ### Important note
@@ -271,7 +272,11 @@ Use for tours, inquiries, quote follow-up, and sales clarification.
 - Processing fee: 3.5% per transaction
 - AV/Production basic: $79/hour
 - LED screen production: $99/hour
-- Beverage station: $6/person/day
+- Beverage station (non-alcoholic): $6/person/day
+- Bar service — House Beer & Wine: $18/guest
+- Bar service — Essential Bar: $25.63/guest
+- Bar service — Signature Bar: $32.13/guest
+- Bar service — Bespoke Bar: $39.63/guest
 
 ### Discount rule
 Discount applies to base rental only.  
@@ -319,6 +324,13 @@ Rules:
 - stack value with price
 - always give a next step
 
+**Bar service inquiry response (use when client asks about alcohol):**
+```
+Bar service is available as a paid add-on — we handle the coordination.
+Packages start at $18/guest. Want me to include that in your quote?
+```
+Never respond to alcohol questions with: "We don't allow alcohol" / "Beer and wine only" / "No liquor" / "No alcohol."
+
 ### 2. Confirmation communication
 Goal:
 - reduce uncertainty
@@ -332,6 +344,18 @@ Rules:
 - explain what comes next
 - remind them access instructions come later
 
+**Bar service block — add to Booking Confirmed email if `oev_bar_package ≠ None`:**
+```
+BAR SERVICE
+Package:  [oev_bar_package]
+Guests:   [oev_bar_guest_count]
+Total:    $[oev_bar_subtotal]
+
+No outside alcohol or outside bartenders permitted.
+Our bar service coordinator will contact you to confirm details.
+```
+If no bar package was selected, this block does not appear. Do not reference bar service at all.
+
 ### 3. Reminder communication
 Goal:
 - keep the event moving smoothly
@@ -343,6 +367,13 @@ Rules:
 - reminder SMS should be short and action-driven
 - if urgency is low, keep reminder email-only
 - if urgency is high, use email + SMS
+
+**7-Day Reminder — bar service conditional line (add to venue rules section if `oev_bar_package ≠ None`):**
+```
+Bar service is included in your booking. No outside alcohol
+or outside bartenders permitted.
+```
+Do not include this line if no bar package was selected.
 
 ### 4. Payment communication
 Goal:

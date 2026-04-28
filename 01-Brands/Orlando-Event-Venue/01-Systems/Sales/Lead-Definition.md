@@ -31,9 +31,11 @@ A qualified OEV lead:
 - and has a real event reason where failure is costly.
 
 ## Unqualified or Low-Quality Lead Signals
-- wants liquor when policy forbids it,
 - exceeds capacity,
 - only wants the cheapest possible room,
 - resists rules strongly,
 - has no date seriousness,
 - refuses the minimum economics.
+
+## Bar Service — Not a Disqualifier
+A lead asking about alcohol or bar service is not a low-quality signal. It is a bar service upsell opportunity. Route to bar package selection after fit is confirmed. See [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/OEV-Beverage-Menu|OEV Beverage Menu]].

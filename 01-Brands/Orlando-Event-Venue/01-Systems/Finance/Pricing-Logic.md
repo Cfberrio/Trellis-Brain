@@ -40,3 +40,17 @@ Pricing should screen for buyers who need a real venue outcome, not a free or ul
 - Workshop package: $149/hr.
 - Setup & breakdown: $100 flat.
 - Tablecloth rental: $5 each + $25 cleaning.
+
+## Bar Service Pricing (per guest)
+Bar service is a first-class upsell available for all private events. Quoted and invoiced per guest count confirmed at booking.
+
+| Package | Price/Guest |
+|---|---|
+| House Beer & Wine | $18.00 |
+| Essential Bar | $25.63 |
+| Signature Bar (Most Popular) | $32.13 |
+| Bespoke Bar | $39.63 |
+
+**Quoting rule:** Multiply selected package rate × confirmed guest count. Add as a separate line item on the invoice.
+**Discount rule:** Bar service packages are excluded from multi-day and corporate discounts.
+**Sequencing rule:** Present bar service after the client confirms booking type and guest count — not before fit is established.

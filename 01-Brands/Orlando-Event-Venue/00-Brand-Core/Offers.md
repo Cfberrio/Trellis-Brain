@@ -40,6 +40,7 @@ Corporate Ready Room. Base venue rental with furniture, prep kitchen, bathrooms,
 - Setup & breakdown
 - Tablecloth rental
 - Security when required
+- Bar Service (see OEV-Beverage-Menu): House Beer & Wine ($18/guest), Essential Bar ($25.63/guest), Signature Bar ($32.13/guest), Bespoke Bar ($39.63/guest). Present as "Bar service, handled." — OEV coordinates, client selects package and pays at booking.
 
 ### Continuity
 Corporate Calendar Membership / recurring room-time structure for repeat business.

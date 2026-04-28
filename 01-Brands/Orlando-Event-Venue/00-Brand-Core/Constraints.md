@@ -28,7 +28,7 @@ tags: [oev, constraints]
 ## Hard Constraints
 - Maximum capacity: 90 guests.
 - Hourly bookings require a 4-hour minimum.
-- Beer and wine only; no liquor.
+- Bar service is available as a paid add-on for all private events. OEV coordinates the service; the client selects a package and pays as part of the booking. No outside alcohol or outside bartenders permitted.
 - Technical equipment usage requires the relevant production package.
 - Setup and breakdown expectations must be accepted.
 - The buyer must fit the minimum economics.
