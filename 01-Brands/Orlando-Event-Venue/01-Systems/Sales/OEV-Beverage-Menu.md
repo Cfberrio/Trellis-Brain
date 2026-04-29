@@ -99,6 +99,40 @@ A premium, fully customized bar experience tailored to your specific vision.
 
 ---
 
+---
+
+### Additional Bar Hour — $5 / guest
+Extend your bar service by one hour beyond the included package time.
+
+**Includes:**
+- 1 additional hour of professional bartender service
+- Continued use of the full bar setup already in place
+- Continued beverage service — same mixers, garnishes, and non-alcoholic options from your package
+- No additional bar setup or breakdown required
+
+**Price Breakdown:**
+
+| Component | Amount |
+|---|---|
+| Extended Bartender Service | $4.27 |
+| Card Fee | $0.73 |
+| **Total** | **$5.00 / guest** |
+
+**Rules:**
+- Available as an add-on to any bar package (Essential, Signature, or Bespoke).
+- Not available as a standalone option — requires an active bar package.
+- Must be confirmed at booking. Day-of extensions are subject to bartender availability and are not guaranteed.
+- Quoted and invoiced per confirmed guest count, same as the base package.
+
+**Quoting example — 50 guests, Signature Bar + 1 additional hour:**
+- Bar package: 50 × $32.13 = $1,606.50
+- Additional hour: 50 × $5.00 = $250.00
+- Total bar service: $1,856.50
+
+**Invoice line item:** `Bar Service — Signature Bar + 1 Additional Hour`
+
+---
+
 ## Quoting Logic
 
 After fit is confirmed and guest count is locked, present bar service as an add-on.

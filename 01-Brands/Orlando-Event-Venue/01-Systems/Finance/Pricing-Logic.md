@@ -53,6 +53,7 @@ Bar service is a first-class upsell available for all private events. Quoted and
 | Essential Bar | $25.63 |
 | Signature Bar (Most Popular) | $32.13 |
 | Bespoke Bar | $39.63 |
+| Additional Bar Hour (add-on) | $5.00 |
 
 **Quoting rule:** Multiply selected package rate × confirmed guest count. Add as a separate line item on the invoice.
 **Discount rule:** Bar service packages are excluded from all discounts including non-profit.
