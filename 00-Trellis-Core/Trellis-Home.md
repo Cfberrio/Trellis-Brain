@@ -158,7 +158,7 @@ Trellis-Brain/
 ### Core Notes
 - [[00-Trellis-Core/Routing-Rules|Routing Rules]]
 - [[00-Trellis-Core/Metadata-Standard|Metadata Standard]]
-- *(Hormozi strategy models — deferred, not yet in vault)*
+- [[00-Trellis-Core/Strategy-Models/Strategy-Models-Home|Strategy Models Home]]
 
 ### Brand Hubs
 - [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|Cheese To Share — Brand Home]]
