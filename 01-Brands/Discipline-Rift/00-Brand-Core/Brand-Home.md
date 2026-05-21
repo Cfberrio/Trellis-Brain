@@ -23,14 +23,17 @@ hub_role: brand-hub
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition|DR Value Proposition]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Objections|DR Objections]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Constraints|DR Constraints]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Opportunities|DR Opportunities]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/KPIs|DR KPIs]]
 - [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home|DR Sales Home]]
 - [[01-Brands/Discipline-Rift/06-DNA/DNA-Home|DR DNA Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
 - [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+- [[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home|DRF Home (franchise/licensee)]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/06-DNA/Market|DR Market]]
@@ -38,12 +41,14 @@ hub_role: brand-hub
 - [[01-Brands/Discipline-Rift/06-DNA/Offer|DR Offer]]
 - [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
 - [[01-Brands/Discipline-Rift/06-DNA/Funnel|DR Funnel]]
+- [[01-Brands/Discipline-Rift/06-DNA/Lead|DR Lead]]
+- [[01-Brands/Discipline-Rift/06-DNA/Conversion|DR Conversion]]
+- [[01-Brands/Discipline-Rift/06-DNA/Money-Model|DR Money Model]]
 - [[01-Brands/Discipline-Rift/06-DNA/Metrics|DR Metrics]]
 
 ## Deferred Systems
 These systems are planned for DR but notes do not yet exist. Do not link from active routing until built.
 - Marketing-Home — DR marketing system hub
-- Sales-Home — DR sales process hub
 - Onboarding-Process — parent and student onboarding
 - Delivery-Process — session delivery
 - Retention-Strategy — retention and re-enrollment

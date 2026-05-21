@@ -165,7 +165,7 @@ Trellis-Brain/
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|Discipline Rift — Brand Home]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue — Brand Home]]
 - [[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home|Reliable Venues — Brand Home]]
-- *(Trellis Fields — deferred, brand folder does not yet exist)*
+- [[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home|Trellis Fields — Brand Home]]
 
 If these exact note names change, this page must be updated immediately.
 

@@ -47,6 +47,7 @@ Hormozi is a shared reference domain. It is not a brand. It does not store voice
 - [[12-Marketing-Machine/00-Book-Home|Marketing Machine — Book Home]]
 - [[13-Pricing/00-Book-Home|Pricing — Book Home]]
 - [[14-Retention/00-Book-Home|Retention — Book Home]]
+- [[15-Closing/00-Book-Home|Closing — Book Home]]
 
 ## Not Yet Extracted
 - 100M Leads (slot `02-` reserved by numbering convention; folder not created).
