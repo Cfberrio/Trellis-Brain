@@ -14,20 +14,20 @@ sensitivity: internal
 related_systems:
   - ghl
 related_notes:
-  - "[[../../05-Operations/SOPs/Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]]"
+  - "[[../05-Operations/SOPs/Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]]"
 hub_role: leaf
 ---
 
 # Practice Cancellation Workflow — Log + Recording
 
 ## Parent
-- [[../../05-Operations/SOPs/Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]]
+- [[../05-Operations/SOPs/Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]]
 
 ## Related
-- [[../../02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|GHL Marketing + Registration Automations]]
+- [[../02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|GHL Marketing + Registration Automations]]
 
 ## Purpose
-Captured workflow log from a real practice cancellation event. Source of the canonical [[../../05-Operations/SOPs/Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]].
+Captured workflow log from a real practice cancellation event. Source of the canonical [[../05-Operations/SOPs/Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]].
 
 ## Source
 SyncUp recording — Luis Torres + Yassine Mossadek. Practice cancellation due to weather (lightning/rain) for two schools.

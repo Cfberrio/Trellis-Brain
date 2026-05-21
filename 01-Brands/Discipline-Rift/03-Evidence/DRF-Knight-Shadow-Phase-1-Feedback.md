@@ -13,21 +13,21 @@ last_updated: 2026-05-21
 sensitivity: internal
 related_systems: []
 related_notes:
-  - "[[../../04-Projects/DRF/Avatar-DRF|DRF Operator Avatar]]"
-  - "[[../../04-Projects/DRF/Funnel-DRF|DRF Funnel]]"
-  - "[[../../04-Projects/DRF/Improvement-Log-DRF-Phase-1|DRF Phase 1 Improvement Log]]"
+  - "[[../04-Projects/DRF/Avatar-DRF|DRF Operator Avatar]]"
+  - "[[../04-Projects/DRF/Funnel-DRF|DRF Funnel]]"
+  - "[[../04-Projects/DRF/Improvement-Log-DRF-Phase-1|DRF Phase 1 Improvement Log]]"
 hub_role: leaf
 ---
 
 # DRF Knight Shadow Day Phase 1 — Raw Feedback
 
 ## Parent
-- [[../../04-Projects/DRF/DRF-Home|DRF Home]]
+- [[../04-Projects/DRF/DRF-Home|DRF Home]]
 
 ## Related
-- [[../../04-Projects/DRF/Avatar-DRF|DRF Operator Avatar]]
-- [[../../04-Projects/DRF/Funnel-DRF|DRF Funnel]]
-- [[../../04-Projects/DRF/Improvement-Log-DRF-Phase-1|Improvement Log Phase 1]]
+- [[../04-Projects/DRF/Avatar-DRF|DRF Operator Avatar]]
+- [[../04-Projects/DRF/Funnel-DRF|DRF Funnel]]
+- [[../04-Projects/DRF/Improvement-Log-DRF-Phase-1|Improvement Log Phase 1]]
 
 ## Purpose
 Verbatim student responses across 6 stages of the DRF funnel during Knight Shadow Day pilot. 5 UCF students assumed the role of future DRF licensees and reviewed each touchpoint.

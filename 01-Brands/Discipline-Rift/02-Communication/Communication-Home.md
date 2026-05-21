@@ -8,7 +8,7 @@ used_for_ai: true
 source_type: curated
 sensitivity: internal
 hub_role: communication-hub
-last_updated: 2026-04-23
+last_updated: 2026-05-21
 ---
 
 # Discipline Rift — Communication Home
@@ -18,12 +18,17 @@ last_updated: 2026-04-23
 
 ## Children
 - [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]]
-
 - [[01-Brands/Discipline-Rift/02-Communication/DR-Script-Evaluation-Context|DR Script Evaluation Context]]
+- [[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library|DR Marketing Language Library]]
+- [[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|DR GoHighLevel Marketing + Registration Automations]]
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]]
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]]
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates|School Outreach Email Templates]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]
+- [[01-Brands/Discipline-Rift/03-Evidence/School-Outreach-AI-Feedback-Synthesis|School Outreach AI Feedback Synthesis]]
 
 ## Purpose
 Hub for all Discipline Rift communication rules, email templates, and messaging patterns across parent-facing, coach-facing, and internal channels.

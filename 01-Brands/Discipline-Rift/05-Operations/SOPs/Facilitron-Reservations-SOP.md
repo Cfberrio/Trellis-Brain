@@ -21,10 +21,11 @@ hub_role: leaf
 # Facilitron Reservations SOP
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/SOPs|DR SOPs]]
-- [[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public|Public Schools Outreach SOP]]
+- [[SOPs-Home|DR SOPs Home]]
 
 ## Related
+- [[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public|Public Schools Outreach SOP]]
+
 - [[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec|GHL CRM Pipeline Spec]]
 
 ## Purpose

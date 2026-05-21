@@ -27,6 +27,7 @@ hub_role: system-hub
 - [[Avatar-DRF|DRF Operator Avatar]]
 - [[Funnel-DRF|DRF Licensee Acquisition Funnel]]
 - [[Improvement-Log-DRF-Phase-1|Phase 1 Improvement Log (Knight Shadow Day)]]
+- [[RSO-Project-Play-UCF|Project Play UCF — RSO coach pipeline]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]

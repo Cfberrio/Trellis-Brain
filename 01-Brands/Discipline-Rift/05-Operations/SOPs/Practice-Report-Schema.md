@@ -22,7 +22,7 @@ hub_role: leaf
 # Practice Report + Injury Form Schema
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/SOPs|DR SOPs]]
+- [[SOPs-Home|DR SOPs Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home|DR Parent App Home]]

@@ -166,6 +166,7 @@ Trellis-Brain/
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue — Brand Home]]
 - [[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home|Reliable Venues — Brand Home]]
 - [[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home|Trellis Fields — Brand Home]]
+- [[01-Brands/Cross-Brand/Cross-Brand-Home|Cross-Brand — Home]] (meetings, AI-systems, founder-admin, references — cross-cutting content)
 
 If these exact note names change, this page must be updated immediately.
 

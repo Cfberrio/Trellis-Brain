@@ -49,16 +49,23 @@ OEV is positioned first as a professional, logistics-safe venue for corporate ga
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]
 - [[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home|OEV Communication Home]]
+- [[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|OEV DNA Home]]
+- [[01-Brands/Orlando-Event-Venue/04-Projects/Venue-Partnerships/Partnerships-Home|OEV Venue Partnerships]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation|OEV Source Reconciliation]]
+
+## Recently Activated (2026-05-21)
+- [[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|DNA Home]] — full 11-section strategic skeleton (Market / Offer / Money-Model / Lead / Conversion / Fulfillment / Retention / Metrics / Scale / Referral-System)
+- [[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Post-Booking-Email-Sequence|Post-Booking Email Sequence]] — 10-step canonical email + SMS sequence (deposit → review)
+- [[01-Brands/Orlando-Event-Venue/05-Operations/SOPs/Sales-Training-Teacher-Guide|Sales Training Teacher Guide]] + [[01-Brands/Orlando-Event-Venue/05-Operations/SOPs/Sales-Trainee-Guide|Sales Trainee Guide]]
+- [[01-Brands/Orlando-Event-Venue/04-Projects/Venue-Partnerships/Partnerships-Home|Venue Partnerships]] — active partnerships hub (5th Floor, Eric/Samantha, CIG)
 
 ## Deferred Systems
 These systems are planned for OEV but notes do not yet exist. Do not link from active routing until built.
 - Marketing-Home — OEV marketing system hub
-- Onboarding-Process — client onboarding flow
-- Delivery-Process — event day delivery
-- Retention-Strategy — post-event retention
+- Onboarding-Process — operational details live in [[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment|Fulfillment DNA]] until SOP authored
+- Delivery-Process — see [[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment|Fulfillment DNA]]
+- Retention-Strategy — see [[01-Brands/Orlando-Event-Venue/06-DNA/Retention|Retention DNA]]
 - Website-Current-State — current website state documentation
-- DNA-Home — OEV has no 06-DNA folder yet; create when DNA layer is built out
 - OEV-Dashboard-Summary, OEV-Staff-Dashboard-Summary — operations dashboard notes (Tools/ folder does not exist; check against OEV-Admin-Command-Center and OEV-Staff-Operations-Console)
 
 ## Related

@@ -4,18 +4,22 @@ area: dna
 domain: opportunities
 note_type: canonical
 status: active
+canonical: true
 used_for_ai: true
 owner: Luis Torres
+last_updated: 2026-05-21
+sensitivity: internal
+hub_role: child
 ---
-# Opportunities
 
+# RV DNA Opportunities
 
 ## Parent
-- [[DNA-Home]]
+- [[01-Brands/Reliable-Venues/06-DNA/DNA-Home|RV DNA Home]]
 
 ## Related
-- [[Opportunities]]
-- [[Case-Studies-Page]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Opportunities|RV Brand-Core Opportunities]]
+- [[01-Brands/Reliable-Venues/03-Evidence/OEV-Case-Study|OEV Case Study]]
 
 ## DNA Opportunities
 - sharpen guarantee/performance framing if desired

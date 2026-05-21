@@ -4,18 +4,22 @@ area: dna
 domain: constraints
 note_type: canonical
 status: active
+canonical: true
 used_for_ai: true
 owner: Luis Torres
+last_updated: 2026-05-21
+sensitivity: internal
+hub_role: child
 ---
-# Constraints
 
+# RV DNA Constraints
 
 ## Parent
-- [[DNA-Home]]
+- [[01-Brands/Reliable-Venues/06-DNA/DNA-Home|RV DNA Home]]
 
 ## Related
-- [[Brand-Home]]
-- [[Website-Technical-Documentation]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home|RV Brand Home]]
+- [[01-Brands/Reliable-Venues/03-Evidence/Website-Technical-Documentation|Website Technical Doc]]
 
 ## DNA Constraints
 - current proof is more qualitative than quantitative

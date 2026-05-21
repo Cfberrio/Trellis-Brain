@@ -25,7 +25,6 @@ hub_role: leaf
 
 ## Related
 - [[../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]
-- [[../00-Brand-Core/Language-Rules|DR Language Rules]]
 - [[../06-DNA/Message|DR Message]]
 - [[../00-Brand-Core/Positioning|DR Positioning]]
 

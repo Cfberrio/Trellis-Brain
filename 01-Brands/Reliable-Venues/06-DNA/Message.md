@@ -4,19 +4,23 @@ area: dna
 domain: messaging
 note_type: canonical
 status: active
+canonical: true
 used_for_ai: true
 owner: Luis Torres
+last_updated: 2026-05-21
+sensitivity: internal
+hub_role: child
 ---
-# Message
 
+# RV Message — DNA
 
 ## Parent
-- [[DNA-Home]]
+- [[01-Brands/Reliable-Venues/06-DNA/DNA-Home|RV DNA Home]]
 
 ## Related
-- [[Positioning]]
-- [[Home-Page]]
-- [[About-Page]]
+- [[01-Brands/Reliable-Venues/00-Brand-Core/Positioning|RV Positioning]]
+- [[01-Brands/Reliable-Venues/06-DNA/Identity|RV Identity]]
+- [[01-Brands/Reliable-Venues/06-DNA/Sales|RV Sales]]
 
 ## Core Message
 Reliable Venues helps venues stop running on manual chaos and start running on systems.

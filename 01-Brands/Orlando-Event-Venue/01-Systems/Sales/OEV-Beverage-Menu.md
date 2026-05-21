@@ -1,7 +1,29 @@
+---
+brand: Orlando-Event-Venue
+area: systems
+subarea: sales
+note_type: reference
+status: active
+canonical: true
+used_for_ai: true
+source_type: curated
+owner: Luis Torres
+last_updated: 2026-05-21
+sensitivity: internal
+hub_role: leaf
+---
+
 # OEV Beverage Menu
 
-**Status:** Active  
-**Policy:** Bar service is available as a paid add-on for all private events. Client selects a package at booking. Admin assigns the bar service vendor to the booking from the backend — vendor receives notification (email + SMS) via GHL, same system as cleaning staff assignment. No outside alcohol or outside bartenders permitted.  
+## Parent
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
+
+## Related
+- [[01-Brands/Orlando-Event-Venue/06-DNA/Offer|OEV Offer]]
+- [[01-Brands/Orlando-Event-Venue/06-DNA/Money-Model|OEV Money Model]]
+
+**Status:** Active
+**Policy:** Bar service is available as a paid add-on for all private events. Client selects a package at booking. Admin assigns the bar service vendor to the booking from the backend — vendor receives notification (email + SMS) via GHL, same system as cleaning staff assignment. No outside alcohol or outside bartenders permitted.
 **Sales framing:** "Bar service, handled. Choose your package and we take care of the rest."
 
 ---

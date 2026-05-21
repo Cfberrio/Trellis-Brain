@@ -21,7 +21,7 @@ hub_role: leaf
 # Mass SMS via GHL SOP
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/SOPs|DR SOPs]]
+- [[SOPs-Home|DR SOPs Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|GHL Marketing + Registration Automations]]

@@ -28,7 +28,7 @@ hub_role: leaf
 - [[Language-Rules|DR Language Rules]]
 - [[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library|DR Marketing Language Library]]
 - [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
-- [[../../03-Evidence/Founder-Voice/Q&A-Weekly-Themes|Founder Q&A Weekly Themes]]
+- [[../03-Evidence/Founder-Voice/Q&A-Weekly-Themes|Founder Q&A Weekly Themes]]
 
 ## Purpose
 How DR speaks. Operative across parent communication, school outreach, coach-to-kid language, and ad copy. Distilled from Luis's authentic voice in the founder Q&A weekly series.

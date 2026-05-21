@@ -21,7 +21,7 @@ hub_role: leaf
 # Practice Cancellation Communication SOP
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/SOPs|DR SOPs]]
+- [[SOPs-Home|DR SOPs Home]]
 
 ## Related
 - [[Mass-SMS-Via-GHL-SOP|Mass SMS via GHL SOP]]

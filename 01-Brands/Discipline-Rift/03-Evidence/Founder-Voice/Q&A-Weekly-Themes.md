@@ -22,7 +22,6 @@ hub_role: leaf
 # Founder Q&A Weekly — Themes Synthesis
 
 ## Parent
-- [[../README|DR Evidence]] (folder anchor — not yet created)
 - [[../../00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Related

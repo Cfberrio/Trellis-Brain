@@ -50,4 +50,4 @@ The strategic skeleton of DR: where it plays, what pain it solves, what it sells
 9. **Delivery** — how results are produced
 10. **Metrics** — what we measure
 
-> The short notes here are strategic skeleton. Operational scripts and SOPs live under [[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home|Sales Home]] and [[01-Brands/Discipline-Rift/05-Operations/SOPs/|Operations / SOPs]].
+> The short notes here are strategic skeleton. Operational scripts and SOPs live under [[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home|Sales Home]] and [[01-Brands/Discipline-Rift/05-Operations/SOPs/SOPs-Home|Operations / SOPs Home]].

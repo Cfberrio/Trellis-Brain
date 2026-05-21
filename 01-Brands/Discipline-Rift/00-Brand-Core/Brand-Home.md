@@ -50,9 +50,18 @@ hub_role: brand-hub
 These systems are planned for DR but notes do not yet exist. Do not link from active routing until built.
 - Marketing-Home — DR marketing system hub
 - Onboarding-Process — parent and student onboarding
-- Delivery-Process — session delivery
 - Retention-Strategy — retention and re-enrollment
 - Pricing-Logic — season pricing and payment rules
+
+> Delivery-Process is no longer deferred — full SOP lives in [[01-Brands/Discipline-Rift/06-DNA/Delivery|DR Delivery DNA]] (activation point + onboarding day 0-7 + session structure + save plays + planned ascension).
+
+## Recently Activated (2026-05-21)
+- [[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home|Sales Home]] — full sales system
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone|Voice and Tone]]
+- [[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home|DRF Home]]
+- [[01-Brands/Discipline-Rift/04-Projects/DRF/RSO-Project-Play-UCF|Project Play UCF RSO]] — UCF coach pipeline + community service for DRF feeder
+- [[01-Brands/Discipline-Rift/06-DNA/Money-Model|Money Model]], [[01-Brands/Discipline-Rift/06-DNA/Lead|Lead]], [[01-Brands/Discipline-Rift/06-DNA/Conversion|Conversion]], [[01-Brands/Discipline-Rift/06-DNA/Offer|Offer (extended)]], [[01-Brands/Discipline-Rift/06-DNA/Delivery|Delivery (full Fulfillment SOP)]]
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Ad-Scripting-Playbook|Ad Scripting Playbook]] — 6 non-negotiable rules + Rebekah workflow + 35s beat structure
 
 ## One-line models
 **For parents:** Discipline Rift helps parents of kids 6–12 get their child active, confident, and connected through fun-first, on-campus after-school sports seasons led by trained coaches and designed for beginner-friendly development.

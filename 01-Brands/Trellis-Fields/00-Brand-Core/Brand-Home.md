@@ -25,6 +25,7 @@ hub_role: brand-hub
 ## Children
 - [[Content-Pillars-TF|TF Content Pillars]]
 - [[Problems-and-Solutions-TF|TF Problems and Solutions]]
+- [[On-Camera-Method|On-Camera Speaking Method]]
 - [[../06-DNA/Soils-Framework|Soils Framework]]
 - [[../06-DNA/Storytelling-Pillars|Storytelling Pillars (Hook + Build Up + Value)]]
 - [[../02-Communication/Hook-Library-TF|TF Hook Library]]
@@ -32,6 +33,9 @@ hub_role: brand-hub
 - [[../01-Systems/Marketing/CTA-Formula|CTA Formula]]
 - [[../05-Operations/Team/Team-Roles|Team Roles and Responsibilities]]
 - [[../05-Operations/Rituals/Trellis-Fruits-Weekly-Format|Trellis Fruits Weekly Format]]
+- [[../05-Operations/Skool-Methods/Lead-Magnets-Setup|Lead Magnet Setup SOP (ManyChat + Notion)]]
+- [[../05-Operations/Skool-Methods/OG-Ideas-And-Virality|OG Ideas + Virality Method]]
+- [[../05-Operations/Skool-Methods/Editing-Walkthrough|Premiere Pro Editing SOP]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
