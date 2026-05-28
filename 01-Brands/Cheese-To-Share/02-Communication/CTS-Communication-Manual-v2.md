@@ -14,7 +14,7 @@ channel_stack:
   - sms
   - GoTab
   - Toast POS
-last_updated: 2026-04-23
+last_updated: 2026-05-27
 canonical: true
 sensitivity: internal
 hub_role: leaf
@@ -45,10 +45,15 @@ This file is the canonical source of truth for all Cheese To Share customer-faci
 
 ## Canonical Contact Standard
 
-### Brand-standard email
-**info@cheesetoshare.us**
+### Brand-standard contact info
+```text
+Cheese To Share
+(407) 494-4263
+info@cheesetoshare.us
+https://www.cheesetoshare.us/
+```
 
-This is the canonical CTS communication email and should be used across:
+This is the canonical CTS contact information and should be used across:
 - website contact page
 - footer
 - catering pages
@@ -64,7 +69,7 @@ This is the canonical CTS communication email and should be used across:
 This may still appear in older systems, older signatures, or live pages that have not yet been updated. It should be treated as a legacy address, not the brand-standard address.
 
 ### Rule
-When there is a conflict between old references and newer documentation, **info@cheesetoshare.us** wins.
+When there is a conflict between old references and newer documentation, **info@cheesetoshare.us** and **(407) 494-4263** win.
 
 ---
 
@@ -140,7 +145,7 @@ Same rep, same thread. The formality adjusts to the customer's energy — not th
 Luis Torres
 Lead Representative
 Cheese To Share
-(407) 276-3234
+(407) 494-4263
 info@cheesetoshare.us
 https://www.cheesetoshare.us/
 [REVIEW US button]
@@ -505,7 +510,7 @@ Order by [deadline] for pickup through [date].
 
 [CTA button: Order Now]
 
-Questions? Just reply or call us at (407) 276-3234.
+Questions? Just reply or call us at (407) 494-4263.
 
 Talk soon,
 Luis Torres
@@ -525,7 +530,7 @@ Just a reminder — [holiday] orders close on [date].
 
 [CTA button: Order Before It's Too Late]
 
-Questions? Reply here or call (407) 276-3234.
+Questions? Reply here or call (407) 494-4263.
 
 Talk soon,
 Luis Torres
@@ -801,7 +806,7 @@ Minimum metrics to track per sequence once email automation is active.
 ## QA Checklist Before Any Communication Goes Live
 
 - Is the sender identity correct?
-- Is the signature using **info@cheesetoshare.us**?
+- Is the signature using **info@cheesetoshare.us** and **(407) 494-4263**?
 - Are date, time, and location included if relevant?
 - Are all customizations echoed back clearly?
 - Is the correct channel being used?
@@ -841,7 +846,7 @@ The goal is to make the customer feel personally taken care of.
 |---|---|---|
 | Canonical CTS email | info@cheesetoshare.us | Primary brand-standard |
 | Legacy CTS email | cheesetosharenaturalfood@gmail.com | Legacy only; not canonical |
-| CTS phone | (407) 276-3234 | Primary phone |
+| CTS phone | (407) 494-4263 | Primary phone |
 | CTS website | cheesetoshare.us | Main site |
 | GoTab | Client Success team | Catering operations |
 | Toast POS | Account/support contacts | POS / billing issues |

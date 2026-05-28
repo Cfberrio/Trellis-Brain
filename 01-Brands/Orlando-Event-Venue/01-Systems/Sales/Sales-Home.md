@@ -28,6 +28,7 @@ tags: [oev, sales-home]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules|OEV Follow-Up Rules]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Objection-Handling|OEV Objection Handling]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Closing-Logic|OEV Closing Logic]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Cold-Outreach-Playbook|OEV Cold Outreach Playbook]]
 
 ## Related
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]

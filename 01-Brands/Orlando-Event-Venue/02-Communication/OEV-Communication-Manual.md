@@ -543,3 +543,137 @@ Any change to:
 must be updated here first.
 
 This file is the communication source of truth for OEV.
+
+> [!warning] 2026-05-20 — Pricing & Policy Updates Below
+> Several values in the body of this manual are out of date. The **Update Log** at the bottom of this file is the canonical reference for: pricing, multi-day booking rules, no-deposit framing, non-profit discounts, and outdoor patio status. When reading any pricing or rule section above, cross-check against the Update Log at the bottom.
+
+
+
+---
+
+## Update Log
+
+### 2026-05-20 — Pricing reconciled to live website + new rules from Luis × Non-Profit Inquiry call
+
+Source: [[01-Brands/Orlando-Event-Venue/04-Training/Source-Calls/2026-05-20_Luis_NonProfit_Inquiry|Source Call 2026-05-20]]
+
+This block is the canonical reference. Values above in the original body that conflict with this block are stale.
+
+#### Pricing (replaces "Pricing Reference" section above)
+
+**Rental**
+- Hourly rate: **$139/hour** (was $140 — corrected)
+- Hourly minimum: 4 hours
+- Daily rate: $899/day
+- Daily access: 24-hour
+- Cleaning fee: $199/reservation
+- Processing fee: 3.5% per transaction
+
+**Production packages (per hour, added to rental)**
+- Basic A/V Package: **$89/hour** (was $79 — corrected) — AV system, microphones, speakers, projectors, tech assistant
+- LED Wall Package: $99/hour — includes Basic + stage LED wall screen
+- Workshop/Streaming Package: **$149/hour** (new) — includes Basic + LED + streaming equipment, streaming tech, live stream/record, virtual conferencing
+
+**Bar service (per guest, fully coordinated)**
+- House Beer & Wine: $18/guest
+- Essential Bar: $25.63/guest
+- Signature Bar: $32.13/guest
+- Bespoke Bar: $39.63/guest
+
+**Extras (new section)**
+- Setup & breakdown service: **$199 flat** (per reservation)
+- Tablecloth: **$5/each + $25 cleaning**
+
+**Included with every rental**
+- Main venue space
+- 90 chairs
+- 10 tables
+- Prep kitchen
+- Two bathrooms
+- Free parking
+
+**Deprecated / needs verification**
+- Beverage station (non-alcoholic) at $6/person/day — listed in body above but not currently on the website. Confirm with Luis before quoting.
+
+#### Discounts (replaces "Discount reference" subsection above)
+
+- 2–3 day workshop: 25% off base rental
+- Large / repeat corporate: up to 50% off base rental (management approval required)
+- Non-profit (weekday): 50% off base rental — Monday–Friday bookings only; proof of non-profit status required
+- Non-profit (weekend): **$199 cleaning-fee-waiver** (new from call) — for mission-aligned non-profits on Saturday/Sunday bookings; proof of non-profit status required
+
+**Pending reconciliation:** the weekday and weekend non-profit discounts are documented as separate offers. Luis to confirm whether a non-profit can stack both on a Fri–Sun multi-day booking.
+
+#### Multi-day bookings (new rule)
+
+Each day is its own reservation. A Fri+Sat+Sun booking is entered as three separate reservations, not one combined booking. The customer pays 50% per reservation to hold each date.
+
+#### Payment language rule (new — overrides any "deposit" language elsewhere)
+
+OEV does not charge "deposits." The 50% upfront payment is framed as "holding the date" or "50% to lock." Reps should never use the word "deposit" with customers. See [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules|Language Rules]] for canonical phrasing.
+
+#### Alcohol policy framing (clarifies "Bar service inquiry response" above)
+
+When explaining the no-outside-alcohol rule, reps should use the **non-profit identity frame**, not a policy frame:
+
+> "Because we are a non-profit, we're strict on alcohol. We have to stand by our principles and our structure. Beer or wine has to run through our bar service so it's done a specific way. Non-alcoholic — water, sodas — totally fine."
+
+Never say: "We don't allow alcohol." See [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules|Language Rules]].
+
+#### Outdoor patio (new — adds to Venue Rules awareness)
+
+Under construction. Permitted. Capacity 20–30 people. No photos yet. **Reps may mention as a near-future amenity but must not promise availability for current bookings.**
+
+#### Catering (clarifies — proactively surface)
+
+Zero restrictions. Customer may bring any caterer. Surface this on calls and in emails as a differentiator.
+
+#### Sales rep human-written communication
+
+For sales-rep-written calls, texts, and emails (separate from the transactional automation handled in this manual), see:
+- [[01-Brands/Orlando-Event-Venue/04-Training/Call-Communication-Approach|Call Communication Approach]]
+- [[01-Brands/Orlando-Event-Venue/04-Training/Text-and-Email-Communication-Approach|Text and Email Communication Approach]]
+
+
+### 2026-05-27 — Rules + fees reconciled to Peerspace listing; canonical schedule moved to dedicated note
+
+Source: Peerspace listing rules section (canonical 2026-05-27).
+
+The full rule + fee schedule now lives in **[[../00-Brand-Core/Rules-and-Fees|OEV Rules and Fees]]**. The "Venue Rules" section earlier in this file is **stale** — consult the dedicated note for any customer-facing rule or fee statement.
+
+#### What changed
+- **Late cleanup fee corrected:** $200/hour → **$350/hour** (Peerspace canonical).
+- **Added rules** not previously documented in this manual:
+  - No on-site cooking — prep kitchen is staging + re-heating only.
+  - Caterers require proof of liability insurance + health/safety compliance.
+  - Service animals welcome with documentation.
+  - Doors closed after 9 PM; noise sensor + camera enforcement.
+  - 50% of booked time = setup + breakdown combined; event runs in remaining 50%.
+- **Fees standardized** with explicit dollar amounts (was previously rule-only without penalty figures):
+  - $500: alcohol, drugs, smoking, occupancy overage, glitter/confetti/rice/sparklers, unauthorized cooking/caterers
+  - $400: decoration violations, damage minimum, tables/chairs not restored
+  - $350: overtime per hour, noise/9 PM violation
+  - $300: cleaning if not restored
+  - $250: pets
+- **Enforcement** now formally includes: interior + entry cameras, noise sensors, post-event review, possible event termination without refund for severe breaches.
+
+#### Channel-matrix update (matches the new [[Templates/Post-Booking-Email-Sequence|Post-Booking Email + SMS Sequence]])
+
+The post-booking flow restructured on the same date: 10 emails + 4 SMS → 4 emails + 6 SMS. Wi-Fi credentials moved to the public access page (`/accesscode`) — they rotate with the door code. PDF invoice attached by automation on payment-received emails (Step 01 + Step 03) — not surfaced in customer-facing copy. All SMS sign off with `— Orlando Event Venue Team`.
+
+Updated channel matrix:
+
+| Touchpoint | Email | SMS | Rule |
+|---|---|---|---|
+| 50% Received + Booking Under Review | ✅ | — | Receipt + soft confirmation + rules + PDF invoice (dev) |
+| Remaining 50% Due | ✅ | ✅ | Payment link in email; SMS nudge |
+| Fully Paid + Access Instructions | ✅ | — | Full access flow + entry steps + PDF invoice (dev) |
+| 30-Day Check-in | ✅ | — | Soft check-in + Guest Report link preview |
+| 7-Day Check-in | — | ✅ | Short SMS only |
+| 1-Day Access Reminder | — | ✅ | Short SMS, links to /accesscode |
+| 1-Hour Reminder | — | ✅ | Short SMS, links to /accesscode |
+| Post-Event Guest Report | — | ✅ | Short SMS, links to report URL |
+| Review Request | — | ✅ | Short SMS, links to Google review |
+
+#### How Claude should treat the original "Venue Rules" section
+The bullet list under `## Venue Rules` earlier in this file is stale. Use **[[../00-Brand-Core/Rules-and-Fees|OEV Rules and Fees]]** as the only source of truth for rules and fees.
