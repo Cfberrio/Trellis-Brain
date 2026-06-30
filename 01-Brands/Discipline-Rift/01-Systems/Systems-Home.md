@@ -78,3 +78,7 @@ This note should always stay connected to:
 - the main brand note
 
 That makes the graph show Discipline Rift as a connected operating system instead of scattered files.
+
+
+## Migration
+- [[01-Brands/Discipline-Rift/01-Systems/DR-Backend-Migration|DR Backend Migration]] — Supabase viejo → Lovable Cloud (monolito, un dominio por rutas).

@@ -18,7 +18,8 @@ hub_role: system-hub
 - [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 ## Children
-- (No active project notes yet — add `YYYY-MM-DD-<Project>.md` as they appear)
+## Children
+- [[01-Brands/Cheese-To-Share/04-Projects/2026-06-09-Uber-Eats-Sales-Analysis|2026-06-09 — Uber Eats Sales Analysis]]
 
 ## Related
 - [[01-Brands/Cheese-To-Share/06-DNA/Scale|CTS Scale]]
