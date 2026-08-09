@@ -8,7 +8,7 @@ used_for_ai: true
 source_type: curated
 sensitivity: internal
 hub_role: dna-hub
-last_updated: 2026-05-21
+last_updated: 2026-08-09
 ---
 
 # DNA Home
@@ -19,6 +19,7 @@ last_updated: 2026-05-21
 ## Children
 - [[01-Brands/Discipline-Rift/06-DNA/Market|DR Market]]
 - [[01-Brands/Discipline-Rift/06-DNA/Problem|DR Problem]]
+- [[01-Brands/Discipline-Rift/06-DNA/Problem-Map|DR Problem Map]] — the 29-problem expansion of Problem, across parents, coaches, students, and system
 - [[01-Brands/Discipline-Rift/06-DNA/Offer|DR Offer]]
 - [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
 - [[01-Brands/Discipline-Rift/06-DNA/Funnel|DR Funnel]]

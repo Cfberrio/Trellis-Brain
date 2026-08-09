@@ -6,7 +6,7 @@ status: active
 canonical: true
 used_for_ai: true
 sensitivity: internal
-last_updated: 2026-04-23
+last_updated: 2026-08-09
 ---
 
 # Problem
@@ -17,5 +17,6 @@ last_updated: 2026-04-23
 ## Related
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Positioning|DR Positioning]]
+- [[01-Brands/Discipline-Rift/06-DNA/Problem-Map|DR Problem Map]] — the full expansion: 29 problems across parents, coaches, students, and system, tagged by confidence and type
 
 The market problem is not lack of parent interest. It is friction: driving, timing, intimidation, unclear commitment, and weak beginner-fit alternatives.
