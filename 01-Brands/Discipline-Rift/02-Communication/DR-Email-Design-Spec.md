@@ -9,7 +9,7 @@ used_for_ai: true
 source_type: curated
 source_reference: "Google Drive folder 1cVCYpQE8-CS8OsZtDsQEAOZFMUirdqTj — 'DR Website - Design System & Layout Reference.md' + index.html (built homepage prototype, Jul 7 2026)"
 owner: Luis
-last_updated: 2026-08-09
+last_updated: 2026-08-10
 sensitivity: internal
 related_systems: []
 related_notes:
@@ -19,20 +19,11 @@ related_notes:
 hub_role: leaf
 ---
 
-# DR Email Design Spec
+# Discipline Rift — Email Design Spec
 
-## Parent
-- [[Communication-Home|DR Communication Home]]
+**Purpose:** Write and build marketing emails that look like they came from disciplinerift.com. This is the site design system translated into what email clients can actually render.
 
-## Related
-- [[Marketing-Language-Library|DR Marketing Language Library]]
-- [[DR-Communication-Engine|DR Communication Engine]] — merge syntax + channel rules
-- [[../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]
-- [[../06-DNA/Message|DR Message]]
-- [[Templates/Operational-Email-Library|DR Operational Email Library]]
-
-## Purpose
-Write and build marketing emails that look like they came from disciplinerift.com. This is the website design system translated into what email clients can actually render. Repo twin: `domains/content/discipline-rift/email-design-spec.md` in CLAUDE-TRELLIS.
+**Source of truth:** `DR Website - Design System & Layout Reference.md` + `index.html` (Google Drive, folder `1cVCYpQE8-CS8OsZtDsQEAOZFMUirdqTj`). Copy rules come from [website-structure.md](website-structure.md) §11 and [.agents/product-marketing-context.md](../../../.agents/product-marketing-context.md) §"WEBSITE BUILD DECISIONS — v2".
 
 **Platform:** GHL email builder. Merge syntax `{{contact.*}}` only.
 
@@ -148,9 +139,13 @@ coaches actually teach.               ← 44px / 900 / #0497F7
 Right after school.                   ← 20px / 800 / #1D1D1F
 ```
 
-Then the audience line at 14px `#6B7280`: `Elementary · K through 5th · Beginner to advanced · No transportation needed`
+Then the audience line at 14px `#6B7280`: `Elementary · K through 5th · Beginner-friendly to advanced · No transportation needed` (phrasing per §9 — "beginner-friendly to advanced")
 
 Adapt the blue line per campaign — it's a slot, not fixed copy. Keep it to **3–6 words**, and keep the surrounding white space (40px+ above and below). The sports line may be color-coded, hero-only, using the text hexes in §2.
+
+**Ruling (Luis, 2026-08-09 production run):** the brand name itself — `DISCIPLINE RIFT` — is an approved giant-word hero, rendered in the same big blue centered layout **with nothing under it**. No tagline, no subline. The wordmark moment stands alone.
+
+**Ruling (same run):** "Low cost — everything included" renders as **black text on a white background** when it appears outside the blue promo band. Never white-on-black — when a build drifts dark, the correction is always back to the white canvas.
 
 ### 5.3 Promo band (the offer container)
 Solid `#0497F7` table, 20px radius, 32px padding, white text. Holds: eyebrow → H2 in white → 2-column checklist with white ticks → 100% guarantee seal → white pill button.
@@ -243,11 +238,11 @@ Apple Mail, iOS Mail, and Outlook.com auto-invert. A white-canvas brand is exact
 
 ## 9. Copy rules that constrain the design
 
-These are hard brand rules, not preferences. They change what you can put in a layout. See [[Marketing-Language-Library]] and [[../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]].
+These are hard brand rules, not preferences. They change what you can put in a layout.
 
 - **No dollar figures. Anywhere.** A real number appears only at the payment step. Emails say **"Low cost — everything included."** This means: no price bubble, no crossed-out number, no "$X off," no price-anchor block. (The Drive design doc's §5 still shows a `$129 / season` example — that is stale and superseded by the v2 rule.)
 - **"No transportation needed"** — that exact phrasing. Never "no driving," never "no pickup." Parents still pick up.
-- **Value Guarantee wording:** "100% refund, any time during the season." Condition: "if we don't deliver the value — real teaching and real progress."
+- **Value Guarantee wording (Luis ruling — supersedes the earlier "real teaching and real progress" phrasing; see parent-email-template.md §2.8):** "Our value is teaching the skills and the passion for the sport. If we do not deliver it, you receive a 100% refund at any time during the season." Site footer still needs aligning to this wording (campaign open item 4).
 - **Teaching leads.** "We actually teach" is the anchor of every asset. Confidence, friends, and discipline are byproducts, never the promise.
 - **Banned on parent-facing emails:** *fun-first, elite, high-performance, next level, serious athlete, future champion, tryouts*, and athlete-development-as-the-central-promise.
 - **Say "beginner-friendly to advanced"** — never beginner-only.
@@ -279,6 +274,12 @@ The homepage rhythm, compressed to an email. Use 3–5 of these, not all:
 
 ---
 
+## 10.1 Subject + preview rules (Luis, 2026-08-09 production run)
+
+- **Subject style:** calendar-anchored, plain, direct question. Shipped example: `Back to school this Tuesday. Are you ready?` Curiosity-angle subjects lost to this.
+- **The after-school-gap frame** ("what fills the time after 3 PM?") is allowed in the subject or preview **as an open question only** — never in the body as fear.
+- Expect copy to compress at the design stage. Write lines that survive halving.
+
 ## 11. Pre-send checklist
 
 - [ ] One primary CTA, repeated at most twice, labeled `REGISTER`
@@ -295,18 +296,22 @@ The homepage rhythm, compressed to an email. Use 3–5 of these, not all:
 - [ ] Rendered at 600px and at 375px
 - [ ] Preheader written, not auto-pulled
 - [ ] Merge tags are `{{contact.*}}` and have fallbacks
+- [ ] `{{contact.first_name}}` fallback set to "there" in the GHL merge-field editor — checked per send; the HTML cannot carry it
+- [ ] Unsubscribe href swapped BY HAND to this GHL account's unsubscribe link/trigger — GHL does NOT auto-replace `[UNSUBSCRIBE_LINK]` or any bracket token
+- [ ] Bracket-token grep: search the full source for `[` — zero tokens outside HTML comments in a campaign file at send time (hrefs, preheader, footer included)
 - [ ] Footer carries address, phone, and unsubscribe
 
 ---
 
-## 12. Source files
+## 12. Related files
 
-| File | Where | What it gives you |
-|---|---|---|
-| `DR Website - Design System & Layout Reference.md` | Google Drive | Full design system incl. v2/v3 addenda |
-| `index.html` | Google Drive | Built homepage prototype — the reference render |
-| `DR Website - Image Generation Brief.md` | Google Drive | Prompts for the 5 conceptual image slots |
-| `website-structure.md` | CLAUDE-TRELLIS repo | Canonical v2 site blueprint — IA, page copy, offer rules |
-| `email-design-spec.md` | CLAUDE-TRELLIS repo | Repo twin of this note |
+| File | What it gives you |
+|---|---|
+| [website-structure.md](website-structure.md) | Canonical v2 site blueprint — IA, page-by-page copy, offer rules |
+| [campaigns/2026-08-first-week-of-school-email.md](campaigns/2026-08-first-week-of-school-email.md) | Worked example of the campaign doc format |
+| [site-snapshots/2026-08-04/](site-snapshots/2026-08-04/) | Live-site copy as ground truth |
+| `DR Website - Design System & Layout Reference.md` (Drive) | Full design system incl. v2/v3 addenda |
+| `index.html` (Drive) | Built homepage — the reference render |
+| `DR Website - Image Generation Brief.md` (Drive) | Prompts for the 5 conceptual image slots |
 
 **Open item:** the DR mark needs three web-hosted PNGs for email — blue on transparent, white on transparent, and a 20px white tick. Confirm they exist in `Brand Assets/01 Logos/Main Logos` and get them onto a public URL before the first send.

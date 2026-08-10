@@ -16,14 +16,26 @@ last_updated: 2026-05-21
 ## Parent
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
+## Communication Engine (go-forward — n8n retired)
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine|DR Communication Engine]] — master rules, merge syntax, channel philosophy, marketing improvements
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Registration-Sequence|Registration Sequence]] — payment → first practice + cart recovery
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Lead-Magnet-Sequence|Lead Magnet Sequence]] — opt-in → registration
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Season-Reminder-Sequence|Season Reminder Sequence]] — in-season nurture + re-enroll
+
 ## Children
-- [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]]
+- [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]] *(legacy — n8n-era reference; superseded by the Engine for syntax + channel rules)*
 - [[01-Brands/Discipline-Rift/02-Communication/DR-Script-Evaluation-Context|DR Script Evaluation Context]]
 - [[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library|DR Marketing Language Library]]
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Email-Design-Spec|DR Email Design Spec]] — website design system translated for email build (color, type, components, dark mode) — now carries Luis's 2026-08 production rulings (§5.2, §9, §10.1, §11)
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Email-Template|DR Parent Email Template]] — binding drafting contract for house-list marketing emails: ten slots, Luis's five rules, word caps, production chain
 - [[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|DR GoHighLevel Marketing + Registration Automations]]
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]]
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]]
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates|School Outreach Email Templates]]
+
+## Campaigns (dated, one-time — not lifecycle chains)
+- [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-First-Week-Of-School-Campaign-2026-08|First Week of School Campaign — August 2026]] — 3 emails to the parent house list, fires on the first day of school and retires. Primary approved by Luis 2026-08-09; §0 carries his five binding parent-copy rules; GHL-ready HTML kit in the Trellis repo (`email-html/`).
+- [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-Email-Rewrite-Retrospective-2026-08|Email Rewrite Retrospective — August 2026]] — full analysis of Luis's breakdown of the first draft: what each correction protects, what survived, what died. The training document behind the template.
 
 ## Related
 - [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]

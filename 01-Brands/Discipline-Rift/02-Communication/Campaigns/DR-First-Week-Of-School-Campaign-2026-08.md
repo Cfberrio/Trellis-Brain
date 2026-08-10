@@ -7,9 +7,9 @@ status: draft
 canonical: false
 used_for_ai: true
 source_type: derived
-source_reference: "Trellis repo domains/content/discipline-rift/campaigns/2026-08-first-week-of-school-email.md — derived from the 55 Q&A Luis Torres interview (Founder-QA-Library-Full), DR-Email-Design-Spec, and popup-funnel-v2. Primary email copy approved by Luis 2026-08-09."
+source_reference: "Trellis repo domains/content/discipline-rift/campaigns/2026-08-first-week-of-school-email.md — primary approved by Luis 2026-08-09; §0 five rules + §0.1 production-run learnings from his ChatGPT HTML build; GHL-ready HTML kit at repo email-html/. Refreshed 2026-08-10."
 owner: Luis
-last_updated: 2026-08-09
+last_updated: 2026-08-10
 sensitivity: internal
 hub_role: leaf
 audience: parent
@@ -21,12 +21,13 @@ campaign: first-week-of-school-2026-08
 - [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
 
 ## Related
-- [[DR-Email-Design-Spec|DR Email Design Spec]] — the render contract this campaign is subordinate to
+- [[DR-Email-Design-Spec|DR Email Design Spec]] — render contract (now carries the §5.2/§9/§10.1/§11 production rulings)
+- [[DR-Parent-Email-Template|DR Parent Email Template]] — the binding drafting contract derived from this campaign
+- [[Campaigns/DR-Email-Rewrite-Retrospective-2026-08|Email Rewrite Retrospective]] — full analysis of Luis's breakdown
 - [[../../06-DNA/Problem-Map|DR Problem Map]] — P1, P4, P9, X1
-- [[../../03-Evidence/Founder-Voice/Founder-QA-Library-Full|Founder Q&A Library]] — source interview (canonical transcript)
+- [[../../03-Evidence/Founder-Voice/Founder-QA-Library-Full|Founder Q&A Library]] — source interview
 
-> **Merge syntax note.** This campaign uses GHL-native `{{contact.*}}` because GHL is the shipping platform — all of popup-funnel-v2 uses the same syntax. Deliberate, not drift.
-> **Copy authority.** §0 below records Luis's five binding rules for DR parent-facing marketing (2026-08-09). The primary email is his finalized structure verbatim, typos cleaned. Variants B/C follow the same rules, pending his read.
+> **Build artifacts:** GHL-ready HTML lives in the Trellis repo at `domains/content/discipline-rift/email-html/` — `dr-boilerplate-ghl.html` (reusable 13-slot skeleton) + `2026-08-back-to-school.html` (this campaign, verified reference build). The shipped HTML from Luis's ChatGPT build is pending archive as ground truth.
 
 # DR — First Week of School Campaign (August 2026)
 
@@ -52,6 +53,18 @@ Luis reviewed the first draft of the primary email and rewrote it. Five rules ca
 5. **One email, few points, chosen hard.** The first draft was an essay. Pick the points most valuable to parents and stop. His finalized version also cuts: the fear frame (replaced with a positive one), the proof stack (55 schools / Level 2 / supervised — trust lives on the site and later touches), all urgency mechanics (deadlines, tier-ladder placement, "the team forms without them," registration-minutes), the age line, and founder editorializing. Close warm, not with a squeeze.
 
 Ruling on CTAs: **one unique action, rendered twice** — a Register button after the hook and one at the end. This supersedes "exactly one CTA button per email" as previously written; the rule was always about competing actions, not button count.
+
+### §0.1 Production-run learnings — 2026-08-09 (Luis built the HTML in ChatGPT against the design spec)
+
+- **The deliverable is built HTML, not a copy doc.** Luis pasted his own raw draft (typos intact) into ChatGPT with the design spec as the prompt — the cleaned repo copy never entered production. Future campaigns ship as GHL-ready HTML + subject/preview alongside the doc, so copy gates and design rules travel as one artifact.
+- **He designs by reacting to renders** ("invert it," "get rid of that line," "same layout as before"). First pass = something he can look at, not something he must read.
+- **Subject style ruling:** calendar-anchored, plain, direct question. Shipped subject: `Back to school this Tuesday. Are you ready?` Shipped preview: `The supplies are ready. Now what will fill your child's time after 3 PM?`
+- **Placement rule for the gap frame:** the after-school-gap framing is allowed in subject/preview *as an open question* — never in the body as fear.
+- **Copy compresses at design stage** ("everything else: 80%"). Approval doesn't freeze copy; write lines that survive halving.
+- **School start is Tuesday 2026-08-11** (per shipped subject) — resolves open item 2's Monday assumption.
+- **Send-check flags raised** (may be in the built HTML): typos "phsyical" / "a real games" / "the teaching the skills"; the internal parenthetical "(not just a bunch of nonsense)"; button URL = homepage rather than `/register` school search.
+- **Post-transcript edits by Luis (off-record):** the bedtime line changed and content was cut further below the approved 230 words. **The shipped HTML file is the ground truth and is not yet in the repo** — obtain `discipline-rift-back-to-school-email.html` and archive it under `email-html/sent/` to extract the final deltas precisely.
+- **Build-side lessons:** unhosted logo assets silently mutated the design (text-wordmark hero born from the missing PNGs — now the approved fallback); the chain ends in GHL's custom-code editor; Luis's homepage CTA was an explicit instruction, not an oversight; he accepts AI-proposed hero phrases when short; his iteration grain is one element per message → HTML must be block-deletable.
 
 ---
 
@@ -237,7 +250,7 @@ info@disciplinerift.com · (407) 614-7454
 | # | Item | Who | Blocks |
 |---|---|---|---|
 | 1 | **80% phrasing.** Approved copy says "80% of brain cells focus on movement." Defensible form: ~80% of the brain's neurons are in the cerebellum (movement). Confirm final wording. | Luis | Primary |
-| 2 | **School start date.** Assumed Mon Aug 10, 2026 (Orange County). If the list spans districts with different start dates, split the send by district. | Luis | Send timing |
+| 2 | ~~School start date~~ **Resolved:** Tuesday 2026-08-11, per Luis's shipped subject line. Residual: confirm the list doesn't span districts with different start dates. | Luis | Send timing |
 | 3 | **Parent dashboard live for every registered parent, with per-practice coach updates and photos actually posted per team.** Claimed in the approved copy; `communication-rules.md` (April) still says "if a parent dashboard exists." | Luis | All three |
 | 4 | **Value Guarantee operational status** — wording now "teaching the skills and the passion for the sport" per Luis. Confirm ops honors it; align site footer wording. | Luis | All three |
 | 5 | **Suppression list** — `reg_paid` for current season + anyone mid-sequence in Branch A. | Dev / GHL | All three |
