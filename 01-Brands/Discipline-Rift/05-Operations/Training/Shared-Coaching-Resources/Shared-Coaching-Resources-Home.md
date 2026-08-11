@@ -26,6 +26,7 @@ These are cross-sport resources that should influence coaching quality, teaching
 ## Imported resources
 - [[The_Coachs_Guide_to_Teaching_(1).pdf]]
 - [[d790013e-ef8a-45bc-90da-1673d1c984aa_GROUP_DYNAMICS_-_LEADING_DIFFERENT_GROUPS.pdf]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Annual-Staff-Training-Home|DR Annual Staff Training Home]] — annual coach onboarding/culture training days (2023, 2024, 2025), split one file per year
 
 ## How to use them
 Use these resources to shape coach behavior, session structure, instruction quality, and group leadership standards across every sport—not just one program.
