@@ -7,7 +7,7 @@ status: active
 canonical: true
 used_for_ai: true
 sensitivity: internal
-last_updated: 2026-04-23
+last_updated: 2026-08-11
 ---
 
 # Tennis Home
@@ -19,7 +19,12 @@ last_updated: 2026-04-23
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 ## Strategic role
-Tennis is an active DR sport that fills, but its imported resource set is currently much lighter than volleyball and flag football.
+Tennis is an active DR sport that fills. As of the 2026-08-11 Notion pull it is no longer the thin library it used to be — the full DR TENNIS coach wiki is now mirrored here, including the doctrine layer (mission, core values, DR Formula, FUELED, the 10 coach responsibilities) and clean weekly sessions with every named drill and game intact.
+
+## Canonical source
+[[Notion-Wiki-Home]] — start there. It mirrors the DR TENNIS Notion database and is the current source of truth for tennis coaching material. The mirror is complete as of 2026-08-11: doctrine, all six weekly sessions, and the season calendar ([[DR-Tennis-Calendar]]).
+
+Tennis runs **four seasons a year**, not two — Fall, Late Fall, Late Winter, Spring. Late Fall is gated to teams that finished Fall, so it is a re-enrollment season rather than an acquisition one. See [[DR-Tennis-Calendar]] for the dated map.
 
 ## Imported resources
 ### Weekly / review progression
@@ -31,10 +36,11 @@ Tennis is an active DR sport that fills, but its imported resource set is curren
 - [[385c3855-3486-48ab-a822-741aec86a50a_WEEK_-_FOREHANDS_BACKHANDS_VOLLEYS_AND_SERVES_(ASSESMENT).pdf]]
 
 ## How to use this library
-Use this folder as a progressive weekly teaching map. Because the imported tennis library is not as deep as volleyball, keep this folder focused on progression clarity and assessment continuity rather than volume.
+Use [[Notion-Wiki-Home]] and the `Notion-Wiki/Curriculum/` sessions for coaching and AI context. Use this folder as a progressive weekly teaching map, focused on progression clarity and assessment continuity.
 
+## Source Library (superseded)
+These are OCR extractions of the original PDFs, kept as the historical record. They carry OCR damage and lack drill names — prefer the Notion mirror for any live use.
 
-## Source Library
 - [[Week-Forehands]]
 - [[Week-Backhands-and-Forehands-Review]]
 - [[Week-Volleys-Forehands-and-Backhands-Review]]
