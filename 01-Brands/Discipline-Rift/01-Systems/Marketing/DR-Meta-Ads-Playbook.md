@@ -17,11 +17,16 @@ hub_role: leaf
 # DR Meta Ads Playbook
 
 ## Parent
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home|DR Marketing Home]]
 - [[../Systems-Home|DR Systems Home]]
 
 ## Relacionado
 - [[DR-Meta-Ads-Experiments|DR Meta Ads Experiments]]
 - [[Ad-Scripting-Playbook|DR Ad Scripting Playbook]]
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home|Meta Ads Intelligence — Home]] — toda la evidencia detrás de estas decisiones
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Decisions/Meta-Ads-Structure-Full-Method|Método completo de estructura DR]] — la versión larga, capa por capa
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Frameworks/Frameworks-Index|Frameworks (Waves 1A–3)]] — por qué cada decisión es esa
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Open-Questions/Open-Questions-and-Verification-Queue|Preguntas abiertas]] — qué hay que verificar antes de tocar la cuenta
 
 > [!info] Qué es esto
 > Qué hacer y qué **no** hacer en la cuenta de Meta Ads de DR, con la evidencia detrás de cada decisión.

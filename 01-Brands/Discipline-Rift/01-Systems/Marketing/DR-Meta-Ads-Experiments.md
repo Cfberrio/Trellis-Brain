@@ -17,11 +17,15 @@ hub_role: leaf
 # DR Meta Ads Experiments
 
 ## Parent
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home|DR Marketing Home]]
 - [[../Systems-Home|DR Systems Home]]
 
 ## Relacionado
 - [[DR-Meta-Ads-Playbook|DR Meta Ads Playbook]]
 - [[Ad-Scripting-Playbook|DR Ad Scripting Playbook]]
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home|Meta Ads Intelligence — Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Frameworks/Wave-2B-Creative-Operating-Method|Wave 2B — método creativo]] — la escalera de evaluación que usan estos experimentos
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Open-Questions/Open-Questions-and-Verification-Queue|Preguntas abiertas y cola de verificación]]
 
 > [!danger] Estado: ninguno ejecutado
 > No se ha cambiado ninguna campaña, ad set, anuncio, presupuesto, targeting, placement, Pixel ni CAPI.

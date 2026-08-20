@@ -24,6 +24,7 @@ aliases:
 - [[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home|DR Admin Operations App Home]]
 - [[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations|DR Shared Entities and Integrations]]
 - [[01-Brands/Discipline-Rift/01-Systems/DR-Operational-Flows|DR Operational Flows]]
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home|DR Marketing Home]] — hub de marketing: inteligencia de canal, decisiones de cuenta y ejecución creativa
 
 ## Related
 - [[01-Brands/Discipline-Rift/00-Brand-Core/KPIs|DR KPIs]]

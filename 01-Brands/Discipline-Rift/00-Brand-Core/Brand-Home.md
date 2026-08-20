@@ -29,6 +29,7 @@ hub_role: brand-hub
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Opportunities|DR Opportunities]]
 - [[01-Brands/Discipline-Rift/00-Brand-Core/KPIs|DR KPIs]]
 - [[01-Brands/Discipline-Rift/01-Systems/Systems-Home|DR Systems Home]]
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home|DR Marketing Home]]
 - [[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home|DR Sales Home]]
 - [[01-Brands/Discipline-Rift/06-DNA/DNA-Home|DR DNA Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
@@ -48,7 +49,6 @@ hub_role: brand-hub
 
 ## Deferred Systems
 These systems are planned for DR but notes do not yet exist. Do not link from active routing until built.
-- Marketing-Home — DR marketing system hub
 - Onboarding-Process — parent and student onboarding
 - Retention-Strategy — retention and re-enrollment
 - Pricing-Logic — season pricing and payment rules
