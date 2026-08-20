@@ -6,7 +6,7 @@ status: active
 canonical: true
 used_for_ai: true
 sensitivity: internal
-last_updated: 2026-04-23
+last_updated: 2026-08-20
 ---
 
 # Training Home
@@ -30,4 +30,5 @@ This folder holds the coach and curriculum knowledge base for Discipline Rift. I
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home|Tennis Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home|Flag Football Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home|Pickleball Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home|DR Coaching Books Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package|Books Excluded From Markdown Package]]
