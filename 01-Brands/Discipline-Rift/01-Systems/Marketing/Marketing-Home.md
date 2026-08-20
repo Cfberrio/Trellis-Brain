@@ -30,6 +30,8 @@ aliases:
 - [[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Playbook|DR Meta Ads Playbook]] — las 8 decisiones operativas de la cuenta
 - [[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Experiments|DR Meta Ads Experiments]] — experimentos propuestos, ninguno ejecutado
 - [[01-Brands/Discipline-Rift/01-Systems/Marketing/Ad-Scripting-Playbook|DR Ad Scripting Playbook]] — cómo se escribe un anuncio para padres Soil 1+2
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Tracking-and-Attribution|Meta Tracking and Attribution]] — Pixel + CAPI, mapa de eventos, cadena de atribución, reglas de privacidad
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Retargeting-and-Audiences|Meta Retargeting and Audiences]] — audiencias vivas, lookalikes, exclusiones, decisiones de implementación
 
 ## Related
 - [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
@@ -57,7 +59,12 @@ La regla de ruteo: **investigación no entra directo a ejecución.** Pasa por de
 
 > [!danger] Cuenta de Meta de DR: pausada, sin cambios aplicados
 > Última ventana medida: **$82.11 en 30 días — 1.015 impresiones, 256 reach, 10 clics de enlace**, datos de 2026-05-12. La campaña está pausada.
-> Ningún experimento del backlog se ha ejecutado. Ninguna campaña, ad set, anuncio, presupuesto, targeting, placement, Pixel ni CAPI ha sido modificado.
+> Ningún experimento del backlog se ha ejecutado. Ninguna campaña, ad set, anuncio, presupuesto, targeting ni placement ha sido modificado.
+
+> [!info] Corrección 2026-08-20 — la capa de medición SÍ cambió
+> Entre el 5 y el 20 de agosto de 2026 se implementaron en producción el **Meta Pixel** (dataset "Discipline Rift Website"), la **CAPI** consentida, el funnel first-party, la cadena completa de atribución anuncio → registro pagado, y las audiencias de retargeting.
+> Lo que sigue sin tocarse es la **cuenta de ads** (campañas, presupuestos, targeting). La medición ya no es el bloqueante.
+> Detalle: [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Tracking-and-Attribution|Meta Tracking and Attribution]] · [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Retargeting-and-Audiences|Meta Retargeting and Audiences]]
 
 Con 10 clics al mes ningún test alcanza significancia estadística. Todo lo que se proponga a esta escala es **lectura direccional**, y así está etiquetado en las notas.
 

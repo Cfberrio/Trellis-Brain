@@ -3,13 +3,13 @@ brand: Orlando-Event-Venue
 area: communication
 subarea: templates
 note_type: template
-status: active
-canonical: true
-used_for_ai: true
+status: superseded
+canonical: false
+used_for_ai: false
 source_type: curated
-source_reference: "Restructured 2026-05-28. Lead magnet pop-up + email/SMS sequence. $100 booking credit, code HOST100, 7-day expiry. Founder-led Luis voice across all touches. Touch 4 added at day 6 (24h before expiry) for the loss-aversion final tap."
+source_reference: "Restructured 2026-05-28. Lead magnet pop-up + email/SMS sequence. $100 booking credit, code HOST100, 7-day expiry. Founder-led Luis voice across all touches. Touch 4 added at day 6 (24h before expiry) for the loss-aversion final tap. SUPERSEDED 2026-08-04 by the Event Planning Kit / PLAN50 offer."
 owner: Luis
-last_updated: 2026-05-28
+last_updated: 2026-08-20
 sensitivity: internal
 related_systems:
   - ghl
@@ -18,6 +18,11 @@ hub_role: leaf
 ---
 
 # Pop-Up Lead Magnet Sequence
+
+> [!warning] Superseded 2026-08-04
+> The HOST100 offer described here is **no longer live**, and it was broken in production from 29 May to 9 July 2026 (see [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Google-Ads-Post-Mortem-2026-06|Google Ads Post-Mortem — June 2026]]).
+> The current offer is the **Event Planning Kit + PLAN50**: [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Lead-Magnet-Event-Planning-Kit|Lead Magnet — Event Planning Kit]].
+> This note is kept for the sequence design principles (reciprocity, loss aversion, BAMFAM, founder voice), which still apply. Do not use its copy or coupon codes.
 
 ## Parent
 - [[../Communication-Home|OEV Communication Home]]
