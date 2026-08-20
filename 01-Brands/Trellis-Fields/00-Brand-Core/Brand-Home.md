@@ -36,6 +36,7 @@ hub_role: brand-hub
 - [[../05-Operations/Skool-Methods/Lead-Magnets-Setup|Lead Magnet Setup SOP (ManyChat + Notion)]]
 - [[../05-Operations/Skool-Methods/OG-Ideas-And-Virality|OG Ideas + Virality Method]]
 - [[../05-Operations/Skool-Methods/Editing-Walkthrough|Premiere Pro Editing SOP]]
+- [[01-Brands/Trellis-Fields/04-Projects/Trellis-eSign/Trellis-eSign-Home|Trellis e-Sign]] — producto propio de firma electrónica: uso interno + plan gratuito como lead magnet
 
 ## Related
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]

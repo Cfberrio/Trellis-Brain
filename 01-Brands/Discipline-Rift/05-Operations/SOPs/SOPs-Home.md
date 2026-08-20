@@ -23,6 +23,7 @@ hub_role: system-hub
 - [[Mass-SMS-Via-GHL-SOP|Mass SMS via GHL SOP]]
 - [[Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]]
 - [[Practice-Report-Schema|Practice Report + Injury Form Schema]]
+- [[Season-Schedule-Load-SOP|Season Schedule Load SOP]] — spreadsheet → teams + sessions, sport-by-fill-colour, exclusions
 
 ## Related
 - [[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home|DR Sales Home]]

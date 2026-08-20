@@ -32,6 +32,7 @@ hub_role: system-hub
 - [[School-Outreach-SOP-Public|School Outreach SOP — Public]]
 - [[School-Outreach-SOP-Private|School Outreach SOP — Private + Charter]]
 - [[GHL-CRM-Pipeline-Spec|GHL CRM Pipeline Spec]]
+- [[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-Sync-and-Segmentation|GHL Sync and Segmentation]] — paid parents → GHL contacts, school/team segmentation, drift alerts
 
 ## Related
 - [[01-Brands/Discipline-Rift/06-DNA/Conversion|DR Conversion DNA]]

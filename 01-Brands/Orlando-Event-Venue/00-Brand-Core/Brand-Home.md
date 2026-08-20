@@ -47,6 +47,8 @@ OEV is positioned first as a professional, logistics-safe venue for corporate ga
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Opportunities|OEV Opportunities]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs|OEV KPIs]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home|OEV Marketing Home]]
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home|OEV Platform Home]]
 - [[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]
 - [[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home|OEV Communication Home]]
 - [[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|OEV DNA Home]]
@@ -59,9 +61,14 @@ OEV is positioned first as a professional, logistics-safe venue for corporate ga
 - [[01-Brands/Orlando-Event-Venue/05-Operations/SOPs/Sales-Training-Teacher-Guide|Sales Training Teacher Guide]] + [[01-Brands/Orlando-Event-Venue/05-Operations/SOPs/Sales-Trainee-Guide|Sales Trainee Guide]]
 - [[01-Brands/Orlando-Event-Venue/04-Projects/Venue-Partnerships/Partnerships-Home|Venue Partnerships]] — active partnerships hub (5th Floor, Eric/Samantha, CIG)
 
+## Recently Activated (2026-08-20)
+Platform and marketing reality from June–August 2026, previously documented only in the OEV-PROJECT repo:
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home|Platform Home]] — booking states, booking types, automation/cron, payments, staff console, access codes
+- [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home|Marketing Home]] — Google Ads post-mortem, Event Planning Kit / PLAN50, one-page redesign
+- [[01-Brands/Orlando-Event-Venue/05-Operations/Agent/Gmail-and-SMS-Draft-Agent|Gmail and SMS Draft Agent]] — production draft agents (draft, never send)
+
 ## Deferred Systems
 These systems are planned for OEV but notes do not yet exist. Do not link from active routing until built.
-- Marketing-Home — OEV marketing system hub
 - Onboarding-Process — operational details live in [[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment|Fulfillment DNA]] until SOP authored
 - Delivery-Process — see [[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment|Fulfillment DNA]]
 - Retention-Strategy — see [[01-Brands/Orlando-Event-Venue/06-DNA/Retention|Retention DNA]]

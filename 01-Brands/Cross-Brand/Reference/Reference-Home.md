@@ -21,6 +21,7 @@ hub_role: system-hub
 ## Children
 - [[01-Brands/Cross-Brand/Reference/Chat-Channels-Inventory|ClickUp Chat Channels Inventory]]
 - [[01-Brands/Cross-Brand/Reference/Whiteboards-Inventory|ClickUp Whiteboards Inventory]]
+- [[01-Brands/Cross-Brand/Reference/Vault-Freshness-Audit-2026-08-20|Vault Freshness Audit — 2026-08-20]] — what drifted between May and August 2026, what was ingested, what is queued
 
 ## Related
 - [[../../Trellis-Fields/05-Operations/Team/Team-Roles|TF Team Roles]]

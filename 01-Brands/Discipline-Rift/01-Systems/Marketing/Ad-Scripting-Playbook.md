@@ -17,10 +17,13 @@ hub_role: leaf
 # DR Ad Scripting Playbook
 
 ## Parent
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home|DR Marketing Home]]
 - [[../Systems-Home|DR Systems Home]]
 - [[../Sales/Sales-Home|DR Sales Home]]
 
 ## Related
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Frameworks/Wave-2B-Creative-Operating-Method|Wave 2B — método creativo]] — cómo entran los creativos a la cuenta
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Competitors/Competitor-Patterns|Patrones de competidores]] — qué mensajes ya están en el mercado
 - [[../../02-Communication/Marketing-Language-Library|DR Marketing Language Library]]
 - [[../../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]
 - [[../../00-Brand-Core/Avatar|DR Avatar]]

@@ -1,0 +1,89 @@
+filters:
+  and:
+    - file.inFolder("01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence")
+    - 'file.ext == "md"'
+
+properties:
+  note_type:
+    displayName: "Tipo"
+  repo_path:
+    displayName: "Archivo en el repo"
+  last_updated:
+    displayName: "Sincronizado"
+  meta_topic:
+    displayName: "Tema (Meta)"
+  captured_at:
+    displayName: "Capturado"
+  last_verified_at:
+    displayName: "Verificado"
+  completeness:
+    displayName: "Completitud"
+  gate_mapping:
+    displayName: "Compuerta"
+  file.folder:
+    displayName: "Carpeta"
+
+views:
+  - type: table
+    name: "Todo por tipo"
+    groupBy:
+      property: note_type
+      direction: ASC
+    order:
+      - file.name
+      - note_type
+      - last_updated
+      - repo_path
+
+  - type: table
+    name: "Expertos"
+    filters:
+      and:
+        - file.hasTag("meta-ads/expert")
+    order:
+      - file.name
+      - last_updated
+      - repo_path
+
+  - type: table
+    name: "Meta oficial"
+    filters:
+      and:
+        - file.hasTag("meta-ads/meta-official")
+    order:
+      - file.name
+      - meta_topic
+      - gate_mapping
+      - captured_at
+      - last_verified_at
+      - completeness
+
+  - type: table
+    name: "Competidores"
+    filters:
+      and:
+        - file.hasTag("meta-ads/competitor")
+    order:
+      - file.name
+      - repo_path
+
+  - type: table
+    name: "Research runs"
+    filters:
+      and:
+        - file.hasTag("meta-ads/research-run")
+    order:
+      - file.name
+      - last_updated
+      - repo_path
+
+  - type: table
+    name: "Frameworks y decisiones"
+    filters:
+      or:
+        - file.hasTag("meta-ads/framework")
+        - file.hasTag("meta-ads/decision")
+    order:
+      - file.name
+      - note_type
+      - repo_path
