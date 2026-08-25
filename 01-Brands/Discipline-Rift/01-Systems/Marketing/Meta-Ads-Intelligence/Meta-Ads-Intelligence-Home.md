@@ -107,6 +107,7 @@ La jerarquía **no es una votación**. Un nivel inferior no queda automáticamen
 
 - [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Decisions/Meta-Ads-Structure-Full-Method|Método completo de estructura DR]] — la configuración recomendada capa por capa, con qué la desmentiría. Nivel: **HIPÓTESIS DR**.
 - [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Decisions/Meta-Ads-First-Decision-Synthesis|Síntesis de la primera decisión]]
+- [[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Decisions/Creative-Decision-2026-08-21-Fall-Volleyball|Análisis profundo de creativos — Fall 2026 Volleyball]] — corte 2026-08-21: Spider = control, Raw Practice = rework, Green = simplificar, UGC y Screens = sin delivery suficiente para juzgar. Nivel: **direccional, attribution parcial**.
 - [[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Playbook|DR Meta Ads Playbook]] · [[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Experiments|DR Meta Ads Experiments]]
 
 ---
