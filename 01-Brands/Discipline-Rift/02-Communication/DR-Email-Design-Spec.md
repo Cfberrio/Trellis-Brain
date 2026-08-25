@@ -9,13 +9,14 @@ used_for_ai: true
 source_type: curated
 source_reference: "Google Drive folder 1cVCYpQE8-CS8OsZtDsQEAOZFMUirdqTj — 'DR Website - Design System & Layout Reference.md' + index.html (built homepage prototype, Jul 7 2026)"
 owner: Luis
-last_updated: 2026-08-10
+last_updated: 2026-08-25
 sensitivity: internal
 related_systems: []
 related_notes:
   - "[[Communication-Home]]"
   - "[[Marketing-Language-Library]]"
   - "[[../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]"
+  - "[[Templates/Operational-Email-Library|DR Operational Email Library]]"
 hub_role: leaf
 ---
 
@@ -315,3 +316,19 @@ The homepage rhythm, compressed to an email. Use 3–5 of these, not all:
 | `DR Website - Image Generation Brief.md` (Drive) | Prompts for the 5 conceptual image slots |
 
 **Open item:** the DR mark needs three web-hosted PNGs for email — blue on transparent, white on transparent, and a 20px white tick. Confirm they exist in `Brand Assets/01 Logos/Main Logos` and get them onto a public URL before the first send.
+
+**RESOLVED (2026-08-25):** the open item is closed. The DR mark now has a hosted **email asset kit** — derived from the hi-res master in Drive `01_MAIN LOGOS/DR LOGO blue.png` (1563px), served by the website itself (deploys with it, stable URLs):
+
+| URL | Use |
+|---|---|
+| `https://disciplinerift.com/brand/dr-mark-blue-52h.png` | Header mark on white (render at height 26px — file is @2x) |
+| `https://disciplinerift.com/brand/dr-mark-white-52h.png` | Black footer + dark mode |
+| `https://disciplinerift.com/brand/dr-tick-white-20.png` (+ `-40` @2x) | Promo-band checklist tick |
+| `https://disciplinerift.com/brand/dr-mark-{blue\|white\|ink\|black}-256w.png` | General use, 256px wide |
+| `https://disciplinerift.com/brand/dr-tile-{blue\|black\|outline-blue\|outline-black}-256.png` | §5.6 tier row, straight (no rotation) |
+
+Full kit (more sizes incl. 1024w) lives in `~/Documents/DISCIPLINERIFT/brand-kit/png/`; regeneration script inline in that folder's git history. Master source: Drive folder `1jWNnaYqUuY1hEHO499QzfKaRmQ836qAs`.
+
+**Boilerplate built (2026-08-25):** the GHL marketing boilerplate referenced by parent-email-template §4 now exists at `~/Documents/DISCIPLINERIFT/brand-kit/email/dr-boilerplate-ghl.html` — every slot (header, giant hero, copy slots, eyeglass card, blue promo band, guarantee, tier row, close, black footer) is an independently deletable table block, hosted asset URLs already wired, `[REGISTER_URL]`/`[UNSUBSCRIBE_LINK]`/`[PREHEADER]` tokens to swap per send.
+
+**Transactional shell shipped (2026-08-25):** the tokens and rules above are now also load-bearing for **code-rendered transactional email**, not just GHL marketing sends. Three parent-facing templates in `~/Documents/DISCIPLINERIFT/disciplinerift/supabase/functions/_shared/email-templates.ts` (Registration Confirmation, Parent Guide, Waitlist Invite) were rebuilt on a shared shell — `drShell` / `drHeader` / `drFooter` / `drButton` — using this doc's color tokens, font stack, table-only layout rule, and black footer spec, after a `=20` encoding bug (denomailer) forced a full audit of the transactional path. Full changelog, root cause, and before/after: [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library#Changelog — 2026-08-25|Operational Email Library § Changelog]].

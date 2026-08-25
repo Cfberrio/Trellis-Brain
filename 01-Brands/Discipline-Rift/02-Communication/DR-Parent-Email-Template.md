@@ -89,3 +89,13 @@ insight → template-constrained draft → five-rules check (campaign §0)
 | White tick, 20px PNG | **Not hosted** | Promo-band checklist |
 
 Source: `Brand Assets/01 Logos/Main Logos` (Drive). Host once at a stable public URL — GHL's media library is the natural home — and record the URLs here and in the design spec. Until then, the giant blue text-wordmark (nothing under it) is the approved fallback per the §5.2 ruling.
+
+**RESOLVED 2026-08-25 — all three assets are hosted** (served by the website, stable URLs; kit derived from the hi-res Drive master):
+
+| Asset | URL |
+|---|---|
+| DR mark, blue on transparent | `https://disciplinerift.com/brand/dr-mark-blue-52h.png` (header, @2x for 26px) |
+| DR mark, white on transparent | `https://disciplinerift.com/brand/dr-mark-white-52h.png` |
+| White tick 20px | `https://disciplinerift.com/brand/dr-tick-white-20.png` |
+
+The §4 boilerplate now exists: `~/Documents/DISCIPLINERIFT/brand-kit/email/dr-boilerplate-ghl.html` (all slots as independently deletable blocks, assets wired). The text-wordmark fallback is no longer needed — builds use the real mark.

@@ -7,9 +7,10 @@ status: active
 canonical: true
 used_for_ai: true
 source_type: curated
-source_reference: "ClickUp Doc 8cqnrff-8437 (Developer/DR/EMAILS) pages 8cqnrff-8077, 8097, 8117, 8137, 8157, 8177 — Weeks 1–6"
+source_reference: ClickUp Doc 8cqnrff-8437 (Developer/DR/EMAILS) pages
+  8cqnrff-8077, 8097, 8117, 8137, 8157, 8177 — Weeks 1–6
 owner: Luis Torres
-last_updated: 2026-05-21
+last_updated: 2026-08-25
 sensitivity: internal
 hub_role: leaf
 ---
