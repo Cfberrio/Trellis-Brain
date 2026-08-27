@@ -35,6 +35,7 @@ Active venue partnership initiatives where OEV is the proof-of-concept venue. Ca
 |---|---|---|---|
 | 5th Floor | 2026-02-25 | Pending follow-up | Initial pitch delivered |
 | Eric / Samantha (venue software clients) | 2026-05-20 | In discussion | Pitch deck + RevShare structure pending |
+| [[2026-05-29-DSpace-Orlando\|D Space Orlando]] | 2026-05-29 | Pitched | 15% RevShare + preferred services partner — proposal drafted, to send |
 
 ## Partnership Types
 

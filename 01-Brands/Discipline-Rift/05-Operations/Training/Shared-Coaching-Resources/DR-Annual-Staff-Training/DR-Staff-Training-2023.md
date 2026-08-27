@@ -140,7 +140,8 @@ hub_role: leaf
 - A tool for all domains of life to help us grow; levels up our leadership as coaches
 - Slide references a 5-finger framework — Pointer, Middle, Ring, Pinky, Thumb — filled in live during training
 
-> **Gap flagged:** The specific meaning of each finger in "The Hand of a Coach" is never written down in any source file — it was spoken/live content only. Worth recovering from a coach's memory or a training recording if one exists.
+> **Gap resolved 2026-08-11:** A previous version of this note flagged the five fingers as never captured in writing. They were in fact captured — the five concepts documented immediately below **are** the five fingers, they were just never labeled as such in the extraction. Confirmed against the DR Notion wiki page "THE HAND OF A COACH", which maps them in order:
+> **☝🏽 Locus of Control · ✌🏽 Empathetic Feedback · 🤟🏽 Recognition · 🤙🏽 Negotiation · 👍🏽 Psychological Safety**
 
 **Locus of Control** (psychological concept)
 - Explanation or cause of events that take place

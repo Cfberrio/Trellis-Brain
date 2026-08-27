@@ -7,9 +7,9 @@ status: active
 canonical: true
 used_for_ai: true
 source_type: curated
-source_reference: "Restructured 2026-05-27. Guest Report flow consolidated onto the /accesscode page — same link serves door code + Wi-Fi pre-event, and Guest Report + review post-event. Standalone post-event SMS eliminated; final SMS is a simple review reminder."
+source_reference: "Restructured 2026-05-27. Guest Report flow consolidated onto the /accesscode page — same link serves door code + Wi-Fi pre-event, and Guest Report + review post-event. Standalone post-event SMS eliminated. 2026-06-18: merged the standalone review reminder (old Step 08) into the 1-hour reminder (Step 07) — the final SMS now carries access link + Guest Report pointer + review seed in one touch. Sequence is now 7 steps."
 owner: Luis
-last_updated: 2026-05-27
+last_updated: 2026-06-18
 sensitivity: internal
 related_systems:
   - ghl
@@ -30,16 +30,16 @@ hub_role: leaf
 - [[../../05-Operations/OEV-GoHighLevel-Automations|GHL Automations]]
 
 ## Purpose
-Canonical post-booking sequence. Email is reserved for records, payment links, and access instructions. SMS handles reminders and personal touchpoints. **The `/accesscode` page is dual-purpose**: before/during the event it serves the door code + Wi-Fi; after the event it serves the Guest Report + review prompt. The customer enters their reservation number on the same page either way. No standalone post-event SMS is needed for checkout, Guest Report, or review collection — Step 08 is a simple review reminder 24 hours after booking-end.
+Canonical post-booking sequence. Email is reserved for records, payment links, and access instructions. SMS handles reminders and personal touchpoints. **The `/accesscode` page is dual-purpose**: before/during the event it serves the door code + Wi-Fi; after the event it serves the Guest Report + review prompt. The customer enters their reservation number on the same page either way. No standalone post-event SMS is needed for checkout, Guest Report, or review collection. **The review ask is folded into the 1-hour reminder (Step 07)** as a seed — "during your event, grab a few photos; afterward, post them on Google with a quick review" — so the sequence ends on a single, high-attention SMS rather than a separate post-event nudge. The sequence is 7 steps.
 
 ## Design Principles Applied
 - **One page, one identifier (reservation #)** — reduces cognitive load and friction. Customer learns the page once, uses it for everything.
-- **Peak-End Rule** — first touch (Step 01) and last touch (Step 08 review) carry the most memory weight. Both warmth-first.
-- **Reciprocity** — Step 08 explains *why* helping us helps them.
+- **Peak-End Rule** — first touch (Step 01) and last touch (Step 07, fired at the highest-attention moment) carry the most memory weight. Both warmth-first.
+- **Reciprocity** — Step 07 explains *why* the review helps them ("helps planners like you find us").
 - **Loss Aversion** — Step 02 frames remaining payment as protecting the date they own.
-- **Cognitive Load (Hick's Law)** — Step 03 chunked. Eliminated the multi-job post-event SMS in favor of self-serve on the access page.
+- **Cognitive Load (Hick's Law)** — Step 03 chunked. Eliminated the multi-job post-event SMS in favor of self-serve on the access page; folded the review ask into Step 07 so the sequence ends on one SMS, not two.
 - **Personal signoff close-in** — Steps 06 + 07 sign with a real name (Luis).
-- **Marketing-machine seeds** — Step 07 passive UGC tag; access page collects photos with permission flag via Guest Report; Step 08 social proof asset.
+- **Marketing-machine seeds** — Step 07 carries the photo + review seed; access page collects photos with permission flag via Guest Report; the review link itself is the social-proof asset.
 
 ## Channel Matrix
 | # | Step | Email | SMS | PDF Invoice (dev) | Trigger |
@@ -50,10 +50,9 @@ Canonical post-booking sequence. Email is reserved for records, payment links, a
 | 04 | 30-Day Check-in | ✅ | — | — | 30 days before event date |
 | 05 | 7-Day Check-in | — | ✅ | — | 7 days before event date |
 | 06 | 1-Day Access Reminder | — | ✅ | — | 1 day before event date |
-| 07 | 1-Hour Reminder | — | ✅ | — | 1 hour before event start time |
-| 08 | Review Reminder | — | ✅ | — | 24h after booking-end time, skip if Google review detected |
+| 07 | 1-Hour Reminder + Review Seed | — | ✅ | — | 1 hour before event start time |
 
-**Volume:** 4 emails + 5 SMS.
+**Volume:** 4 emails + 4 SMS.
 
 ## Variables Used
 - `{{contact.first_name}}` / `{{contact.full_name}}`
@@ -85,7 +84,7 @@ orlandoeventvenue@gmail.com
 ```
 
 ## SMS Signoff Convention
-- **Steps 02 / 05 / 08:** ` — Orlando Event Venue Team`
+- **Steps 02 / 05:** ` — Orlando Event Venue Team`
 - **Steps 06 + 07 (close-in execution):** ` — Luis & the OEV Team` — personal trust lift at execution moments.
 
 ---
@@ -254,7 +253,7 @@ After You Leave
 Head back to the same access page — once your booking ends, it switches to show the Guest Report (a quick photo walkthrough so we can close out your reservation) and a quick review link. Same URL, same reservation number:
 https://orlandoeventvenue.org/accesscode
 
-You'll also get a short text reminder 24 hours later if you haven't left a review yet.
+If your event went well, a 60-second Google review helps other planners find us — thank you in advance.
 
 If anything needs to change before event day, reply here.
 
@@ -329,21 +328,15 @@ Hi {{contact.first_name}} — tomorrow's the day. Your door code + Wi-Fi will be
 
 ---
 
-## 07 — 1-Hour Reminder — SMS
+## 07 — 1-Hour Reminder + Review Seed — SMS
 
 ```
-Hi {{contact.first_name}} — it's almost time. Door code + Wi-Fi: https://orlandoeventvenue.org/accesscode (enter reservation #{{contact.oev_reservation_number}}). If you grab a great shot, tag us @orlandoeventvenue. — Luis & the OEV Team
+Hi {{contact.first_name}} — it's almost time! Your door code + Wi-Fi are here: https://orlandoeventvenue.org/accesscode (enter reservation #{{contact.oev_reservation_number}}) — same link becomes your quick Guest Report after the event. Grab a few photos while you're celebrating; posting them on Google with a 60-second review helps planners like you find us: https://g.page/r/CU-yUA0El90UEAE/review — Luis & the OEV Team
 ```
 
----
-
-## 08 — Review Reminder — SMS
-
-```
-Hi {{contact.first_name}} — if we hosted you well, a quick Google review helps other Orlando planners find us. 60 seconds: https://g.page/r/CU-yUA0El90UEAE/review — thanks again! Orlando Event Venue Team
-```
-
-> **Trigger:** 24 hours after booking-end time. **Skip if a Google review has been detected in the meantime** — saves the customer a redundant ask.
+> **Trigger:** 1 hour before event start time. This is the final SMS in the sequence — it does three jobs in one touch: (1) points to the access page for the live door code + Wi-Fi, (2) flags that the same link flips to the Guest Report after the event, and (3) plants the photo + review seed at the highest-attention moment. The review link goes out here once; there is no separate post-event review SMS.
+>
+> **Note (operator tradeoff):** the review link is now delivered *before* the event rather than 24h after. This trades the better-timed post-event ask for a leaner sequence and a single high-attention send. If review volume drops, the fastest recovery is re-adding a lightweight post-event SMS (old Step 08) or letting the access page's post-event Guest Report mode carry the review prompt on its own.
 
 ---
 
@@ -378,13 +371,12 @@ Hi {{contact.first_name}} — if we hosted you well, a quick Google review helps
 - Step 04 fires 30 days before event date.
 - Step 05 fires 7 days before event date.
 - Step 06 fires 1 day before event date.
-- Step 07 fires 1 hour before event start time.
-- **Step 08 fires 24 hours after booking-end time** — review reminder only. Skip if Google review already detected.
+- **Step 07 fires 1 hour before event start time** — final SMS. Carries access link + Guest Report pointer + review seed (with direct review link). No separate post-event review SMS fires.
 
 ### Marketing-machine integration
-- **Step 07** — passive UGC seed (tag prompt).
+- **Step 07** — photo + review seed (the review link is delivered here, once).
 - **Access page Guest Report** — photo collection with opt-in permission flag (dev needs to add checkbox to the report form on the page).
-- **Step 08 review** — social proof asset.
+- **Access page review link + Step 07 review link** — social proof asset.
 
 Bigger marketing-machine system (lifecycle ads, testimonial competition, social scrape) lives in [[../../06-DNA/Conversion|OEV Conversion DNA]] when scoped.
 
@@ -394,8 +386,8 @@ Bigger marketing-machine system (lifecycle ads, testimonial competition, social 
 - **Admin QA after Step 01 finds an issue:** staff reaches out manually.
 - **Bar package selected:** no special block needed in Step 01 — the rule (no outside alcohol) applies universally.
 - **SMS bounce (no mobile on file):** fall back to email for that specific touchpoint and flag the contact for staff follow-up.
-- **Customer never returns to access page post-event:** they receive the Step 08 review SMS. Guest Report completion is tracked on the page; if uncompleted after a configurable threshold, staff can manually nudge.
-- **Google review left between booking-end and Step 08:** detection skips Step 08.
+- **Customer never returns to access page post-event:** the review ask already went out in Step 07. Guest Report completion is tracked on the page; if uncompleted after a configurable threshold, staff can manually nudge.
+- **No post-event review nudge:** by design, the review ask fires once (Step 07, pre-event). If a review hasn't landed within a set window after booking-end, the fallback is a manual staff nudge or re-introducing a post-event SMS — not an automated send in this version.
 
 ### Rules + fees source
 Always reconcile to [[../../00-Brand-Core/Rules-and-Fees|OEV Rules and Fees]] before changing the Step 01 "Your Agreement at a Glance" block. If a rule or fee changes, update Rules-and-Fees first, then this template.

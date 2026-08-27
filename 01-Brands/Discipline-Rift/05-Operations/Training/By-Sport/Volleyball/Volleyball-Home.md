@@ -7,7 +7,7 @@ status: active
 canonical: true
 used_for_ai: true
 sensitivity: internal
-last_updated: 2026-04-23
+last_updated: 2026-08-11
 ---
 
 # Volleyball Home
@@ -21,6 +21,11 @@ last_updated: 2026-04-23
 
 ## Strategic role
 Volleyball is the current spearhead sport for DR because it has the strongest demand, the most teams, and the deepest proof base.
+
+## Notion wiki mirror (canonical for coaching content)
+The full **DR VOLLEYBALL** Notion wiki was mirrored into `Notion-Wiki/` on 2026-08-11 — 30 content pages: doctrine, the DR-UPS practice system, 7 skill modules, and the 6-week curriculum. Start at [[Notion-Wiki/Notion-Wiki-Home|Notion Wiki Home]].
+
+**The Notion-Wiki mirrors supersede the `Source-Docs/` OCR extractions below** — the Notion versions were rewritten in March–April 2026 and are structurally clean with named drills. Keep `Source-Docs/` only as the historical record of the original PDFs; do not use them for coaching or AI context.
 
 ## Imported structure
 ### Foundational DR docs
