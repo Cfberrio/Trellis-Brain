@@ -407,3 +407,18 @@ Always reconcile to [[../../00-Brand-Core/Rules-and-Fees|OEV Rules and Fees]] be
   - Both modes gated by reservation number.
 - **Guest Report form on the access page** should match the previous standalone Guest Report content (photo walkthrough of venue: door, main area, tables/chairs, bathrooms, kitchen + close-out checkboxes).
 - **Tracking**: the page should record Guest Report completion timestamp, photo permission flag, and any review-click events so automations can skip redundant nudges.
+
+---
+
+## Scope Note — added 2026-08-26
+
+This note is canonical for **sequence logic**: triggers, the channel matrix, information-delivery rules, edge cases, and dev handoff.
+
+It is **no longer current for copy**. The email bodies transcribed above are the 2026-05-27 version. Subject lines, step numbering, and body text have moved since. Copy authority is now the ClickUp spec doc "OEV POST BOOKING COMMUNICATIONS" plus the live templates.
+
+Rendering is a separate layer entirely. Every guest-facing email now renders through the shared design system, and the plain-text blocks above do not describe how anything looks:
+- [[../Email-Design-System|OEV Email Design System]] — the rendering layer, its module vocabulary, and the rule that design carries emphasis while wording never changes
+- [[GHL-Email-Templates|OEV GHL Email Templates]] — the five rebuilt GHL-side templates
+- [[../../00-Brand-Core/Visual-Identity|OEV Visual Identity]] — logo package, color tokens, typography
+
+**Open task:** reconcile the copy in this note against the ClickUp spec, or strip the copy blocks and leave this note purely as sequence logic.

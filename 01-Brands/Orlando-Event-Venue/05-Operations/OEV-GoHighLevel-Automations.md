@@ -133,3 +133,15 @@ Confirmed details:
 - Exact timing intervals in balance reminder sequence
 - Specific branch wording in balance reminder
 - Recipient and notification channel for cleaning report notification
+
+---
+
+## Email Rendering — added 2026-08-26
+
+GHL email templates were rebuilt on the OEV email design system. Wiring and triggers are unchanged; only HTML and CSS moved.
+
+- [[../02-Communication/Templates/GHL-Email-Templates|OEV GHL Email Templates]] — the five templates, their merge fields, and the GHL-specific gotchas (paste into Custom HTML blocks only, buttons need a wrapping `<div>`, lists must be tables)
+- [[../02-Communication/Email-Design-System|OEV Email Design System]] — the shared rendering layer, also used by eleven Supabase edge functions
+- [[../00-Brand-Core/Visual-Identity|OEV Visual Identity]] — color tokens and logo assets these templates reference
+
+**Unresolved overlap:** the GHL balance-due template and the Supabase edge function `create-balance-payment-link` send the same message. If both automations are live the guest gets two emails. Verify which one fires in production before enabling the GHL side.
