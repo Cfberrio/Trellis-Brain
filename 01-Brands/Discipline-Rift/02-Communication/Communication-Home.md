@@ -8,7 +8,7 @@ used_for_ai: true
 source_type: curated
 sensitivity: internal
 hub_role: communication-hub
-last_updated: 2026-05-21
+last_updated: 2026-08-25
 ---
 
 # Discipline Rift — Communication Home
@@ -28,10 +28,10 @@ last_updated: 2026-05-21
 - [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]] *(legacy — n8n-era reference; superseded by the Engine for syntax + channel rules)*
 - [[01-Brands/Discipline-Rift/02-Communication/DR-Script-Evaluation-Context|DR Script Evaluation Context]]
 - [[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library|DR Marketing Language Library]]
-- [[01-Brands/Discipline-Rift/02-Communication/DR-Email-Design-Spec|DR Email Design Spec]] — website design system translated for email build (color, type, components, dark mode) — now carries Luis's 2026-08 production rulings (§5.2, §9, §10.1, §11)
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Email-Design-Spec|DR Email Design Spec]] — website design system translated for email build (color, type, components, dark mode) — now carries Luis's 2026-08 production rulings (§5.2, §9, §10.1, §11) and the tokens driving the code-rendered transactional shell (see Operational Email Library below)
 - [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Email-Template|DR Parent Email Template]] — binding drafting contract for house-list marketing emails: ten slots, Luis's five rules, word caps, production chain
 - [[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|DR GoHighLevel Marketing + Registration Automations]]
-- [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]]
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]] — Registration Confirmation, Parent Guide, and Waitlist Invite migrated off n8n/ClickUp to code and DR-rebranded 2026-08-25 (fixed a `=20` encoding bug in the process); rest of the 10-template index still ClickUp-sourced
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]]
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates|School Outreach Email Templates]]
 
