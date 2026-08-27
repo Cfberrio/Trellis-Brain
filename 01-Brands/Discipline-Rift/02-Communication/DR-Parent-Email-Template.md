@@ -21,8 +21,8 @@ channel: [email]
 
 ## Related
 - [[DR-Email-Design-Spec|DR Email Design Spec]] — how the slots render
-- [[Campaigns/DR-First-Week-Of-School-Campaign-2026-08|First Week of School Campaign]] — the canonical worked example
-- [[Campaigns/DR-Email-Rewrite-Retrospective-2026-08|Email Rewrite Retrospective]] — why each rule exists
+- [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-First-Week-Of-School-Campaign-2026-08|First Week of School Campaign]] — the canonical worked example
+- [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-Email-Rewrite-Retrospective-2026-08|Email Rewrite Retrospective]] — why each rule exists
 
 # DR — Parent Email Template (House List)
 

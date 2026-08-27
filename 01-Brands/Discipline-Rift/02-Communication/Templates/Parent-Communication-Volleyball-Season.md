@@ -7,10 +7,13 @@ status: active
 canonical: true
 used_for_ai: true
 source_type: curated
-source_reference: ClickUp Doc 8cqnrff-8437 (Developer/DR/EMAILS) pages
-  8cqnrff-8077, 8097, 8117, 8137, 8157, 8177 — Weeks 1–6
+source_reference: ClickUp Doc 8cqnrff-21297 → NOTIFICATIONS (8cqnrff-28797) →
+  WEEKLY (N8N) (8cqnrff-28857), pages 8cqnrff-8077, 8097, 8117, 8137, 8157, 8177 — Weeks 1–6.
+  (Old frontmatter pointed at doc 8cqnrff-8437, which is a different near-empty doc;
+  corrected 2026-08-27.)
 owner: Luis Torres
-last_updated: 2026-08-25
+last_updated: 2026-08-27
+last_verified_against_clickup: 2026-08-27
 sensitivity: internal
 hub_role: leaf
 ---
@@ -23,12 +26,17 @@ hub_role: leaf
 ## Related
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]]
 - [[01-Brands/Discipline-Rift/06-DNA/Delivery|DR Delivery DNA]]
-- [[01-Brands/Discipline-Rift/06-DNA/Retention|DR Retention DNA]]
+- DR Retention DNA *(note not authored yet — kept as plain text so the graph stays clean)*
 - [[01-Brands/Discipline-Rift/05-Operations/SOPs/Mass-SMS-Via-GHL-SOP|Mass SMS via GHL SOP]]
 
 ## Purpose
 
-Canonical 6-week parent email sequence for the DR volleyball season. Sent the day before each weekly practice. Combines **reminder** (practice details) + **education** (week's skill focus).
+Canonical 6-week parent email sequence for the DR volleyball season. Sent **the day before** each weekly practice (every subject line says "Practice Tomorrow"). Combines **reminder** (practice details) + **education** (week's skill focus).
+
+> [!check] Verified against source 2026-08-27
+> All six emails below match ClickUp `WEEKLY (N8N)` word-for-word — no drift. Engine is **n8n** (the ClickUp container is literally named `WEEKLY (N8N)`), not GHL and not the Supabase edge functions.
+>
+> ⚠️ [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]] §5 documents a *different*, never-shipped version of this sequence — post-session recaps ("first session is done — here's how it went") sent *after* practice, with purposes like "social proof moment". That section is a 2026-04 proposal, not what sends. **This note is the live copy.**
 
 This is the **operational template family** that maps to the delivery rhythm — each email is anchored to a specific week's skill focus from the DR coaching curriculum.
 
@@ -61,6 +69,8 @@ Discipline Rift Coaching Team
 
 ## Week 1 — Passing & Setting
 
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/09-Week-1-Volleyball|ClickUp `09. Week 1 Volleyball`]]*
+
 **Subject:** Reminder: Volleyball Practice Tomorrow (Week 1 – Passing & Setting)
 
 > Hi [Parent/Guardian Name],
@@ -91,6 +101,8 @@ Discipline Rift Coaching Team
 
 ## Week 2 — Serving
 
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/10-Week-2-Volleyball|ClickUp `10. Week 2 Volleyball`]]*
+
 **Subject:** Reminder: Volleyball Practice Tomorrow (Week 2 – Serving)
 
 > Hi [Parent/Guardian Name],
@@ -117,6 +129,8 @@ Discipline Rift Coaching Team
 
 ## Week 3 — Attacking
 
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/11-Week-3-Volleyball|ClickUp `11. Week 3 Volleyball`]]*
+
 **Subject:** Reminder: Volleyball Practice Tomorrow (Week 3 – Attacking)
 
 > Hi [Parent/Guardian Name],
@@ -138,6 +152,8 @@ Discipline Rift Coaching Team
 > Discipline Rift Coaching Team
 
 ## Week 4 — Defending
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/12-Week-4-Volleyball|ClickUp `12. Week 4 Volleyball`]]*
 
 **Subject:** Reminder: Volleyball Practice Tomorrow (Week 4 – Defending)
 
@@ -161,6 +177,8 @@ Discipline Rift Coaching Team
 
 ## Week 5 — Movement
 
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/13-Week-5-Volleyball|ClickUp `13. Week 5 Volleyball`]]*
+
 **Subject:** Reminder: Volleyball Practice Tomorrow (Week 5 – Moving)
 
 > Hi [Parent/Guardian Name],
@@ -182,6 +200,8 @@ Discipline Rift Coaching Team
 > Discipline Rift Coaching Team
 
 ## Week 6 — Communicating (Last Practice)
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/14-Week-6-Volleyball|ClickUp `14. Week 6 Volleyball`]]*
 
 **Subject:** Reminder: Volleyball Practice Tomorrow (Week 6 – Communicating & Last Practice, Let's Make It Count!)
 

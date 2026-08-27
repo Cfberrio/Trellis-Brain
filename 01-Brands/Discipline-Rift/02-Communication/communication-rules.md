@@ -8,7 +8,9 @@ used_for_ai: true
 source_type: curated
 sensitivity: internal
 hub_role: leaf
-last_updated: 2026-04-21
+last_updated: 2026-08-27
+authored: 2026-04-21
+last_verified_against_clickup: 2026-08-27
 owner: Luis
 ---
 
@@ -21,11 +23,18 @@ owner: Luis
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Avatar|DR Avatar]]
 - [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
 
-**Last updated:** 2026-04-21
+**Authored:** 2026-04-21 · **Re-verified against source:** 2026-08-27
 **Brand:** Discipline Rift (DR)
 **Scope:** All parent-facing, coach-facing, and internal automated communications — email and messaging.
-**Automation platform:** n8n
+**Automation platform:** n8n (reminders #3–#7 + weekly volleyball) · Supabase Auth (#1 OTP) · Supabase edge functions / code (#2 Registration Confirmation, Parent Guide, Waitlist Invite) · GoHighLevel (marketing + registration recovery)
 **Audience segments:** Parents, Coaches (operational), Coach applicants
+
+> [!warning] Read this before trusting the template patterns below
+> The `Template pattern` code blocks in §4 and §5 are **2026-04 proposals** — how these emails *should* read. They are **not** what currently sends. For the actual live copy, use:
+> - [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]] — templates #1–#10
+> - [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]] — the live 6-week sequence
+>
+> Bug flags in §4 were re-checked against ClickUp Doc `8cqnrff-21297` (NOTIFICATIONS) on 2026-08-27; each now carries a resolved/open status.
 
 ---
 
@@ -89,7 +98,7 @@ All dynamic content in DR automations uses n8n JSON variable syntax. These diffe
 | `{{ $json.email }}` | Contact email address | maria@example.com |
 | `{{ $json.team }}` | Team or sport assigned | Volleyball |
 | `{{ $json.scheduleHtml }}` | HTML-formatted session schedule block | (rendered table) |
-| `{{ $json.otp }}` | One-time password for authentication | 482910 |
+| ~~`{{ $json.otp }}`~~ | **Does not exist.** Corrected 2026-08-27: the OTP email is a **Supabase Auth** template and uses `{{ .Token }}`, not n8n syntax | 482910 |
 
 **Rules for variable use:**
 - Always use `{{ $json.variable }}` — double curly braces, `$json.` prefix
@@ -127,8 +136,11 @@ If you didn't request this, ignore this email.
 **Notes:**
 - No fluff — OTP emails should be as short as possible
 - Code should be visually prominent (large text or button style)
-- Expiry time must be accurate — confirm with n8n workflow TTL setting
+- Expiry time must be accurate — ~~confirm with n8n workflow TTL setting~~ **confirm with the Supabase Auth OTP TTL** (corrected 2026-08-27)
 - Do not add marketing content to OTP emails
+
+> [!info] Live copy differs (verified 2026-08-27)
+> The email that actually sends is not personalized and does not use `{{ $json.* }}`. It opens **"Welcome to Discipline Rift!"**, prints `{{ .Token }}`, and states the code **expires in 24 hours**. Full text in [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library#1. OTP Email|Operational Email Library §1]].
 
 ---
 
@@ -198,8 +210,8 @@ See you soon,
 The Discipline Rift Team
 ```
 
-**⚠️ Bug flagged:**
-The current template displays **"1-Day Reminder"** in the email header/banner. This is a copy-paste error from Email 05. The banner and any internal header text must be updated to reflect "30-Day Reminder" before this sequence is live.
+**✅ Bug resolved (re-checked 2026-08-27):**
+~~The current template displays **"1-Day Reminder"** in the email header/banner.~~ The live ClickUp source for `03. 30 day reminder (N8N)` carries no header line at all — it opens straight on "There are 30 days left until the start of `{{ $json.name }}`." No copy-paste leak from Email 05 remains in the text body. *Still unverified: the banner **image** attached to the template — it is a ClickUp-hosted PNG and its baked-in text cannot be read from the doc.*
 
 **Notes:**
 - At 30 days, the parent's main need is confirmation that it's still happening + a schedule refresh
@@ -235,8 +247,9 @@ Coaches are ready. See you there.
 The Discipline Rift Team
 ```
 
-**⚠️ Bug flagged:**
-Same copy-paste issue as Email 03 — current template displays **"1-Day Reminder"** in the header/banner. Must be corrected to "7-Day Reminder."
+**✅ Bug resolved (re-checked 2026-08-27):** same as Email 03 — no "1-Day Reminder" text remains in the live body of `04. 7 day reminder (N8N)`. Banner image still unverified.
+
+**⚠️ New, minor:** the live footer prints `info@disciplinerift.com` **twice**.
 
 **What works:**
 - Logistical detail is appropriate here — parents are planning their week
@@ -300,8 +313,10 @@ Please confirm attendance by replying to this email or updating in the coach das
 — Discipline Rift Operations
 ```
 
-**⚠️ Bug flagged:**
-Current template uses `json.name` without template syntax delimiters. In n8n, this will render literally as `json.name` in the sent email — not the coach's actual name. Must be corrected to `{{ $json.name }}`.
+**✅ Bug resolved (re-checked 2026-08-27):**
+~~Current template uses `json.name` without template syntax delimiters.~~ The live source of `06. Coach session reminder` now uses `{{ $json.name }}` correctly.
+
+**⚠️ Still open:** the dashboard link is a Vercel preview host — `https://dash-board-coaches-whpv.vercel.app/`. No DR-branded domain exists for it in the vault.
 
 **Improvement opportunities:**
 - Add dashboard link: "View your full schedule at [coach dashboard URL]"
@@ -366,8 +381,8 @@ Talk soon,
 The Discipline Rift Team
 ```
 
-**⚠️ Bug flagged:**
-Current template body opens with **"Hi name,"** — the `{{ $json.firstname }}` variable is not wired up. This will send literally as "Hi name," to every applicant. Must be connected to the correct n8n field before activation.
+**🐛 Bug STILL OPEN (re-checked 2026-08-27 — unchanged since 2026-04-21):**
+Current template body opens with **"Hi name,"** — the `{{ $json.firstname }}` variable is not wired up. This sends literally as "Hi name," to every applicant. Must be connected to the correct field before activation. This is the **only** original bug flag from this document that has not been fixed at source.
 
 **What works:**
 - Numbered next-steps section sets clear expectations — reduces follow-up emails from applicants
@@ -381,6 +396,11 @@ Current template body opens with **"Hi name,"** — the `{{ $json.firstname }}` 
 ---
 
 ## 5. Volleyball Parent Email Sequence — 6-Week Nurture
+
+> [!warning] Superseded — this section is a proposal that never shipped (marked 2026-08-27)
+> What actually sends is a **pre-practice reminder** the day *before* each session, built around a skill-focus arc (Passing & Setting → Serving → Attacking → Defending → Movement → Communication). Subject format: `Reminder: Volleyball Practice Tomorrow (Week N – Focus)`. Live copy: [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]] (verified verbatim against ClickUp `WEEKLY (N8N)` 2026-08-27).
+>
+> The sequence below is a *post-session recap* concept with different timing ("day of or day after the first session") and different purposes ("social proof moment", "recognition"). Keep it as an idea bank for future nurture work — do not treat it as documentation of a live sequence.
 
 **Type:** Relationship / Retention nurture
 **Trigger:** Parent enrolled in volleyball program

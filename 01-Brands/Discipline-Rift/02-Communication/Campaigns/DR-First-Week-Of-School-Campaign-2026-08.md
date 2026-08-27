@@ -23,9 +23,9 @@ campaign: first-week-of-school-2026-08
 ## Related
 - [[DR-Email-Design-Spec|DR Email Design Spec]] — render contract (now carries the §5.2/§9/§10.1/§11 production rulings)
 - [[DR-Parent-Email-Template|DR Parent Email Template]] — the binding drafting contract derived from this campaign
-- [[Campaigns/DR-Email-Rewrite-Retrospective-2026-08|Email Rewrite Retrospective]] — full analysis of Luis's breakdown
-- [[../../06-DNA/Problem-Map|DR Problem Map]] — P1, P4, P9, X1
-- [[../../03-Evidence/Founder-Voice/Founder-QA-Library-Full|Founder Q&A Library]] — source interview
+- [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-Email-Rewrite-Retrospective-2026-08|Email Rewrite Retrospective]] — full analysis of Luis's breakdown
+- [[01-Brands/Discipline-Rift/06-DNA/Problem-Map|DR Problem Map]] — P1, P4, P9, X1
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full|Founder Q&A Library]] — source interview
 
 > **Build artifacts:** GHL-ready HTML lives in the Trellis repo at `domains/content/discipline-rift/email-html/` — `dr-boilerplate-ghl.html` (reusable 13-slot skeleton) + `2026-08-back-to-school.html` (this campaign, verified reference build). The shipped HTML from Luis's ChatGPT build is pending archive as ground truth.
 

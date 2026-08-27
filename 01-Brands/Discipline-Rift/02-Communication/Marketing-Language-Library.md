@@ -14,7 +14,7 @@ sensitivity: internal
 related_systems: []
 related_notes:
   - "[[Communication-Home]]"
-  - "[[../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]"
 hub_role: leaf
 ---
 
@@ -24,9 +24,9 @@ hub_role: leaf
 - [[Communication-Home|DR Communication Home]]
 
 ## Related
-- [[../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]
-- [[../06-DNA/Message|DR Message]]
-- [[../00-Brand-Core/Positioning|DR Positioning]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]
+- [[01-Brands/Discipline-Rift/06-DNA/Message|DR Message]]
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Positioning|DR Positioning]]
 
 ## Purpose
 Copy-ready vocabulary for DR marketing assets (ads, emails, landing pages, scripts). Organized by intent so the writer can pull from the right bucket.

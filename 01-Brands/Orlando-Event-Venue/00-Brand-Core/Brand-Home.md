@@ -9,7 +9,7 @@ used_for_ai: true
 source_type: curated
 source_reference: "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation|OEV Source Reconciliation]]"
 owner: Luis
-last_updated: 2026-04-21
+last_updated: 2026-08-26
 sensitivity: internal
 related_systems:
   - marketing
@@ -42,6 +42,7 @@ OEV is positioned first as a professional, logistics-safe venue for corporate ga
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Value-Proposition|OEV Value Proposition]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone|OEV Voice and Tone]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules|OEV Language Rules]]
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity|OEV Visual Identity]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Objections|OEV Objections]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints|OEV Constraints]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Opportunities|OEV Opportunities]]
@@ -54,6 +55,12 @@ OEV is positioned first as a professional, logistics-safe venue for corporate ga
 - [[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|OEV DNA Home]]
 - [[01-Brands/Orlando-Event-Venue/04-Projects/Venue-Partnerships/Partnerships-Home|OEV Venue Partnerships]]
 - [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation|OEV Source Reconciliation]]
+
+## Recently Activated (2026-08-26)
+The brand's visual layer, previously undocumented and living only in code and asset files:
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity|Visual Identity]] — logo variant package (4 formats x 5 variants), color tokens, typography. Normalizes the two conflicting brand blues that had shipped side by side.
+- [[01-Brands/Orlando-Event-Venue/02-Communication/Email-Design-System|Email Design System]] — the rendering layer for all guest-facing email. Eleven edge functions migrated.
+- [[01-Brands/Orlando-Event-Venue/02-Communication/Templates/GHL-Email-Templates|GHL Email Templates]] — five GHL templates rebuilt on the same system.
 
 ## Recently Activated (2026-05-21)
 - [[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home|DNA Home]] — full 11-section strategic skeleton (Market / Offer / Money-Model / Lead / Conversion / Fulfillment / Retention / Metrics / Scale / Referral-System)
@@ -106,9 +113,9 @@ The base economics only work when the lead can afford the true minimum booking t
 - OEV should not lead with "cheap" language.
 - OEV should reduce friction by making rules, pricing floors, next steps, and operational requirements obvious.
 - OEV should treat speed-to-clarity as part of the product, not just part of the sales process.
-
-## Deferred Layers
-Communication is intentionally not authored yet in this pass. When that layer is created later, it should connect back into this note but not override the positioning, constraint, or systems logic defined here.
+- OEV should look like one brand across every surface. Visual authority is [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity|Visual Identity]].
 
 ## Implementation Use
 Before changing the website, checkout logic, sales messaging, booking flow, dashboards, or automation rules, start here and then route into the relevant systems notes.
+
+Before changing anything a customer *sees* — email, logo placement, color — route through [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity|Visual Identity]] and [[01-Brands/Orlando-Event-Venue/02-Communication/Email-Design-System|Email Design System]] first.

@@ -7,11 +7,14 @@ status: active
 canonical: true
 used_for_ai: true
 source_type: curated
-source_reference: ClickUp Doc 8cqnrff-8437 (Developer/DR/EMAILS) pages
-  8cqnrff-6557, 6577, 6617, 6637, 6597, 6657, 6677, 6697 (templates 1, 3-8);
-  templates 2, 9, 10 now sourced from code — see Changelog
+source_reference: ClickUp Doc 8cqnrff-21297 → page NOTIFICATIONS (8cqnrff-28797),
+  children 8cqnrff-6557, 6577, 6617, 6637, 6597, 6657, 6677, 6697 (templates 1, 3-8);
+  templates 2, 9, 10 now sourced from code — see Changelog.
+  (Old frontmatter pointed at doc 8cqnrff-8437 — that doc is a different, near-empty
+  doc; corrected 2026-08-27.)
 owner: Luis Torres
-last_updated: 2026-08-25
+last_updated: 2026-08-27
+last_verified_against_clickup: 2026-08-27
 sensitivity: internal
 hub_role: leaf
 ---
@@ -34,26 +37,32 @@ Canonical operational email templates used across the registration → reminder 
 > [!warning] Templates 2, 9, 10 migrated off this doc (2026-08-25)
 > This note originally described the **n8n-era** ClickUp source for these templates. n8n is retired ([[01-Brands/Discipline-Rift/02-Communication/Communication-Home|Communication Home]]). The live source of truth for **Registration Confirmation**, **Parent Guide**, and **Waitlist Invite** is now code: `~/Documents/DISCIPLINERIFT/disciplinerift/supabase/functions/_shared/email-templates.ts`. The quoted block below for template #2 is kept as **historical record of the pre-fix design** — do not copy it into a live send. See [[#9. Parent Guide (migrated 2026-08-25)|§9]] and [[#10. Waitlist Invite (migrated 2026-08-25)|§10]] below, and the [[#Changelog — 2026-08-25|changelog]] at the bottom for what changed and why.
 >
-> Reminder templates (#3–5), Coach Session Reminder (#6), Parent Assistance (#7), and Coach Application Confirmation (#8) are unaffected — still whatever engine currently sends them; not verified in this pass.
+> Reminder templates (#3–5), Coach Session Reminder (#6), Parent Assistance (#7), and Coach Application Confirmation (#8) are unaffected.
+
+> [!note] Engine status corrected 2026-08-27
+> "n8n retired" is **only true for #2, #9, #10** (moved to Supabase edge functions). In the live ClickUp source the reminder + weekly families are still explicitly labelled n8n: pages `03. 30 day reminder (N8N)`, `04. 7 day reminder (N8N)`, `05. 1 day Reminder (N8N)`, `07. Parent Assistance (N8N)`, and the containers `COACHES (N8N)` and `WEEKLY (N8N)`. Treat n8n as **still the sending engine for #3–#7 and the 6-week volleyball sequence** until Luis confirms otherwise.
+> #1 OTP is neither n8n nor this repo's mailer — it is a **Supabase Auth** template (merge token `{{ .Token }}`, not `{{ $json.* }}`).
 
 Use this note as the source of truth before editing any live template.
 
 ## Template index
 
-| # | Template | Trigger | Channel | Status |
-|---|---|---|---|---|
-| 1 | OTP Email | Account verification | Transactional | Live per this doc — not re-verified 2026-08-25 |
-| 2 | Registration Confirmation | Payment processed | Transactional | **Migrated to code + DR-rebranded 2026-08-25** — see [[#Changelog — 2026-08-25|changelog]] |
-| 3 | 30-Day Reminder | 30 days pre-season | Reminder | Live per this doc — not re-verified 2026-08-25 |
-| 4 | 7-Day Reminder | 7 days pre-season | Reminder | Live per this doc — not re-verified 2026-08-25 |
-| 5 | 1-Day Reminder | 1 day pre-season | Reminder | Live per this doc — not re-verified 2026-08-25 |
-| 6 | Coach Session Reminder | Daily — session not logged | Coach ops | Live per this doc — not re-verified 2026-08-25 |
-| 7 | Parent Assistance (no-show) | Student missed practice | Attendance | Live per this doc — not re-verified 2026-08-25 |
-| 8 | Coach Application Confirmation | Coach applied | Recruiting | Live per this doc — not re-verified 2026-08-25 |
+| # | Template | Trigger | Channel | Engine | Status (verified against ClickUp 2026-08-27) |
+|---|---|---|---|---|---|
+| 1 | OTP Email | Account verification | Transactional | Supabase Auth | Matches ClickUp `01. OTP Email` — verbatim ✅ |
+| 2 | Registration Confirmation | Payment processed | Transactional | Code (`email-templates.ts`) | **Code is live; ClickUp page 02 is stale pre-fix design** — see [[#Changelog — 2026-08-25|changelog]] |
+| 3 | 30-Day Reminder | 30 days pre-season | Reminder | n8n | Matches ✅ — footer tagline outdated (see [[#Known issues open at 2026-08-27\|open issues]]) |
+| 4 | 7-Day Reminder | 7 days pre-season | Reminder | n8n | Matches ✅ — footer was missing here, added 2026-08-27 |
+| 5 | 1-Day Reminder | 1 day pre-season | Reminder | n8n | Matches ✅ — footer was missing here, added 2026-08-27 |
+| 6 | Coach Session Reminder | Daily — session not logged | Coach ops | n8n | Matches ✅ — merge-field bug from 2026-04 is **fixed** in source |
+| 7 | Parent Assistance (no-show) | Student missed practice | Attendance | n8n | Matches ✅ |
+| 8 | Coach Application Confirmation | Coach applied | Recruiting | Form → mailer | Matches ⚠️ — still hardcoded `Hi name,` (open bug) |
 | 9 | Parent Guide | Lead opts into 3-minute guide | Nurture / lead magnet | **DR-rebranded 2026-08-25**, code-only (not in this doc's original 8) |
 | 10 | Waitlist Invite | Admin clicks Invite on Manage Roster | Roster ops | **DR-rebranded 2026-08-25**, code-only (not in this doc's original 8) |
 
 ## 1. OTP Email
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/01-OTP-Email|ClickUp `01.  OTP Email`]]*
 
 > **DISCIPLINE RIFT**
 > Encouraging students to find their discipline and sport
@@ -67,7 +76,11 @@ Use this note as the source of truth before editing any live template.
 > Use this code to verify your account.
 > This code will expire in 24 hours for security purposes.
 
+Merge token is `{{ .Token }}` — **Supabase Auth syntax**, not n8n `{{ $json.* }}`. Expiry copy says **24 hours**; keep it matched to the Supabase Auth OTP TTL, not to an n8n workflow setting.
+
 ## 2. Registration Confirmation
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/02-Registration-Confirmation|ClickUp `02. Registration Confirmation`]]*
 
 > [!info] Historical only — see [[#Changelog — 2026-08-25|changelog]] for the live version
 > The quote below is the **pre-fix, off-brand** design (class-based CSS, `display:flex`/`display:grid`, `linear-gradient`, generic blue/green). It is preserved here for reference. The email parents receive today comes from `registrationConfirmationHtml()` in code — DR blue `#0497F7`, table + inline-style layout, itemized receipt with processing fee, black footer.
@@ -108,6 +121,8 @@ Use this note as the source of truth before editing any live template.
 
 ## 3. 30-Day Reminder
 
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/03-30-Day-Reminder-N8N|ClickUp `03. 30 day reminder (N8N)`]]*
+
 > Hi `{{ $json.firstname }}`,
 >
 > There are 30 days left until the start of `{{ $json.name }}`.
@@ -126,6 +141,8 @@ Use this note as the source of truth before editing any live template.
 
 ## 4. 7-Day Reminder
 
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/04-7-Day-Reminder-N8N|ClickUp `04. 7 day reminder (N8N)`]]*
+
 > Hi `{{ $json.firstname }}`,
 >
 > There are seven days left until the start of `{{ $json.name }}`.
@@ -137,8 +154,16 @@ Use this note as the source of truth before editing any live template.
 >
 > See your child on the court!
 > — Discipline Rift Team
+>
+> Discipline Rift - Youth Sports Development
+> Developing Young Athletes in Volleyball, Tennis, & Pickleball
+> Contact: info@disciplinerift.com — (407) 614-7454
+
+⚠️ The live ClickUp page prints the `info@disciplinerift.com` link **twice** in the footer. Fix in n8n on next edit.
 
 ## 5. 1-Day Reminder
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/05-1-Day-Reminder-N8N|ClickUp `05. 1 day Reminder (N8N)`]]*
 
 > **Discipline Rift — 1-Day Reminder for `{{ $json.name }}`**
 >
@@ -153,8 +178,16 @@ Use this note as the source of truth before editing any live template.
 >
 > See your child on the court!
 > — Discipline Rift Team
+>
+> Discipline Rift - Youth Sports Development
+> Developing Young Athletes in Volleyball, Tennis, & Pickleball
+> Contact: info@disciplinerift.com — (407) 614-7454
+
+⚠️ The live ClickUp page ends with an internal editorial line — **"Do you like this personality?"**. That is a note to the team, not email copy; confirm it is not inside the n8n HTML body.
 
 ## 6. Coach Session Reminder
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/COACHES-N8N/06-Coach-Session-Reminder|ClickUp `06. Coach session reminder`]]*
 
 > **Discipline Rift — Session Record Reminder**
 >
@@ -169,7 +202,13 @@ Use this note as the source of truth before editing any live template.
 > Thank you!
 > Contact: info@disciplinerift.com — (407) 614-7454
 
+Notes (2026-08-27):
+- The 2026-04 bug flag "uses bare `json.name` without delimiters" is **resolved** — the live source now uses `{{ $json.name }}`. See [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]] §Email 06.
+- Dashboard link still points at the Vercel preview host `https://dash-board-coaches-whpv.vercel.app/`. No custom DR domain in the vault. Confirm this is the intended production URL before the next coach-facing send.
+
 ## 7. Parent Assistance (Attendance Note)
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/07-Parent-Assistance-N8N|ClickUp `07. Parent Assistance (N8N)`]]*
 
 > **Discipline Rift — Attendance Note**
 >
@@ -187,6 +226,11 @@ Use this note as the source of truth before editing any live template.
 > Discipline Rift
 
 ## 8. Coach Application Confirmation
+
+*Verbatim source: [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/08-Confirmation-Application|ClickUp `08. Confirmation application`]]*
+
+> [!bug] Open bug, still present 2026-08-27
+> The live source literally reads **"Hi name,"** — the applicant first-name merge field was never wired. Every applicant receives "Hi name,". Flagged originally 2026-04-21 in [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]] §Email 08; re-checked against ClickUp today and **not fixed**.
 
 > Hi `[name]`,
 >
@@ -267,6 +311,31 @@ Not touched: `jobApplicationHtml` (internal-only, staff inbox) and `paymentNotif
 **Deployed:** `dr_ghl_registered`, `send-parent-guide`, `submit-application`, `waitlist-invite`, `ghl-sync-contacts` — manually redeployed by Domis (`supabase functions deploy … --project-ref hvgcxtawrditxvgvqfxb`; the CLI-linked account used by Claude Code gets a 403 on this project, so this step cannot be automated end-to-end yet).
 
 **Not done in this pass:** #1 OTP, #3–5 reminders, #6 coach reminder, #7 attendance note, #8 coach application — still on whatever their original engine is; not verified against Gmail-safety in this pass. `jobApplicationHtml` still has one `linear-gradient()` header (internal-only, low risk, left as-is).
+
+## Changelog — 2026-08-27 (verification pass vs ClickUp)
+
+Full re-read of ClickUp Doc `8cqnrff-21297` → **NOTIFICATIONS** and its children. What changed in this note:
+
+- **Source pointer fixed.** Frontmatter said doc `8cqnrff-8437`; that doc holds a single empty page. The real source is `8cqnrff-21297` / page `8cqnrff-28797` (NOTIFICATIONS). Same correction applied to [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]].
+- **Engine claim corrected.** "n8n retired" was over-broad — see the callout at the top. #3–#7 and the weekly volleyball sequence are still n8n-labelled at source.
+- **#1 OTP** — body verified verbatim; added that the merge token is Supabase Auth `{{ .Token }}`, not n8n syntax.
+- **#3–#5** — bodies verified verbatim. Footer block (`Youth Sports Development` / sports line / contact) was documented only under #3; now added to #4 and #5 to match source.
+- **#6** — verified; the 2026-04 merge-field bug is fixed at source. Dashboard URL still a Vercel preview host.
+- **#7** — verified verbatim.
+- **#8** — verified; `Hi name,` bug still open.
+- **Weekly volleyball (#09–#14)** — all six verified verbatim against ClickUp; no drift.
+
+## Known issues open at 2026-08-27
+
+| # | Issue | Where | Impact |
+|---|---|---|---|
+| 8 | `Hi name,` — first-name merge field never wired | ClickUp `08. Confirmation application` | Every coach applicant gets an unpersonalized greeting |
+| 3–5 | Footer tagline reads *"Developing Young Athletes in Volleyball, Tennis, & Pickleball"* — **omits Flag Football**, which DR runs (see [[01-Brands/Discipline-Rift/00-Brand-Core/Offers|DR Offers]], [[01-Brands/Discipline-Rift/06-DNA/Offer|DR Offer DNA]], and the ClickUp SPORT DESCRIPTIONS pages) | n8n reminder templates | Under-sells the catalog to flag-football parents |
+| 4 | `info@disciplinerift.com` printed twice in the footer | ClickUp `04. 7 day reminder (N8N)` | Sloppy footer |
+| 5 | Editorial line *"Do you like this personality?"* sits at the end of the page | ClickUp `05. 1 day Reminder (N8N)` | Risk of shipping an internal note to parents |
+| 2 | Phone written `(407) 6147454` (no dash) on the ClickUp page | ClickUp `02. Registration Confirmation` | Cosmetic; live code version already uses `(407) 614-7454` |
+| 6 | Coach Dashboard link is a Vercel preview URL (`dash-board-coaches-whpv.vercel.app`) | ClickUp `06. Coach session reminder` | Fragile / off-brand link in coach-facing mail |
+| 1, 3–8 | None of these have been through the Gmail-safety rebuild that #2/#9/#10 got | n8n / Supabase Auth templates | Unknown render quality; banner still a ClickUp-attachment image URL |
 
 ## Operating rules
 
