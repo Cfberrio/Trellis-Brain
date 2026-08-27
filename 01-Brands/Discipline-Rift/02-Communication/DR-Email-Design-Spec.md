@@ -15,8 +15,8 @@ related_systems: []
 related_notes:
   - "[[Communication-Home]]"
   - "[[Marketing-Language-Library]]"
-  - "[[../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]"
-  - "[[Templates/Operational-Email-Library|DR Operational Email Library]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]]"
 hub_role: leaf
 ---
 
