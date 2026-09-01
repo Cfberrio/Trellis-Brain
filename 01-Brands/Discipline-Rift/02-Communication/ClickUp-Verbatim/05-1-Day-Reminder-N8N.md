@@ -11,7 +11,8 @@ clickup_doc_id: 8cqnrff-21297
 clickup_page_id: 8cqnrff-6597
 clickup_page_name: "05. 1 day Reminder (N8N)"
 clickup_last_edited: 2026-07-01
-verbatim: true
+verbatim: false
+content_status: rewritten-2026-08-31-not-synced-to-clickup
 last_synced: 2026-08-27
 sensitivity: internal
 hub_role: leaf
@@ -22,27 +23,27 @@ hub_role: leaf
 ## Parent
 - [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS]]
 
-> [!quote] Verbatim transcription — edit in ClickUp, not here
-> Literal copy of ClickUp page `05. 1 day Reminder (N8N)` (`8cqnrff-6597`) in doc `8cqnrff-21297`. Last edited in ClickUp 2026-07-01; transcribed 2026-08-27.
+> [!warning] No longer a verbatim ClickUp mirror
+> Rewritten 2026-08-31 per Luis's feedback: leads with the sport + "is tomorrow!" instead of a countdown, adds an excitement line naming the child(ren), then schedule → team → coach. Drops the internal editorial line "Do you like this personality?" that was sitting at the end of the live ClickUp page below (that line is a note to the team, not email copy — it needs to come out in ClickUp too). See [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library#5. 1-Day Reminder|Operational Email Library §5]] for the full rationale.
 
 ---
 
 Discipline Rift
 
-1-Day Reminder for {{ $[json.name](http://json.name) }}
+{{ $json.sport }} is tomorrow!
 Hi {{ $json.firstname }},
-There is **one day** left until the start of **{{ $**[**json.name**](http://json.name) **}}**.
-Make sure to remind your child about the practices! Here’s the complete schedule:
+We're very excited to see {{ $json.childrenNames }} at practice.
 SCHEDULE
 {{ $json.scheduleHtml }}
-See your child on the court!
-— Discipline Rift Team
-Discipline Rift - Youth Sports Development
-Developing Young Athletes in Volleyball, Tennis, & Pickleball
+Team: {{ $json.name }}
+Coach: {{ $json.coachName }}
+See you on the court!
+Discipline Rift Team
+Discipline Rift
+Developing young players in volleyball, tennis, pickleball, and flag football
 Contact
 [info@disciplinerift.com](mailto:info@disciplinerift.com)
 (407) 614-7454
-Do you like this personality?
 ![](https://t9017418223.p.clickup-attachments.com/t9017418223/2e2e4c56-2271-4684-a693-2852afb63e4a/image.png)
 
 ---
@@ -52,4 +53,4 @@ Do you like this personality?
 - **Index:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS|ClickUp NOTIFICATIONS (verbatim)]]
 - **Previous page:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/04-7-Day-Reminder-N8N|04. 7 day reminder (N8N)]]
 - **Next page:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/COACHES-N8N/06-Coach-Session-Reminder|06. Coach session reminder]]
-- **Open in ClickUp:** https://app.clickup.com/9017418223/v/dc/8cqnrff-21297/8cqnrff-6597
+- **Open in ClickUp (still has the OLD copy, including the internal "Do you like this personality?" line):** https://app.clickup.com/9017418223/v/dc/8cqnrff-21297/8cqnrff-6597

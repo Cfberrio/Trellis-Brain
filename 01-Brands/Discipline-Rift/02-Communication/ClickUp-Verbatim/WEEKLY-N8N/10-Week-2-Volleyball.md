@@ -11,48 +11,63 @@ clickup_doc_id: 8cqnrff-21297
 clickup_page_id: 8cqnrff-8097
 clickup_page_name: "10. Week 2 Volleyball"
 clickup_last_edited: 2026-06-18
-verbatim: true
+verbatim: false
+content_status: rewritten-2026-08-31-not-synced-to-clickup
 last_synced: 2026-08-27
 sensitivity: internal
 hub_role: leaf
 ---
 
-# 10. Week 2 Volleyball
+# 10. Week 2 — Recall & Rebuild
+
+*(File kept at its old name/path — `10-Week-2-Volleyball.md` — so existing links don't break. This is no longer volleyball-only.)*
 
 ## Parent
 - [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/WEEKLY-N8N]]
 
-> [!quote] Verbatim transcription — edit in ClickUp, not here
-> Literal copy of ClickUp page `10. Week 2 Volleyball` (`8cqnrff-8097`) in doc `8cqnrff-21297`. Last edited in ClickUp 2026-06-18; transcribed 2026-08-27.
+> [!warning] No longer a verbatim ClickUp mirror
+> Rewritten 2026-08-31 — Luis's own final draft, pasted in directly. See [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season#Week 1 — Getting Started|DR Weekly Parent Emails]] for the full rationale. The ClickUp page below still has the old volleyball-only "Serving" copy.
 
 ---
 
-Subject: Reminder: Volleyball Practice Tomorrow (Week 2 – Serving)
-Hi \[Parent/Guardian Name\],
-Just a quick reminder that DR Volleyball practice is tomorrow.
-Week 2 Focus: Serving
-This week, players will work on serving with control and consistency. We will focus on helping
-players feel confident starting a rally and trusting their technique through lots of reps and
-encouragement.
-Weekly Reminder:
-Please remember to bring a water bottle, athletic shoes, and comfortable clothes, so your
-player is ready to practice. Knee pads are optional.
-Practice Details:
-Date: \[Day, Date\]
-Time: \[Start – End\]
-Location: \[Location\]
-Please be sure to arrive on time and pick up your player promptly after practice. This helps
-practices run smoothly for everyone.
-If you have any questions about practices or your player’s development, feel free to reach out
-to their coach through the Parent Dashboard.
-We are excited to keep growing this season together.
+Subject: Tomorrow, We're Building on What They Learned in [Sport]
+
+Hi [Parent First Name],
+
+[Player First Name]'s DR [Sport] practice is tomorrow.
+
+This week is about recalling what players learned and building from it. Before introducing the next layer, Coach [Coach Name] will challenge [Player First Name] to bring back the movements and skills they worked on last week.
+
+Tomorrow, players will:
+
+- Recall and repeat previously learned movements.
+- Reinforce the technique and small details that make those movements work.
+- Continue applying those skills through drills and game-like situations.
+- Begin learning new, related skills that connect to what they already know.
+
+For players who are ready for more, Coach [Coach Name] will add variations that require them to perform skills in new ways, combine movements, or respond to changing situations.
+
+The goal is for [Player First Name] to remember what they learned, perform it more consistently, and use that foundation to keep progressing in [Sport].
+
+[Player First Name]'s Practice Details
+
+Day: [Day]
+Schedule: [Practice Schedule]
+Location: [Location]
+
+Please have [Player First Name] bring a water bottle and arrive ready to practice.
+
+If you have any questions, you can contact Coach [Coach Name] through the Parent Dashboard.
+
+We're excited to see what [Player First Name] brings back tomorrow.
+
 Discipline Rift Coaching Team
 
 ---
 
 ## Related
-- **Curated + annotated version:** [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season#Week 2 — Serving|Volleyball Season — Week 2]]
+- **Curated + annotated version:** [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season#Week 2 — Recall & Rebuild|DR Weekly Parent Emails — Week 2]]
 - **Index:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS|ClickUp NOTIFICATIONS (verbatim)]]
-- **Previous page:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/09-Week-1-Volleyball|09. Week 1 Volleyball]]
-- **Next page:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/11-Week-3-Volleyball|11. Week 3 Volleyball]]
-- **Open in ClickUp:** https://app.clickup.com/9017418223/v/dc/8cqnrff-21297/8cqnrff-8097
+- **Previous page:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/09-Week-1-Volleyball|09. Week 1]]
+- **Next page:** [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/11-Week-3-Volleyball|11. Week 3]]
+- **Open in ClickUp (still has the OLD volleyball-only copy):** https://app.clickup.com/9017418223/v/dc/8cqnrff-21297/8cqnrff-8097
