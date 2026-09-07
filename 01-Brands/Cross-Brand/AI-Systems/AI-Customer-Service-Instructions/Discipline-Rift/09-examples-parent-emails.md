@@ -1,6 +1,11 @@
 ---
 title: DR Example Parent Emails (Reply / Problem-Solving)
-brand: Discipline Rift
+brand: Discipline-Rift
+note_type: sop
+area: communication
+subarea: ai-customer-service
+canonical: true
+hub_role: leaf
 audience: Parent
 used_for_ai: true
 last_updated: 2026-07-03
@@ -10,7 +15,10 @@ count_in_source: 20
 
 # 09 — Example Parent Emails
 
-**Canonical full set (20 real incoming→reply pairs):** [01-PARENTS.md](../../../../Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS.md)
+## Parent
+- [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README|AI Customer Service Instructions — Index (Cross-Brand copy)]]
+
+**Canonical full set (20 real incoming→reply pairs):** [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS|01-PARENTS.md]]
 All examples are verbatim DR replies to real parent questions/problems; sensitive data stripped (children's names → `[CHILD]`, parent emails/phones removed).
 
 Problem types covered in the source: refund (didn't adapt), refund + roster removal, withdrawal + curriculum complaint, makeup/travel, season status, account merge + tier fix, lost item, **behavior/roster-removal de-escalation**, program availability + eligibility + sibling discount, tournament cancellation (jersey/refund), instructor-name, makeup-date confusion, grade eligibility, sick absence, weather cancellation + pickup, no-school, season-length feedback, flyer inquiry, erroneous auto-cancellation + refund, re-registration help.
@@ -31,4 +39,4 @@ Problem types covered in the source: refund (didn't adapt), refund + roster remo
 **DR:** Hi Mr. and Mrs. Bracero... I also want to acknowledge your concern regarding the lack of earlier communication. You were right to raise that, and we should have spoken with you sooner. After our conversation, we agreed [CHILD] will return to volleyball next Wednesday. Our goal is to support him...
 
 ## How to use these
-Match the incoming problem to the closest example, then reproduce the *pattern* (acknowledge → own error → concrete fix → exact resource → next step) in DR voice — not the wording verbatim. Anything touching money/child-safety/complaints → draft + flag ([06](06-escalation-rules.md)).
+Match the incoming problem to the closest example, then reproduce the *pattern* (acknowledge → own error → concrete fix → exact resource → next step) in DR voice — not the wording verbatim. Anything touching money/child-safety/complaints → draft + flag ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules|06]]).

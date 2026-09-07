@@ -1,6 +1,14 @@
 ---
 title: CTS Bot — Vendor Email Examples
-brand: Cheese To Share (CTS)
+brand: Cheese-To-Share
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Real vendor/ops threads from the CTS inbox (30-day sent + received pull) paired with model replies in the documented vendor mode. Tone target for vendor communication.
 format: VENDOR (real thread) → CTS REPLY (model, documented mode)
 note: The subjects/senders are REAL (Playwright pull). Replies are MODEL drafts to the Communication Manual vendor templates.
@@ -9,7 +17,10 @@ updated: 2026-07-01
 
 # Vendor Email Examples
 
-Use as the tone target for [[04-vendor-communication]]. Every reply defines **history · issue · current status · exact ask**. No warmth performance, no emoji.
+## Parent
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
+
+Use as the tone target for [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/04-vendor-communication|04-vendor-communication]]. Every reply defines **history · issue · current status · exact ask**. No warmth performance, no emoji.
 
 ## 1 — Supplier reorder (Olde Hearth Bread — "Order for Wednesday?")
 **Vendor (Olde Hearth Bread Co):** "Order for Wednesday?"
@@ -102,6 +113,6 @@ Use as the tone target for [[04-vendor-communication]]. Every reply defines **hi
 > Thank you,
 > [Signature]
 
-→ *Rent/landlord is Luis-handled; if the bot drafts, keep it factual and route to Luis before sending → [[07-escalation-rules]].*
+→ *Rent/landlord is Luis-handled; if the bot drafts, keep it factual and route to Luis before sending → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]].*
 
-See also: [[04-vendor-communication]] · [[07-escalation-rules]] · [[01-brand-voice]]
+See also: [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/04-vendor-communication|04-vendor-communication]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/01-brand-voice|01-brand-voice]]

@@ -1,6 +1,11 @@
 ---
 title: DR SMS / GHL Draft Workflow
-brand: Discipline Rift
+brand: Discipline-Rift
+note_type: sop
+area: communication
+subarea: ai-customer-service
+canonical: true
+hub_role: leaf
 used_for_ai: true
 last_updated: 2026-07-03
 related: ghl-ai-draft-bots (multibrand draft-note pattern)
@@ -8,12 +13,15 @@ related: ghl-ai-draft-bots (multibrand draft-note pattern)
 
 # 08 — SMS / GHL Draft Workflow
 
+## Parent
+- [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README|AI Customer Service Instructions — Index (Cross-Brand copy)]]
+
 Same principle as email: **Claude drafts, a human sends.** Mirrors the existing GHL AI-draft-bot pattern (draft posted as an internal note; the team copies, edits, and sends manually).
 
 ## Workflow
 1. **Message arrives** through Go High Level (SMS / conversation).
 2. **System detects brand + contact** (Discipline Rift → Parent / Faculty / Coach).
-3. **Claude uses the active DR instructions** ([01](01-brand-voice.md)–[06](06-escalation-rules.md)).
+3. **Claude uses the active DR instructions** ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/01-brand-voice|01]]–[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules|06]]).
 4. **Claude generates a draft** in DR voice, sized for SMS (short, warm, one clear next step).
 5. **Draft is posted as an internal note / sticky note** on the GHL contact/conversation — **not sent to the contact.**
 6. **The team copies, edits, and sends manually.**
@@ -36,8 +44,8 @@ If escalation applies, add on the first line:
 - **One next step** (registration link, confirm a time, "we'll follow up").
 - Include the registration link when relevant: https://disciplinerift.com/register
 - **Never auto-send.** Draft note only, until the system is tested and approved.
-- **Escalate** refunds, complaints, injuries, upset contacts, pricing, child-sensitive, legal, ambiguous → [06-escalation-rules.md](06-escalation-rules.md).
-- **Don't invent facts** — if unsure, draft: "Let me confirm this with our team and we'll follow up." ([05](05-program-info-scope.md))
+- **Escalate** refunds, complaints, injuries, upset contacts, pricing, child-sensitive, legal, ambiguous → [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules|06-escalation-rules.md]].
+- **Don't invent facts** — if unsure, draft: "Let me confirm this with our team and we'll follow up." ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/05-program-info-scope|05]])
 
 ## Example draft note (parent, GHL)
 ```

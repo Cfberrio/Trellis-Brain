@@ -1,6 +1,12 @@
 ---
 title: 11 — Example Coach / Staff Emails (Annotated)
-brand: Discipline Rift
+brand: Discipline-Rift
+area: communication
+subarea: ai-customer-service
+note_type: sop
+canonical: true
+used_for_ai: true
+hub_role: leaf
 audience: Coach / Internal Staff
 purpose: Curated real DR coach replies with the lesson to copy. Full set in source.
 source: ../03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md (10 verbatim threads)
@@ -8,7 +14,13 @@ source: ../03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md (10 verbat
 
 # 11 — Example Coach / Staff Emails (Annotated)
 
-Curated from the **10 verbatim coach/staff threads**. Register: warm, appreciative, operationally precise ([04](04-coach-communication.md)). **Full set:** [03-COACHES-STAFF.md](../03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md).
+## Parent
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|AI Customer Service Instructions — Index]]
+
+## Related
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
+
+Curated from the **10 verbatim coach/staff threads**. Register: warm, appreciative, operationally precise ([[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/04-coach-communication|04]]). **Full set:** [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF|03-COACHES-STAFF.md]].
 
 Pattern reminder: read back the exact detail → thank sincerely → own any miss → state next step → personal care when fitting → sign as founder.
 
@@ -80,10 +92,10 @@ Pattern reminder: read back the exact detail → thank sincerely → own any mis
 
 ## Escalation reminder (do NOT draft a decision)
 
-Coaches also raise **hiring, pay, discipline, conflicts, terminations** — those are **escalate** ([06](06-escalation-rules.md)). Draft only the warm acknowledgment if appropriate; a human owns the decision.
+Coaches also raise **hiring, pay, discipline, conflicts, terminations** — those are **escalate** ([[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/06-escalation-rules|06]]). Draft only the warm acknowledgment if appropriate; a human owns the decision.
 
 ---
 
 ## Note on volume
 
-Genuine coach **reply** threads in this mailbox center on scheduling / availability / time-off / doc support. Day-to-day coaching (lineups, in-season adjustments) runs mostly through the **coaching app / SMS**. To expand beyond these patterns, export coach threads from the app / WhatsApp. Full set: [03-COACHES-STAFF.md](../03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md).
+Genuine coach **reply** threads in this mailbox center on scheduling / availability / time-off / doc support. Day-to-day coaching (lineups, in-season adjustments) runs mostly through the **coaching app / SMS**. To expand beyond these patterns, export coach threads from the app / WhatsApp. Full set: [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF|03-COACHES-STAFF.md]].

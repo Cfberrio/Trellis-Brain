@@ -56,6 +56,14 @@ Every message DR sends a coach, from application through season close. **New cha
 
 ---
 
+
+## Parent
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine|DR Communication Engine]]
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Chains-Index|DR Communication Chains Index]]
+
 # Full copy
 
 ## C0 — Application received · Email

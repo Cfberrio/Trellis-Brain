@@ -27,6 +27,8 @@ hub_role: leaf
 
 > [!warning] No longer a verbatim ClickUp mirror
 > Rewritten 2026-08-31 — Luis's own final draft, pasted in directly. See [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season#Week 1 — Getting Started|DR Weekly Parent Emails]] for the full rationale. The ClickUp page below still has the old volleyball-only "Movement" copy.
+>
+> **Sibling grammar fix, 2026-09-01 (approved by Luis).** Was "everything [Player First Name] **has** learned stick" → "everything [Player First Name] learned stick". `[Player First Name]` renders as `children_names`, which carries every eligible child on the team — "Camila and Celina" — so a singular verb after it was ungrammatical for the 28 Fall 2026 families with two or more children on one team. Live in `brand-kit/email/transactional/weekly-practice-*.html`.
 
 ---
 
@@ -36,7 +38,7 @@ Hi [Parent First Name],
 
 [Player First Name]'s DR [Sport] practice is tomorrow.
 
-As we approach the end of the [Season] season, this week is about making everything [Player First Name] has learned stick.
+As we approach the end of the [Season] season, this week is about making everything [Player First Name] learned stick.
 
 Over the past several weeks, players have worked on skills, movement, coordination, decision-making, teamwork, and understanding how [Sport] works.
 

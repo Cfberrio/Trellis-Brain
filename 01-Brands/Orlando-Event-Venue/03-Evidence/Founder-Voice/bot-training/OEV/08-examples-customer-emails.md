@@ -1,6 +1,14 @@
 ---
 title: OEV Bot — Verbatim Email Examples
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Real client email → OEV reply, verbatim. Gold-standard tone reference for the email workflow. Pulled 2026-07-01 from the live mailbox.
 format: CLIENT (question) → OEV REPLY (verbatim)
 threads: 9
@@ -9,7 +17,10 @@ updated: 2026-07-01
 
 # Verbatim Email Examples
 
-Use these as the tone target for [[05-email-draft-workflow]]. Note where a reply **reframes**, **states a fee plainly**, or **routes to a call**.
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
+
+Use these as the tone target for [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/05-email-draft-workflow|05-email-draft-workflow]]. Note where a reply **reframes**, **states a fee plainly**, or **routes to a call**.
 
 ## 1 — Full venue FAQ, over-capacity reframe (nonprofit dinner, 300 ppl)
 **Client (Bianca):** [8-part FAQ — availability for 300 @ May 7 6–10pm, rental fees, nonprofit discount, F&B minimums, catering, AV, parking/ADA, deposit/cancellation.]
@@ -22,7 +33,7 @@ Use these as the tone target for [[05-email-draft-workflow]]. Note where a reply
 **Client (Michelle):** multiple entertainment stations, 45 ppl, 24-hr hold for 9/8–9/10. Capacity & availability?
 **OEV:** > Hi Michelle, All of your requested dates are available, and we can put the venue on a 24-hour hold for you. I would suggest you book the daily special online. Here's the website https://orlandoeventvenue.org
 **Client:** How large is the space?
-**OEV:** > Hi Michelle! 2,000 sq feet. Since you mentioned 45 people, we definitely have room for you guys. *(Note: current bot answer is ~1,830 sq ft — see [[04-pricing-and-booking-scope]].)*
+**OEV:** > Hi Michelle! 2,000 sq feet. Since you mentioned 45 people, we definitely have room for you guys. *(Note: current bot answer is ~1,830 sq ft — see [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/04-pricing-and-booking-scope|04-pricing-and-booking-scope]].)*
 **Client:** Date change — 9/15,16,17,29,30, 10/1 available?
 **OEV:** > All of the dates that you requested are available. We do have some internal meetings taking place, but they can be moved depending on what you guys need. Happy to help
 **Client:** Visqueen on the floors OK? (paint may be involved)
@@ -36,7 +47,7 @@ Use these as the tone target for [[05-email-draft-workflow]]. Note where a reply
 **OEV (gaps + fee, honest):** > The only thing we don't currently have is the wireless microphones, which — if you approve the quote — I'll request from our main auditorium at no additional cost. We just need to coordinate in advance. Full labor for setup and teardown also needs to be added: $199 setup + $199 breakdown.
 **OEV (availability):** > Here is our calendar for September. A lot of availability as we are booked two months in advance.
 
-→ *Itemized estimate, honest gap + free fix, fees plain, offers a call.* Escalation candidate → [[07-escalation-rules]].
+→ *Itemized estimate, honest gap + free fix, fees plain, offers a call.* Escalation candidate → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]].
 
 ## 4 — "What does the LED Package include?" (audio/DJ)
 **Client (Arlene):** Does the LED Package include the basic audio package + a person for music/DJ?
@@ -74,6 +85,6 @@ Use these as the tone target for [[05-email-draft-workflow]]. Note where a reply
 **Client (Dayanara):** told to vacate by 6:30 PM; understood booking = 24-hr access (as advertised); requests the agreement.
 **OEV:** > Hello guys, Thank you for your time earlier. Please let me know if you need anything else.
 
-→ *Resolved live on the phone; written reply just closes the loop. Model for disputes → [[07-escalation-rules]].*
+→ *Resolved live on the phone; written reply just closes the loop. Model for disputes → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]].*
 
-See also: [[05-email-draft-workflow]] · [[01-brand-voice]]
+See also: [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/05-email-draft-workflow|05-email-draft-workflow]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/01-brand-voice|01-brand-voice]]

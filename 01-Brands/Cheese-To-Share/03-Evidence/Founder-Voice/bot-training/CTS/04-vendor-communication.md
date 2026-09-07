@@ -1,12 +1,23 @@
 ---
 title: CTS Bot — Vendor & Operational Communication
-brand: Cheese To Share (CTS)
+brand: Cheese-To-Share
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: How to write to vendors, delivery platforms, landlord, payments, and compliance. This is ~70% of the CTS inbox — a distinct all-business mode.
 sources: Communication-Manual (Vendor/Ops) + 30-day inbox classification
 updated: 2026-07-01
 ---
 
 # Vendor & Operational Communication
+
+## Parent
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 The CTS inbox is a **vendor & ops hub** (~70% of volume), not a customer channel. This is where suppliers, delivery platforms, POS, payments, landlord, and compliance land. **Different voice entirely** from customer email: professional, documented, clear asks — no warmth performance, no emoji.
 
@@ -21,7 +32,7 @@ The CTS inbox is a **vendor & ops hub** (~70% of volume), not a customer channel
 | Ingredients / suppliers | Sysco, Mike's Hot Honey, Olde Hearth Bread ("Order for Wednesday?"), Sam's Club | Reorders + sourcing — answer promptly, confirm quantities/dates |
 | Delivery platforms | Uber Eats (merchants@/restaurants@), DoorDash, Grubhub, Toast | Loudest sender (Toast alone ~21/mo, mostly automated reports) |
 | POS / equipment | Toast POS, POS Supply, Uber managed tablets | Documented escalation template below |
-| Payments / financial | Intuit/QuickBooks, Stripe, Bank of America alerts | Route to bookkeeping; don't action money solo → [[07-escalation-rules]] |
+| Payments / financial | Intuit/QuickBooks, Stripe, Bank of America alerts | Route to bookkeeping; don't action money solo → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]] |
 | Landlord / property | Avalon Park Group (accounting/stephanie), The 5th Floor (Britton) | Rent/statements — Luis handles |
 | Compliance / licensing | FL Dept of Revenue, DBPR/MyFloridaLicense, Responsible Vendors | Deadlines — never miss; flag to Luis |
 | Buying group | Dining Alliance (GPO / cost control) | Cost savings — worth attention |
@@ -80,7 +91,7 @@ Most platform mail is **automated reports** (Toast daily reports, Uber/DoorDash 
 
 ## Rules
 - Never send a vague escalation — history/issue/status/ask, always.
-- Don't action money, refunds, contracts, or landlord terms solo → [[07-escalation-rules]].
+- Don't action money, refunds, contracts, or landlord terms solo → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]].
 - Compliance deadlines get flagged to Luis the same day.
 
-See also: [[07-escalation-rules]] · [[09-examples-vendor-emails]] · [[01-brand-voice]]
+See also: [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/09-examples-vendor-emails|09-examples-vendor-emails]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/01-brand-voice|01-brand-voice]]

@@ -27,6 +27,8 @@ hub_role: leaf
 
 > [!warning] No longer a verbatim ClickUp mirror
 > Rewritten 2026-08-31 — Luis's own final draft, pasted in directly. See [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season#Week 1 — Getting Started|DR Weekly Parent Emails]] for the full rationale. The ClickUp page below still has the old volleyball-only "Serving" copy.
+>
+> **Sibling grammar fix, 2026-09-01 (approved by Luis).** Sign-off was "We're excited to see what [Player First Name] **brings** back tomorrow." →  "We're excited to see [Player First Name] back tomorrow." `[Player First Name]` renders as `children_names`, which carries every eligible child on the team — "Camila and Celina" — so a singular verb after it was ungrammatical for the 28 Fall 2026 families with two or more children on one team. Live in `brand-kit/email/transactional/weekly-practice-*.html`.
 
 ---
 
@@ -59,7 +61,7 @@ Please have [Player First Name] bring a water bottle and arrive ready to practic
 
 If you have any questions, you can contact Coach [Coach Name] through the Parent Dashboard.
 
-We're excited to see what [Player First Name] brings back tomorrow.
+We're excited to see [Player First Name] back tomorrow.
 
 Discipline Rift Coaching Team
 

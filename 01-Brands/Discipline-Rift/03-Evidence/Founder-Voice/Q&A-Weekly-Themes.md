@@ -22,9 +22,10 @@ hub_role: leaf
 # Founder Q&A Weekly — Themes Synthesis
 
 ## Parent
-- [[../../00-Brand-Core/Brand-Home|DR Brand Home]]
+- [[../Evidence-Home|DR Evidence Home]]
 
 ## Related
+- [[../../00-Brand-Core/Brand-Home|DR Brand Home]]
 - [[../../00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]
 - [[../../00-Brand-Core/Avatar|DR Avatar]]
 - [[../../00-Brand-Core/Objections|DR Objections]]

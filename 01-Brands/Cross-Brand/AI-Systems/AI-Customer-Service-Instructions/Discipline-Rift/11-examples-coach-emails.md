@@ -1,6 +1,11 @@
 ---
 title: DR Example Coach / Staff Emails (Reply)
-brand: Discipline Rift
+brand: Discipline-Rift
+note_type: sop
+area: communication
+subarea: ai-customer-service
+canonical: true
+hub_role: leaf
 audience: Coach / Internal Staff
 used_for_ai: true
 last_updated: 2026-07-03
@@ -10,7 +15,10 @@ count_in_source: 10
 
 # 11 — Example Coach / Staff Emails
 
-**Canonical full set (10 real incoming→reply pairs):** [03-COACHES-STAFF.md](../../../../Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md)
+## Parent
+- [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README|AI Customer Service Instructions — Index (Cross-Brand copy)]]
+
+**Canonical full set (10 real incoming→reply pairs):** [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF|03-COACHES-STAFF.md]]
 Verbatim DR replies to real coach/staff messages. Coach first names kept (internal); personal emails/phones removed.
 
 Types covered: availability collection + confirm, missed-email apology, time-off request, schedule change + personal care, blackout date, document delivery, end-of-season availability ask, individual acknowledgments, chasing a non-responsive coach, intern documentation support.
@@ -32,4 +40,4 @@ Types covered: availability collection + confirm, missed-email apology, time-off
 **DR:** Morning Coach Sebastian, We have updated the schedule. Thank you for letting me know. I appreciate your involvement in our summer camps and hope you can recover soon from your surgery. Blessings, Luis Torres
 
 ## How to use these
-Coach register is warm, appreciative, operationally precise ([04](04-coach-communication.md)): read back the exact detail, thank them, own any miss, state the next step. Hiring / firing / pay / conflicts / discipline → draft + flag ([06](06-escalation-rules.md)). Keep it warm-professional; don't replicate personal nicknames.
+Coach register is warm, appreciative, operationally precise ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/04-coach-communication|04]]): read back the exact detail, thank them, own any miss, state the next step. Hiring / firing / pay / conflicts / discipline → draft + flag ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules|06]]). Keep it warm-professional; don't replicate personal nicknames.

@@ -1,6 +1,12 @@
 ---
 title: 10 — Example Faculty / School Emails (Annotated)
-brand: Discipline Rift
+brand: Discipline-Rift
+area: communication
+subarea: ai-customer-service
+note_type: sop
+canonical: true
+used_for_ai: true
+hub_role: leaf
 audience: Faculty / School Admin
 purpose: Curated real DR faculty replies with the lesson to copy. Full set in source.
 source: ../03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md (10 verbatim threads)
@@ -9,7 +15,13 @@ note: Plan target was 10–20 (ideally 20). Source currently has 10. See expansi
 
 # 10 — Example Faculty / School Emails (Annotated)
 
-Curated from the **10 verbatim faculty/school threads**. Faculty is the **highest-priority** audience ([03](03-faculty-communication.md)). **Full set:** [02-FACULTY-SCHOOLS.md](../03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md).
+## Parent
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|AI Customer Service Instructions — Index]]
+
+## Related
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
+
+Curated from the **10 verbatim faculty/school threads**. Faculty is the **highest-priority** audience ([[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/03-faculty-communication|03]]). **Full set:** [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS|02-FACULTY-SCHOOLS.md]].
 
 Register: more formal than parents — professional, organized, flexible, never pushy.
 
@@ -32,7 +44,7 @@ Register: more formal than parents — professional, organized, flexible, never 
 > 9. References: happy to provide from partner schools.
 > 10. Agreements: we can share an agreement for your review.
 
-**Lesson:** The gold-standard vetting reply. Answer **every question in order, numbered**, lead with trust items. → **Bot:** these are the canonical facts ([05](05-program-info-scope.md)) — reproduce them exactly.
+**Lesson:** The gold-standard vetting reply. Answer **every question in order, numbered**, lead with trust items. → **Bot:** these are the canonical facts ([[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/05-program-info-scope|05]]) — reproduce them exactly.
 
 ---
 
@@ -93,10 +105,10 @@ Register: more formal than parents — professional, organized, flexible, never 
 
 ## Also in the full set
 
-Roster sport-switch confirmation, Facilitron process confirmation ("we'll send Facilitron reservations for Thursdays"), capacity question ("~20–24 per session"), and a returning-partner warm reply ("Welcome back! Congrats on your baby"). See [02-FACULTY-SCHOOLS.md](../03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md).
+Roster sport-switch confirmation, Facilitron process confirmation ("we'll send Facilitron reservations for Thursdays"), capacity question ("~20–24 per session"), and a returning-partner warm reply ("Welcome back! Congrats on your baby"). See [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS|02-FACULTY-SCHOOLS.md]].
 
 ---
 
 ## Expansion note (to reach the 10–20 / ideal 20 target)
 
-The plan asked for **10–20 faculty examples (ideally 20)**; the source currently holds **10**. To expand, export more faculty reply threads from **info@disciplinerift.com** covering: cold-outreach → first school reply, agreement/COI exchanges, references requests, multi-sport season planning, and end-of-season renewals. Add them to [02-FACULTY-SCHOOLS.md](../03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md) first, then curate the strongest here.
+The plan asked for **10–20 faculty examples (ideally 20)**; the source currently holds **10**. To expand, export more faculty reply threads from **info@disciplinerift.com** covering: cold-outreach → first school reply, agreement/COI exchanges, references requests, multi-sport season planning, and end-of-season renewals. Add them to [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS|02-FACULTY-SCHOOLS.md]] first, then curate the strongest here.

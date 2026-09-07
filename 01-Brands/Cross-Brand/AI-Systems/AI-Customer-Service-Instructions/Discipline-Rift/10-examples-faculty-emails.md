@@ -1,6 +1,11 @@
 ---
 title: DR Example Faculty / School Emails (Reply / Problem-Solving)
-brand: Discipline Rift
+brand: Discipline-Rift
+note_type: sop
+area: communication
+subarea: ai-customer-service
+canonical: true
+hub_role: leaf
 audience: Faculty / School / Admin
 used_for_ai: true
 last_updated: 2026-07-03
@@ -10,7 +15,10 @@ count_in_source: 10
 
 # 10 — Example Faculty / School Emails
 
-**Canonical full set (10 real incoming→reply pairs):** [02-FACULTY-SCHOOLS.md](../../../../Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md)
+## Parent
+- [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README|AI Customer Service Instructions — Index (Cross-Brand copy)]]
+
+**Canonical full set (10 real incoming→reply pairs):** [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS|02-FACULTY-SCHOOLS.md]]
 Verbatim DR replies to real school questions/concerns; the back-and-forth, not cold outreach. School names + staff names kept (professional); children's names → `[CHILD]`.
 
 > Target is **10–20 faculty examples, ideally 20.** The source currently holds 10 verified reply pairs. To reach 20, add more real threads (see the faculty inbound in the Sent/inbox — many schools reply and DR answers). Flag if you want the pull extended.
@@ -32,4 +40,4 @@ Types covered: details-request → 10-point logistics, season planning + gym con
 **DR:** Hi Ms. Megan! Anytime! Sounds good. Please keep me updated so I can update info on our website as you plan it.
 
 ## How to use these
-Faculty register is more formal + logistics-focused ([03](03-faculty-communication.md)). Answer every question asked, lead with trust items (insurance/screening/ratios) when a school is vetting, stay flexible, never pressure on a "no", confirm the next concrete action. Contracts/pricing/legal → draft + flag ([06](06-escalation-rules.md)).
+Faculty register is more formal + logistics-focused ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/03-faculty-communication|03]]). Answer every question asked, lead with trust items (insurance/screening/ratios) when a school is vetting, stay flexible, never pressure on a "no", confirm the next concrete action. Contracts/pricing/legal → draft + flag ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules|06]]).

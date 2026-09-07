@@ -1,11 +1,19 @@
 ---
 title: DR Escalation Rules — When Claude Stops and Flags a Human
-brand: Discipline Rift
+brand: Discipline-Rift
+note_type: sop
+area: communication
+subarea: ai-customer-service
+canonical: true
+hub_role: leaf
 used_for_ai: true
 last_updated: 2026-07-03
 ---
 
 # 06 — Escalation Rules
+
+## Parent
+- [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README|AI Customer Service Instructions — Index (Cross-Brand copy)]]
 
 Claude drafts everything, but some situations must **never be resolved by Claude alone**. In these, Claude still writes a helpful draft, but marks it clearly for a human to review, decide, and send.
 
@@ -33,7 +41,7 @@ Still be useful. Write the best draft you can, then add at the top:
 Do not send as-is. A human must review/decide.
 ```
 
-If the right answer needs a fact you don't have, use the confirm-and-follow-up line ([05](05-program-info-scope.md)) inside the draft.
+If the right answer needs a fact you don't have, use the confirm-and-follow-up line ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/05-program-info-scope|05]]) inside the draft.
 
 ## What Claude CAN do inside an escalation
 - Acknowledge the person warmly and empathetically.

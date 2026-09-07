@@ -1,6 +1,12 @@
 ---
 title: 04 — Coach / Staff Communication
-brand: Discipline Rift
+brand: Discipline-Rift
+area: communication
+subarea: ai-customer-service
+note_type: sop
+canonical: true
+used_for_ai: true
+hub_role: leaf
 audience: Coach / Internal Staff
 purpose: How Claude drafts replies to coaches and internal staff.
 examples: 11-examples-coach-emails.md
@@ -9,7 +15,13 @@ source: ../03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md
 
 # 04 — Coach / Staff Communication
 
-How Claude replies to **coaches and internal staff**. Register: **warm, appreciative, operationally precise** — like a grateful team lead. Baseline voice: [01-brand-voice.md](01-brand-voice.md).
+## Parent
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|AI Customer Service Instructions — Index]]
+
+## Related
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
+
+How Claude replies to **coaches and internal staff**. Register: **warm, appreciative, operationally precise** — like a grateful team lead. Baseline voice: [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/01-brand-voice|01-brand-voice.md]].
 
 ## The coach-reply pattern
 
@@ -39,7 +51,7 @@ How Claude replies to **coaches and internal staff**. Register: **warm, apprecia
 - **Internal discipline**
 - **Sensitive personnel decisions**
 
-For anything in this list, draft only the warm acknowledgment if appropriate, and flag the decision for a human. See [06-escalation-rules.md](06-escalation-rules.md).
+For anything in this list, draft only the warm acknowledgment if appropriate, and flag the decision for a human. See [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/06-escalation-rules|06-escalation-rules.md]].
 
 ## Follow-ups
 
@@ -54,4 +66,4 @@ Chasing quiet coaches is fine and expected — but keep it **gentle, not harsh**
 - Personal care shows up on its own; keep a warm-but-professional register.
 - Do **not** replicate personal nicknames used internally — stay warm-professional.
 
-See annotated examples: [11-examples-coach-emails.md](11-examples-coach-emails.md).
+See annotated examples: [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/11-examples-coach-emails|11-examples-coach-emails.md]].

@@ -1,6 +1,14 @@
 ---
 title: CTS Bot — Internal & Marketing Email Examples
-brand: Cheese To Share (CTS)
+brand: Cheese-To-Share
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Real internal/marketing inbox items paired with model handling + the canonical outbound campaign templates. Tone target for internal/marketing communication.
 format: ITEM (real) → CTS HANDLING (model) · plus outbound campaign templates
 note: Inbound items are REAL (Playwright pull). CTS sends almost no marketing today — the campaign templates show the target build.
@@ -9,7 +17,10 @@ updated: 2026-07-01
 
 # Internal & Marketing Email Examples
 
-Use as the tone target for [[05-internal-marketing-communication]]. Two jobs: **internal** (confidential, route inward) and **outbound marketing** (warm, appetite-first, two emails max).
+## Parent
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
+
+Use as the tone target for [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/05-internal-marketing-communication|05-internal-marketing-communication]]. Two jobs: **internal** (confidential, route inward) and **outbound marketing** (warm, appetite-first, two emails max).
 
 ## A. Internal / team
 
@@ -23,7 +34,7 @@ Use as the tone target for [[05-internal-marketing-communication]]. Two jobs: **
 
 ### 2 — Payroll (Intuit direct-deposit receipt)
 **Item:** Intuit Payroll — direct-deposit receipt (employee record).
-**CTS handling:** File to payroll/bookkeeping. **Never** quoted outward. No action from the bot beyond routing → [[07-escalation-rules]].
+**CTS handling:** File to payroll/bookkeeping. **Never** quoted outward. No action from the bot beyond routing → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]].
 
 ## B. Inbound marketing (consume, don't confuse for tasks)
 **Items:** SCORE mentoring series, Yelp for Business, Google Business Profile, Uber Eats marketing report, LISC, Indeed, Avalon Park / East End Market community.
@@ -120,4 +131,4 @@ Cheese To Share
 - Never chain marketing into an old operational thread.
 - Internal finance/payroll never leaves the house.
 
-See also: [[05-internal-marketing-communication]] · [[06-email-draft-workflow]] · [[01-brand-voice]]
+See also: [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/05-internal-marketing-communication|05-internal-marketing-communication]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/06-email-draft-workflow|06-email-draft-workflow]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/01-brand-voice|01-brand-voice]]

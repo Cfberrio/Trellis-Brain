@@ -1,12 +1,23 @@
 ---
 title: OEV Bot — Pricing & Booking Scope (Source of Truth)
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: The single authoritative fact sheet. Every number the bot states comes from here. If a fact isn't here, the bot says it will confirm — it does not invent.
 updated: 2026-07-01
 note: Two source docs conflicted on rate and size. Reconciled per operator decision (2026-07-01) — see "Reconciliation notes".
 ---
 
 # Pricing & Booking Scope — Source of Truth
+
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
 
 ## Reconciliation notes (read first)
 - **Rate:** Standard **$140/hour (4-hour minimum)**. **$99/hour is a weekday promo unlocked by a code.** Bot quotes $140/hr unless a valid weekday code applies, then $99/hr.
@@ -44,9 +55,9 @@ note: Two source docs conflicted on rate and size. Reconciled per operator decis
 ## Deposit, balance, changes
 - **Deposit secures the date.** No date is held without a reservation.
 - **Remaining 50%** due ~2 weeks before the event.
-- **Payment links expire in 24–48h** — resend on request (confirm the email first). → [[06-ghl-sms-workflow]]
+- **Payment links expire in 24–48h** — resend on request (confirm the email first). → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/06-ghl-sms-workflow|06-ghl-sms-workflow]]
 - **Headcount changes** allowed up to **3 days before**. After that, **no refund** — inventory is already purchased.
-- Credit not applied at checkout can be **refunded** after the fact (escalate the refund → [[07-escalation-rules]]).
+- Credit not applied at checkout can be **refunded** after the fact (escalate the refund → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]]).
 
 ## Bar packages (per person — includes 4h service + bar setup + 1 bartender)
 | Package | Price/pp |
@@ -78,7 +89,7 @@ note: Two source docs conflicted on rate and size. Reconciled per operator decis
 ## Recurring / weekly bookings
 - Supported (churches/ministries book weekly).
 - Requests seen: ~$180/week ($720/mo) for Sunday-morning service blocks.
-- **No standard weekly rate is published yet** → treat as a custom quote, escalate → [[07-escalation-rules]].
+- **No standard weekly rate is published yet** → treat as a custom quote, escalate → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]].
 
 ## Scope: what the bot CAN quote vs must ESCALATE
 | Bot can quote directly | Escalate to human |
@@ -89,4 +100,4 @@ note: Two source docs conflicted on rate and size. Reconciled per operator decis
 | Deposit/balance/change rules | Refunds, credit adjustments, disputes |
 | Photo/video $200/h, LED $594/6h | Non-Chara vendor vetting decisions |
 
-See also: [[02-customer-communication]] · [[07-escalation-rules]]
+See also: [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/02-customer-communication|02-customer-communication]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]]

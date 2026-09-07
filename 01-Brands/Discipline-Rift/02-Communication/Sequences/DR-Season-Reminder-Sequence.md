@@ -47,6 +47,15 @@ Every message **during** the season — the weekly parent nurture, the light per
 
 ---
 
+
+## Parent
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine|DR Communication Engine]]
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]]
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Sport-Week-Banks|DR Sport Week Banks]]
+
 # Full copy — weekly nurture
 
 *(Volleyball set. Structure is fixed; swap the sport-specific skill lines for other sports.)*

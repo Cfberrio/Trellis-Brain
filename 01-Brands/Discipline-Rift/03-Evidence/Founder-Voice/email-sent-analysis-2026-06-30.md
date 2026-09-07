@@ -1,6 +1,14 @@
 ---
 title: Discipline Rift — Sent Email Analysis (Founder Voice)
-brand: Discipline Rift
+brand: Discipline-Rift
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: email
+hub_role: leaf
 source: info@disciplinerift.com — Sent folder
 extracted: 2026-06-30
 extracted_by: Claude Code (Playwright)
@@ -9,6 +17,15 @@ privacy: Student names, parent personal emails, and private data redacted. Schoo
 ---
 
 # Discipline Rift — Sent Email Analysis
+
+## Parent
+- [[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home|DR Evidence Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS|Bot Training — Parents]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS|Bot Training — Faculty/Schools]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF|Bot Training — Coaches/Staff]]
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|AI Customer Service Instructions]]
 
 Reference doc capturing **how Discipline Rift actually communicates by email**, broken down by audience. Pulled from the live Sent folder of `info@disciplinerift.com` (signed by Luis Torres / "Coach Luis"). Sensitive data removed per privacy rule: no student names, no parent personal emails, no home addresses.
 

@@ -36,6 +36,9 @@ hub_role: brand-hub
 - [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
 - [[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home|DRF Home (franchise/licensee)]]
 
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|DR AI Customer Service Instructions]]
+- [[01-Brands/Discipline-Rift/Notion/_index|DR Notion Export (Coach Hub + Sport Wikis)]]
+
 ## Related
 - [[01-Brands/Discipline-Rift/06-DNA/Market|DR Market]]
 - [[01-Brands/Discipline-Rift/06-DNA/Problem|DR Problem]]

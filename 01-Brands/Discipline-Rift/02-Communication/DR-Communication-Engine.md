@@ -169,3 +169,17 @@ SMS was cosmetic before; now it ships. Non-negotiables:
 ---
 
 *Source of truth for how DR talks to parents. Update this file first, then the sequence docs.*
+
+## Parent
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+
+## Children
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Registration-Sequence|DR Registration Sequence]]
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Lead-Magnet-Sequence|DR Lead Magnet Sequence]]
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Season-Reminder-Sequence|DR Season Reminder Sequence]]
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Coach-Communication-Chain|DR Coach Communication Chain]]
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Sport-Week-Banks|DR Sport Week Banks]]
+
+## Related
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Chains-Index|DR Communication Chains Index]]
+- [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]]

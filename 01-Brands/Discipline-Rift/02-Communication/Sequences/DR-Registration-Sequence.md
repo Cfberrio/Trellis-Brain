@@ -46,6 +46,14 @@ Every message from **the moment a parent registers a child** through **the first
 
 ---
 
+
+## Parent
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine|DR Communication Engine]]
+- [[01-Brands/Discipline-Rift/01-Systems/Platform/Registration-and-Checkout-Flow|Registration and Checkout Flow]]
+
 # Full copy
 
 ## 0 — Verification code (OTP) · Email · transactional

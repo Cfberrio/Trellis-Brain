@@ -1,6 +1,14 @@
 ---
 title: OEV Bot — Verbatim SMS Examples
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Real client SMS → OEV reply, verbatim. Tone target for the GHL SMS workflow. Bilingual. Names kept from the 90-day pull.
 format: CLIENT (question) → OEV REPLY (verbatim)
 updated: 2026-07-01
@@ -8,7 +16,10 @@ updated: 2026-07-01
 
 # Verbatim SMS Examples
 
-Tone target for [[06-ghl-sms-workflow]]. Short, warm, specific, bilingual.
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
+
+Tone target for [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/06-ghl-sms-workflow|06-ghl-sms-workflow]]. Short, warm, specific, bilingual.
 
 ## Availability
 **(689) 284-7093 · ES:** > Hola, buenos días, ¿está disponible el salón para mañana?
@@ -92,4 +103,4 @@ Tone target for [[06-ghl-sms-workflow]]. Short, warm, specific, bilingual.
 **G Gonzalez:** > ¿Cuál es tu nombre? ¿Me pasas tu número?
 **OEV:** > Saludos! Luis Torres 407 276 3234
 
-See also: [[06-ghl-sms-workflow]] · [[01-brand-voice]] · [[03-tour-follow-up]]
+See also: [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/06-ghl-sms-workflow|06-ghl-sms-workflow]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/01-brand-voice|01-brand-voice]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/03-tour-follow-up|03-tour-follow-up]]

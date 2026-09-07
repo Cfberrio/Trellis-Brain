@@ -1,6 +1,14 @@
 ---
 title: OEV Email Training Data — CLIENT Q&A REPLIES
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: email
+hub_role: leaf
 audience: Prospective / booked clients
 source: orlandoeventvenue@gmail.com — real reply threads (Sent + Inbox)
 extracted: 2026-07-01
@@ -11,6 +19,13 @@ threads: 9
 ---
 
 # OEV → CLIENT — Verbatim Reply Threads
+
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
+
+## Related
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/01-brand-voice|OEV Bot — Brand Voice]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/08-examples-customer-emails|OEV Bot — Verbatim Email Examples]]
 
 Real conversations where a client emailed OEV and **OEV replied**. Verbatim. Nothing automated. Pulled 2026-07-01 via browser from the live mailbox.
 

@@ -1,12 +1,23 @@
 ---
 title: CTS Bot — Email Draft Workflow
-brand: Cheese To Share (CTS)
+brand: Cheese-To-Share
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Step-by-step for drafting any email reply, with the canonical sequence templates. Email is the DEFAULT channel; SMS is payment links only.
 sources: Communication-Manual Sequences 1–3 (verbatim templates)
 updated: 2026-07-01
 ---
 
 # Email Draft Workflow
+
+## Parent
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 Email is CTS's default channel. Most customer inbound is a **multi-question inquiry** — the move: answer every question in one reply, echo customizations, route payment to SMS.
 
@@ -120,7 +131,7 @@ Yes! Of course!! [emoji if tone matches]
 ---
 
 ## Sequence 3 — Catering Inquiry → Booking
-Full flow + intake in [[03-catering-inquiries]]. Key templates:
+Full flow + intake in [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/03-catering-inquiries|03-catering-inquiries]]. Key templates:
 
 **Step 2 — Gather details**
 ```text
@@ -174,7 +185,7 @@ Please send us your phone number and we'll text a payment link right away.
 
 ## Don'ts
 - Don't answer 4 questions and silently skip the 5th.
-- Don't quote catering beyond standard tiers without Luis → [[07-escalation-rules]].
+- Don't quote catering beyond standard tiers without Luis → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]].
 - Don't send a post-payment confirmation missing date, time, or full location.
 
-See also: [[01-brand-voice]] · [[03-catering-inquiries]] · [[08-examples-customer-emails]]
+See also: [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/01-brand-voice|01-brand-voice]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/03-catering-inquiries|03-catering-inquiries]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/08-examples-customer-emails|08-examples-customer-emails]]

@@ -44,6 +44,13 @@ The weekly parent email, built once per sport. [[DR-Season-Reminder-Sequence]] d
 
 ---
 
+
+## Parent
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Season-Reminder-Sequence|DR Season Reminder Sequence]]
+
 # Flag Football — Weeks 1–6
 
 Cues and themes below are taken verbatim from `Training/By-Sport/Flag-Football/Source-Docs/Week-1` through `Week-6`. The coach is already saying these words at practice. Putting the same words in the parent's inbox is what makes a parent's question at dinner land.

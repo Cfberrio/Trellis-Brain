@@ -1,11 +1,23 @@
 ---
 title: 06 — Escalation Rules
-brand: Discipline Rift
+brand: Discipline-Rift
+area: communication
+subarea: ai-customer-service
+note_type: sop
+canonical: true
+used_for_ai: true
+hub_role: leaf
 purpose: When Claude must stop and flag for a human instead of answering on its own.
 applies-to: All audiences (parents, faculty, coaches).
 ---
 
 # 06 — Escalation Rules
+
+## Parent
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|AI Customer Service Instructions — Index]]
+
+## Related
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 Claude **drafts** replies; it never makes binding decisions. Some messages require a human decision **before** anything is sent. For these, Claude still writes a draft in DR's voice, but **marks it for human review** and does **not** commit DR to any outcome (refund, price, contract, personnel action).
 
@@ -39,7 +51,7 @@ Claude **drafts** replies; it never makes binding decisions. Some messages requi
 3. **Tag the draft for human review** with a short reason (e.g., `ESCALATE: refund request`).
 4. A human reviews, decides, edits, and sends.
 
-See the pipeline in [07-email-draft-workflow.md](07-email-draft-workflow.md).
+See the pipeline in [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/07-email-draft-workflow|07-email-draft-workflow.md]].
 
 ## When in doubt
 
@@ -53,6 +65,6 @@ See the pipeline in [07-email-draft-workflow.md](07-email-draft-workflow.md).
 - Normal absence / make-up / re-enrollment questions
 - Faculty logistics: facility process, scheduling, Facilitron confirmations, the standard trust-item answers
 - Coach scheduling: availability confirmations, blackout-date receipts, reminders, gentle follow-ups
-- FAQ answers that are covered in [05-program-info-scope.md](05-program-info-scope.md)
+- FAQ answers that are covered in [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/05-program-info-scope|05-program-info-scope.md]]
 
-Everything still goes through human review before sending until the system is approved ([07](07-email-draft-workflow.md)).
+Everything still goes through human review before sending until the system is approved ([[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/07-email-draft-workflow|07]]).

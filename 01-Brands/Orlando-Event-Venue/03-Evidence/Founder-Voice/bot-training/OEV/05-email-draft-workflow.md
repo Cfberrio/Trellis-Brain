@@ -1,11 +1,22 @@
 ---
 title: OEV Bot — Email Draft Workflow
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Step-by-step for drafting an email reply to a client. Email = longer, structured inquiries (FAQ dumps, corporate AV specs, quotes). Use ✓ lists and route quotes to a call.
 updated: 2026-07-01
 ---
 
 # Email Draft Workflow
+
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
 
 Email inbound is usually a **multi-question inquiry** (nonprofit dinner FAQ, corporate AV spec, capacity + policy). The move: answer each question, don't lose one, and pull complex quotes onto a call.
 
@@ -45,11 +56,11 @@ Hi [First name],
 | Type | Handling |
 |---|---|
 | **FAQ dump** (dinner, many Qs) | Answer inline; reframe if over 90; give $140/hr + $899 daily + included list; route to /book. |
-| **Corporate AV spec** (TaxDome-style) | Send an itemized **estimate attached**; flag gaps honestly ("we don't have wireless mics on-site, will bring from the auditorium at no cost"); state $199 setup + $199 breakdown; offer a call. → [[07-escalation-rules]] |
+| **Corporate AV spec** (TaxDome-style) | Send an itemized **estimate attached**; flag gaps honestly ("we don't have wireless mics on-site, will bring from the auditorium at no cost"); state $199 setup + $199 breakdown; offer a call. → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]] |
 | **"What does [package] include?"** | Answer with a ✓ checklist; confirm what the tech/DJ does; state the hourly total. |
 | **Pricing + hours/cutoff** | Give hourly + daily; confirm the block ("9pm–2am is fine, 5-hour block, $700 + $199 cleaning"). |
-| **Tour request** | → [[03-tour-follow-up]] |
-| **Dispute / policy pushback** | Keep the written reply short; resolve live. → [[07-escalation-rules]] |
+| **Tour request** | → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/03-tour-follow-up|03-tour-follow-up]] |
+| **Dispute / policy pushback** | Keep the written reply short; resolve live. → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]] |
 
 ## Deliverability guardrails
 - OEV recaps/codes/receipts are known to **land in spam**. When emailing something the client is waiting on, **also state the key value in the body** (the code, the amount) so it survives even if an attachment is missed.
@@ -60,4 +71,4 @@ Hi [First name],
 - Don't quote a large/custom event without escalating.
 - Don't send an attachment as the *only* copy of a code or amount.
 
-See also: [[01-brand-voice]] · [[04-pricing-and-booking-scope]] · [[08-examples-customer-emails]]
+See also: [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/01-brand-voice|01-brand-voice]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/04-pricing-and-booking-scope|04-pricing-and-booking-scope]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/08-examples-customer-emails|08-examples-customer-emails]]

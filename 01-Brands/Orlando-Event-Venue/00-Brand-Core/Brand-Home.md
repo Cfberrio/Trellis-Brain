@@ -82,6 +82,18 @@ These systems are planned for OEV but notes do not yet exist. Do not link from a
 - Website-Current-State — current website state documentation
 - OEV-Dashboard-Summary, OEV-Staff-Dashboard-Summary — operations dashboard notes (Tools/ folder does not exist; check against OEV-Admin-Command-Center and OEV-Staff-Operations-Console)
 
+## Children — Evidence (Bot Training / Founder Voice)
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/01-CLIENT-QA-REPLIES|OEV Email Training Data — Client Q&A Replies]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/01-brand-voice|OEV Bot — Brand Voice]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/02-customer-communication|OEV Bot — Customer Communication Playbook]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/03-tour-follow-up|OEV Bot — Tour Scheduling & Follow-Up]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/04-pricing-and-booking-scope|OEV Bot — Pricing & Booking Scope]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/05-email-draft-workflow|OEV Bot — Email Draft Workflow]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/06-ghl-sms-workflow|OEV Bot — GHL SMS Workflow]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|OEV Bot — Escalation Rules]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/08-examples-customer-emails|OEV Bot — Verbatim Email Examples]]
+- [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/09-examples-customer-texts|OEV Bot — Verbatim SMS Examples]]
+
 ## Related
 - [[00-Trellis-Core/Routing-Rules|Routing Rules]]
 - [[00-Trellis-Core/Metadata-Standard|Metadata Standard]]

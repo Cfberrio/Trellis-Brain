@@ -23,7 +23,7 @@ last_updated: 2026-08-11
 Volleyball is the current spearhead sport for DR because it has the strongest demand, the most teams, and the deepest proof base.
 
 ## Notion wiki mirror (canonical for coaching content)
-The full **DR VOLLEYBALL** Notion wiki was mirrored into `Notion-Wiki/` on 2026-08-11 — 30 content pages: doctrine, the DR-UPS practice system, 7 skill modules, and the 6-week curriculum. Start at [[Notion-Wiki/Notion-Wiki-Home|Notion Wiki Home]].
+The full **DR VOLLEYBALL** Notion wiki was mirrored into `Notion-Wiki/` on 2026-08-11 — 30 content pages: doctrine, the DR-UPS practice system, 7 skill modules, and the 6-week curriculum. Start at [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home|Notion Wiki Home]].
 
 **The Notion-Wiki mirrors supersede the `Source-Docs/` OCR extractions below** — the Notion versions were rewritten in March–April 2026 and are structurally clean with named drills. Keep `Source-Docs/` only as the historical record of the original PDFs; do not use them for coaching or AI context.
 
@@ -66,22 +66,22 @@ Start with Start Here, Core Values, Terminology, and Tier System. Then use the w
 
 
 ## Source Library
-- [[Start-Here]]
-- [[Core-Values]]
-- [[Terminology]]
-- [[Tier-System]]
-- [[Why-DR-Practice]]
-- [[DR-Practice]]
-- [[Passing]]
-- [[Setting]]
-- [[Serving]]
-- [[Attacking]]
-- [[Defending]]
-- [[Communicating]]
-- [[Moving]]
-- [[Week-1-Passing-and-Setting]]
-- [[Week-2-Serving]]
-- [[Week-3-Attacking]]
-- [[Week-4-Defending]]
-- [[Week-5-Moving]]
-- [[Week-6-Communicating]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Start-Here|Start Here]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Core-Values|Core Values]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Terminology|Terminology]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Tier-System|Tier System]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Why-DR-Practice|Why DR Practice]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/DR-Practice|DR Practice]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Passing|Passing]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Setting|Setting]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Serving|Serving]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Attacking|Attacking]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Defending|Defending]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Communicating|Communicating]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Moving|Moving]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Week-1-Passing-and-Setting|Week 1 Passing and Setting]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Week-2-Serving|Week 2 Serving]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Week-3-Attacking|Week 3 Attacking]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Week-4-Defending|Week 4 Defending]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Week-5-Moving|Week 5 Moving]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Week-6-Communicating|Week 6 Communicating]]

@@ -37,6 +37,14 @@ Every message from **a parent opting in** (popup / guide download / newsletter) 
 
 ---
 
+
+## Parent
+- [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine|DR Communication Engine]]
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Guides-Library|Parent Guides Library]]
+
 # Full copy
 
 ## 0 — Deliver the guide · Email + SMS · fires immediately

@@ -1,12 +1,24 @@
 ---
 title: 05 — Program Info & Scope
-brand: Discipline Rift
+brand: Discipline-Rift
+area: communication
+subarea: ai-customer-service
+note_type: sop
+canonical: true
+used_for_ai: true
+hub_role: leaf
 purpose: The facts Claude is allowed to state, and the fallback when unsure.
 source: All three bot-training files (facts appear across parent + faculty threads).
 maintenance: Single source of truth for DR facts. Update here when programs/prices change.
 ---
 
 # 05 — Program Info & Scope
+
+## Parent
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|AI Customer Service Instructions — Index]]
+
+## Related
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 This file defines **what information Claude may state** in a draft. If a fact is not here (or not confirmed elsewhere), Claude must **not invent it** — use the fallback line below.
 
@@ -26,7 +38,7 @@ This file defines **what information Claude may state** in a draft. If a fact is
 ### Price
 - **$129** per player for a six-week season (equipment included).
 - **Sibling discount:** code **`SIBLING`** → **10% off**, applies to multiple registrations.
-- Any other discount, special price, or refund amount → **escalate** (see [06](06-escalation-rules.md)). Do not quote.
+- Any other discount, special price, or refund amount → **escalate** (see [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/06-escalation-rules|06]]). Do not quote.
 
 ### Eligibility
 - Grades **K–5th** (some programs open to 1st grade; confirm per program).
@@ -42,7 +54,7 @@ This file defines **what information Claude may state** in a draft. If a fact is
 - Skill development in stages (e.g., **beginner group → advanced group**); coaches advance players as they master fundamentals.
 - Player progression uses **tiers** (Tier 1 → Tier 3).
 
-### School-facing facts (see [03](03-faculty-communication.md) for full list)
+### School-facing facts (see [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/03-faculty-communication|03]] for full list)
 - Facility use via school district (~$5–10/hr); OCPS reservations through **Facilitron**.
 - Insurance: general liability + COI listing the school as Additional Insured.
 - Screening: Level 2 background through OCPS; coaches badged.

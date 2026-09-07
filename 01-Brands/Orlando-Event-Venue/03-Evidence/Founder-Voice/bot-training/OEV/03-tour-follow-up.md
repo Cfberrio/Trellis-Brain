@@ -1,11 +1,22 @@
 ---
 title: OEV Bot — Tour Scheduling & Follow-Up
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Handle tour requests, tour-day logistics, and the post-tour follow-up (recap + discount). This is the #1 conversion lever — most fall-off is post-tour email deliverability.
 updated: 2026-07-01
 ---
 
 # Tours & Follow-Up
+
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
 
 ## How tours work at OEV
 - **Self-access tours** are booked by the client on the website tour section + a live video call.
@@ -24,7 +35,7 @@ updated: 2026-07-01
 > Sure! [Confirm a specific time.] Call 407-974-5979 when you arrive.
 
 **Complex event wants to see the space** (conference + gala, streaming, AV)
-> When would you guys like to come tour the venue? Your requested dates are currently available. I'll give you a call tomorrow, or if you arrive today let me know. → likely escalate to a call, [[07-escalation-rules]].
+> When would you guys like to come tour the venue? Your requested dates are currently available. I'll give you a call tomorrow, or if you arrive today let me know. → likely escalate to a call, [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]].
 
 ## Clearing the tour-vs-reservation confusion
 Client thinks a tour booking = a venue reservation:
@@ -53,4 +64,4 @@ After the tour, the recap + discount code go out by email. **Deliverability is t
 - Client wants internal meetings moved to fit their tour/date → human (calendar override).
 - Complex multi-part event (day conference + evening gala) → offer a call.
 
-See also: [[04-pricing-and-booking-scope]] · [[05-email-draft-workflow]] · [[07-escalation-rules]]
+See also: [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/04-pricing-and-booking-scope|04-pricing-and-booking-scope]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/05-email-draft-workflow|05-email-draft-workflow]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]]

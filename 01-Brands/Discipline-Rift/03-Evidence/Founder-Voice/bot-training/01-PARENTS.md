@@ -1,6 +1,14 @@
 ---
 title: DR Email Training Data — PARENTS (Reply / Problem-Solving)
-brand: Discipline Rift
+brand: Discipline-Rift
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: email
+hub_role: leaf
 audience: Parent
 source: info@disciplinerift.com — reply threads
 extracted: 2026-07-01
@@ -11,6 +19,13 @@ count: 20
 ---
 
 # DR → PARENTS — Reply / Problem-Solving Examples
+
+## Parent
+- [[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home|DR Evidence Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30|Sent Email Analysis (Founder Voice)]]
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/02-parent-communication|AI CS — Parent Communication]]
 
 Real two-way threads. Each = the parent's question/problem + **DR's actual reply**. Verbatim, sensitive data stripped.
 

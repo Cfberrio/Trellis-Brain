@@ -1,6 +1,14 @@
 ---
 title: DR Email Training Data — COACHES / STAFF (Reply)
-brand: Discipline Rift
+brand: Discipline-Rift
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: email
+hub_role: leaf
 audience: Coach / Internal Staff
 source: info@disciplinerift.com — reply threads
 extracted: 2026-07-01
@@ -11,6 +19,13 @@ count: 10
 ---
 
 # DR → COACHES / STAFF — Reply Examples
+
+## Parent
+- [[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home|DR Evidence Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30|Sent Email Analysis (Founder Voice)]]
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/04-coach-communication|AI CS — Coach Communication]]
 
 Real threads where a coach or staff member wrote to DR and **DR replied**. Focus: availability, time-off, blackout dates, scheduling, doc support, personal care. Verbatim.
 

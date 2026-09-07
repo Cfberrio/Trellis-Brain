@@ -19,7 +19,12 @@ hub_role: system-hub
 - [[../Cross-Brand-Home|Cross-Brand Home]]
 
 ## Children
-- (Notes appear here as extracted)
+- [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README|AI Customer Service Instructions — Discipline Rift (Cross-Brand copy)]]
+- [[Agents-Method|Agents Method — OpenClaw + 7-step workflow]]
+- [[Claude-Skills-Catalog|Claude Skills Catalog]]
+- [[Meta-Ads-Skills-Reference|Meta Ads Skills Reference]]
+- [[Google-Ads-Skills-Reference|Google Ads Skills Reference]]
+- [[2026-05-20-Claude-Setup|Claude Setup — 2026-05-20]]
 
 ## Related
 - [[../Founder-Admin/Founder-Admin-Home|Founder Admin]] (for AI Agents methodology if founder-led)

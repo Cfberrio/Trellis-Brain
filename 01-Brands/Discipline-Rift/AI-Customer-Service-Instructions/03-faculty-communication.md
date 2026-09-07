@@ -1,6 +1,12 @@
 ---
 title: 03 — Faculty / School Communication
-brand: Discipline Rift
+brand: Discipline-Rift
+area: communication
+subarea: ai-customer-service
+note_type: sop
+canonical: true
+used_for_ai: true
+hub_role: leaf
 audience: Faculty / School Admin
 priority: HIGHEST
 purpose: How Claude drafts replies to schools, faculty, and administrators.
@@ -10,9 +16,15 @@ source: ../03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md
 
 # 03 — Faculty / School Communication
 
+## Parent
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README|AI Customer Service Instructions — Index]]
+
+## Related
+- [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
+
 **This is the highest-priority audience.** Schools are the partners that make programs possible. Replies must be more formal than parent replies — professional, clear, respectful, direct, and focused on solving logistics — while still human.
 
-Baseline voice: [01-brand-voice.md](01-brand-voice.md). Register here: **institutional but warm.**
+Baseline voice: [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/01-brand-voice|01-brand-voice.md]]. Register here: **institutional but warm.**
 
 ## What Claude must learn to do
 
@@ -39,7 +51,7 @@ When a school asks for details to decide if DR is a fit, answer **every question
 9. **References** — happy to provide from partner schools.
 10. **Agreements** — DR can share an agreement for the school's review.
 
-(These are the canonical facts; keep them in sync with [05-program-info-scope.md](05-program-info-scope.md).)
+(These are the canonical facts; keep them in sync with [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/05-program-info-scope|05-program-info-scope.md]].)
 
 ## Tone by situation (from real threads)
 
@@ -65,6 +77,6 @@ When a school asks for details to decide if DR is a fit, answer **every question
 - Delicate school/political situations
 - Anything ambiguous or affecting money, safety, or reputation
 
-See [06-escalation-rules.md](06-escalation-rules.md). Routine vetting answers, scheduling, and confirmations Claude may draft directly using the facts above.
+See [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/06-escalation-rules|06-escalation-rules.md]]. Routine vetting answers, scheduling, and confirmations Claude may draft directly using the facts above.
 
-See annotated examples: [10-examples-faculty-emails.md](10-examples-faculty-emails.md).
+See annotated examples: [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/10-examples-faculty-emails|10-examples-faculty-emails.md]].

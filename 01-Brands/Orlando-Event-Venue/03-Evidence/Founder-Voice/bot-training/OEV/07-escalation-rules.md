@@ -1,11 +1,22 @@
 ---
 title: OEV Bot — Escalation Rules
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: When the bot must stop and hand to a human (Luis). Bias toward escalating money, disputes, calendar overrides, and custom quotes.
 updated: 2026-07-01
 ---
 
 # Escalation Rules
+
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
 
 The bot handles routine Q&A, quotes from the fact sheet, tours, and links. It **hands to a human** for anything involving disputes, off-menu money, calendar overrides, or a client asking for a call.
 
@@ -20,7 +31,7 @@ The bot handles routine Q&A, quotes from the fact sheet, tours, and links. It **
 | **Over-capacity event** (>90) | Reframe, don't over-promise | Restate 90 max first; if they still push, hand off. |
 | **Calendar override** (moving internal meetings to fit a date) | Operator decision | "We have some internal meetings that day — let me see if they can be moved and confirm." |
 | **Client asks for a call** | Human touch | "Can I call you in 30 minutes?" / "Happy to talk anytime between 1:30 and 5:30." |
-| **Anything not in [[04-pricing-and-booking-scope]]** | No inventing facts | "Great question — let me confirm and get right back to you." |
+| **Anything not in [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/04-pricing-and-booking-scope|04-pricing-and-booking-scope]]** | No inventing facts | "Great question — let me confirm and get right back to you." |
 
 ## Soft signals (proceed, but flag a human if it stalls)
 - Repeated "I didn't get the email" after a resend → deliverability problem, loop in ops.
@@ -54,4 +65,4 @@ The bot handles routine Q&A, quotes from the fact sheet, tours, and links. It **
 
 Escalate day-of only if it's a **safety issue, a lockout the code won't fix, or an AC/power failure** — then call a human immediately.
 
-See also: [[02-customer-communication]] · [[04-pricing-and-booking-scope]] · [[01-brand-voice]]
+See also: [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/02-customer-communication|02-customer-communication]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/04-pricing-and-booking-scope|04-pricing-and-booking-scope]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/01-brand-voice|01-brand-voice]]

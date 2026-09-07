@@ -42,6 +42,18 @@ hub_role: brand-hub
 - [[01-Brands/Cheese-To-Share/05-Operations/Ops-Home|CTS Ops Home]]
 - [[01-Brands/Cheese-To-Share/06-DNA/DNA-Home|CTS DNA Home]]
 
+## Children — Evidence (Bot Training / Founder Voice)
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/01-brand-voice|CTS Bot — Brand Voice]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/02-customer-communication|CTS Bot — Customer Communication Playbook]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/03-catering-inquiries|CTS Bot — Catering Inquiries Playbook]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/04-vendor-communication|CTS Bot — Vendor & Operational Communication]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/05-internal-marketing-communication|CTS Bot — Internal & Marketing Communication]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/06-email-draft-workflow|CTS Bot — Email Draft Workflow]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|CTS Bot — Escalation Rules]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/08-examples-customer-emails|CTS Bot — Customer Email Examples]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/09-examples-vendor-emails|CTS Bot — Vendor Email Examples]]
+- [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/10-examples-internal-marketing-emails|CTS Bot — Internal & Marketing Email Examples]]
+
 ## Related
 - [[01-Brands/Cheese-To-Share/03-Evidence/CTS-Website-Brief-Source|CTS Website Brief Source]]
 - [[01-Brands/Cheese-To-Share/03-Evidence/CTS-Material-Final-Product-Library|CTS Material Library]]

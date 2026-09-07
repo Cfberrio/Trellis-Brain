@@ -16,7 +16,7 @@ last_updated: 2026-08-11
 # DR Tennis Notion Wiki
 
 ## Parent
-- [[Tennis-Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home|Tennis Home]]
 
 ## What this is
 Mirror of the **DR TENNIS** Notion wiki — the coach-facing platform DR uses as its central resource to learn, work, and plan ahead. Pulled 2026-08-11 via the Notion API.
@@ -24,31 +24,31 @@ Mirror of the **DR TENNIS** Notion wiki — the coach-facing platform DR uses as
 The Notion wiki holds 17 top-level pages. Seven of them (the six weekly curriculum sessions plus Group Dynamics) already existed in this vault as PDF extractions under `../Source-Docs/`. The remaining ten are the coaching doctrine layer and were not in the vault before this pull.
 
 ## Doctrine layer
-- [[Start-Here]] — mission and vision
-- [[Core-Values]] — humility, perseverance, adaptability
-- [[DR-Formula]] — Knowledge + Skill × Attitude²
-- [[DR-Method-FUELED]] — Friendly, Upfront, Enthusiastic, Leader, Efficient
-- [[DR-Culture]] — how FUELED and core values fit together
-- [[DR-Team]] — the 10 coach responsibilities
-- [[Being-a-Coach]] — origin of "coach," moral responsibility, retention case
-- [[The-Hand-of-a-Coach]] — locus of control, empathetic feedback, recognition, negotiation, psychological safety
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Start-Here|Start Here]] — mission and vision
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Core-Values|Core Values]] — humility, perseverance, adaptability
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Formula|DR Formula]] — Knowledge + Skill × Attitude²
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Method-FUELED|DR Method FUELED]] — Friendly, Upfront, Enthusiastic, Leader, Efficient
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Culture|DR Culture]] — how FUELED and core values fit together
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Team|DR Team]] — the 10 coach responsibilities
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Being-a-Coach|Being a Coach]] — origin of "coach," moral responsibility, retention case
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/The-Hand-of-a-Coach|The Hand of a Coach]] — locus of control, empathetic feedback, recognition, negotiation, psychological safety
 
 ## Curriculum layer
-- [[6-Week-Season]] — season map, life lessons per week, six-tier player system
-- [[Group-Dynamics-Leading-Different-Groups]] — Group A vs Group B coaching
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/6-Week-Season|6 Week Season]] — season map, life lessons per week, six-tier player system
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Group-Dynamics-Leading-Different-Groups|Group Dynamics Leading Different Groups]] — Group A vs Group B coaching
 
 ## Scheduling layer
-- [[DR-Tennis-Calendar]] — the DR TENNIS CALENDAR inline database, all 180 rows. Four seasons per year (Fall, Late Fall, Late Winter, Spring). Source is a full year stale — ends 2025-05-16.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Tennis-Calendar|DR Tennis Calendar]] — the DR TENNIS CALENDAR inline database, all 180 rows. Four seasons per year (Fall, Late Fall, Late Winter, Spring). Source is a full year stale — ends 2025-05-16.
 
 ### Weekly sessions
 Mirrored from Notion in `Curriculum/`. These supersede the older OCR extractions in `../Source-Docs/` — same sessions, but structurally clean and with named drills intact.
 
-- [[Week-1-Forehands]]
-- [[Week-2-Backhands-and-Forehands-Review]]
-- [[Week-3-Volleys-Forehands-and-Backhands-Review]]
-- [[Week-4-Serves-Forehands-and-Backhands-Review]]
-- [[Week-5-All-Skills-Review]]
-- [[Week-6-All-Skills-Assessment]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Curriculum/Week-1-Forehands|Week 1 Forehands]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Curriculum/Week-2-Backhands-and-Forehands-Review|Week 2 Backhands and Forehands Review]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Curriculum/Week-3-Volleys-Forehands-and-Backhands-Review|Week 3 Volleys Forehands and Backhands Review]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Curriculum/Week-4-Serves-Forehands-and-Backhands-Review|Week 4 Serves Forehands and Backhands Review]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Curriculum/Week-5-All-Skills-Review|Week 5 All Skills Review]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Curriculum/Week-6-All-Skills-Assessment|Week 6 All Skills Assessment]]
 
 Every session follows the same shape: Introduction → Warm-up → Skill breakdown → main skill block (30 min) → Game of the Day → Life Lesson. Week 6 replaces the skill block with the assessment and closes with the End of Season Celebration.
 
@@ -56,7 +56,7 @@ The `../Source-Docs/` PDF extractions are kept as the historical record of the o
 
 ## Not pulled
 - **COMING SOON** (`70f20a5d-7e19-4d78-a80e-db53a8de396d`) — placeholder page, empty in Notion. Nothing to mirror.
-- **DR TENNIS CALENDAR** archived duplicate (`11104528-85a8-818e-b958-000b4071b565`) — in Notion's trash as of 2026-08-11. The live copy is mirrored at [[DR-Tennis-Calendar]].
+- **DR TENNIS CALENDAR** archived duplicate (`11104528-85a8-818e-b958-000b4071b565`) — in Notion's trash as of 2026-08-11. The live copy is mirrored at [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Tennis-Calendar|DR Tennis Calendar]].
 - Court and drill diagrams, page covers, and icons hosted on Notion S3. These are expiring signed URLs and cannot be durably mirrored — each is marked in place with a callout pointing back to Notion. Roughly 15 diagrams across the weekly sessions.
 
 Everything else in the DR TENNIS wiki is now mirrored. Verified 2026-08-11 against a full API listing: 17 top-level pages (16 with content, all mirrored, plus the empty COMING SOON) and the calendar database.
@@ -70,10 +70,10 @@ Several tennis pages contain unedited volleyball content, which suggests the ten
 1. **Week 4 FORM block** is the most serious. The section that should teach the tennis serve is written entirely in volleyball terms — "Volleyball Equivalent," "hold the volleyball," "strike with the palm of your hand." It does not describe a tennis serve at all. A coach following this page literally cannot teach the Week 4 skill.
 2. **Week 4 drills** — the Target Drill is labeled a serve drill but its setup and stated purpose reference volleys, and three of its four Deep Practice drills are Week 3's volley drills unchanged.
 3. **Tennis Tag** (Weeks 2–6) has players tagging "with the volleyball" and describes "chasers with volleyballs," contradicting its own tennis-ball setup line.
-4. **[[Group-Dynamics-Leading-Different-Groups]]** references "basic volleyball skills," "setting, spiking, and serving," and "lower the net." Present in both the Notion and PDF versions, so it is original to the source doc.
+4. **[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Group-Dynamics-Leading-Different-Groups|Group Dynamics Leading Different Groups]]** references "basic volleyball skills," "setting, spiking, and serving," and "lower the net." Present in both the Notion and PDF versions, so it is original to the source doc.
 
 ### Other defects
-5. **[[Being-a-Coach]]** cites golf retention statistics (National Golf Foundation, 25% of kids aged 6–12) inside the tennis wiki. The drop-off argument holds but the sport-specific numbers are wrong here.
+5. **[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Being-a-Coach|Being a Coach]]** cites golf retention statistics (National Golf Foundation, 25% of kids aged 6–12) inside the tennis wiki. The drop-off argument holds but the sport-specific numbers are wrong here.
 6. **"Second week" opener** — Weeks 3, 4, 5, and 6 all opened with "welcome them to the second week of the tennis season." Corrected in the mirror, still wrong in Notion.
 7. **Game of the Day intro** says "for forehands" on every week regardless of the actual skill.
 8. **Week 1 Skill section** says the day's focus is "Forehand & Backhand," but Week 1 is the forehand week and backhands are Week 2.

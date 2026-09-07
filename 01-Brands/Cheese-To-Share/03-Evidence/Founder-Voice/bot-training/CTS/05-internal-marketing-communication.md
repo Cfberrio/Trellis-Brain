@@ -1,12 +1,23 @@
 ---
 title: CTS Bot — Internal & Marketing Communication
-brand: Cheese To Share (CTS)
+brand: Cheese-To-Share
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: How to handle internal/team comms and outbound marketing (seasonal campaigns, reviews, re-engagement). Note: CTS currently CONSUMES marketing but sends almost none — this is a build, not a queue.
 sources: Communication-Manual (Seq 4–6) + 30-day inbox classification
 updated: 2026-07-01
 ---
 
 # Internal & Marketing Communication
+
+## Parent
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 Two different jobs in one file: **internal/team** (bookkeeper, payroll, partners) and **outbound marketing** (seasonal, review, re-engagement). Reality check from the inbox: CTS **consumes** marketing (SCORE, Yelp, GBP, newsletters) but **sends almost none**. Outbound marketing is a build to stand up, not a backlog to clear.
 
@@ -47,7 +58,7 @@ SCORE mentoring, Yelp for Business, Google Business Profile, Uber Eats marketing
 
 ## The gap to name (strategy, not sorting)
 - **Customer email funnel is thin** — real customers come via the website form + platforms. If catering leads should grow, the fix is upstream (form auto-response with catering menu + quote link), not inbox sorting.
-- **Marketing is inbound-only today.** Standing up Seq 4–6 in GHL/n8n is a build → owner: Luis. → [[03-catering-inquiries]].
+- **Marketing is inbound-only today.** Standing up Seq 4–6 in GHL/n8n is a build → owner: Luis. → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/03-catering-inquiries|03-catering-inquiries]].
 
 ## Never do
 - ❌ Send marketing via SMS (SMS = payment links only).
@@ -55,4 +66,4 @@ SCORE mentoring, Yelp for Business, Google Business Profile, Uber Eats marketing
 - ❌ Review request after any issue thread.
 - ❌ Expose payroll/internal-finance content outward.
 
-See also: [[10-examples-internal-marketing-emails]] · [[06-email-draft-workflow]] · [[01-brand-voice]]
+See also: [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/10-examples-internal-marketing-emails|10-examples-internal-marketing-emails]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/06-email-draft-workflow|06-email-draft-workflow]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/01-brand-voice|01-brand-voice]]

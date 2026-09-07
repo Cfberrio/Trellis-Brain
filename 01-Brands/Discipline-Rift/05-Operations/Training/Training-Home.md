@@ -25,6 +25,8 @@ last_updated: 2026-08-20
 This folder holds the coach and curriculum knowledge base for Discipline Rift. It is structured to keep the graph connected while preserving the full imported resource library.
 
 
+- [[01-Brands/Discipline-Rift/Notion/_index|DR Notion Mirror]] — raw coach-hub export this library was curated from
+
 ## Source Libraries
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Volleyball-Home|Volleyball Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home|Tennis Home]]

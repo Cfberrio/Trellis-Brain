@@ -28,13 +28,15 @@ last_updated: 2026-08-27
 > [!warning] Earlier "n8n retired" claim was too broad
 > It applies only to #2/#9/#10. n8n is still live for the reminder + weekly families. Corrected 2026-08-27.
 
-## Communication Engine (planned rewrite — applies to the code-migrated templates)
-> [!todo] Planned, not yet authored (verified 2026-08-20)
-> These four notes are referenced across DR planning but do not exist in the vault. Listed as plain names on purpose so the graph stays clean until they are written.
-> - **DR Communication Engine** — master rules, merge syntax, channel philosophy, marketing improvements
-> - **DR Registration Sequence** — payment → first practice + cart recovery. Live behaviour today lives in [[01-Brands/Discipline-Rift/01-Systems/Platform/Registration-and-Checkout-Flow|Registration and Checkout Flow]] and [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|Operational Email Library]].
-> - **DR Lead Magnet Sequence** — opt-in → registration
-> - **DR Season Reminder Sequence** — in-season nurture + re-enroll. See [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]] for the closest existing artifact.
+## Communication Engine (built 2026-08-04, verified in vault 2026-09-07)
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine|DR Communication Engine]] — master rules, merge syntax, channel philosophy, marketing improvements
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Chains-Index|DR Communication Chains Index]] — map of all five chains, ship order, blockers
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Audit-2026-08-04|DR Communication Audit — 2026-08-04]]
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Registration-Sequence|DR Registration Sequence]] — payment → first practice + cart recovery
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Lead-Magnet-Sequence|DR Lead Magnet Sequence]] — opt-in → registration
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Season-Reminder-Sequence|DR Season Reminder Sequence]] — in-season nurture + re-enroll
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Coach-Communication-Chain|DR Coach Communication Chain]] — coach lifecycle, 11 messages
+- [[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Sport-Week-Banks|DR Sport Week Banks]] — flag football + tennis weekly banks
 
 ## ClickUp verbatim mirror
 - [[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS|ClickUp NOTIFICATIONS (verbatim)]] — literal, unedited transcription of every notification/email page in ClickUp Doc `8cqnrff-21297`, including the `COACHES (N8N)` and `WEEKLY (N8N)` sub-trees. Use it when you need to know exactly what the ClickUp source says; use the curated notes below when you need the cleaned-up, annotated version.
@@ -49,6 +51,7 @@ last_updated: 2026-08-27
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]] — Registration Confirmation, Parent Guide, and Waitlist Invite migrated off n8n/ClickUp to code and DR-rebranded 2026-08-25 (fixed a `=20` encoding bug in the process); rest of the 10-template index still ClickUp-sourced
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]]
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates|School Outreach Email Templates]]
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Guides-Library|Parent Guides Library]]
 
 ## Campaigns (dated, one-time — not lifecycle chains)
 - [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-First-Week-Of-School-Campaign-2026-08|First Week of School Campaign — August 2026]] — 3 emails to the parent house list, fires on the first day of school and retires. Primary approved by Luis 2026-08-09; §0 carries his five binding parent-copy rules; GHL-ready HTML kit in the Trellis repo (`email-html/`).

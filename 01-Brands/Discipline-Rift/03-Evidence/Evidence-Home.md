@@ -22,6 +22,12 @@ hub_role: system-hub
 - [[01-Brands/Discipline-Rift/03-Evidence/Practice-Cancellation-Workflow-Log|Practice Cancellation Workflow Log]]
 - [[01-Brands/Discipline-Rift/03-Evidence/School-Outreach-AI-Feedback-Synthesis|School Outreach AI Feedback Synthesis]]
 
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full|DR Founder Q&A — Full Library]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30|Sent Email Analysis (Founder Voice)]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS|Bot Training — Parents]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS|Bot Training — Faculty/Schools]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF|Bot Training — Coaches/Staff]]
+
 ## Sub-folders
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Q&A-Weekly-Themes|Founder Voice — Q&A Weekly Themes]]
 - [[01-Brands/Discipline-Rift/03-Evidence/Practice-Reports/Flag-Football-2026-Spring|Practice Reports — Flag Football 2026 Spring]]

@@ -1,12 +1,23 @@
 ---
 title: CTS Bot — Catering Inquiries Playbook
-brand: Cheese To Share (CTS)
+brand: Cheese-To-Share
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: How to handle a catering/event inquiry from first email to deposited booking. Catering is the highest-value channel and the one real customers use most.
 sources: Catering-Booking-SOP.md · Pricing-Logic.md · Catering website page · Communication-Manual Sequence 3
 updated: 2026-07-01
 ---
 
 # Catering Inquiries Playbook
+
+## Parent
+- [[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home|CTS Brand Home]]
 
 Catering is CTS's highest-value inbound and the one real customers actually send: birthdays (Katie — charcuterie/tequeños/flatbreads for 40–50), seasonal pre-orders (Maurice — Thanksgiving cheesecake), community/corporate events (Pepe's Latin Night, Fooda office lunches). **Weddings ≈ 0.** Convert these — don't let them wait.
 
@@ -28,7 +39,7 @@ Any real proposal needs these. If missing, ask for them first:
 |---|---|
 | Standard event | **1 week** |
 | Themed / customized | **15 days** |
-| Under 1 week out | Decline standard catering; offer drop-off menu if feasible → [[07-escalation-rules]] |
+| Under 1 week out | Decline standard catering; offer drop-off menu if feasible → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]] |
 
 ## Pricing reference (⚠️ confirm against Pricing-Logic / Catering-SOP; Luis signs every quote)
 | Item | Price |
@@ -49,7 +60,7 @@ Any real proposal needs these. If missing, ask for them first:
 ## The booking process (SOP)
 1. **Acknowledge same-day.** Collect the 8 inputs.
 2. **(Optional) discovery call** to review packages + staff options.
-3. **Luis sends the quote.** No freelance pricing — the bot gathers details and drafts, Luis approves/sends anything beyond the standard self-serve tiers → [[07-escalation-rules]].
+3. **Luis sends the quote.** No freelance pricing — the bot gathers details and drafts, Luis approves/sends anything beyond the standard self-serve tiers → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]].
 4. **Deposit = the conversion event.** 50% deposit holds the date via SMS payment link. **No deposit → date is NOT held. First deposit wins the slot.**
 5. **Balance:** remaining 50% due **24 hours before** the event.
 6. **Pre-event:** logistics confirmation 48–72 hrs out.
@@ -65,9 +76,9 @@ Any real proposal needs these. If missing, ask for them first:
 - Trace allergens (nuts, dairy, gluten) may be present in all dishes.
 
 ## Email sequence (Communication Manual, Seq 3)
-Inquiry → gather details → proposal → approve/adjust → confirm scope + deposit via SMS → booking confirmed → pre-event logistics (48–72 hrs). Templates live in [[06-email-draft-workflow]].
+Inquiry → gather details → proposal → approve/adjust → confirm scope + deposit via SMS → booking confirmed → pre-event logistics (48–72 hrs). Templates live in [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/06-email-draft-workflow|06-email-draft-workflow]].
 
 ## Recurring / corporate = the unexploited prize
-Fooda (weekly office lunches) and referral-program partners (e.g. monthly local-business features) are **repeatable revenue**, not one-off events. Treat a recurring-catering lead as high priority → hand the relationship to Luis. → [[07-escalation-rules]].
+Fooda (weekly office lunches) and referral-program partners (e.g. monthly local-business features) are **repeatable revenue**, not one-off events. Treat a recurring-catering lead as high priority → hand the relationship to Luis. → [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]].
 
-See also: [[02-customer-communication]] · [[06-email-draft-workflow]] · [[08-examples-customer-emails]] · [[07-escalation-rules]]
+See also: [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/02-customer-communication|02-customer-communication]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/06-email-draft-workflow|06-email-draft-workflow]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/08-examples-customer-emails|08-examples-customer-emails]] · [[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/07-escalation-rules|07-escalation-rules]]

@@ -1,12 +1,20 @@
 ---
 title: DR Program Info Scope — What Claude May State
-brand: Discipline Rift
+brand: Discipline-Rift
+note_type: sop
+area: communication
+subarea: ai-customer-service
+canonical: true
+hub_role: leaf
 used_for_ai: true
 last_updated: 2026-07-03
 source: STRATEGY-Source-DR.md + extracted email threads
 ---
 
 # 05 — Program Info Scope
+
+## Parent
+- [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README|AI Customer Service Instructions — Index (Cross-Brand copy)]]
 
 Defines what program information Claude may state, and what it must NOT invent. When unsure → use the fallback line at the bottom.
 
@@ -35,11 +43,11 @@ Coaching, equipment, drills, and the full 6-week season structure. Beginner-frie
 
 ### Registration
 - Register at **https://disciplinerift.com/register** (find your school → select the sport season → complete fields → payment).
-- **Price**: **$129 per season** per child — fixed, equipment included. Confirmed by Cristian 2026-07-03. If someone mentions having paid a different amount (e.g., $149), do not argue or correct them — escalate per [06](06-escalation-rules.md).
+- **Price**: **$129 per season** per child — fixed, equipment included. Confirmed by Cristian 2026-07-03. If someone mentions having paid a different amount (e.g., $149), do not argue or correct them — escalate per [[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules|06]].
 - **Sibling discount**: code **SIBLING** = 10% off; applies to both registrations.
 
 ### Guarantee (Fit Guarantee — explain only, do not issue)
-If after the first 2 practices it's not a fit, the family can email within 48 hours after practice #2 for a **full credit** toward another sport/next season. Claude may *explain* this; issuing the credit requires a human ([06](06-escalation-rules.md)).
+If after the first 2 practices it's not a fit, the family can email within 48 hours after practice #2 for a **full credit** toward another sport/next season. Claude may *explain* this; issuing the credit requires a human ([[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules|06]]).
 
 ### Contact
 info@disciplinerift.com • (407) 614-7454 • disciplinerift.com

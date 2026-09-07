@@ -27,6 +27,8 @@ hub_role: leaf
 
 > [!warning] No longer a verbatim ClickUp mirror
 > Rewritten 2026-08-31 — Luis's own final draft, pasted in directly. See [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season#Week 1 — Getting Started|DR Weekly Parent Emails]] for the full rationale. The ClickUp page below still has the old volleyball-only "Defending" copy.
+>
+> **Sibling grammar fix, 2026-09-01 (approved by Luis).** Was "the skills [Player First Name] **has** learned" → "the skills [Player First Name] learned". `[Player First Name]` renders as `children_names`, which carries every eligible child on the team — "Camila and Celina" — so a singular verb after it was ungrammatical for the 28 Fall 2026 families with two or more children on one team. Live in `brand-kit/email/transactional/weekly-practice-*.html`.
 
 ---
 
@@ -38,7 +40,7 @@ Hi [Parent First Name],
 
 This week, we're going deeper into awareness. Helping players understand not only what they are doing, but what is happening around them while they play.
 
-Coach [Coach Name] will continue reinforcing the skills [Player First Name] has learned while increasingly asking players to recognize when, where, and why those skills should be used.
+Coach [Coach Name] will continue reinforcing the skills [Player First Name] learned while increasingly asking players to recognize when, where, and why those skills should be used.
 
 Tomorrow, players will work on:
 

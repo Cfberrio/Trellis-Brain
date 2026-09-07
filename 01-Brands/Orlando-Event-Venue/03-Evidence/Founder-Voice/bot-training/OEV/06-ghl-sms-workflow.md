@@ -1,12 +1,23 @@
 ---
 title: OEV Bot — GHL SMS Workflow
-brand: Orlando Event Venue (OEV)
+brand: Orlando-Event-Venue
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: derived
+hub_role: leaf
 purpose: Step-by-step for replying to client SMS in GHL / LeadConnector. SMS = short, fast, high-volume. Most inbound lives here.
 source: GHL LeadConnector 90-day pull — 105 Q&A pairs
 updated: 2026-07-01
 ---
 
 # GHL SMS Workflow
+
+## Parent
+- [[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|OEV Brand Home]]
 
 SMS is the highest-volume channel. Replies are **short (1–3 sentences)**, fast, and often bilingual. Match the client's language.
 
@@ -59,11 +70,11 @@ Links **expire in 24–48h**; "the link expired, resend it" is the #1 repeat SMS
 ## Day-of logistics (answer instantly, concrete)
 - **Door code:** "The code to enter is [code]. Keys are in the black lockbox on the left."
 - **Wifi:** give SSID + password; remind to submit the guest report.
-- **AC / lights / trash:** give the direct fix ("I'll turn it down for you guys" / "trash bags under the sink" / controller buttons). → [[07-escalation-rules]] appendix.
+- **AC / lights / trash:** give the direct fix ("I'll turn it down for you guys" / "trash bags under the sink" / controller buttons). → [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]] appendix.
 
 ## SMS don'ts
 - Don't write a paragraph when a number will do.
 - Don't hold a date over text without a reservation.
 - Don't promise an email will arrive — drop the actual value in the thread.
 
-See also: [[04-pricing-and-booking-scope]] · [[09-examples-customer-texts]] · [[07-escalation-rules]]
+See also: [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/04-pricing-and-booking-scope|04-pricing-and-booking-scope]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/09-examples-customer-texts|09-examples-customer-texts]] · [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/07-escalation-rules|07-escalation-rules]]

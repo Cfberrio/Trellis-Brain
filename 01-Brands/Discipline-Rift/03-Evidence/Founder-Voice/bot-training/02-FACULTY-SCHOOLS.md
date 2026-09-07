@@ -1,6 +1,14 @@
 ---
 title: DR Email Training Data — FACULTY / SCHOOLS (Reply / Problem-Solving)
-brand: Discipline Rift
+brand: Discipline-Rift
+area: evidence
+subarea: founder-voice
+note_type: evidence
+status: active
+canonical: false
+used_for_ai: true
+source_type: email
+hub_role: leaf
 audience: Faculty / School Admin
 source: info@disciplinerift.com — reply threads
 extracted: 2026-07-01
@@ -11,6 +19,13 @@ count: 10
 ---
 
 # DR → FACULTY / SCHOOLS — Reply / Problem-Solving Examples
+
+## Parent
+- [[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home|DR Evidence Home]]
+
+## Related
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30|Sent Email Analysis (Founder Voice)]]
+- [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/03-faculty-communication|AI CS — Faculty Communication]]
 
 Real threads where a school replied to DR with a question, concern, request, or rejection, and **DR responded**. The back-and-forth, not the cold first-contact. Verbatim.
 
