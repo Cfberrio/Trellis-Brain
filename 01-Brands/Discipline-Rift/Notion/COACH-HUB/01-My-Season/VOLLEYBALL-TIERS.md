@@ -15,9 +15,14 @@ notion_created: 2026-08-11
 notion_last_edited: 2026-08-12
 mirrored: 2026-08-12
 mirror_complete: true
+notion_deleted: true
 aliases:
   - "VOLLEYBALL TIERS"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION as of the 2026-09-10 re-sync.** This page no longer appears as a live row in "DR | COACH HUB" — Notion's own fetch marks it `deleted`. Content below is unchanged from the 2026-08-12 mirror and kept for history; treat it as no longer authoritative. No replacement page with this title exists in the current database.
+</callout>
+
 # VOLLEYBALL TIERS
 
 **Tier 1**

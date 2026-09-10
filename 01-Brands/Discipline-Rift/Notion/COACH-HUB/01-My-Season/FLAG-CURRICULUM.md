@@ -12,46 +12,70 @@ sport: Flag Football
 status: Live
 order: 2
 notion_created: 2024-08-27
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-06
+mirrored: 2026-09-10
 mirror_complete: true
 aliases:
   - "FLAG CURRICULUM"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Six weeks, full session plans: start at SEASON OVERVIEW, then tap your week.
+	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Six weeks, full session plans: start at SEASON OVERVIEW, then tap your week. Every row below is a page: tap it.
 </callout>
 # FLAG CURRICULUM
-CURRICULUM CULTURE: how we do things, how we connect as people.
-[[SEASON OVERVIEW]]
-*The season at a glance, before you open a week.*
-## THE SEASON
-[[WEEK 1 - THROWING]]
-*Throwing and catching.*
-[[WEEK 2 - CATCHING]]
-*Catching and communication.*
-[[WEEK 3 - FLAG PULLING]]
-*Ball carrying and flag pulling.*
-[[WEEK 4 - QB HANDOFF]]
-*Ball carrying and QB handoffs.*
-[[WEEK 5 - RUNNING LANES]]
-*Handoffs and running lanes.*
-[[WEEK 6 - PLAY ACTION]]
-*Offensive strategy: play action and 4th down.*
-## SKILLS
-[[THROWING]]
-[[CATCHING]]
-[[FLAG PULLING]]
-[[AGILITY DRILLS]]
-[[CONDITIONING]]
-## FOR THIS SPORT
-[[FORMATIONS]]
-*Offensive formations and how to set them up.*
-Shared with every sport, one tap from the hub home: [[PRACTICE STRUCTURE]], [[SEASON DESIGN]] (the 60 minute block clock, written for flag), [[WARM UPS]], [[TIERS]], [[GAMES]] (ZONES GAME lives there now), [[LIFE LESSON]].
-## RESOURCES
-[[FLAG PROGRAM OVERVIEW]]
-*The full program design: pillars, age groups, skill domains, practice structure, quality systems.*
-[[NFL]]
-*Two blocks only. Placeholder, needs content.*
-[[NUGGETS]]
-*Two blocks only. Placeholder, needs content.*
+CURRICULUM CULTURE: how we do things, how we connect as coaches.
+<callout icon="🏈" color="gray_bg">
+	**START HERE**
+	[[SEASON OVERVIEW]]
+	*The season at a glance, before you open a week.*
+</callout>
+<callout icon="🏈" color="gray_bg">
+	**THE SEASON**
+	[[WEEK 1 - THROWING]]
+	*Throwing and catching.*
+	[[WEEK 2 - CATCHING]]
+	*Catching and communication.*
+	[[WEEK 3 - FLAG PULLING]]
+	*Ball carrying and flag pulling.*
+	[[WEEK 4 - QB HANDOFF]]
+	*Ball carrying and QB handoffs.*
+	[[WEEK 5 - RUNNING LANES]]
+	*Handoffs and running lanes.*
+	[[WEEK 6 - PLAY ACTION]]
+	*Offensive strategy: play action and 4th down.*
+</callout>
+<callout icon="/icons/brain_green.svg" color="gray_bg">
+	**SKILLS**
+	[[THROWING]]
+	[[CATCHING]]
+	[[FLAG PULLING]]
+	[[AGILITY DRILLS]]
+	[[CONDITIONING]]
+</callout>
+<callout icon="🏈" color="gray_bg">
+	**FOR THIS SPORT**
+	[[FORMATIONS]]
+	*Offensive formations and how to set them up.*
+</callout>
+<callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**SHARED WITH EVERY SPORT**
+	[[PRACTICE STRUCTURE]]
+	[[PRACTICE DESIGN]]
+	*The 60 minute block clock, written for flag.*
+	[[WARM UPS]]
+	[[TIERS]]
+	[[GAMES]]
+	*ZONES GAME lives there now.*
+	[[LIFE LESSON]]
+</callout>
+<callout icon="/icons/gradebook_green.svg" color="gray_bg">
+	**RESOURCES**
+	[[FLAG PROGRAM OVERVIEW]]
+	*The full program design: pillars, age groups, skill domains, practice structure, quality systems.*
+	[[NFL]]
+	*One PDF. Placeholder, needs content.*
+	[[NUGGETS]]
+	*One PDF. Placeholder, needs content.*
+</callout>
+<callout icon="🚩" color="gray_bg">
+	Read your week before you drive out, not in the parking lot.
+</callout>

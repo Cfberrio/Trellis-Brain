@@ -10,18 +10,22 @@ section: The Method
 page_type: Reference
 sport: All Sports
 status: Draft
+order: null
 notion_created: 2026-08-12
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-06
+mirrored: 2026-09-10
 mirror_complete: true
 ---
 <callout icon="🎲" color="gray_bg">
-	The game library, any sport. One page per game. Most games are still written inside week pages and have not been extracted yet.
+	The game library, any sport. One page per game. Every row below is a page: tap it.
 </callout>
 # GAMES
 Games recur across sports. A game that lives inside one week page cannot be found by a coach planning a different week or a different sport. This page is the single home for them.
-## IN THIS LIBRARY
-ZONES GAME sits below: the largest game write-up in the hub, moved here from flag football because games are cross-sport.
-## NOT YET EXTRACTED
-These games are named and retyped inside week pages today. They need lifting into their own pages here, copied from the week pages, not rewritten: SKITTLES (11 mentions in tennis weeks), JAILBREAK (tennis and volleyball), BATTLESHIP, HANGMAN, FIREBALL, TENNIS SIMON SAYS. Until then, the only copy of each lives inside the week that uses it.
-[[ZONES GAME]]
+<callout icon="🎲" color="gray_bg">
+	**IN THIS LIBRARY**
+	[[ZONES GAME]]
+	*The largest game write-up in the hub, moved here from flag football because games are cross-sport.*
+</callout>
+<callout icon="⚠️" color="yellow_bg">
+	**NOT YET EXTRACTED** — these games are named and retyped inside week pages today. They need lifting into their own pages here, copied from the week pages, not rewritten: SKITTLES (11 mentions in tennis weeks), JAILBREAK (tennis and volleyball), BATTLESHIP, HANGMAN, FIREBALL, TENNIS SIMON SAYS. Until then, the only copy of each lives inside the week that uses it.
+</callout>

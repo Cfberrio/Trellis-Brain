@@ -14,9 +14,13 @@ notion_created: 2024-09-04
 notion_last_edited: 2026-08-12
 mirrored: 2026-08-12
 mirror_complete: true
+notion_deleted: true
 aliases:
   - "GROUP DYNAMICS"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION as of the 2026-09-10 re-sync.** This page no longer appears as a live row in "DR | COACH HUB" — Notion's own fetch marks it `deleted`. It is still referenced by wikilink from live pages (e.g. TENNIS CURRICULUM, PICKLEBALL CURRICULUM), so it is kept here rather than removed. Content below is unchanged from the 2026-08-12 mirror; treat it as no longer authoritative.
+</callout>
 # GROUP DYNAMICS
 
 # Purpose

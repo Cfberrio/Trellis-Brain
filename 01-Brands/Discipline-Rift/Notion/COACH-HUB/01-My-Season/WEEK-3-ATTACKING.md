@@ -4,7 +4,7 @@ area: notion-mirror
 note_type: notion-page
 source_type: notion_mirror
 notion_page_id: 08d04528-85a8-83e6-9695-01f0bf13346b
-notion_url: https://app.notion.com/p/WEEK-3-ATTACKING-08d0452885a883e6969501f0bf13346b
+notion_url: https://app.notion.com/p/WEEK-3-08d0452885a883e6969501f0bf13346b
 notion_db: COACH HUB
 section: My Season
 page_type: Week
@@ -12,222 +12,103 @@ sport: Volleyball
 status: Live
 order: 3
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-08
+mirrored: 2026-09-10
 mirror_complete: true
 aliases:
-  - "WEEK 3 - ATTACKING"
+  - "WEEK 3"
 ---
-# WEEK 3 - ATTACKING
-
-*(Developmental Volleyball)*
-**Week focus:** attacking as **timing first**, not power.
-**North Star Learning Target:** players approach on time, jump up not forward, contact high with an open hand, and land under control.
-**Module sequence:** **Ready → Left–Right → Plant → Up → High Hand → Finish**.
-**Source alignment:** begin with the footwork sequence, approach at a 45-degree angle, jump off two feet, use both arms to jump, and make high open-hand contact rather than chasing power early.
----
-## Block 1 — Culture Routine + Belonging
-**Activity**
-Quick team huddle.
-Coach script:
-- “Today we attack with **timing**, not power.”
-- “Our job is not to kill the ball. Our job is to be on time.”
-- Effort norm: **reset fast, one correction at a time, next rep mindset**.
-**Cue:** “Left–Right”
-**Why this belongs here**
-This block should establish clarity, belonging, and focus before performance demands rise. That is the required purpose of Block 1.
-**Practice Method Classification:** Retrieval Practice
-**Micro-CFU**
-Coach asks: “What’s the cue today?”
-Team response: “Left–Right.”
-Then all players shadow one slow approach rhythm in place.
-**Next-Block Progression**
-Move into a low-complexity rhythm warm-up before live attacking.
----
-## Block 2 — Retrieval Warm-Up
-**Activity**
-**Approach Rhythm Shadow Rehearsal**
-No-ball or light toss rhythm warm-up:
-- Start in **Ready**
-- 45-degree body angle to the net
-- shadow **Left–Right → Plant → Up → Finish**
-- reset and repeat
-For right-handed players, the source supports a left-right-left three-step sequence and a 45-degree approach. The source also emphasizes coordinating arm rhythm with the run-up.
-**Cue:** “Plant”
-**Why this belongs here**
-This is retrieval, not full instruction. It recalls movement pattern, body angle, and balanced jumping before live ball complexity. That is exactly what Block 2 is for.
-**Practice Method Classification:** Retrieval Practice
-**Micro-CFU**
-On “freeze,” coach scans for:
-- 45-degree body angle
-- balanced plant
-- both feet landing under control
-Observable standard: **8/10 players** show plant before jump and land on two feet.
-**Tailoring for mixed experience**
-- **Tier 1:** shadow only
-- **Tier 3:** shadow + arm swing
-- **Tier 5:** shadow from a light coach toss/read start
-**Next-Block Progression**
-Add live demonstration and first controlled contact reps.
----
-## Block 3 — Teaching Block
-**Activity**
-**Whole-skill demo + “Hit off the toss” teaching build-up**
-Use your module language while teaching the full action:
-1. Ready
-2. Left–Right
-3. Plant
-4. Up
-5. High Hand
-6. Finish
-Then use the source-supported **hit off the toss** idea: the drill helps players focus on **arm swing and spacing at the same time**, using the last two gathering steps, a 45-degree angle to the net, and staying off the net.
-Also reinforce source attacking basics:
-- approach at 45 degrees
-- jump off two feet
-- use both arms to jump
-- contact high with an open hand
-- avoid teaching “hit it straight down” this early
-**Cue:** “Up”
-**Why this belongs here**
-Block 3 is for clear installation of the skill with one main cue and visible success criteria.
-**Practice Method Classification:** Blocked Practice
-**Micro-CFU**
-“Show me the cue.”
-Each player performs 1 demo rep.
-**Exit Criteria**
-Player can show:
-- plant before jump
-- jump vertically
-- open-hand contact high and in front
-- two-foot landing
-Observable standard: **3/5 clean teaching reps**.
-**Tailored drill explanation**
-This build-up fits developmental players because it reduces chaos and lets the coach teach **timing + spacing + high contact** without asking beginners to solve full game problems too early. That matches the source warning not to overload a complex skill with too much information.
-**Next-Block Progression**
-Move from demonstration reps into repeatable timing reps.
----
-## Block 4 — Skill Acquisition Reps Engine
-**Activity**
-**All the Steps After**
-This source drill has the attacker begin only after the ball is tossed to simulate a higher, slower set. All steps happen **after** the toss, which makes timing easier for beginners.
-**Cue:** “High Hand”
-**Why this belongs here**
-This is the main repetition block: stable environment, lots of clean reps, low chaos, high confidence. That is exactly the job of Block 4.
-**Practice Method Classification:** Blocked Practice → Serial Practice
-**Micro-CFU**
-Track:
-- number of attacks with **high open-hand contact**
-- number of reps with **two-foot landing**
-- number of reps where player starts on time after toss
-Observable standard: **4/6 reps** show high contact + controlled landing.
-**Tiering**
-- **Tier 1:** slower/higher toss; big target area
-- **Tier 3:** standard toss
-- **Tier 5:** target deep court or designated half court
-**Tailored drill explanation**
-This is a strong developmental drill because it gives beginners more time to match their approach to the ball. It teaches rhythm before speed, which fits your module exactly.
-**Optional advanced same-skill progression inside Block 4**
-For stronger hitters only, shift to **All the Steps Before**, where all approach steps happen before the toss to simulate quicker timing. Use this only if the player is already consistent with the slower version.
-**Next-Block Progression**
-Connect approach timing to a real pass-set-attack sequence.
----
-## Block 5 — DR Teaching (Guided Decisions)
-**Activity**
-**Pass, Set, Hit**
-This source drill combines passing, setting, and attacking. The passer passes to the setter, calls for a **14**, approaches, and then attacks the set.
-**Cue:** “Ready”
-**Why this belongs here**
-This is the first block where players must connect technique to live information:
-- where the pass goes
-- when the setter touches
-- whether they are on time for the set
-That makes it a true Block 5 activity.
-**Practice Method Classification:** Interleaving
-**Micro-CFU**
-Perception question after a rep:
-- “When the setter touched, what step were you on?”
-- “Were you on time or late?”
-This is source-aligned: hitters should learn timing in terms of **what step they are on when the setter is touching the ball**.
-Observable standard:
-- hitter can answer the perception question
-- then correct it on the next replay rep
-**Tailored drill explanation**
-This drill is developmental because it preserves the full volleyball sequence without going full chaos. It teaches hitters to match their approach to a real set while still keeping the pattern controlled.
-**Coach move**
-Give one correction only, then replay immediately. Source support: critique becomes learning when the player gets to **do it again right away**.
-**Next-Block Progression**
-Use a small-sided competitive game where attacking still matters, but pressure increases.
----
-## Block 6 — Application (Constraint Game)
-**Activity**
-**Triples Trophy** with an attacking emphasis
-The source describes **Triples Trophy** as a competitive 3-player drill and “a great first introduction to competitive play.”
-Use it here as the application game.
-**Constraint for Week 3**
-Keep the drill structure, but track an **attacking bonus**:
-- normal rally point as written
-- coach also tracks bonus success when the hitter shows:
-	- on-time approach
-	- vertical jump
-	- high open-hand contact
-	- controlled two-foot landing
-Using targeted bonus scoring for the skill you want is supported by the source scoring-system guidance.
-**Cue:** “Finish”
-**Why this belongs here**
-This is now representative play with teammates, opponents, scoring, and pressure. Block 6 should feel closer to the game than earlier blocks.
-**Practice Method Classification:** Randomized Practice
-**Micro-CFU**
-Between rounds ask:
-- “See → Decide → Act: what told you it was time to go?”
-Observable metrics:
-- attack bonus total
-- number of controlled landings
-- number of clean attacks into court
-**Tailored drill explanation**
-Triples is better than jumping straight to 6v6 for this week because developmental players still get more touches, more repetitions, and more chances to attack on time. The source explicitly values mini-team competition early because it keeps repetition high while making practice feel like volleyball.
-**Next-Block Progression**
-Close with retrieval of the sequence and one clear next-step for future weeks.
----
-## Block 7 — Debrief + Retrieval + Spacing
-**Activity**
-Quick circle close.
-**Cue:** “Finish”
-**Why this belongs here**
-Block 7 must close the loop on what was taught and what evidence showed learning.
-**Practice Method Classification:** Spaced Practice
-**Micro-CFU / Retrieval Questions**
-Ask from memory:
-- “What is our attacking sequence?”
-- “What cue fixes forward drift?” → **Plant**
-- “What cue fixes low contact?” → **High Hand**
-- “What matters more right now: timing or power?” → **Timing**
-**Exit Criteria**
-Player can demonstrate one full rep showing:
-- on-time approach
-- jump up, not forward
-- high contact
-- two-foot landing
-**Spacing preview**
-“Next week we keep the same attacking pattern, but we add more control from a real set.”
-That is consistent with the source idea that the sequence stays whole while the game context becomes more realistic over time.
----
-# Source-Selected Drill Map for This Week
-**Hit off the toss**
-- **Block:** 3
-- **Why:** teaches spacing + arm swing + last-two-step timing in a simplified environment
-**All the Steps After**
-- **Block:** 4
-- **Why:** slower timing window; ideal for beginners building rhythm and confidence
-**Pass, Set, Hit**
-- **Block:** 5
-- **Why:** adds real set timing and perception without full game chaos
-**Triples Trophy**
-- **Block:** 6
-- **Why:** competitive, developmental, more touches than immediate 6v6, good first live-play bridge
----
-# Coach Notes for Consistency Across All Coaches
-- Teach the **whole attack**, but correct **one thing at a time**. Too much detail too early can make the attack robotic.
-- Keep explanation short. Players learn more when they are **playing and repeating** than when they are standing and listening.
-- Keep lines short. High repetition in short time is more valuable than low repetition in long lines.
-- After feedback, replay immediately. Correction sticks better when the athlete gets the next rep right away.
-- For right-handed hitters, source fundamentals support **left-right-left** timing and a **45-degree approach**. For left-handed hitters, reverse the approach cue.
+<callout icon="📢" color="gray_bg">
+	Coach! Week 3. Focus is **Attacking + Setting**. Attacking only gets demonstrated once a playable set creates the need for it. You pick the games.
+</callout>
+# WEEK 3
+<callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**COACH RULES**
+	**Demonstrate everything. Don't explain.**
+	**Teach one skill at a time.**
+	**3 lines per coach, if possible.**
+	**Coach at all times. Don't stop speaking.**
+	**Give specific + actionable feedback.**
+	**Add variation as soon as players begin succeeding.**
+	**Check for understanding. Don't assume.**
+	**Fun first. Learning always.**
+</callout>
+## 1. INTRO
+**Welcome:** Reconnect by name. "We're here to have fun. We're here to learn."
+**Retrieval — see what they remember:** Play a few scaled serve - receive - set entries. Do players remember the serve routine and a useful first target?
+<callout icon="⚠️" color="yellow_bg">
+	If two contacts do not yet connect, resume the Week 1-2 connection challenges. Demonstrate attacking only when a playable set creates the next problem.
+</callout>
+**Stretch:** Stretch with the players. Keep it dynamic; coach counts 1, players 2, coach 3, players 4.
+<callout icon="🎲" color="gray_bg">
+	**WARM-UP GAME — you pick**
+	[[MIRROR & FREEZE]] — footwork before contact. Best fit for Week 3.
+	[[THE LINES GAME]] — new group or new space.
+	[[VOLLEYBALL TAG]] — energy is flat.
+	[[POLICE & ROBBERS]] — energy is flat.
+	*Whole bank: [[VOLLEYBALL WARM-UP GAMES]]. Demonstrate before play.*
+</callout>
+## 2. PROGRESSION LADDER
+![Week 3 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/73cded3e-2b93-4c09-a9d6-064c8c098395/ladder-week3.png) <!-- notion-hosted, URL expires -->
+**Coaching focus:** Attacking + Setting. Encounter other skills without adding simultaneous technical lessons.
+Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
+<callout icon="🎲" color="gray_bg">
+	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
+	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or open [[VOLLEYBALL GAMIFIED CHALLENGES]] and pick another for the same Skill + Problem.*
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 1** — [[SERVING]] + [[PASSING]]
+	*Retrieval: players pass a toss but struggle receiving a serve. Check what remains reliable before adding instruction.*
+	Challenge: [[SERVE → READ → CATCH]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 2** — [[PASSING]] + [[SETTING]]
+	*Problem: players perform both skills alone but cannot connect them.*
+	Challenge: [[BUILD THE BRIDGE]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 3** — [[ATTACKING]]
+	*Problem: players cannot organize approach and balanced landing.*
+	Challenge: [[HIGH HAND TARGET]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 4** — [[ATTACKING]]
+	*Problem: players know the approach but cannot space a controlled high contact.*
+	Challenge: [[HIGH HAND TARGET]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 5** — [[ATTACKING]]
+	*Problem: players approach too early and wait underneath the ball.*
+	Challenge: [[TIMING TICKET]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 6** — [[PASSING]] + [[SETTING]] + [[ATTACKING]]
+	*Problem: an attacker can hit a coach toss but cannot connect to a teammate set.*
+	Challenge: [[TIMING TICKET]] or [[BUILD THE BRIDGE]]
+</callout>
+## 3. CHECK FOR UNDERSTANDING
+<callout icon="🎲" color="gray_bg">
+	**CFU GAME — you pick**
+	[[MINI VOLLEYBALL]] — more contacts per child, and you can see both games. Best fit for Week 3.
+	[[TEAM RALLY]] — connection matters more than winning.
+	[[CATCH → CONNECT → SEND]] — beginners, twenty players, two courts.
+	[[SPACE & SUPPORT]] — checking decisions and covering space.
+	*Whole bank: [[VOLLEYBALL CFU GAMES]].*
+</callout>
+Use the attacking bonus for a timed controlled contact and balanced finish. Then change setter or entry angle. Watch whether the attacker adjusts to the actual set.
+<callout icon="💡" color="gray_bg">
+	Standing contact is a valid earlier version. A jump is not required for everyone.
+</callout>
+Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
+## 4. CLOSE
+**What Did We Learn?** What tells you when to start? Show the approach rhythm and balanced finish.
+<callout icon="🏐" color="gray_bg">
+	**LIFE LESSON**
+	[[LIFE LESSON]]
+	*Confidence + Adaptability.*
+</callout>
+**Recognition:** Who adjusted to a different set instead of repeating the same timing?
+**What's Next?** Our controlled attacks will create a new problem: how do we keep an incoming ball playable?
+<callout icon="🚩" color="gray_bg">
+	**After practice:** record the last reliable problem solved, one CFU observation, useful scaling and the next retrieval in your practice log.
+</callout>

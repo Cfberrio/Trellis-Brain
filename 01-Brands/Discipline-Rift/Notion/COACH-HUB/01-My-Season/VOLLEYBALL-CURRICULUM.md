@@ -12,45 +12,64 @@ sport: Volleyball
 status: Live
 order: 1
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-07
+mirrored: 2026-09-10
 mirror_complete: true
 aliases:
   - "VOLLEYBALL CURRICULUM"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your bread and water to coach every practice. Learn it. Practice it. Develop it. Six weeks, full session plans. Week 6 is not ready: see the note on it below.
+	Coach! This is your bread and water to coach every practice. Learn it. Practice it. Develop it. Six weeks, full session plans. Every row below is a page: tap it.
 </callout>
 # VOLLEYBALL CURRICULUM
-CURRICULUM CULTURE: how we do things, how we connect as people.
-## THE SEASON
-[[WEEK 1 - PASSING & SETTING]]
-*Passing and setting.*
-[[WEEK 2 - SERVING]]
-*Serving.*
-[[WEEK 3 - ATTACKING]]
-*Attacking.*
-[[WEEK 4 - DEFENDING]]
-*Defending.*
-[[WEEK 5 - MOVING]]
-*Moving.*
-[[WEEK 6 - COMMUNICATING]]
-*Not ready. The page currently repeats the Week 1 passing plan. Do not run it as written.*
-## SKILLS
-[[PASSING]]
-[[SETTING]]
-[[SERVING]]
-[[ATTACKING]]
-*Not ready. Currently duplicates the Week 3 session plan instead of teaching the skill.*
-[[DEFENDING]]
-[[MOVING]]
-[[COMMUNICATING]]
-## FOR THIS SPORT
-[[VOLLEYBALL TIERS]]
-*Superseded: use the cross-sport **[[TIERS]]** page. This copy stays for old links.*
-Shared with every sport, one tap from the hub home: [[PRACTICE STRUCTURE]], [[WARM UPS]], [[TIERS]], [[GROUP DYNAMICS]], [[GAMES]], [[LIFE LESSON]].
-## RESOURCES
-[[DRILLS]]
-*PDF drill collection. Four blocks.*
-[[VOLLEYBALL BOOKS]]
-*Two blocks only. Placeholder, needs content.*
+CURRICULUM CULTURE: how we do things, how we connect as coaches.
+<callout icon="🏐" color="gray_bg">
+	**THE SEASON**
+	[[WEEK 1]]
+	[[WEEK 2]]
+	[[WEEK 3]]
+	[[WEEK 4]]
+	[[WEEK 5]]
+	[[WEEK 6]]
+	*All six weeks rewritten. Each week names the Skill and the Problem; you choose the game from the banks below.*
+</callout>
+<callout icon="🎲" color="gray_bg">
+	**GAME BANKS — you pick, we do not pick for you**
+	[[VOLLEYBALL WARM-UP GAMES]]
+	*Four warm-ups. Pick one that fits your group and your space.*
+	[[VOLLEYBALL GAMIFIED CHALLENGES]]
+	*Sixteen challenges, indexed by the problem you can actually see. Run two or three in a session.*
+	[[VOLLEYBALL CFU GAMES]]
+	*Four Check For Understanding games. Choose the one that shows you whether they can use it.*
+</callout>
+<callout icon="/icons/brain_green.svg" color="gray_bg">
+	**SKILLS**
+	[[PASSING]]
+	[[SETTING]]
+	[[SERVING]]
+	[[ATTACKING]]
+	[[DEFENDING]]
+	[[MOVING]]
+	[[COMMUNICATING]]
+</callout>
+<callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**SHARED WITH EVERY SPORT**
+	[[PRACTICE DESIGN]]
+	*How every DR practice is built, start to finish.*
+	[[PROGRESSION LADDER]]
+	*What you teach next and when.*
+	[[COACH RULES]]
+	*What good coaching looks like while players are practicing.*
+	[[LIFE LESSON]]
+	*The Word of the Week. Culture, not a required block on every week page.*
+</callout>
+<callout icon="/icons/gradebook_green.svg" color="gray_bg">
+	**RESOURCES**
+	[[DRILLS]]
+	*PDF drill collection, four books.*
+	[[VOLLEYBALL BOOKS]]
+	*Two PDFs. Placeholder, needs content.*
+</callout>
+<callout icon="🚩" color="gray_bg">
+	Read your week before you drive out, not in the parking lot.
+</callout>

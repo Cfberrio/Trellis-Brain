@@ -4,7 +4,7 @@ area: notion-mirror
 note_type: notion-page
 source_type: notion_mirror
 notion_page_id: 0f404528-85a8-8291-9bc5-0148ad538a75
-notion_url: https://app.notion.com/p/WEEK-5-MOVING-0f40452885a882919bc50148ad538a75
+notion_url: https://app.notion.com/p/WEEK-5-0f40452885a882919bc50148ad538a75
 notion_db: COACH HUB
 section: My Season
 page_type: Week
@@ -12,215 +12,100 @@ sport: Volleyball
 status: Live
 order: 5
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-11
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-08
+mirrored: 2026-09-10
 mirror_complete: true
 aliases:
-  - "WEEK 5 - MOVING"
+  - "WEEK 5"
 ---
-# WEEK 5 - MOVING
-
-*(Developmental Volleyball)*
-**Week focus:** movement is a **standalone skill**.
-**North Star Learning Target:** players choose the smallest movement needed, stay low while moving, and arrive balanced before playing the ball.
-**Core week rule:** **Move first, then play the ball.**
-**Week 5 sequence:** **Ready → Move → Stop → Play**
-with your correction language:
-- **Step**
-- **Step–Shuffle**
-- **Step–Shuffle–Shuffle**
-- **Stop**
-The sources also support teaching movement as part of every volleyball skill: movement quality affects passing, defense, setting, and transition.
----
-## Block 1 — Culture Routine + Belonging
-**Activity**
-Quick huddle.
-Coach script:
-- “Today we are training **movement**, not speed.”
-- “Feet solve most problems.”
-- Effort norm: **move early, stay low, stop balanced, next rep mindset**.
-**Cue:** “Ready”
-**Why this belongs here**
-Block 1 should set identity, clarity, and expectation before technical load rises. Your shared cue language matters because short, repeated training language is what players can actually use later.
-**Practice Method Classification:** Retrieval Practice
-**Micro-CFU**
-Coach asks: “What comes first — arms or feet?”
-Team response: **“Feet.”**
-**Next-Block Progression**
-Move straight into no-ball retrieval so players can focus on movement quality without overload.
----
-## Block 2 — Retrieval Warm-Up
-**Activity**
-**Defensive Drills 6.1** (*Volleyball Drills*)
-A throws a ball in the air; while the ball is up, B moves using different running techniques. Just before A catches the ball, B must stop and take up a **stable stance**. The source says this drill is for creating a movement concept using volleyball-specific running techniques and that new running techniques are easier to learn **without a ball first**. It also says players should use **slide steps for short backward distances** and **cross or side steps for longer distances**.
-**Cue:** “Stop”
-**Why this belongs here**
-This is a strong retrieval warm-up because it isolates movement and balance before adding ball-play demands. It fits your module exactly: movement as a standalone skill, not just a warm-up filler.
-**Practice Method Classification:** Retrieval Practice
-**Micro-CFU**
-On freeze, coach scans for:
-- low posture
-- no crossed feet on short movement
-- body stopped in balance before imaginary contact
-Observable standard: **8/10 reps** end in a stable stance.
-**Tiering**
-- **Tier 1:** step only + stop
-- **Tier 3:** step–shuffle + stop
-- **Tier 5:** step–shuffle–shuffle + stop from a later cue
-**Next-Block Progression**
-Keep the same drill, but now explicitly teach the movement vocabulary.
----
-## Block 3 — Teaching Block
-**Activity**
-Use **Defensive Drills 6.1** again, but now as the teaching block.
-Teach only:
-- **Step** = one quick move
-- **Step–Shuffle** = more space, body stays square
-- **Step–Shuffle–Shuffle** = biggest controlled move
-- **Stop** = feet stop before contact when possible
-Source fit:
-- new running techniques are easier without the ball first
-- slide/cross/side steps are selected by distance
-- stable stance is the end goal before playing the ball
-**Cue:** “Step–Shuffle”
-**Why this belongs here**
-Block 3 is where you explicitly name the movement choices and correct one thing at a time. This is the clearest place to install the language.
-**Practice Method Classification:** Blocked Practice
-**Micro-CFU**
-“Show me the cue.”
-Player performs one rep on command.
-**Exit Criteria**
-Player can correctly show:
-- when one step is enough
-- when extra shuffle is needed
-- balanced stop at the end
-Observable standard: **3/4 correct movement choices** in coach-called reps.
-**Tailored drill explanation**
-This is the right teaching anchor for beginners because the source explicitly recommends learning the running techniques first without the ball. That protects working memory and keeps attention on movement, not accidental ball chaos.
-**Next-Block Progression**
-Add a volleyball skill after movement so players feel that movement leads into actual play.
----
-## Block 4 — Skill Acquisition Reps Engine
-**Activity**
-**Setter Footwork Challenge** (*The Volleyball Drill Book*)
-This is described by the source as a **basic but critical drill**. Players sprint to the net from zones **1, 6, and 4** and set 24 outside sets. Its purpose is to improve **footwork to the net** and set consistency.
-For Week 5, the emphasis is **movement**, not setting detail:
-- sprint from the starting spot
-- arrive balanced
-- stop under the ball
-- then execute the set
-This fits your module perfectly because movement shows up in other skills, and setting is one of them.
-**Cue:** “Stop”
-**Why this belongs here**
-This is the reps engine because it gives many repeated movement arrivals from real court spots. It also reinforces that movement is practiced **from positions**, not randomly.
-**Practice Method Classification:** Blocked Practice → Serial Practice
-**Micro-CFU**
-Track:
-- did player arrive under control
-- did feet stop before contact
-- did body stay low through the approach to the ball
-Observable standard: **6/8 reps** with balanced arrival from each starting zone.
-**Tiering**
-- **Tier 1:** jog instead of sprint
-- **Tier 3:** full sprint from zones 1, 6, and 4
-- **Tier 5:** vary starting spot and delay toss timing
-**Tailored drill explanation**
-This is a good Week 5 drill because it shows that movement is not separate from volleyball. The source calls it basic but critical, which is exactly how movement should be treated developmentally.
-**Next-Block Progression**
-Now shift movement into court-awareness and team relocation.
----
-## Block 5 — DR Teaching (Guided Decisions)
-**Activity**
-**Transition Movement Drill** (*Volleyball Fundamentals*)
-The source describes this drill as players moving from **base defensive positions** to **free-ball court formation** and then back again on the coach’s “free ball” signal. Players switch front- and back-row spots and repeat.
-For Week 5, use it as a movement-and-space decision drill:
-- players start in real spots
-- coach signals “free ball”
-- players move to the correct location
-- coach signals again
-- players return to base
-**Cue:** “Ready”
-**Why this belongs here**
-This is the first point in practice where players must connect movement choice to changing space and starting position. It is not full tactical systems work; it is guided decision-making about **where to move from here**.
-**Practice Method Classification:** Interleaving
-**Micro-CFU**
-Perception question:
-- “When the coach called free ball, where did you move from?”
-- “Did you move early and stop in balance?”
-Observable evidence:
-- correct movement from starting location
-- no backpedaling with extra little steps
-- eyes stay on the opponent’s side as they transition
-This also matches the source warning that many small backpedal steps are inefficient; players should move decisively and efficiently.
-**Tailored drill explanation**
-This is where movement starts teaching space. Your module says not to lecture space — let movement teach it. This drill does exactly that because the starting position changes, but the movement standards do not.
-**Next-Block Progression**
-Take the same movement demands into a live-ball, multiple-task environment.
----
-## Block 6 — Application (Constraint Game)
-**Activity**
-**Chaos Passing** (*The Volleyball Drill Book*)
-The source says the purpose is to pass successfully while performing multiple tasks of **passing, covering, and relocating**. After the pass, the passer moves to the net to cover the designated set, the remaining passers shift, and a new passer enters.
-For Week 5, score the game around movement:
-- **+1** if player uses the correct movement size
-- **+1** if player stops balanced before contact
-- **+1** if relocation is immediate after the pass
-Keep the original drill structure; just make movement the scoring emphasis.
-**Cue:** “Step”
-**Why this belongs here**
-This is true application: multiple skills, movement under pressure, relocation, and outside disruption. It tests whether movement holds up when volleyball starts looking more real.
-**Practice Method Classification:** Randomized Practice
-**Micro-CFU**
-Between rounds ask:
-- “What made you use one step instead of shuffle?”
-- “Did you stop before you played the ball?”
-Metrics that matter:
-- correct movement choice
-- balanced arrival
-- successful relocation after the action
-**Tailored drill explanation**
-This is a strong Week 5 application drill because the source already includes passing, covering, and relocating inside one task. That makes it ideal for testing whether the week’s movement language transfers when attention is divided.
-**Next-Block Progression**
-Close with retrieval of the movement language and where it shows up in other skills.
----
-## Block 7 — Debrief + Retrieval + Spacing
-**Activity**
-Quick team close.
-**Cue:** “Stop”
-**Why this belongs here**
-Block 7 should consolidate what was learned, what evidence showed it, and what will be revisited next. That is the required closing function.
-**Practice Method Classification:** Spaced Practice
-**Micro-CFU / Retrieval Questions**
-Ask from memory:
-- “What solves most problems first?” → **Feet**
-- “What comes after Ready?” → **Move**
-- “When do we stop?” → **Before contact, when possible**
-- “Where does movement show up?” → **Passing, setting, defense, attacking**
-**Exit Criteria**
-Player can show:
-- correct movement size
-- low posture
-- balanced stop before playing the ball
-**Spacing preview**
-“Next week, we keep the same movement language, but now we apply it more inside passing and defense.”
----
-# Source-Selected Drill Map for Week 5
-**Defensive Drills 6.1**
-- **Blocks:** 2 and 3
-- **Why:** teaches volleyball-specific running techniques, and the source explicitly says it is easier to learn new movement patterns without a ball first.
-**Setter Footwork Challenge**
-- **Block:** 4
-- **Why:** basic but critical footwork drill from real court spots; perfect for showing movement inside another volleyball skill.
-**Transition Movement Drill**
-- **Block:** 5
-- **Why:** teaches movement between real court positions and builds spatial awareness without needing full tactical systems.
-**Chaos Passing**
-- **Block:** 6
-- **Why:** adds passing, covering, and relocating, so movement has to hold up under live demands.
----
-# Coach Notes
-- Teach movement first without overload. The source explicitly supports starting with simple mechanics and then gradually adding movement and variability.
-- Keep players **low and balanced**. The source stresses a wide, balanced base, weight slightly forward, and shuffling in unison to stay ready for contact.
-- Movement quality matters more than hustle-looking movement. The source warns against unnecessary extra movement and emphasizes concise, efficient movement.
-- Use the same words every day. Short cue language is what players are most likely to actually carry into performance.
-- Movement is not just conditioning. The sources repeatedly tie movement to passing, defense, setting, and transition, which fits your module exactly.
+<callout icon="📢" color="gray_bg">
+	Coach! Week 5. Focus is **Moving + Setting**. The question all week is: where do you go **after** you touch the ball? You pick the games.
+</callout>
+# WEEK 5
+<callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**COACH RULES**
+	**Demonstrate everything. Don't explain.**
+	**Teach one skill at a time.**
+	**3 lines per coach, if possible.**
+	**Coach at all times. Don't stop speaking.**
+	**Give specific + actionable feedback.**
+	**Add variation as soon as players begin succeeding.**
+	**Check for understanding. Don't assume.**
+	**Fun first. Learning always.**
+</callout>
+## 1. INTRO
+**Welcome:** Reconnect by name. "We're here to have fun. We're here to learn."
+**Retrieval — see what they remember:** Use a few controlled defensive entries into dig - set - return. Start each player from a different already-known spot. Watch balanced arrival and what they do after contact.
+<callout icon="⚠️" color="yellow_bg">
+	Show unfamiliar locations before treating them as retrieval. A spot they have never used is new instruction.
+</callout>
+**Stretch:** Stretch with the players. Keep it dynamic; coach counts 1, players 2, coach 3, players 4.
+<callout icon="🎲" color="gray_bg">
+	**WARM-UP GAME — you pick**
+	[[MIRROR & FREEZE]] — footwork before contact. Best fit for Week 5.
+	[[VOLLEYBALL TAG]] — energy is flat.
+	[[POLICE & ROBBERS]] — energy is flat.
+	[[THE LINES GAME]] — new group or new space.
+	*Whole bank: [[VOLLEYBALL WARM-UP GAMES]]. Demonstrate before play.*
+</callout>
+## 2. PROGRESSION LADDER
+![Week 5 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/09e2cb4a-4c07-4643-9687-b00f1c6db20b/ladder-week5.png) <!-- notion-hosted, URL expires -->
+**Coaching focus:** Moving + Setting. Encounter other skills without adding simultaneous technical lessons.
+Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
+<callout icon="🎲" color="gray_bg">
+	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
+	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or open [[VOLLEYBALL GAMIFIED CHALLENGES]] and pick another for the same Skill + Problem.*
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 1** — [[DEFENDING]] + [[PASSING]]
+	*Retrieval: players freeze or reach when a ball enters their area. Check what remains reliable before adding instruction.*
+	Challenge: [[BEAT THE BALL]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 2** — [[MOVING]]
+	*Problem: players choose too many steps or cannot stop in balance.*
+	Challenge: [[MOVE–STOP–SET SQUARES]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 3** — [[MOVING]] + [[SETTING]]
+	*Problem: players set in place but arrive late from different court spots.*
+	Challenge: [[MOVE–STOP–SET SQUARES]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 4** — [[MOVING]] + [[DEFENDING]]
+	*Problem: players stay still after their contact instead of preparing to support.*
+	Challenge: [[HOME BASE]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 5** — [[PASSING]] + [[SETTING]] + [[ATTACKING]]
+	*Problem: an attacker can hit a coach toss but cannot connect to a teammate set.*
+	Challenge: [[TIMING TICKET]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 6** — [[MOVING]] + [[DEFENDING]]
+	*Problem: players know the next support spot but lose it when starting roles change. Repeat with different starting locations.*
+	Challenge: [[HOME BASE]] or [[WHOSE BALL?]]
+</callout>
+## 3. CHECK FOR UNDERSTANDING
+<callout icon="🎲" color="gray_bg">
+	**CFU GAME — you pick**
+	[[SPACE & SUPPORT]] — checking decisions and covering space. Best fit for Week 5.
+	[[MINI VOLLEYBALL]] — more contacts per child.
+	[[TEAM RALLY]] — connection matters more than winning.
+	[[CATCH → CONNECT → SEND]] — beginners, twenty players, two courts.
+	*Whole bank: [[VOLLEYBALL CFU GAMES]].*
+</callout>
+Start one-ball passing and relocation with predictable entries. Then change the starting spot or feed side. Watch movement size, balance and purposeful support after contact. Add set - return only when spacing remains controlled.
+Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
+## 4. CLOSE
+**What Did We Learn?** When is one step enough? Where do you go after your pass? Show it from a new starting spot.
+<callout icon="🏐" color="gray_bg">
+	**LIFE LESSON**
+	[[LIFE LESSON]]
+	*Focus + Integrity.*
+</callout>
+**Recognition:** Who moved to help or counted a miss honestly?
+**What's Next?** We will put the season together and see how clear communication helps us play.
+<callout icon="🚩" color="gray_bg">
+	**After practice:** record the last reliable problem solved, one CFU observation, useful scaling and the next retrieval in your practice log.
+</callout>

@@ -12,32 +12,44 @@ sport: Tennis
 status: Live
 order: 4
 notion_created: 2024-09-04
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-06
+mirrored: 2026-09-10
 mirror_complete: true
 aliases:
   - "TENNIS CURRICULUM"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Six weeks of short session plans. Review and assessment notes live inside each week.
+	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Six weeks of short session plans. Every row below is a page: tap it.
 </callout>
 # TENNIS CURRICULUM
-## THE SEASON
-[[WEEK 1 - FOREHANDS]]
-*Forehands. Life lesson: Teamwork + Discipline.*
-[[WEEK 2 - BACKHANDS]]
-*Backhands, forehand review. Consistency + Humility.*
-[[WEEK 3 - VOLLEYS]]
-*Volleys, forehand and backhand review. Confidence + Adaptability.*
-[[WEEK 4 - SERVES]]
-*Serves, forehand and backhand review. Resilience + Passion.*
-[[WEEK 5 - ALL SKILLS]]
-*Review of all four skills. Focus + Integrity.*
-[[WEEK 6 - ASSESSMENT]]
-*Assessment of all four skills. Growth + Fun.*
-## SKILLS
-*No tennis skill pages exist yet. The skill teaching lives inside each week page.*
-## FOR THIS SPORT
-*Nothing tennis specific yet.* Shared with every sport, one tap from the hub home: [[PRACTICE STRUCTURE]], [[WARM UPS]] (repeated across the tennis weeks), [[TIERS]], [[GROUP DYNAMICS]], [[GAMES]], [[LIFE LESSON]].
-## RESOURCES
-*Nothing here yet. PDFs and reference material for tennis will land here.*
+<callout icon="🎾" color="gray_bg">
+	**THE SEASON**
+	[[WEEK 1 - FOREHANDS-4260d733|WEEK 1 - FOREHANDS]]
+	*Forehands. Life lesson: Teamwork + Discipline.*
+	[[WEEK 2 - BACKHANDS-10804528|WEEK 2 - BACKHANDS]]
+	*Backhands, forehand review. Consistency + Humility.*
+	[[WEEK 3 - VOLLEYS]]
+	*Volleys, forehand and backhand review. Confidence + Adaptability.*
+	[[WEEK 4 - SERVES]]
+	*Serves, forehand and backhand review. Resilience + Passion.*
+	[[WEEK 5 - ALL SKILLS]]
+	*Review of all four skills. Focus + Integrity.*
+	[[WEEK 6 - ASSESSMENT]]
+	*Assessment of all four skills. Growth + Fun.*
+</callout>
+<callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**SHARED WITH EVERY SPORT**
+	[[PRACTICE STRUCTURE]]
+	[[WARM UPS]]
+	*Repeated across the tennis weeks.*
+	[[TIERS]]
+	[[GROUP DYNAMICS]]
+	[[GAMES]]
+	[[LIFE LESSON]]
+</callout>
+<callout icon="⚠️" color="yellow_bg">
+	**GAPS** — no tennis skill pages exist yet: the skill teaching lives inside each week page. Nothing tennis specific, and no tennis PDFs, yet either.
+</callout>
+<callout icon="🚩" color="gray_bg">
+	Read your week before you drive out, not in the parking lot.
+</callout>

@@ -12,12 +12,10 @@ sport: Volleyball
 status: Live
 order: 5
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-08
+mirrored: 2026-09-10
 mirror_complete: true
 ---
-# DEFENDING
-
 *(Developmental Volleyball)*
 ## Purpose of This Module
 This module defines **how we teach defense to beginners**.
@@ -58,7 +56,7 @@ We do this by teaching **three defensive movement skills**.
 ## DEFENSIVE MOVEMENT SKILLS (FOUNDATION)
 These are taught **explicitly** and used every day in defense.
 ### Skill 1 — Step
-**Cue:** “Step”
+**Cue:** "Step"
 - One quick step to the ball
 - Used for balls **just outside the body**
 **Why:**
@@ -66,7 +64,7 @@ Most defensive balls do not require big movement.
 Over-moving creates imbalance.
 ---
 ### Skill 2 — Step–Shuffle
-**Cue:** “Step–Shuffle”
+**Cue:** "Step–Shuffle"
 - One step to start
 - One shuffle to finish
 - Used for balls **farther away but still controlled**
@@ -74,7 +72,7 @@ Over-moving creates imbalance.
 This keeps the body square and low while covering more space.
 ---
 ### Skill 3 — Step–Shuffle–Shuffle
-**Cue:** “Step–Shuffle–Shuffle”
+**Cue:** "Step–Shuffle–Shuffle"
 - One initiating step
 - Two quick shuffles
 - Used for balls **well outside the body or into seams**
@@ -90,7 +88,7 @@ Area awareness is learned by **repeating movement from the same position**.
 ---
 ## DEFENSE BY NUMBERS (FOUNDATION)
 ### Position 1 — Ready
-**Cue:** “Ready”
+**Cue:** "Ready"
 - Athletic stance
 - Knees bent
 - Chest tall
@@ -100,14 +98,14 @@ Area awareness is learned by **repeating movement from the same position**.
 A good ready position allows immediate stepping or shuffling.
 ---
 ### Position 2 — Read
-**Cue:** “Read”
+**Cue:** "Read"
 - Eyes track the ball
 - See where it is going
 **Why:**
 Movement choice depends on reading the ball early.
 ---
 ### Position 3 — Move
-**Cue:** “Step / Step–Shuffle / Step–Shuffle–Shuffle”
+**Cue:** "Step / Step–Shuffle / Step–Shuffle–Shuffle"
 - Choose the **smallest movement needed**
 - Stay low
 - Feet move **before** platform forms
@@ -115,15 +113,15 @@ Movement choice depends on reading the ball early.
 Feet determine success in defense.
 ---
 ### Position 4 — Platform
-**Cue:** “Platform”
-- Same platform as passing
+**Cue:** "Platform"
+- Same platform as [[PASSING]]
 - Arms flat and quiet
 - Built **after movement**
 **Why:**
 Defense does not use a different platform.
 ---
 ### Position 5 — Up
-**Cue:** “Up”
+**Cue:** "Up"
 - Legs extend
 - Ball goes up and playable
 **Why:**
@@ -139,7 +137,7 @@ This sequence is **non-negotiable**.
 Players should practice defense **from their actual positions**, so movement builds:
 - comfort in their spot
 - understanding of their area
-- confidence in what balls are “theirs”
+- confidence in what balls are "theirs"
 We do not lecture areas —
 **we let movement teach space**.
 ---
@@ -160,11 +158,11 @@ Players learn positions as **places on the court**, not roles:
 - Position 3 — front middle
 - Position 2 — front right
 Movement is practiced **from these spots**, so players associate:
-> *“This is my space.”*
+> *"This is my space."*
 ---
 ### Rotations (Minimal Exposure)
 Rotation is introduced simply as:
-> “When we win the serve, everyone moves one spot.”
+> "When we win the serve, everyone moves one spot."
 Defensive movement patterns stay the same —
 only the **starting location changes**.
 ---
@@ -181,11 +179,11 @@ We do **not** rush into defensive systems.
 - staying in your area
 - popping the ball up
 **Primary cues:**
-- “Ready”
-- “Read”
-- “Step / Step–Shuffle / Step–Shuffle–Shuffle”
-- “Platform”
-- “Up”
+- "Ready"
+- "Read"
+- "Step / Step–Shuffle / Step–Shuffle–Shuffle"
+- "Platform"
+- "Up"
 ---
 ### Application Phase (Later Weeks)
 **Goal:** Faster movement and better area coverage
@@ -219,3 +217,15 @@ If defense breaks down, ask yourself:
 3. Did they stay in their area?
 4. Did they get behind the ball and send it up?
 Fix **one thing at a time**.
+---
+<callout icon="🎲" color="gray_bg">
+	**WHERE THIS SKILL SHOWS UP**
+	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
+	**Weeks:** [[WEEK 4]] · [[WEEK 5]] · [[WEEK 6]]
+	**Challenges, by the problem you can see:**
+	Reaches instead of moving → [[BEAT THE BALL]]
+	Stops after their own touch → [[HOME BASE]]
+	Two players hesitate → [[WHOSE BALL?]]
+	Saves the ball but nobody can play it → [[SAVE AND SHARE]]
+	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+</callout>

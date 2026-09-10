@@ -14,10 +14,14 @@ notion_created: 2026-01-11
 notion_last_edited: 2026-08-12
 mirrored: 2026-08-12
 mirror_complete: true
+notion_deleted: true
 aliases:
-  - "PRACTICE DESIGN"
+  - "PRACTICE DESIGN (old, superseded)"
 ---
-# PRACTICE DESIGN
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION as of the 2026-09-10 re-sync, and RENAMED before archiving.** This page's live Notion title as of last edit is "PRACTICE TEMPLATE," and Notion's own fetch marks it `deleted` — it is no longer a row in "DR | COACH HUB." A DIFFERENT, currently-live page is now titled "PRACTICE DESIGN" (formerly "SEASON DESIGN") — see [[SEASON-DESIGN|PRACTICE DESIGN]] in this same folder. Do not confuse the two. Content below is unchanged from the 2026-08-12 mirror and kept for history only.
+</callout>
+# PRACTICE DESIGN (old, superseded — live title is now "PRACTICE TEMPLATE," archived)
 
 # **DR Practice Write-Up Template (Use this exact structure each week)**
 ## **1) Week of Practice**

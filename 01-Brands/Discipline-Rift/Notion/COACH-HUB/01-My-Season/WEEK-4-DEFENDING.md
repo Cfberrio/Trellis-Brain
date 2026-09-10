@@ -4,7 +4,7 @@ area: notion-mirror
 note_type: notion-page
 source_type: notion_mirror
 notion_page_id: 36f04528-85a8-835a-b804-01cb42906a1a
-notion_url: https://app.notion.com/p/WEEK-4-DEFENDING-36f0452885a8835ab80401cb42906a1a
+notion_url: https://app.notion.com/p/WEEK-4-36f0452885a8835ab80401cb42906a1a
 notion_db: COACH HUB
 section: My Season
 page_type: Week
@@ -12,204 +12,97 @@ sport: Volleyball
 status: Live
 order: 4
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-08
+mirrored: 2026-09-10
 mirror_complete: true
 aliases:
-  - "WEEK 4 - DEFENDING"
+  - "WEEK 4"
 ---
-# WEEK 4 - DEFENDING
-
-*Developmental Volleyball*
-**Week focus:** defense is **movement first**.
-**North Star Learning Target:** players start in a ready position, move with the correct movement size, build the platform **after** movement, and send the ball **up and playable**.
-**Module sequence:** **Ready → Read → Move → Platform → Up**.
-**Week 4 meaning:** movement teaches space. Players begin to learn “this is my area” by repeating defense from actual court spots, not by getting a long lecture on systems. The sources support teaching beginners the six court zones early and using position-based movement to build understanding of where players begin and how rotations change starting location.
----
-## Block 1 — Culture Routine + Belonging
-**Activity**
-Quick team huddle.
-Coach script:
-- “Today we defend with our **feet first**.”
-- “Our job is not to reach. Our job is to move and keep the ball off the floor.”
-- Effort norm: **reset fast, stay in your area, next rep mindset**.
-**Cue:** “Ready”
-**Why this belongs here**
-Block 1 is for clarity, belonging, and expectations before technical demand rises. That is the required role of this block.
-**Practice Method Classification:** Retrieval Practice
-**Micro-CFU**
-Coach asks: “What’s the first word in our defense pattern?”
-Team response: **“Ready.”**
-Then all players show a ready stance in place.
-**Next-Block Progression**
-Move into low-complexity retrieval of movement and platform habits.
----
-## Block 2 — Retrieval Warm-Up
-**Activity**
-**Position Freeze + Movement Callouts**
-Players start from real court spots:
-- Position 1 — back right
-- Position 6 — back middle
-- Position 5 — back left
-- Position 4 — front left
-- Position 3 — front middle
-- Position 2 — front right
-Coach calls:
-- “Step”
-- “Step–Shuffle”
-- “Step–Shuffle–Shuffle”
-- “Platform”
-- “Up”
-Players move a short distance from their actual starting spot, then freeze. This matches your module’s idea that movement teaches space, and it matches the source guidance that beginners should learn the six zones right away rather than only thinking in “front row/back row.”
-**Cue:** “Read”
-**Why this belongs here**
-This is retrieval: players recall court spots, ready posture, and movement size before live-ball defense begins. Block 2 is for recalling prior learning and preparing body and brain without turning the segment into full new instruction.
-**Practice Method Classification:** Retrieval Practice
-**Micro-CFU**
-On freeze, coach scans for:
-- eyes on the ball/coach
-- weight forward
-- no crossed feet
-- platform not built early
-Observable standard: **8/10 players** start low and move before forming the platform.
-**Tiering**
-- **Tier 1:** one movement only, no ball
-- **Tier 3:** movement + freeze into platform
-- **Tier 5:** movement call comes after a late visual cue
-**Next-Block Progression**
-Add a live-ball demonstration in a smaller action area.
----
-## Block 3 — Teaching Block
-**Activity**
-**Positional Defense With a Smaller Action Area**
-Use the source drill from *Volleyball Drills*: defender stands in a target area while an attacker at a lowered net attacks into that area; the defender defends and bump-passes to setting position. The source explicitly describes this as **positional defense with a smaller action area** and recommends changing target size and attack intensity based on level.
-**Cue:** “Platform”
-**Why this belongs here**
-This is a clean teaching drill: small area, clear location, one visible technical standard. It fits Block 3 because the coach can demonstrate **Ready → Read → Move → Platform → Up** without overloading players.
-**Practice Method Classification:** Blocked Practice
-**Micro-CFU**
-“Show me the cue.”
-Player performs one rep. Coach checks:
-- feet moved first
-- platform formed after movement
-- ball sent to target area / setting position
-**Exit Criteria**
-Player shows **3/5 reps** with:
-- movement before platform
-- balanced body behind the ball
-- playable ball up to target
-**Tailored drill explanation**
-This is a strong Week 4 anchor because it teaches **defense from a position**, not random chasing. It fits your module’s emphasis on area awareness and keeping the ball up, and it also reflects source teaching that defense uses the same platform and movement principles as passing.
-**Next-Block Progression**
-Increase rep volume while keeping movement clear and measurable.
----
-## Block 4 — Skill Acquisition Reps Engine
-**Activity**
-**Single-Defender Reaction Challenge**
-From *The Volleyball Drill Book*: 10–12 players form a circle around one defender; attackers hit one at a time, the defender digs back to the attacker, and play continues until the defender gets 30 digs or time runs out. Coaching points emphasize that **shoulders and feet must be squared to the hitter** and that attackers keep a fast, steady pace.
-**Cue:** “Move”
-**Why this belongs here**
-Block 4 is for lots of clean reps in a controlled environment. This drill gives high repetition and immediate feedback while keeping the technical goal simple: move, square, and dig playable balls.
-**Practice Method Classification:** Blocked Practice → Serial Practice
-**Micro-CFU**
-Track:
-- number of balls dug back playable
-- whether defender’s feet moved before platform
-- whether shoulders stayed square
-Observable standard: **12 playable digs in a round** for beginners, then progress upward.
-**Tiering**
-- **Tier 1:** roll shots / controlled tosses instead of hard hits
-- **Tier 3:** one-handed throws or controlled attacks
-- **Tier 5:** faster attacks with varied placement
-**Tailored drill explanation**
-This drill is useful for developmental defense because it forces repeated footwork and body alignment, not just one rep and stop. For younger players, reduce pace first so the focus stays on **smallest movement needed**, not panic. That also matches the source warning that too much difficulty too soon reduces control and quality.
-**Next-Block Progression**
-Move from single-player defense to adjacent-player decisions in seams and shared space.
----
-## Block 5 — DR Teaching (Guided Decisions)
-**Activity**
-**Seam Digging**
-From *Volleyball Fundamentals*: adjacent defenders move to dig a ball hit in the seam between them. The goal is for the blocker to move inside for the ball while the defender moves behind, and by moving in **parallel lines** they avoid colliding. The blocker has first chance; the defender has second chance.
-**Cue:** “Step–Shuffle”
-**Why this belongs here**
-This is the first block where players must read shared space and choose the correct response with another player nearby. That makes it a true Block 5 guided-decision activity. It also fits your “move within your area” principle and your later-phase note about defending seams.
-**Practice Method Classification:** Interleaving
-**Micro-CFU**
-Perception question after a rep:
-- “Whose ball was it first?”
-- “What told you to use step only or step–shuffle?”
-Observable evidence:
-- no collisions
-- first defender takes first chance
-- second defender covers behind
-- playable ball goes up
-**Tailored drill explanation**
-This is where court awareness becomes real. Instead of lecturing seams, players learn them by moving from their spots and solving a shared-space problem. That aligns well with your module and the source description of adjacent defenders working together in the seam.
-**Next-Block Progression**
-Take the same movement logic into a competitive, measurable defensive game.
----
-## Block 6 — Application (Constraint Game)
-**Activity**
-**Single-Defender Reaction Challenge — Team Score Version**
-Keep the source drill intact, but run it as a team challenge:
-- each defender has one timed round
-- team score = total playable digs
-- bonus point if the defender uses the correct movement size and sends the ball up cleanly
-This keeps the original drill while giving Block 6 a clear competitive metric. The source already gives the pressure element: rapid succession, clock, and a dig total target.
-**Cue:** “Up”
-**Why this belongs here**
-This block should test whether learning transfers under pressure. The round is faster, competitive, and still centered on the week’s learning target: correct movement, playable contact, keep the rally alive.
-**Practice Method Classification:** Randomized Practice
-**Micro-CFU**
-Between rounds ask:
-- “See → Decide → Act: what told you one step was enough?”
-- “What made you need step–shuffle–shuffle?”
-Metrics that matter:
-- playable digs
-- correct movement choice
-- balls kept in defender’s area without panic reach
-**Tailored drill explanation**
-For Week 4, this works better than jumping into a full system defense. Your module explicitly says not to rush systems yet. This keeps defensive success tied to **feet first**, **area responsibility**, and **send it up**, which is the right transfer target for beginners.
-**Next-Block Progression**
-Close by retrieving court vocabulary and the defensive pattern from memory.
----
-## Block 7 — Debrief + Retrieval + Spacing
-**Activity**
-Quick circle close.
-**Cue:** “Up”
-**Why this belongs here**
-Block 7 must close the loop with retrieval, evidence, and the next revisit.
-**Practice Method Classification:** Spaced Practice
-**Micro-CFU / Retrieval Questions**
-Ask from memory:
-- “What is our defense pattern?” → **Ready → Read → Move → Platform → Up**
-- “What comes first: feet or platform?” → **Feet**
-- “Where is Position 6?” → **Back middle**
-- “When we win the serve, what happens?” → **Everyone moves one spot**
-The sources support using quick knowledge-building questions to encode terminology in long-term memory and teaching the six court zones plus simple rotation early.
-**Exit Criteria**
-Player can show:
-- ready position before the ball
-- correct movement size
-- platform after movement
-- playable ball up
-**Spacing preview**
-“Next week we keep the same movement language, but we’ll defend faster balls and revisit space from different starting spots.”
----
-# Source-Selected Drill Map for Week 4
-**Positional Defense With a Smaller Action Area**
-- **Block:** 3
-- **Why:** teaches defense from a defined spot and sends the ball to setting position; ideal for learning area responsibility early.
-**Single-Defender Reaction Challenge**
-- **Block:** 4, then 6
-- **Why:** high rep volume, shoulders and feet squared, fast measurable pressure.
-**Seam Digging**
-- **Block:** 5
-- **Why:** adjacent defenders learn shared-space responsibility and avoid collisions by moving in parallel lines.
----
-# Coach Notes for Consistency Across All Coaches
-- Keep saying the same movement words every day. The exact language in your module is a strength because shared vocabulary speeds learning. The source support for clear vocabulary and retrieval is strong.
-- Do not teach systems yet. Your module is right to delay that. The sources place more specialized team-defense systems at higher levels, after players understand positions and movement responsibilities.
-- Defense uses the **same platform as passing**. The source is explicit about that.
-- Shuffle to stay balanced. The source stresses moving the feet in unison to keep a wide base and arrive in balance before contact.
-- Fix one thing at a time. Too much at once overloads working memory and hurts perception and execution.
+<callout icon="📢" color="gray_bg">
+	Coach! Week 4. Focus is **Defending + Communicating**. Defense here is the passing platform they already own, used against a changed entry. You pick the games.
+</callout>
+# WEEK 4
+<callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**COACH RULES**
+	**Demonstrate everything. Don't explain.**
+	**Teach one skill at a time.**
+	**3 lines per coach, if possible.**
+	**Coach at all times. Don't stop speaking.**
+	**Give specific + actionable feedback.**
+	**Add variation as soon as players begin succeeding.**
+	**Check for understanding. Don't assume.**
+	**Fun first. Learning always.**
+</callout>
+## 1. INTRO
+**Welcome:** Reconnect by name. "We're here to have fun. We're here to learn."
+**Retrieval — see what they remember:** Retrieve a short pass - set - controlled return, beginning one round with a serve. Watch whether first contacts stay playable and players reset. Ask a player to show feet-before-platform. Introduce defense as using that known platform against a changed entry.
+**Stretch:** Stretch with the players. Keep it dynamic; coach counts 1, players 2, coach 3, players 4.
+<callout icon="🎲" color="gray_bg">
+	**WARM-UP GAME — you pick**
+	[[MIRROR & FREEZE]] — footwork before contact. Best fit for Week 4.
+	[[VOLLEYBALL TAG]] — energy is flat.
+	[[POLICE & ROBBERS]] — energy is flat.
+	[[THE LINES GAME]] — new group or new space.
+	*Whole bank: [[VOLLEYBALL WARM-UP GAMES]]. Demonstrate before play.*
+</callout>
+## 2. PROGRESSION LADDER
+![Week 4 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/2a27b8c7-16d3-44ab-8c92-e1c36b64b83f/ladder-week4.png) <!-- notion-hosted, URL expires -->
+**Coaching focus:** Defending + Communicating. Encounter other skills without adding simultaneous technical lessons.
+Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
+<callout icon="🎲" color="gray_bg">
+	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
+	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or open [[VOLLEYBALL GAMIFIED CHALLENGES]] and pick another for the same Skill + Problem.*
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 1** — [[PASSING]] + [[SETTING]] + [[ATTACKING]]
+	*Retrieval: an attacker can hit a coach toss but cannot connect to a teammate set. Check what remains reliable before adding instruction.*
+	Challenge: [[TIMING TICKET]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 2** — [[DEFENDING]] + [[PASSING]]
+	*Problem: players freeze or reach when a ball enters their area.*
+	Challenge: [[BEAT THE BALL]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 3** — [[DEFENDING]] + [[MOVING]]
+	*Problem: players defend one ball but do not reset for the next entry.*
+	Challenge: [[HOME BASE]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 4** — [[COMMUNICATING]] + [[PASSING]]
+	*Problem: two players hesitate or both chase a shared ball.*
+	Challenge: [[WHOSE BALL?]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 5** — [[DEFENDING]] + [[COMMUNICATING]]
+	*Problem: adjacent defenders do not know who plays first and who supports.*
+	Challenge: [[WHOSE BALL?]] or [[HOME BASE]]
+</callout>
+<callout icon="🏐" color="gray_bg">
+	**STEP 6** — [[DEFENDING]] + [[SETTING]] + [[ATTACKING]]
+	*Problem: players keep the first ball up but cannot turn defense into a return.*
+	Challenge: [[SAVE AND SHARE]]
+</callout>
+## 3. CHECK FOR UNDERSTANDING
+<callout icon="🎲" color="gray_bg">
+	**CFU GAME — you pick**
+	[[SPACE & SUPPORT]] — checking decisions and covering space. Best fit for Week 4.
+	[[MINI VOLLEYBALL]] — more contacts per child.
+	[[TEAM RALLY]] — connection matters more than winning.
+	[[CATCH → CONNECT → SEND]] — beginners, twenty players, two courts.
+	*Whole bank: [[VOLLEYBALL CFU GAMES]].*
+</callout>
+Use gentle attacked entries and score a playable dig that permits the next contact. After success, change the starting area or entry depth. Watch ownership, movement and a useful second contact. Increase one demand only.
+Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
+## 4. CLOSE
+**What Did We Learn?** What comes first, feet or platform? Who takes a seam ball and what does the teammate do?
+<callout icon="🏐" color="gray_bg">
+	**LIFE LESSON**
+	[[LIFE LESSON]]
+	*Resilience + Passion.*
+</callout>
+**Recognition:** Who reset after a miss and supported the next play?
+**What's Next?** We will move from new starting spots and learn where to go after touching the ball.
+<callout icon="🚩" color="gray_bg">
+	**After practice:** record the last reliable problem solved, one CFU observation, useful scaling and the next retrieval in your practice log.
+</callout>

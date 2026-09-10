@@ -4,7 +4,7 @@ area: notion-mirror
 note_type: notion-page
 source_type: notion_mirror
 notion_page_id: 3ba04528-85a8-8147-ad96-c62d48d25c42
-notion_url: "https://app.notion.com/p/INCIDENTS-3ba0452885a88147ad96c62d48d25c42"
+notion_url: https://app.notion.com/p/INCIDENTS-3ba0452885a88147ad96c62d48d25c42
 notion_db: COACH HUB
 section: Problems
 page_type: Topic
@@ -12,8 +12,8 @@ sport: All Sports
 status: Draft
 order: 1
 notion_created: 2026-08-12
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-08-29
+mirrored: 2026-09-10
 mirror_complete: true
 ---
 <callout icon="🚑" color="gray_bg">
@@ -33,8 +33,4 @@ The parent talk routes through DR, not the coach: DR notifies the parents. One d
 - The concussion rule for any head knock
 - Who calls the parent, how fast, and who files what
 - Where you see a child's allergies, medical notes and emergency contact from the field
-## ESCALATION
-Program director: \{DIRECTOR_NAME\}, \{DIRECTOR_PHONE\}. First call for anything on the ground.
-<callout icon="⚠️" color="yellow_bg">
-	FOR LUIS. 1. First three actions with a hurt child, in order. 2. Does practice stop for the group or keep moving? 3. Solo coach: who watches the other kids? 4. May a coach touch, move, or ice a player? 5. First aid kit: whose is it and where? 6. Head knock: out for the rest of practice, no exceptions? 7. Who calls the parent and by when: before pickup, same night, or is the report enough? 8. Severity terms Near Miss / Minor / Moderate / Severe need observable definitions: escalation triggers off "Moderate or above" and nothing defines it. 9. "Cleared by Coach" appears on the report form with no definition: should a part time coach hold return-to-play authority at all? 10. Photo and video rules: report attachments exist, no photo release exists anywhere.
-</callout>
+## ESCALATION: FILL OUT REPORT BELOW

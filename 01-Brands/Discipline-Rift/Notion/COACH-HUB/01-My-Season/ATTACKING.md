@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 4
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-07
+mirrored: 2026-09-10
 mirror_complete: true
 ---
 <callout icon="🏐" color="gray_bg">
@@ -164,3 +164,14 @@ Observable metrics:
 - Keep lines short. High repetition in short time is more valuable than low repetition in long lines.
 - After feedback, replay immediately. Correction sticks better when the athlete gets the next rep right away.
 - For right-handed hitters, source fundamentals support **left-right-left** timing and a **45-degree approach**. For left-handed hitters, reverse the approach cue.
+---
+<callout icon="🎲" color="gray_bg">
+	**WHERE THIS SKILL SHOWS UP**
+	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
+	**Weeks:** [[WEEK 3]] · [[WEEK 4]] · [[WEEK 5]] · [[WEEK 6]]
+	**Challenges, by the problem you can see:**
+	Swings hard with no control → [[HIGH HAND TARGET]]
+	Cannot match the ball's timing → [[TIMING TICKET]]
+	Sends straight to the opponent → [[FIND THE SPACE]]
+	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+</callout>

@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 7
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-07
+mirrored: 2026-09-10
 mirror_complete: true
 ---
 <callout icon="🗣️" color="gray_bg">
@@ -120,3 +120,14 @@ Fix **one expectation at a time**.
 - "**BALL!**" → team: "**BALL!**"
 - "Say a teammate's name. Go." *(pause until you hear it)*
 - "Mine on three. One, two, three… **MINE!**"
+---
+<callout icon="🎲" color="gray_bg">
+	**WHERE THIS SKILL SHOWS UP**
+	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
+	**Weeks:** [[WEEK 4]] · [[WEEK 6]]
+	**Challenges, by the problem you can see:**
+	Two players hesitate → [[WHOSE BALL?]]
+	Saves the ball but nobody can play it → [[SAVE AND SHARE]]
+	One miss kills the group's confidence → [[BEAT YOUR BEST CONNECTIONS]]
+	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+</callout>

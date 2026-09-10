@@ -12,26 +12,38 @@ sport: Pickleball
 status: Draft
 order: 3
 notion_created: 2025-11-29
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-06
+mirrored: 2026-09-10
 mirror_complete: true
 aliases:
   - "PICKLEBALL CURRICULUM"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Three of six weeks are written. Weeks 4 to 6 do not exist yet.
+	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Three of six weeks are written. Every row below is a page: tap it.
 </callout>
 # PICKLEBALL CURRICULUM
-## THE SEASON
-[[WEEK 1 - FOREHANDS]]
-*Forehand strokes and basic paddle grip. Life lesson: Teamwork + Discipline.*
-[[WEEK 2 - BACKHANDS]]
-*Backhand strokes, forehand review. Consistency + Humility.*
-[[WEEK 3 - DINKS]]
-*Dinks, forehand and backhand review. Confidence + Adaptability.*
-<callout icon="⚠️" color="yellow_bg">
-	Weeks 4 to 6 are planned but unwritten, in Notion and in the source files: Week 4 Serves, Week 5 Drop Shots, Week 6 Rallying + Assessment. There is nothing to tap yet.
+<callout icon="🏓" color="gray_bg">
+	**THE SEASON**
+	[[WEEK 1 - FOREHANDS-2ba04528|WEEK 1 - FOREHANDS]]
+	*Forehand strokes and basic paddle grip. Life lesson: Teamwork + Discipline.*
+	[[WEEK 2 - BACKHANDS-2ba04528|WEEK 2 - BACKHANDS]]
+	*Backhand strokes, forehand review. Consistency + Humility.*
+	[[WEEK 3 - DINKS]]
+	*Dinks, forehand and backhand review. Confidence + Adaptability.*
 </callout>
+<callout icon="⚠️" color="yellow_bg">
+	**WEEKS 4 TO 6 DO NOT EXIST YET** — planned but unwritten, in Notion and in the source files: Week 4 Serves, Week 5 Drop Shots, Week 6 Rallying + Assessment. There is nothing to tap for those weeks.
+</callout>
+<callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**SHARED WITH EVERY SPORT**
+	[[PRACTICE STRUCTURE]]
+	[[WARM UPS]]
+	[[TIERS]]
+	[[GROUP DYNAMICS]]
+	[[GAMES]]
+	[[LIFE LESSON]]
+</callout>
+## THE SEASON MAP
 <table>
 <tr>
 <td>WEEK</td>
@@ -69,9 +81,6 @@ aliases:
 <td>Growth + Fun</td>
 </tr>
 </table>
-## SKILLS
-*No pickleball skill pages exist yet. The skill teaching lives inside each week page.*
-## FOR THIS SPORT
-*Nothing pickleball specific yet.* Shared with every sport, one tap from the hub home: [[PRACTICE STRUCTURE]], [[WARM UPS]] (identical in every pickleball lesson), [[TIERS]], [[GROUP DYNAMICS]], [[GAMES]], [[LIFE LESSON]].
-## RESOURCES
-*Nothing here yet. PDFs and reference material for pickleball will land here.*
+<callout icon="🚩" color="gray_bg">
+	Read your week before you drive out, not in the parking lot.
+</callout>

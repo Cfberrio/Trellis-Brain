@@ -12,12 +12,10 @@ sport: Volleyball
 status: Live
 order: 1
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-07
+mirrored: 2026-09-10
 mirror_complete: true
 ---
-# PASSING
-
 # PASSING MODULE
 *(Developmental Volleyball)*
 ---
@@ -51,7 +49,7 @@ We teach this order using numbers so players:
 ---
 ## PASSING BY NUMBERS (FOUNDATION)
 ### Position 1 — Ready
-**Cue:** “Ready”
+**Cue:** "Ready"
 - Athletic stance
 - Knees bent
 - Back straight
@@ -59,27 +57,27 @@ We teach this order using numbers so players:
 - Ready to move
 - **No platform yet**
 **Important clarification:**
-Arms stay relaxed until the player has **moved into the ball’s path**.
+Arms stay relaxed until the player has **moved into the ball's path**.
 **Why:**
 Players must react first.
 Building a platform too early locks the body and reduces balance and adjustment.
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/fdea56df-b011-4f9e-a634-a523d79e6fff/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VCU7TDGD%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001044Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJHMEUCIFx0PdiXh8kOPHRYywg7gpVpdQJo90QLTgTNsZWIeGxsAiEAhCRcgQyGU%2FwAbQBI%2B8Ucyt9smhLBvMDP%2Br001m4MviYqiAQI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDCtU5qxjY1RWEcDRxircA0bHeWQR0DJmEqNz0noq4eg2fdOnsYEWWmmNkGmJfQs03N3xkxcTcxHP1pIZ%2FPCeL%2FpQuadwN2ZBEAqQHASUFlvAN2Q9mGerzaavoJkdlI%2F2lPf%2BmiOOdyCxf5lvKbTRKTYNSuecWJDCneg5yVYx5smVR64d9Ai%2BQriYWd4s6ODVRub%2By1CXG2Huj4cOat6iZOjZRT1brtwn%2FZjW2Y3MntbD48XhZrDhQ%2FJvDgNtYa5lVnVE0%2Ff6uvMA7SUyf%2B1hZxZdP3n2X4EVNiiiXLhnFDUg7IY1d2Ig%2BL11REtiDSXO66rToOGNKB00WElARdZ8h4HujS4PAzqDGl329mHC94OpfoDoyrNr0W2Hp4ksRoACz1zC6Bd1Y2t69dM0TPf0vA7AJ5348PnipqNMmha%2F8kd8%2B1Qy0cuDBT%2BlQl8rCWJRYLIcPqpksN%2FrkcpqaRjX7j4VUugIYNutWpKICj3Q5tV3rG3LtkHfTBas7nqFfoI2xUhAYErtes8x9Ps8MpzpSdcLaDf8%2BIJKgTW75ypMEGGVZH0%2FwMVGqqWf1UGDWb2kNpXdKFUJzgbfyr4BrQ0kNSBFy7V0pg%2FpZORC4nz1y%2B1UcvD9VI1Js6xcLkh3qjzXK7ag5Tagv5NOlGW4ML3M89MGOqUBAV49MClLZlnngiyyjyngIrj6tAXvxfTTzYLHy6ZUbWlQyTNCH%2Bar1p9fWCbLjsQ6BPPR1n1CNvwrjZWThYqLmQ4DubQLAePwMs05rg9fLXcKFEj%2BDg68sXze4t%2BiOVFk7s511FjrScM29q6MsFNjvtSd6878LXH1jUA8Q9HegiGXSySnxDAjlPo%2FSXSC%2B8IbocUZrbOQ1DXq4CfOF0LgnMGRNM8k&X-Amz-Signature=7527e93228937e2e8353ad14f04cd396e182592360b36c863f0563e4ecfd61d4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/fdea56df-b011-4f9e-a634-a523d79e6fff/image.png) <!-- notion-hosted, URL expires -->
 ---
 ### Position 2 — Platform
-**Cue:** “Pancakes”
+**Cue:** "Pancakes"
 - Hands together (hand over hand)
-- Thumbs together = **“Syrup”**
+- Thumbs together = **"Syrup"**
 - Forearms form **one surface**
-**Additional cue:** “Surfboards”
+**Additional cue:** "Surfboards"
 - Arms stay flat and firm
 - No bending at the elbows
 **Why:**
 A bent platform creates unpredictable passes.
 A flat, quiet platform allows the ball to rebound cleanly.
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/6aa496b8-43f0-4b39-86b9-415459d61c25/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VCU7TDGD%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001044Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJHMEUCIFx0PdiXh8kOPHRYywg7gpVpdQJo90QLTgTNsZWIeGxsAiEAhCRcgQyGU%2FwAbQBI%2B8Ucyt9smhLBvMDP%2Br001m4MviYqiAQI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDCtU5qxjY1RWEcDRxircA0bHeWQR0DJmEqNz0noq4eg2fdOnsYEWWmmNkGmJfQs03N3xkxcTcxHP1pIZ%2FPCeL%2FpQuadwN2ZBEAqQHASUFlvAN2Q9mGerzaavoJkdlI%2F2lPf%2BmiOOdyCxf5lvKbTRKTYNSuecWJDCneg5yVYx5smVR64d9Ai%2BQriYWd4s6ODVRub%2By1CXG2Huj4cOat6iZOjZRT1brtwn%2FZjW2Y3MntbD48XhZrDhQ%2FJvDgNtYa5lVnVE0%2Ff6uvMA7SUyf%2B1hZxZdP3n2X4EVNiiiXLhnFDUg7IY1d2Ig%2BL11REtiDSXO66rToOGNKB00WElARdZ8h4HujS4PAzqDGl329mHC94OpfoDoyrNr0W2Hp4ksRoACz1zC6Bd1Y2t69dM0TPf0vA7AJ5348PnipqNMmha%2F8kd8%2B1Qy0cuDBT%2BlQl8rCWJRYLIcPqpksN%2FrkcpqaRjX7j4VUugIYNutWpKICj3Q5tV3rG3LtkHfTBas7nqFfoI2xUhAYErtes8x9Ps8MpzpSdcLaDf8%2BIJKgTW75ypMEGGVZH0%2FwMVGqqWf1UGDWb2kNpXdKFUJzgbfyr4BrQ0kNSBFy7V0pg%2FpZORC4nz1y%2B1UcvD9VI1Js6xcLkh3qjzXK7ag5Tagv5NOlGW4ML3M89MGOqUBAV49MClLZlnngiyyjyngIrj6tAXvxfTTzYLHy6ZUbWlQyTNCH%2Bar1p9fWCbLjsQ6BPPR1n1CNvwrjZWThYqLmQ4DubQLAePwMs05rg9fLXcKFEj%2BDg68sXze4t%2BiOVFk7s511FjrScM29q6MsFNjvtSd6878LXH1jUA8Q9HegiGXSySnxDAjlPo%2FSXSC%2B8IbocUZrbOQ1DXq4CfOF0LgnMGRNM8k&X-Amz-Signature=d04941b06ca4389802e6e8f1972fda2481873b97c260b6d49028b494b40976d8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/6aa496b8-43f0-4b39-86b9-415459d61c25/image.png) <!-- notion-hosted, URL expires -->
 ---
 ### Position 3 — Low
-**Cue:** “Low”
+**Cue:** "Low"
 - Knees bend
 - Hips drop
 - Chest stays tall
@@ -88,17 +86,17 @@ Hips go down — **not chest forward**.
 **Why:**
 Power comes from the legs, not collapsing posture.
 Staying tall preserves balance, vision, and platform control.
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/cd0af5bd-73fe-4b69-b963-5a850fa7b84e/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VCU7TDGD%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001044Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJHMEUCIFx0PdiXh8kOPHRYywg7gpVpdQJo90QLTgTNsZWIeGxsAiEAhCRcgQyGU%2FwAbQBI%2B8Ucyt9smhLBvMDP%2Br001m4MviYqiAQI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDCtU5qxjY1RWEcDRxircA0bHeWQR0DJmEqNz0noq4eg2fdOnsYEWWmmNkGmJfQs03N3xkxcTcxHP1pIZ%2FPCeL%2FpQuadwN2ZBEAqQHASUFlvAN2Q9mGerzaavoJkdlI%2F2lPf%2BmiOOdyCxf5lvKbTRKTYNSuecWJDCneg5yVYx5smVR64d9Ai%2BQriYWd4s6ODVRub%2By1CXG2Huj4cOat6iZOjZRT1brtwn%2FZjW2Y3MntbD48XhZrDhQ%2FJvDgNtYa5lVnVE0%2Ff6uvMA7SUyf%2B1hZxZdP3n2X4EVNiiiXLhnFDUg7IY1d2Ig%2BL11REtiDSXO66rToOGNKB00WElARdZ8h4HujS4PAzqDGl329mHC94OpfoDoyrNr0W2Hp4ksRoACz1zC6Bd1Y2t69dM0TPf0vA7AJ5348PnipqNMmha%2F8kd8%2B1Qy0cuDBT%2BlQl8rCWJRYLIcPqpksN%2FrkcpqaRjX7j4VUugIYNutWpKICj3Q5tV3rG3LtkHfTBas7nqFfoI2xUhAYErtes8x9Ps8MpzpSdcLaDf8%2BIJKgTW75ypMEGGVZH0%2FwMVGqqWf1UGDWb2kNpXdKFUJzgbfyr4BrQ0kNSBFy7V0pg%2FpZORC4nz1y%2B1UcvD9VI1Js6xcLkh3qjzXK7ag5Tagv5NOlGW4ML3M89MGOqUBAV49MClLZlnngiyyjyngIrj6tAXvxfTTzYLHy6ZUbWlQyTNCH%2Bar1p9fWCbLjsQ6BPPR1n1CNvwrjZWThYqLmQ4DubQLAePwMs05rg9fLXcKFEj%2BDg68sXze4t%2BiOVFk7s511FjrScM29q6MsFNjvtSd6878LXH1jUA8Q9HegiGXSySnxDAjlPo%2FSXSC%2B8IbocUZrbOQ1DXq4CfOF0LgnMGRNM8k&X-Amz-Signature=44e82e35c018fcdc7b64efffcd1f0b948c582c2842aa91026707d754caab7aa1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/cd0af5bd-73fe-4b69-b963-5a850fa7b84e/image.png) <!-- notion-hosted, URL expires -->
 ---
 ### Position 4 — Up
-**Cue:** “Up”
+**Cue:** "Up"
 - Legs extend
 - Finish tall
 **Why:**
 The ball goes up because the **body goes up**.
 Arms **never add power**.
 They only provide direction.
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/9b48bb81-d518-4fe5-a6c9-e8c53fb44be7/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VCU7TDGD%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001044Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJHMEUCIFx0PdiXh8kOPHRYywg7gpVpdQJo90QLTgTNsZWIeGxsAiEAhCRcgQyGU%2FwAbQBI%2B8Ucyt9smhLBvMDP%2Br001m4MviYqiAQI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDCtU5qxjY1RWEcDRxircA0bHeWQR0DJmEqNz0noq4eg2fdOnsYEWWmmNkGmJfQs03N3xkxcTcxHP1pIZ%2FPCeL%2FpQuadwN2ZBEAqQHASUFlvAN2Q9mGerzaavoJkdlI%2F2lPf%2BmiOOdyCxf5lvKbTRKTYNSuecWJDCneg5yVYx5smVR64d9Ai%2BQriYWd4s6ODVRub%2By1CXG2Huj4cOat6iZOjZRT1brtwn%2FZjW2Y3MntbD48XhZrDhQ%2FJvDgNtYa5lVnVE0%2Ff6uvMA7SUyf%2B1hZxZdP3n2X4EVNiiiXLhnFDUg7IY1d2Ig%2BL11REtiDSXO66rToOGNKB00WElARdZ8h4HujS4PAzqDGl329mHC94OpfoDoyrNr0W2Hp4ksRoACz1zC6Bd1Y2t69dM0TPf0vA7AJ5348PnipqNMmha%2F8kd8%2B1Qy0cuDBT%2BlQl8rCWJRYLIcPqpksN%2FrkcpqaRjX7j4VUugIYNutWpKICj3Q5tV3rG3LtkHfTBas7nqFfoI2xUhAYErtes8x9Ps8MpzpSdcLaDf8%2BIJKgTW75ypMEGGVZH0%2FwMVGqqWf1UGDWb2kNpXdKFUJzgbfyr4BrQ0kNSBFy7V0pg%2FpZORC4nz1y%2B1UcvD9VI1Js6xcLkh3qjzXK7ag5Tagv5NOlGW4ML3M89MGOqUBAV49MClLZlnngiyyjyngIrj6tAXvxfTTzYLHy6ZUbWlQyTNCH%2Bar1p9fWCbLjsQ6BPPR1n1CNvwrjZWThYqLmQ4DubQLAePwMs05rg9fLXcKFEj%2BDg68sXze4t%2BiOVFk7s511FjrScM29q6MsFNjvtSd6878LXH1jUA8Q9HegiGXSySnxDAjlPo%2FSXSC%2B8IbocUZrbOQ1DXq4CfOF0LgnMGRNM8k&X-Amz-Signature=5e9f80a74c06c12bf9991c6064f6930ed0f5b2f6699fd39c28330f8c3afaf191&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/9b48bb81-d518-4fe5-a6c9-e8c53fb44be7/image.png) <!-- notion-hosted, URL expires -->
 ---
 ## Core Passing Pattern
 **1 → 2 → 3 → 4**
@@ -106,7 +104,7 @@ Ready → Platform → Low → Up
 This sequence is **non-negotiable**.
 ---
 ## Key Teaching Cues (Coach Logic)
-### “Pancakes & Syrup”
+### "Pancakes & Syrup"
 Used when:
 - Hands separate
 - Thumbs are not together
@@ -115,7 +113,7 @@ Creates:
 - Wide, stable platform
 - Fast visual correction
 ---
-### “Surfboards”
+### "Surfboards"
 Used when:
 - Elbows bend
 - Arms swing
@@ -142,10 +140,10 @@ Only the **movement before the pass** changes.
 - Slow, controlled reps
 - Stop drills **only if the same error appears repeatedly across players**
 **Primary cues:**
-- “Ready”
-- “Pancakes”
-- “Surfboards”
-- “Low → Up”
+- "Ready"
+- "Pancakes"
+- "Surfboards"
+- "Low → Up"
 ---
 ### Application Phase (Around Week 4)
 **Goal:** Passing while moving and defending space
@@ -198,3 +196,19 @@ If a pass is off, ask yourself:
 2. Was the platform flat?
 3. Did they use their legs?
 Fix **one thing at a time**.
+---
+<callout icon="🎲" color="gray_bg">
+	**WHERE THIS SKILL SHOWS UP**
+	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
+	**Weeks:** [[WEEK 1]] · [[WEEK 2]] · [[WEEK 3]] · [[WEEK 4]] · [[WEEK 5]] · [[WEEK 6]]
+	**Challenges, by the problem you can see:**
+	Cannot repeat a controlled contact → [[DELIVER THE PACKAGE]]
+	Reaches instead of moving → [[BEAT THE BALL]]
+	Arrives late or drifts → [[MOVE–STOP–SET SQUARES]]
+	Passes anywhere → [[TARGET HOOPS]]
+	Pass and set do not connect → [[BUILD THE BRIDGE]]
+	Can pass a toss but not a serve → [[SERVE → READ → CATCH]]
+	Two players hesitate → [[WHOSE BALL?]]
+	Saves the ball but nobody can play it → [[SAVE AND SHARE]]
+	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+</callout>

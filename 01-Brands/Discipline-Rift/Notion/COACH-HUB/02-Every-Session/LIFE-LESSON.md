@@ -6,16 +6,15 @@ source_type: notion_mirror
 notion_page_id: 3ba04528-85a8-816a-a758-d3098ef7180b
 notion_url: https://app.notion.com/p/LIFE-LESSON-3ba0452885a8816aa758d3098ef7180b
 notion_db: COACH HUB
-section: The Method
-page_type: Method
+section: Coach Training
+page_type: Topic
 sport: All Sports
 status: Live
+order: null
 notion_created: 2026-08-12
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-07
+mirrored: 2026-09-10
 mirror_complete: true
-aliases:
-  - "LIFE LESSON"
 ---
 <callout icon="💬" color="gray_bg">
 	The closing block of every practice: the Word of the Week, how to teach it, and the season word map. Same protocol in every sport.

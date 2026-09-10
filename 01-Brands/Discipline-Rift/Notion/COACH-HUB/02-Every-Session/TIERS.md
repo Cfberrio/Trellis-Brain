@@ -14,7 +14,11 @@ notion_created: 2024-09-13
 notion_last_edited: 2026-08-12
 mirrored: 2026-08-12
 mirror_complete: true
+notion_deleted: true
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION as of the 2026-09-10 re-sync.** Notion's own fetch marks this page `deleted` — it is no longer a row in "DR | COACH HUB." Its live content (fetched 2026-09-10, unchanged since 2026-08-12 per Notion's timestamp) is a six-tier ladder (Ready → Control → Connector → Flow → Strategist → Leader), materially different from and more developed than [[VOLLEYBALL-TIERS|VOLLEYBALL TIERS]] (also archived, four sport-specific tiers). Content below is unchanged from the 2026-08-12 mirror and kept for history only.
+</callout>
 # TIERS
 
 ## **Tier 1 — Ready**

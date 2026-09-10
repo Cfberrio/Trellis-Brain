@@ -12,20 +12,18 @@ sport: Volleyball
 status: Live
 order: 6
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-08
+mirrored: 2026-09-10
 mirror_complete: true
 ---
-# MOVING
-
 This module defines **how we teach movement to beginners**.
 The focus is **not speed or conditioning**.
 The focus is teaching players **how to move efficiently**, **stay balanced**, and **arrive ready to play the ball**.
 Movement is the **foundation skill** that connects:
-- passing
-- setting
-- defending
-- attacking
+- [[PASSING]]
+- [[SETTING]]
+- [[DEFENDING]]
+- [[ATTACKING]]
 If players cannot move well, they cannot execute skills well.
 Every coach teaches movement using the **same language**, so players move with confidence instead of guessing.
 ---
@@ -34,7 +32,7 @@ Beginner players:
 - Reach instead of moving
 - Take too many steps or the wrong steps
 - Stand up while moving
-- Move late because they don’t trust their feet
+- Move late because they don't trust their feet
 Because of this, we teach movement as:
 - A **standalone skill**
 - Built from **simple patterns**
@@ -54,7 +52,7 @@ We want players to learn:
 These movement skills are used in **every volleyball action**.
 ---
 ### Skill 1 — Step
-**Cue:** “Step”
+**Cue:** "Step"
 - One quick step toward the ball
 - Used when the ball is **just outside the body**
 **Why:**
@@ -62,7 +60,7 @@ Most balls are close.
 Over-moving causes imbalance and late contact.
 ---
 ### Skill 2 — Step–Shuffle
-**Cue:** “Step–Shuffle”
+**Cue:** "Step–Shuffle"
 - One initiating step
 - One shuffle to finish
 - Body stays square and low
@@ -72,7 +70,7 @@ The ball is farther but still controlled.
 This covers more space while keeping balance.
 ---
 ### Skill 3 — Step–Shuffle–Shuffle
-**Cue:** “Step–Shuffle–Shuffle”
+**Cue:** "Step–Shuffle–Shuffle"
 - One step to start
 - Two quick shuffles
 - Stay low the entire time
@@ -90,7 +88,7 @@ Players learn to travel distance **without crossing feet or standing up**.
 ---
 ## MOVEMENT AND BALANCE
 ### Ready Position (Always First)
-**Cue:** “Ready”
+**Cue:** "Ready"
 - Knees bent
 - Chest tall
 - Weight on the balls of the feet
@@ -98,7 +96,7 @@ Players learn to travel distance **without crossing feet or standing up**.
 Good movement starts from good posture.
 ---
 ### Stop to Play the Ball
-**Cue:** “Stop”
+**Cue:** "Stop"
 - Feet stop before contact when possible
 - Body is balanced
 **Why:**
@@ -109,15 +107,15 @@ You cannot control the ball if your body is still moving.
 Movement is how players learn **space**.
 By moving repeatedly from the same spot, players learn:
 - how much space they cover
-- what balls are “theirs”
+- what balls are "theirs"
 - where teammates are likely to be
 This is why movement is practiced **from positions**, not randomly.
 ---
 ## HOW MOVEMENT SHOWS UP IN OTHER SKILLS
-- **Passing:** Step / Step–Shuffle before platform
-- **Setting:** Move early → Stop → Push up
-- **Defense:** Step / Shuffle within area
-- **Attacking:** Approach creates timing
+- [[PASSING]]: Step / Step–Shuffle before platform
+- [[SETTING]]: Move early → Stop → Push up
+- [[DEFENDING]]: Step / Shuffle within area
+- [[ATTACKING]]: Approach creates timing
 Movement language stays the **same across all skills**.
 ---
 ## HOW MOVEMENT PROGRESSES OVER TIME
@@ -132,10 +130,10 @@ We do not add complexity early.
 - staying low
 - balance before contact
 **Primary cues:**
-- “Ready”
-- “Step”
-- “Step–Shuffle”
-- “Stop”
+- "Ready"
+- "Step"
+- "Step–Shuffle"
+- "Stop"
 ---
 ### Application Phase (Later Weeks)
 **Goal:** Faster, more confident movement
@@ -167,3 +165,14 @@ If a skill breaks down, ask yourself **movement first**:
 2. Did they choose the right movement (step vs shuffle)?
 3. Did they arrive balanced?
 Fix **movement before technique**.
+---
+<callout icon="🎲" color="gray_bg">
+	**WHERE THIS SKILL SHOWS UP**
+	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
+	**Weeks:** [[WEEK 1]] · [[WEEK 4]] · [[WEEK 5]]
+	**Challenges, by the problem you can see:**
+	Reaches instead of moving → [[BEAT THE BALL]]
+	Arrives late or drifts → [[MOVE–STOP–SET SQUARES]]
+	Stops after their own touch → [[HOME BASE]]
+	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+</callout>

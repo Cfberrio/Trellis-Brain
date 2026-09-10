@@ -15,7 +15,11 @@ notion_created: 2026-08-11
 notion_last_edited: 2026-08-12
 mirrored: 2026-08-12
 mirror_complete: true
+notion_deleted: true
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**GONE from Notion as of the 2026-09-10 re-sync — more thoroughly than the other archived pages.** A direct fetch by this page's id returns `object_not_found` (404), not even Notion's usual `deleted` tombstone. It is not a row in "DR | COACH HUB" and no live page references it by mention. Content below is unchanged from the 2026-08-12 mirror and kept for history only; there is no way to re-verify it against the live source any more.
+</callout>
 # SEQUENCING
 
 # What DR Practice Is (and Is Not)
