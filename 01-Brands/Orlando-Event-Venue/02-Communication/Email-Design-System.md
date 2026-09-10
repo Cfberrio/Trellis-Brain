@@ -21,6 +21,15 @@ tags:
   - oev
   - email
   - design-system
+up:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/GHL-Email-Templates]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Post-Booking-Email-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Automations]]"
 ---
 
 # OEV Email Design System

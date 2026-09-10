@@ -16,6 +16,12 @@ tags:
   - dr
   - platform
   - waitlist
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Team-Status-and-Season-Model]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Registration-and-Checkout-Flow]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
 ---
 
 # Waitlist System

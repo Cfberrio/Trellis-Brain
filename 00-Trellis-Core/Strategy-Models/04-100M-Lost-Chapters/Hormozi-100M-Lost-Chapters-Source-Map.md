@@ -12,6 +12,11 @@ last_updated: 2026-04-28
 sensitivity: internal
 hub_role: leaf
 book: 100M-Lost-Chapters
+up:
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # 100M Lost Chapters — Source Map

@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: NFL_FLAG_Genyouth_Curriculum_Elementary.PRD.pdf
 page_count: 62
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # NFL Flag Elementary Curriculum

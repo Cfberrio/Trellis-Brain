@@ -6,6 +6,12 @@ note_type: evidence
 status: active
 used_for_ai: true
 owner: Luis Torres
+up:
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website-Technical-Documentation]]"
+related:
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Book-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Book-Calendar-Page]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Process]]"
 ---
 # GHL Embed Reference
 

@@ -18,6 +18,12 @@ related_notes:
   - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public|Public Schools SOP]]"
   - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Private|Private Schools SOP]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Private]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec]]"
 ---
 
 # School Outreach Email Templates

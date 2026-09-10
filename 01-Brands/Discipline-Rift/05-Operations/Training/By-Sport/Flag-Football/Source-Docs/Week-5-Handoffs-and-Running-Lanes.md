@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: 2844edde-cbf9-45aa-bdd0-e3e68b7163c5_Week_5__Handoffs__Running_Lanes.pdf
 page_count: 6
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Week 5 - Handoffs and Running Lanes

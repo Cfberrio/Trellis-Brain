@@ -12,6 +12,11 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Phase-1-Full-Playbook]]"
+related:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Onboarding-Video-Script]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
 ---
 
 # DRF Landing Page — Spec

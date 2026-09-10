@@ -14,6 +14,13 @@ extracted: 2026-06-30
 extracted_by: Claude Code (Playwright)
 audiences: [Parent, Faculty, Coach, Internal]
 privacy: Student names, parent personal emails, and private data redacted. School/staff professional context retained.
+up:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
 ---
 
 # Discipline Rift — Sent Email Analysis

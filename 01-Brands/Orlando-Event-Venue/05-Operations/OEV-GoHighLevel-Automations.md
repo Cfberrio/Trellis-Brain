@@ -7,6 +7,12 @@ used_for_ai: true
 owner: Luis
 last_updated: 2026-04-23
 sensitivity: internal
+up:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Operating-System]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # OEV GoHighLevel Automations

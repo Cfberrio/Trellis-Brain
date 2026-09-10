@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: db7efa23-3f1e-4f23-9fd3-4168e2efcd7c_WEEK_-_FOREHANDS_BACKHANDS_VOLLEYS_AND_SERVES_(REVIEW).pdf
 page_count: 24
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Week - Forehands Backhands Volleys and Serves (Review)

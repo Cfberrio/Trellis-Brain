@@ -12,6 +12,12 @@ notion_url: https://app.notion.com/p/32c0452885a8810aafcbc23626c8d9d9
 notion_db: DR VOLLEYBALL
 week: 1
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Passing]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Setting]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Practice]]"
 ---
 
 # Week 1 — Passing + Setting

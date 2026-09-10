@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: 9289d1c7-7557-4271-81ae-e57b95276cce_FORMATIONS.pdf
 page_count: 27
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Formations

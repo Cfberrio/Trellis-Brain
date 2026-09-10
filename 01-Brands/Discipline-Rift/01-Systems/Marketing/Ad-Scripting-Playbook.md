@@ -12,6 +12,16 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Frameworks/Wave-2B-Creative-Operating-Method]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Competitors/Competitor-Patterns]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
 ---
 
 # DR Ad Scripting Playbook

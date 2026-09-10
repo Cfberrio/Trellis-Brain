@@ -11,6 +11,11 @@ owner: Trellis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Cross-Brand/Cross-Brand-Home]]"
+related:
+  - "[[01-Brands/Cross-Brand/Meetings/Meetings-Home]]"
+  - "[[01-Brands/Cross-Brand/Systems/Systems-Home]]"
 ---
 
 # Synthesis — Home

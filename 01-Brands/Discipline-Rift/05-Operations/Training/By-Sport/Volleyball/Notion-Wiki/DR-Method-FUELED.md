@@ -11,6 +11,11 @@ notion_page_id: 2008402f-e470-47e9-a2f2-7a6c294e1d52
 notion_url: https://app.notion.com/p/2008402fe47047e9a2f27a6c294e1d52
 notion_db: DR VOLLEYBALL
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Formula]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Culture]]"
 ---
 
 # DR Method — FUELED

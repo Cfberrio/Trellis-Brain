@@ -11,6 +11,15 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Offer]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
 ---
 
 # Delivery

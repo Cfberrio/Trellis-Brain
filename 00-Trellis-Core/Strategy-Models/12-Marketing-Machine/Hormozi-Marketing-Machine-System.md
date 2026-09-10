@@ -11,6 +11,24 @@ source_reference: "$100M Playbook: Marketing Machine — Opener narrative (pp. 1
 sensitivity: internal
 hub_role: leaf
 book: Marketing-Machine
+up:
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Lifecycle-Ads]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Social-Media-Scrape]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Event-Capture-Playbook]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Communications-Scrape]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Bonus-And-Award-Mechanism]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Testimonial-Competition]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-6-Point-Testimonial-Script]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Marketing-Machine-Cadence]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hook-Types-Palette]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-Assembly-Process]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-Meat-Formats]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Marketing-Machine-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Marketing Machine System

@@ -11,6 +11,8 @@ source_type: derived
 hub_role: leaf
 purpose: General rules for handling any inbound client message (SMS or email). Channel-specific mechanics live in 05 (email) and 06 (SMS).
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # Customer Communication Playbook

@@ -11,6 +11,12 @@ notion_page_id: 8d29e4f5-de7d-49fc-81c1-4af77770fea5
 notion_url: https://app.notion.com/p/8d29e4f5de7d49fc81c14af77770fea5
 notion_db: DR TENNIS
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Core-Values]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Method-FUELED]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Team]]"
 ---
 
 # DR Culture

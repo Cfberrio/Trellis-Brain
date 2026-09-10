@@ -11,6 +11,15 @@ owner: María José
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Cross-Brand/Cross-Brand-Home]]"
+down:
+  - "[[01-Brands/Cross-Brand/Reference/Chat-Channels-Inventory]]"
+  - "[[01-Brands/Cross-Brand/Reference/Whiteboards-Inventory]]"
+  - "[[01-Brands/Cross-Brand/Reference/Vault-Freshness-Audit-2026-08-20]]"
+related:
+  - "[[01-Brands/Trellis-Fields/05-Operations/Team/Team-Roles]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
 ---
 
 # Reference — Home

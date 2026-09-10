@@ -17,6 +17,12 @@ related_notes:
   - "[[../04-Projects/DRF/Funnel-DRF|DRF Funnel]]"
   - "[[../04-Projects/DRF/Improvement-Log-DRF-Phase-1|DRF Phase 1 Improvement Log]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Avatar-DRF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Funnel-DRF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Improvement-Log-DRF-Phase-1]]"
 ---
 
 # DRF Knight Shadow Day Phase 1 — Raw Feedback

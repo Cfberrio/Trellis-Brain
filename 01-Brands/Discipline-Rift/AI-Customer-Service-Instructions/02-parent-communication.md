@@ -11,6 +11,11 @@ audience: Parent
 purpose: How Claude drafts replies to parents. What it may answer vs must escalate.
 examples: 09-examples-parent-emails.md
 source: ../03-Evidence/Founder-Voice/bot-training/01-PARENTS.md
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/01-brand-voice]]"
 ---
 
 # 02 — Parent Communication

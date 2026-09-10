@@ -11,6 +11,13 @@ owner: María José
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/Synthesis/Synthesis-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/06-DNA/Soils-Framework]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Content-Pillars/Pillars-Home]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillars-Home]]"
 ---
 
 # Director Processes + Trellis Method

@@ -11,6 +11,13 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Offer]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Conversion]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Delivery-Process]]"
+  - "[[01-Brands/Cheese-To-Share/05-Operations/SOPs/Catering-Booking-SOP]]"
 ---
 
 # CTS Delivery — DNA

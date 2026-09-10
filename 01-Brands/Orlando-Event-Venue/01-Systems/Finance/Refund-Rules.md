@@ -14,6 +14,8 @@ sensitivity: internal
 related_notes: ["[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]"]
 hub_role: child
 tags: [oev, refund]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic]]"
 ---
 
 # OEV Refund Rules

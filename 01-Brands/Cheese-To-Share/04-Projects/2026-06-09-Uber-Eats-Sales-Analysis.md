@@ -14,6 +14,11 @@ tags:
   - cts/reporting
   - cts/menu-decision
   - uber-eats
+up:
+  - "[[01-Brands/Cheese-To-Share/04-Projects/Projects-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/KPIs]]"
 ---
 
 # CTS — Análisis de Ventas Uber Eats (Jun 2025 – May 2026)

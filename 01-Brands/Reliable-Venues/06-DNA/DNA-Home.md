@@ -11,6 +11,29 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: dna-hub
+up:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Reliable-Venues/06-DNA/Identity]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Market]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Avatar]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Offer]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Money-Model]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Sales]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Conversion]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Fulfillment]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Retention]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Metrics]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Scale]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Actionables-Log]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Message]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Funnel]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Constraints]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Opportunities]]"
+related:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/OEV-Case-Study]]"
 ---
 
 # RV DNA Home

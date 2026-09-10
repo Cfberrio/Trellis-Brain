@@ -15,6 +15,17 @@ related_systems: [marketing, finance]
 related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]"]
 hub_role: system-home
 tags: [oev, sales-home]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Lead-Definition]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Process]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Objection-Handling]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Closing-Logic]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Cold-Outreach-Playbook]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic]]"
 ---
 
 # OEV Sales Home

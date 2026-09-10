@@ -5,6 +5,11 @@ domain: finance
 note_type: canonical
 status: active
 used_for_ai: true
+up:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Collection-Process]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Refund-Rules]]"
 ---
 
 # Payment Rules

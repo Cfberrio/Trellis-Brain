@@ -16,6 +16,12 @@ tags:
   - oev
   - marketing
   - post-mortem
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Lead-Magnet-Event-Planning-Kit]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Conversion]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules]]"
 ---
 
 # Google Ads Post-Mortem — June 2026

@@ -11,6 +11,23 @@ source_reference: "$100M Playbook: Retention — 'Churn Checklist #6: Add Annual
 sensitivity: internal
 hub_role: leaf
 book: Retention
+up:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Definition]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Cancellation-Saves]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Survey-ACA]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Journey-Milestones]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Checklist]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Continuity-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Upsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Grand-Slam-Offer]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Crazy-Eight]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Retention-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Annual Payment Options

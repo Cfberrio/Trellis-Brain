@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: Step-by-step for drafting any email reply, with the canonical sequence templates. Email is the DEFAULT channel; SMS is payment links only.
 sources: Communication-Manual Sequences 1–3 (verbatim templates)
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
 ---
 
 # Email Draft Workflow

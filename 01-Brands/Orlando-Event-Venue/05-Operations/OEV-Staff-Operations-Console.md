@@ -11,6 +11,17 @@ last_updated: 2026-04-27
 used_for_ai: true
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Collection-Process]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation]]"
 ---
 
 # OEV Staff Operations Console

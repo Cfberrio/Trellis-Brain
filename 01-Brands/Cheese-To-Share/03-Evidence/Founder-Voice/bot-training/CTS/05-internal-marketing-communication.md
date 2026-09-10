@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: How to handle internal/team comms and outbound marketing (seasonal campaigns, reviews, re-engagement). Note: CTS currently CONSUMES marketing but sends almost none — this is a build, not a queue.
 sources: Communication-Manual (Seq 4–6) + 30-day inbox classification
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
 ---
 
 # Internal & Marketing Communication

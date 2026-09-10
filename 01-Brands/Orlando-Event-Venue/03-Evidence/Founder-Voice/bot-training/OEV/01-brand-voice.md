@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: How the bot should sound in every SMS and email. Read this before writing any reply.
 sources: 01-CLIENT-QA-REPLIES.md (email threads) + GHL SMS/Email 90-day pull (105 Q&A pairs)
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # Brand Voice — Orlando Event Venue

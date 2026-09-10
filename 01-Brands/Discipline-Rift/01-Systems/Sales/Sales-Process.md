@@ -18,6 +18,14 @@ related_notes:
   - "[[Sales-Home]]"
   - "[[01-Brands/Discipline-Rift/06-DNA/Conversion|DR Conversion DNA]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Lead]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Money-Model]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Objections]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
 ---
 
 # DR Sales Process

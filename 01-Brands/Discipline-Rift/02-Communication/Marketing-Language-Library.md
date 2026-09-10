@@ -16,6 +16,12 @@ related_notes:
   - "[[Communication-Home]]"
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone|DR Voice and Tone]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Positioning]]"
 ---
 
 # Marketing Language Library

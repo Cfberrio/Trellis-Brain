@@ -20,6 +20,8 @@ tags:
 aliases:
   - "Meta Ads System Plan"
   - "Plan Meta Ads Intelligence"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Meta Ads Intelligence — Plan ajustado al repo

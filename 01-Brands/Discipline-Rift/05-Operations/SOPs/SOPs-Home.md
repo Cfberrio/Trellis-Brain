@@ -11,6 +11,19 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Facilitron-Reservations-SOP]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Mass-SMS-Via-GHL-SOP]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Practice-Cancellation-Comms-SOP]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Practice-Report-Schema]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Season-Schedule-Load-SOP]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Delivery]]"
 ---
 
 # DR SOPs — Home

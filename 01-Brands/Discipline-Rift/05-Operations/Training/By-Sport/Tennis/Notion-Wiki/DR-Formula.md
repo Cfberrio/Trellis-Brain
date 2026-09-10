@@ -11,6 +11,10 @@ notion_page_id: 36296290-e728-4647-a5a4-f0158c0ab87c
 notion_url: https://app.notion.com/p/36296290e7284647a5a4f0158c0ab87c
 notion_db: DR TENNIS
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Core-Values]]"
 ---
 
 # DR Formula

@@ -15,6 +15,11 @@ related_systems: []
 related_notes:
   - "[[../../05-Operations/SOPs/Practice-Report-Schema|Practice Report Schema]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Practice-Report-Schema]]"
+related:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Q&A-Weekly-Themes]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
 ---
 
 # Flag Football 2026 Spring — Practice Logs + Injury Reports

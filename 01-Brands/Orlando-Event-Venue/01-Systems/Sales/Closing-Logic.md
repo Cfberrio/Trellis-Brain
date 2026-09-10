@@ -15,6 +15,8 @@ related_systems: [sales, finance]
 related_notes: ["[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]"]
 hub_role: child
 tags: [oev, closing]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home]]"
 ---
 
 # OEV Closing Logic

@@ -12,6 +12,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/Meetings/Meetings-Home]]"
+  - "[[01-Brands/Cross-Brand/Cross-Brand-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cross-Brand/Founder-Admin/Founder-Admin-Home]]"
 ---
 
 # Founders Meet — 2026-05-21

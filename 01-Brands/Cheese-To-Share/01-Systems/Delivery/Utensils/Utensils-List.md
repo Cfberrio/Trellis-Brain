@@ -8,6 +8,10 @@ source-pack: "Manual de Recetas - Punto de Venta"
 source-filename: "Lista de utensilios.xlsx"
 status: canon
 language: es
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Utensils/Utensils-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Utensils List

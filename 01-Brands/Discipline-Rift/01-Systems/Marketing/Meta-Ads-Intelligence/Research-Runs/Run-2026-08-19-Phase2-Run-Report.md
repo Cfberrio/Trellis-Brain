@@ -19,6 +19,9 @@ tags:
   - discipline-rift
 aliases:
   - "Phase 2 run report"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Research-Runs/Research-Runs-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Phase 2 Expert Corpus — Extraction Run Report

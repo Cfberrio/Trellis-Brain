@@ -14,6 +14,11 @@ sensitivity: internal
 hub_role: leaf
 audience: parent
 channel: [email]
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Email-Template]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-First-Week-Of-School-Campaign-2026-08]]"
 ---
 
 ## Parent

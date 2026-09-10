@@ -17,6 +17,25 @@ tags:
 aliases:
   - "DR Marketing Home"
   - "Marketing Home"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Playbook]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Experiments]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Ad-Scripting-Playbook]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Tracking-and-Attribution]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Retargeting-and-Audiences]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Funnel]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
 ---
 
 # DR Marketing Home

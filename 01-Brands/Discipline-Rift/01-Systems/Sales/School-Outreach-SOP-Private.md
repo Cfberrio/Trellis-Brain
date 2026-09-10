@@ -18,6 +18,12 @@ related_notes:
   - "[[School-Outreach-SOP-Public]]"
   - "[[GHL-CRM-Pipeline-Spec]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
 ---
 
 # School Outreach SOP — Private + Charter + Christian + Catholic + Montessori

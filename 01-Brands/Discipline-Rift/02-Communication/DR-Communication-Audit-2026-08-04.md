@@ -18,6 +18,8 @@ related_notes:
   - "[[Sequences/DR-Season-Reminder-Sequence]]"
   - "[[../00-Brand-Core/Avatar]]"
   - "[[../06-DNA/Money-Model]]"
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
 ---
 
 # DR Communication Audit — 2026-08-04

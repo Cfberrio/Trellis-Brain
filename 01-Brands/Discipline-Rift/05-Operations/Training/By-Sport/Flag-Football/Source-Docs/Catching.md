@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: d7651f7e-f90a-4193-96db-7c0f47ca6f75_CATCHING.pdf
 page_count: 3
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Catching

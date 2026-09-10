@@ -11,6 +11,15 @@ source_reference: "$100M Lost Chapters — Section C: Attraction Offer: Freemium
 sensitivity: internal
 hub_role: leaf
 book: 100M-Lost-Chapters
+up:
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-100M-Lost-Chapters-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Offer-Stacking]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Promotion-Wrappers]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Customer-Financed-Acquisition]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
 ---
 
 # Hormozi — Attraction: Freemium

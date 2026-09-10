@@ -11,6 +11,20 @@ source_reference: "$100M Playbook: GOATed Ads — 'CTA - Call To Action' (pp. 20
 sensitivity: internal
 hub_role: leaf
 book: GOATed-Ads
+up:
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-Assembly-Process]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Hook-By-Awareness]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-Meat-Formats]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Urgency]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Scarcity]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Guarantees]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Bonuses]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-GOATed-Ads-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Ad CTA

@@ -11,6 +11,11 @@ notion_page_id: 900087c1-4b09-4860-9b66-30745e248f83
 notion_url: https://app.notion.com/p/900087c14b0948609b6630745e248f83
 notion_db: DR TENNIS
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Start-Here]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Culture]]"
 ---
 
 # Core Values

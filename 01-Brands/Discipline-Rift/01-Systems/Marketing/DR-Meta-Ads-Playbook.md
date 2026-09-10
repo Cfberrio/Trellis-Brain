@@ -12,6 +12,9 @@ owner: Cristian
 last_updated: 2026-08-13
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
 ---
 
 # DR Meta Ads Playbook

@@ -11,6 +11,17 @@ source_reference: "$100M Playbook: GOATed Ads — opening narrative + Outline (p
 sensitivity: internal
 hub_role: leaf
 book: GOATed-Ads
+up:
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-Awareness-Continuum]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Hook-By-Awareness]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-Meat-Formats]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-CTA]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-GOATed-Ads-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Ad Assembly Process

@@ -9,6 +9,10 @@ source-filename: "2. IBIZA.docx"
 source-path: "1. MANUAL DE RECETAS - PUNTO DE VENTA/.../5. TOASTS/2. IBIZA.docx"
 status: canon
 language: es
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Toasts/Toasts-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Toast Ibiza

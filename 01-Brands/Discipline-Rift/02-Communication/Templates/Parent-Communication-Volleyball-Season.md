@@ -17,6 +17,12 @@ last_updated: 2026-08-31
 last_verified_against_clickup: 2026-08-27
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Delivery]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Mass-SMS-Via-GHL-SOP]]"
 ---
 
 # DR Weekly Parent Emails — Weeks 1–6

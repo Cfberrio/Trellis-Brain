@@ -14,6 +14,23 @@ last_updated: 2026-07-03
 grounded_in:
   - STRATEGY-Source-DR.md (canonical DNA, used_for_ai)
   - Extracted real email threads (see 09/10/11)
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
+down:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/01-brand-voice]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/02-parent-communication]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/03-faculty-communication]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/04-coach-communication]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/05-program-info-scope]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/06-escalation-rules]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/07-email-draft-workflow]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/08-sms-ghl-workflow]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/09-examples-parent-emails]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/10-examples-faculty-emails]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/11-examples-coach-emails]]"
+related:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
 ---
 
 # DR AI Customer Service — Instruction Set

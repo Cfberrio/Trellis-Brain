@@ -23,6 +23,31 @@ tags:
   - oev
   - brand-home
   - canonical
+up:
+  - "[[00-Trellis-Core/Trellis-Home]]"
+down:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Objections]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Opportunities]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/04-Projects/Venue-Partnerships/Partnerships-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation]]"
+related:
+  - "[[00-Trellis-Core/Routing-Rules]]"
+  - "[[00-Trellis-Core/Metadata-Standard]]"
 ---
 
 # Orlando Event Venue - Brand Home

@@ -12,6 +12,12 @@ owner: María José
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Team/Team-Roles]]"
+related:
+  - "[[01-Brands/Trellis-Fields/05-Operations/Skool-Methods/Lead-Magnets-Setup]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Skool-Methods/OG-Ideas-And-Virality]]"
 ---
 
 # Editing Walkthrough — Premiere Pro SOP

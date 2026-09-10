@@ -22,6 +22,8 @@ aliases:
   - "Expertos — índice"
   - "Meta Ads Experts Index"
   - "Panel de expertos Meta Ads"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Expertos — índice del panel

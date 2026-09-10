@@ -11,6 +11,19 @@ source_reference: "$100M Money Models — Section III: Upsell Offers (pp. 67–9
 sensitivity: internal
 hub_role: leaf
 book: 100M-Money-Models
+up:
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-100M-Money-Models-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Money-Model]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Attraction-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Downsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Continuity-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Money-Model-Assembly]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Bonuses]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
 ---
 
 # Hormozi — Upsell Offers

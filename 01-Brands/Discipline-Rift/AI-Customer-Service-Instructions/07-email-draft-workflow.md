@@ -9,6 +9,10 @@ used_for_ai: true
 hub_role: leaf
 purpose: The pipeline from incoming email to sent reply. Draft-only until approved.
 status: Human-review-only. No auto-send.
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 ---
 
 # 07 — Email Draft Workflow

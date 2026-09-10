@@ -11,6 +11,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Offer]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Conversion]]"
 ---
 
 # CTS Money Model — DNA

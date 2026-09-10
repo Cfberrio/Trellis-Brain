@@ -11,6 +11,16 @@ owner: Luis Torres
 last_updated: 2026-08-09
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Problem]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Objections]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/SOPs-Home]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-First-Week-Of-School-Campaign-2026-08]]"
 ---
 
 ## Parent

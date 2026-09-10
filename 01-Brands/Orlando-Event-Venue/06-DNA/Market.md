@@ -11,6 +11,13 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints]]"
 ---
 
 # Market

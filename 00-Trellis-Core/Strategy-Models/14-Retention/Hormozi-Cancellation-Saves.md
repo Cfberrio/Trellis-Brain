@@ -11,6 +11,20 @@ source_reference: "$100M Playbook: Retention — 'Churn Checklist #7: Exit Inter
 sensitivity: internal
 hub_role: leaf
 book: Retention
+up:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Checklist]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Definition]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Curation]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Survey-ACA]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Journey-Milestones]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Upsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Retention-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Cancellation Saves

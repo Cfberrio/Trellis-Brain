@@ -10,6 +10,13 @@ canonical: false
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-08-20
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Conscious-Coaching]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Every-Moment-Matters]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/The-Coachs-Guide-to-Teaching]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Annual-Staff-Training-Home]]"
 ---
 
 # Becoming a Coach — The Essential ICF Guide

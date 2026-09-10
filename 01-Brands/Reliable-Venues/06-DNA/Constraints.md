@@ -10,6 +10,11 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Reliable-Venues/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website-Technical-Documentation]]"
 ---
 
 # RV DNA Constraints

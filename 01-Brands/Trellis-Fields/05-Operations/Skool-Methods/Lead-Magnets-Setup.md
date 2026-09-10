@@ -12,6 +12,13 @@ owner: María José
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Trellis-Fields/01-Systems/Marketing/Lead-Magnet-Strategy]]"
+related:
+  - "[[01-Brands/Trellis-Fields/05-Operations/Skool-Methods/OG-Ideas-And-Virality]]"
+  - "[[01-Brands/Trellis-Fields/01-Systems/Marketing/CTA-Formula]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Hook-Library-TF]]"
 ---
 
 # Lead Magnet Setup — End-to-End SOP

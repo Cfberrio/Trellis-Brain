@@ -12,6 +12,18 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Trellis-Fields/02-Communication/Hook-Library-TF]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Trellis-Fields/02-Communication/Content-Pillars/Pillar-1-Cultura-del-Equipo]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Content-Pillars/Pillar-2-Educativo-Diagnostico]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Content-Pillars/Pillar-3-Storytelling]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Content-Pillars/Pillar-4-Trends-Agencias]]"
+related:
+  - "[[01-Brands/Trellis-Fields/06-DNA/STRATEGY-Source-TF]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/Storytelling-Pillars]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Content-Pillars-TF]]"
 ---
 
 # TF Content Pillars — Home

@@ -12,6 +12,11 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillars-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Message]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Voice-and-Tone]]"
 ---
 
 # Pillar 4 — The Share (Couple / Friends / Family)

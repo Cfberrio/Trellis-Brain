@@ -9,6 +9,19 @@ source: internal-summary
 canonical: true
 used_for_ai: true
 hub_role: supporting-system
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Lead-Definition]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Process]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/KPIs]]"
 ---
 
 # OEV — GoHighLevel Operating System

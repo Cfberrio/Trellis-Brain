@@ -32,6 +32,9 @@ captured_at: 2026-08-14
 last_verified_at: 2026-08-14
 completeness: partial
 research_questions: [C1, C2, C3, C4]
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Official/Meta-Official-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Campaign budget, ad set budget, and consolidation

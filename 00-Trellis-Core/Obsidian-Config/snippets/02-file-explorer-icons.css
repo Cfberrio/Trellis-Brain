@@ -1,0 +1,58 @@
+/* Trellis-Brain — file explorer folder icons
+   Colors reused from Graph View colorGroups (.obsidian/graph.json,
+   set up 2026-09-07) so explorer and graph read as one system.
+   Pure CSS, no plugin required — safe to disable anytime. */
+
+.nav-folder-title-content::before {
+  margin-right: 0.35em;
+}
+
+/* top level */
+.nav-folder-title[data-path="00-Trellis-Core"] .nav-folder-title-content::before { content: "🧭"; }
+.nav-folder-title[data-path="01-Brands"] .nav-folder-title-content::before { content: "🏢"; }
+.nav-folder-title[data-path="Excalidraw"] .nav-folder-title-content::before { content: "✏️"; }
+
+.nav-folder-title[data-path="00-Trellis-Core/Strategy-Models"] .nav-folder-title-content::before { content: "🧩"; }
+
+/* brands */
+.nav-folder-title[data-path="01-Brands/Discipline-Rift"] .nav-folder-title-content::before { content: "🏆"; }
+.nav-folder-title[data-path="01-Brands/Cheese-To-Share"] .nav-folder-title-content::before { content: "🧀"; }
+.nav-folder-title[data-path="01-Brands/Orlando-Event-Venue"] .nav-folder-title-content::before { content: "🎪"; }
+.nav-folder-title[data-path="01-Brands/Reliable-Venues"] .nav-folder-title-content::before { content: "🏛️"; }
+.nav-folder-title[data-path="01-Brands/Trellis-Fields"] .nav-folder-title-content::before { content: "🌾"; }
+.nav-folder-title[data-path="01-Brands/Cross-Brand"] .nav-folder-title-content::before { content: "🔗"; }
+.nav-folder-title[data-path="01-Brands/Luis-Torres"] .nav-folder-title-content::before { content: "👤"; }
+
+.nav-folder-title[data-path="01-Brands/Cheese-To-Share"] .nav-folder-title-content,
+.nav-folder-title[data-path="01-Brands/Cheese-To-Share"] .nav-folder-title-content::before { color: #ffb703; }
+.nav-folder-title[data-path="01-Brands/Orlando-Event-Venue"] .nav-folder-title-content { color: #06d6a0; }
+.nav-folder-title[data-path="01-Brands/Reliable-Venues"] .nav-folder-title-content { color: #118ab2; }
+.nav-folder-title[data-path="01-Brands/Trellis-Fields"] .nav-folder-title-content { color: #073b4c; }
+.nav-folder-title[data-path="01-Brands/Cross-Brand"] .nav-folder-title-content { color: #8d99ae; }
+.nav-folder-title[data-path="01-Brands/Luis-Torres"] .nav-folder-title-content { color: #adb5bd; }
+
+/* Discipline-Rift internal systems — same hexes as its graph color group */
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/00-Brand-Core"] .nav-folder-title-content::before { content: "🏷️"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/01-Systems"] .nav-folder-title-content::before { content: "⚙️"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/02-Communication"] .nav-folder-title-content::before { content: "💬"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/03-Evidence"] .nav-folder-title-content::before { content: "📊"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/04-Projects"] .nav-folder-title-content::before { content: "📁"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/05-Operations"] .nav-folder-title-content::before { content: "🛠️"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/06-DNA"] .nav-folder-title-content::before { content: "🧬"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/AI-Customer-Service-Instructions"] .nav-folder-title-content::before { content: "🤖"; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/Notion"] .nav-folder-title-content::before { content: "🗒️"; }
+
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/00-Brand-Core"] .nav-folder-title-content { color: #e63946; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/01-Systems"] .nav-folder-title-content { color: #f4a261; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/02-Communication"] .nav-folder-title-content { color: #e76f51; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/03-Evidence"] .nav-folder-title-content { color: #2a9d8f; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/04-Projects"] .nav-folder-title-content { color: #e9c46a; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/05-Operations"] .nav-folder-title-content { color: #264653; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/06-DNA"] .nav-folder-title-content { color: #9d4edd; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/AI-Customer-Service-Instructions"] .nav-folder-title-content { color: #c1121f; }
+.nav-folder-title[data-path="01-Brands/Discipline-Rift/Notion"] .nav-folder-title-content { color: #457b9d; }
+
+/* file types */
+.nav-file-title[data-path$=".canvas"] .nav-file-title-content::before { content: "🗺️"; margin-right: 0.35em; }
+.nav-file-title[data-path^="Excalidraw/"] .nav-file-title-content::before { content: "✏️"; margin-right: 0.35em; }
+.nav-file-title[data-path$=".pdf"] .nav-file-title-content::before { content: "📕"; margin-right: 0.35em; }

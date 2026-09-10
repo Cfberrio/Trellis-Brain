@@ -9,6 +9,11 @@ source-filename: "2. Fichas Técnicas con Costos Unitarios.xlsx"
 status: canon
 language: es
 sensitivity: financial
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Tech-Sheets/Tech-Sheets-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Fichas Técnicas — Workbook Index

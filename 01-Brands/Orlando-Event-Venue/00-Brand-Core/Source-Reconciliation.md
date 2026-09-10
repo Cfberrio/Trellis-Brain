@@ -15,6 +15,10 @@ related_systems: [marketing, sales, onboarding]
 related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]"]
 hub_role: child
 tags: [oev, reconciliation, review]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints]]"
 ---
 
 # OEV Source Reconciliation

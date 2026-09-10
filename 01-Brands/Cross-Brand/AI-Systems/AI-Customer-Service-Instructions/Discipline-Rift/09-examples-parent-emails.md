@@ -11,6 +11,9 @@ used_for_ai: true
 last_updated: 2026-07-03
 canonical_source: ../../../../Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS.md
 count_in_source: 20
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS]]"
 ---
 
 # 09 — Example Parent Emails

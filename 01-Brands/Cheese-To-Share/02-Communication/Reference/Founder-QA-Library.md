@@ -12,6 +12,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Market]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-4-The-Share]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
 ---
 
 # Founder Q&A Library — Luis Eduardo

@@ -7,6 +7,12 @@ canonical: true
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-08-20
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Shared-Coaching-Resources-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Annual-Staff-Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package]]"
 ---
 
 # Coaching Books Home

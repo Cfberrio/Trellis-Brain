@@ -21,6 +21,8 @@ aliases:
   - "Preguntas abiertas y cola de verificación"
   - "Open Questions and Verification Queue"
   - "Qué falta en Meta Ads Intelligence"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Preguntas abiertas y cola de verificación

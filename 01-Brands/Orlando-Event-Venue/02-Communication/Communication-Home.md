@@ -9,6 +9,22 @@ source_type: curated
 sensitivity: internal
 hub_role: communication-hub
 last_updated: 2026-08-26
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Email-Design-System]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/GHL-Email-Templates]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Post-Booking-Email-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Booking-Calendar-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Tour-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Pop-Up-Lead-Magnet-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/General-Invoice-Templates]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home]]"
 ---
 
 # Orlando Event Venue — Communication Home

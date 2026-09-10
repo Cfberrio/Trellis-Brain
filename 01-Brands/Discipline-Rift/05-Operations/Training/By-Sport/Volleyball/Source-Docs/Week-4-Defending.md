@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: 5c5b36a6-8057-45f9-a1d5-1687207b3ee6_WEEK_4_-_Defending.pdf
 page_count: 10
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Volleyball-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Week 4 - Defending

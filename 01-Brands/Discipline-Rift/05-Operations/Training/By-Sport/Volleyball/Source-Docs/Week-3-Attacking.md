@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: f994c198-7d50-49a5-8026-4fa5a7cc5e2a_WEEK_3_-_Attacking.pdf
 page_count: 10
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Volleyball-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Week 3 - Attacking

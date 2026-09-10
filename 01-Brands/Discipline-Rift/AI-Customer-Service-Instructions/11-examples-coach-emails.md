@@ -10,6 +10,12 @@ hub_role: leaf
 audience: Coach / Internal Staff
 purpose: Curated real DR coach replies with the lesson to copy. Full set in source.
 source: ../03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md (10 verbatim threads)
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/04-coach-communication]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF]]"
 ---
 
 # 11 — Example Coach / Staff Emails (Annotated)

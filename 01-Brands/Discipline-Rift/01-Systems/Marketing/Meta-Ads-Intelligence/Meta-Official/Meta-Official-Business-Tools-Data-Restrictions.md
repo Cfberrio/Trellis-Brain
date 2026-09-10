@@ -29,6 +29,9 @@ captured_at: 2026-08-13
 last_verified_at: 2026-08-13
 completeness: partial
 research_questions: [A3]
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Official/Meta-Official-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Business Tools Terms — data restrictions

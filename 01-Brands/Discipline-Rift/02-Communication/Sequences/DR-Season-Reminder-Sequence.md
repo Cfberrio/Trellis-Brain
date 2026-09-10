@@ -13,6 +13,12 @@ channel: [email, sms]
 related_notes:
   - "[[../DR-Communication-Engine]]"
   - "[[../Templates/Parent-Communication-Volleyball-Season]]"
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Sport-Week-Banks]]"
 ---
 
 # DR Season Reminder Sequence

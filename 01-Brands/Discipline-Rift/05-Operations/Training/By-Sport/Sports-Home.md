@@ -7,6 +7,15 @@ canonical: true
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-04-23
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Volleyball-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 ---
 
 # Sports Home

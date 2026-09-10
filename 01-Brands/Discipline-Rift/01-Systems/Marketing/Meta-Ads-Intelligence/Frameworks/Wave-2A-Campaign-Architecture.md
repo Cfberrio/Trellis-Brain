@@ -20,6 +20,9 @@ tags:
 aliases:
   - "Wave 2A"
   - "Campaign Architecture Framework"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Frameworks/Frameworks-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Wave 2A — Campaign Architecture Framework for DR

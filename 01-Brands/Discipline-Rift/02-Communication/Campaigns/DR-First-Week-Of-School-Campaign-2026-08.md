@@ -15,6 +15,14 @@ hub_role: leaf
 audience: parent
 channel: [email]
 campaign: first-week-of-school-2026-08
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Email-Design-Spec]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Email-Template]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-Email-Rewrite-Retrospective-2026-08]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Problem-Map]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full]]"
 ---
 
 ## Parent

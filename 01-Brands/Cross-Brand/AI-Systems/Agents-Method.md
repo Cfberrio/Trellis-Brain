@@ -12,6 +12,11 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
+related:
+  - "[[01-Brands/Cross-Brand/AI-Systems/2026-05-20-Claude-Setup]]"
+  - "[[01-Brands/Cross-Brand/Meetings/2026-05-04-Nuevo-Flujo]]"
 ---
 
 # AI Agents Method — Build Workflow

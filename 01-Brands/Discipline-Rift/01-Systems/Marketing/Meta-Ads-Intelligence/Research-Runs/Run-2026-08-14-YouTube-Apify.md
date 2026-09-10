@@ -19,6 +19,9 @@ tags:
   - discipline-rift
 aliases:
   - "YouTube Apify run"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Research-Runs/Research-Runs-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Research run — 2026-08-14 — YouTube practitioner extraction (Apify)

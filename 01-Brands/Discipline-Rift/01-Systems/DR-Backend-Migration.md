@@ -12,6 +12,14 @@ hub_role: migration-hub
 aliases:
   - DR Backend Migration
   - DR Lovable Migration
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Operational-Flows]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
 ---
 
 # DR Backend Migration (Supabase viejo → Lovable Cloud)

@@ -16,6 +16,8 @@ verbatim: true
 last_synced: 2026-08-27
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
 ---
 
 # NOTIFICATIONS

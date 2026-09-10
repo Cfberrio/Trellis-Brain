@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/11c0452885a88080b487ea483c577192
 notion_db: DR TENNIS
 week: 5
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/6-Week-Season]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Group-Dynamics-Leading-Different-Groups]]"
 ---
 
 # Week 5 — Forehands, Backhands, Volleys, and Serves (Review)

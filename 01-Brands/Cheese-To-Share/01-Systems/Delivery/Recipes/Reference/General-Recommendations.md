@@ -9,6 +9,9 @@ source-filename: "RECOMENDACIONES GENERALES.docx"
 status: canon
 language: es
 sensitivity: operational
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # General Recommendations — Hygiene & Organization

@@ -9,6 +9,11 @@ source_type: curated
 sensitivity: internal
 hub_role: communication-hub
 last_updated: 2026-04-23
+up:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/06-DNA/Message]]"
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Positioning]]"
 ---
 
 # Reliable Venues — Communication Home

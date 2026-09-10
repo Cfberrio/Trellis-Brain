@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: e9477e64-e1b6-4fd7-9af4-ab63985e1086_Week_6__Offensive_Strategy_Play_Action__4th_Down.pdf
 page_count: 6
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Week 6 - Offensive Strategy Play Action and 4th Down

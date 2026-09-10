@@ -11,6 +11,14 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Private]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Lead]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
 ---
 
 # School Outreach — AI Feedback Synthesis

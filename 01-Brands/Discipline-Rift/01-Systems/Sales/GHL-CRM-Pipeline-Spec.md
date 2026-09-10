@@ -18,6 +18,12 @@ related_notes:
   - "[[School-Outreach-SOP-Public]]"
   - "[[School-Outreach-SOP-Private]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Private]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations]]"
 ---
 
 # GHL CRM Pipeline Spec

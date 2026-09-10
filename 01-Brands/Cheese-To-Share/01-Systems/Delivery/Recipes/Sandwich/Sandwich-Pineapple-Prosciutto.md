@@ -9,6 +9,10 @@ source-filename: "3. SANDWICH PINEAPPLE PROSCIUTTO.docx"
 source-path: "1. MANUAL DE RECETAS - PUNTO DE VENTA/.../4. SANDWICH/3. SANDWICH PINEAPPLE PROSCIUTTO.docx"
 status: canon
 language: es
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Sandwich/Sandwich-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Sandwich Pineapple Prosciutto

@@ -6,6 +6,14 @@ note_type: canonical
 status: active
 canonical: true
 used_for_ai: true
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
 ---
 
 # Positioning

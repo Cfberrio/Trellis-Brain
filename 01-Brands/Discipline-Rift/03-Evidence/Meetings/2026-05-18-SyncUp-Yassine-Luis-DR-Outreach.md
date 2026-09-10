@@ -12,6 +12,14 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Private]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone]]"
 ---
 
 # SyncUp — Yassine + Luis — DR School Outreach + DRF Launch — 2026-05-18

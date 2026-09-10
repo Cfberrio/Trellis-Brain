@@ -10,6 +10,10 @@ hub_role: leaf
 purpose: The facts Claude is allowed to state, and the fallback when unsure.
 source: All three bot-training files (facts appear across parent + faculty threads).
 maintenance: Single source of truth for DR facts. Update here when programs/prices change.
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 ---
 
 # 05 — Program Info & Scope

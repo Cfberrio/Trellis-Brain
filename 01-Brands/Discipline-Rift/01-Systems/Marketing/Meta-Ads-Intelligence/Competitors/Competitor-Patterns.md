@@ -20,6 +20,9 @@ tags:
 aliases:
   - "Competitor patterns"
   - "Patrones de competidores"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Competitors/Competitors-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Meta Ad Library — cross-advertiser creative patterns

@@ -16,6 +16,13 @@ tags:
   - oev
   - ai-agent
   - operations
+up:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/Agent/Voice-Agent-Master-Prompt]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/05-email-draft-workflow]]"
+  - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/06-ghl-sms-workflow]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Automation-Jobs-and-Cron]]"
 ---
 
 # Gmail and SMS Draft Agent — OEV

@@ -9,6 +9,19 @@ source_type: curated
 sensitivity: internal
 hub_role: communication-hub
 last_updated: 2026-05-21
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/CTS-Communication-Manual-v2]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/CTS-Script-Evaluation-Context]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillars-Home]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Templates/Ads/Catering-Reels-Library]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Reference/Founder-QA-Library]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Reference/Recording-References]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Message]]"
 ---
 
 # Cheese To Share — Communication Home

@@ -16,6 +16,13 @@ tags:
   - dr
   - platform
   - registration
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Payments-Fees-and-Receipts]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Team-Status-and-Season-Model]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Waitlist-System]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
 ---
 
 # Registration and Checkout Flow

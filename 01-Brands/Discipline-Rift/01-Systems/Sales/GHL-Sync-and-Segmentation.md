@@ -16,6 +16,12 @@ tags:
   - dr
   - ghl
   - crm
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Admin-Dashboard]]"
 ---
 
 # GHL Sync and Segmentation

@@ -11,6 +11,8 @@ notion_db: DR PICKLEBALL
 notion_db_id: 2ba04528-85a8-8046-8cef-f55da0bb7aef
 notion_url: https://app.notion.com/p/2ba0452885a880468ceff55da0bb7aef
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home]]"
 ---
 
 # DR Pickleball Notion Wiki

@@ -16,6 +16,12 @@ tags:
   - oev
   - platform
   - operations
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Staff-Operations-Console]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Booking-Status-Model]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment]]"
 ---
 
 # Staff Console and Payroll

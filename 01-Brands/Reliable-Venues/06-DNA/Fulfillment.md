@@ -11,6 +11,14 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Reliable-Venues/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/06-DNA/Offer]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Sales]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/OEV-Case-Study]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website-Structure-Brief]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website-Technical-Documentation]]"
 ---
 
 # RV Fulfillment — DNA

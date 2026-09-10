@@ -12,6 +12,14 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Avatar-DRF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Funnel-DRF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Improvement-Log-DRF-Phase-1]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/RSO-Project-Play-UCF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/RSO-Project-Play-UCF-Full]]"
 ---
 
 # DRF Phase 1 — Full Playbook

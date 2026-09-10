@@ -20,6 +20,14 @@ tags:
   - ghl
   - email
   - templates
+up:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Email-Design-System]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Visual-Identity]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Post-Booking-Email-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Automations]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Access-Codes-and-Guest-Report]]"
 ---
 
 # OEV GHL Email Templates

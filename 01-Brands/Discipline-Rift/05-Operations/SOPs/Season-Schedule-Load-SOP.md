@@ -16,6 +16,11 @@ tags:
   - dr
   - sop
   - operations
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/SOPs-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Team-Status-and-Season-Model]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Admin-Dashboard]]"
 ---
 
 # Season Schedule Load SOP

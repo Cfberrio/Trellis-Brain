@@ -15,6 +15,10 @@ related_notes:
   - "[[DR-Season-Reminder-Sequence]]"
   - "[[DR-Coach-Communication-Chain]]"
   - "[[../DR-Communication-Engine]]"
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Season-Reminder-Sequence]]"
 ---
 
 # DR Sport Week Banks

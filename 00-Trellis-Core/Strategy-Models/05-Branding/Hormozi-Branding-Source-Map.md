@@ -12,6 +12,11 @@ last_updated: 2026-04-28
 sensitivity: internal
 hub_role: leaf
 book: Branding
+up:
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Branding — Source Map

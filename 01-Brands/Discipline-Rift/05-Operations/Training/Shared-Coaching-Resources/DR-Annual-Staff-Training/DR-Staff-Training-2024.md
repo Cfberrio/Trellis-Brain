@@ -17,6 +17,11 @@ related_notes:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2023|DR Staff Training 2023]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2025|DR Staff Training 2025]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Annual-Staff-Training-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2023]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2025]]"
 ---
 
 # DR Staff Training — 2024

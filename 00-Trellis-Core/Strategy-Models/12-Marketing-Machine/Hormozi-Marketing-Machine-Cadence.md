@@ -11,6 +11,20 @@ source_reference: "$100M Playbook: Marketing Machine — 'Putting It All Togethe
 sensitivity: internal
 hub_role: leaf
 book: Marketing-Machine
+up:
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Marketing-Machine-System]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Lifecycle-Ads]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Social-Media-Scrape]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Communications-Scrape]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Event-Capture-Playbook]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Bonus-And-Award-Mechanism]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Testimonial-Competition]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-6-Point-Testimonial-Script]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-Ad-Assembly-Process]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-Marketing-Machine-Source-Map]]"
 ---
 
 # Hormozi — Marketing Machine Cadence

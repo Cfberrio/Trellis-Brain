@@ -11,6 +11,14 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Lead]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Conversion]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/SOPs/Sales-Training-Teacher-Guide]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/SOPs/Sales-Trainee-Guide]]"
 ---
 
 # Scale

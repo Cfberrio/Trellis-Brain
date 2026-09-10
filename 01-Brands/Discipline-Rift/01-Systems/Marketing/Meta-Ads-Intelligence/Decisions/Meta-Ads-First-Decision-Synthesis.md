@@ -19,6 +19,8 @@ tags:
   - discipline-rift
 aliases:
   - "First DR Decision Synthesis"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # First DR Decision Synthesis

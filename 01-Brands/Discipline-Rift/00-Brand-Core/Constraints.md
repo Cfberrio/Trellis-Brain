@@ -6,6 +6,10 @@ note_type: canonical
 status: active
 canonical: true
 used_for_ai: true
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
 ---
 
 # Constraints

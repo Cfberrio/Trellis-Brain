@@ -8,6 +8,14 @@ used_for_ai: true
 aliases:
   - DR Parent Dashboard
   - Parent Portal
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Operational-Flows]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
 ---
 
 # Parent App Home

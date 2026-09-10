@@ -11,6 +11,26 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: dna-hub
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Market]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Offer]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Money-Model]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Lead]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Conversion]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Retention]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Metrics]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Scale]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Referral-System]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
 ---
 
 # OEV DNA Home

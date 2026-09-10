@@ -11,6 +11,12 @@ notion_page_id: b7f17cc8-dbfa-43ac-acc7-61e6cbe49e7f
 notion_url: https://app.notion.com/p/b7f17cc8dbfa43acacc761e6cbe49e7f
 notion_db: DR TENNIS
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Group-Dynamics-Leading-Different-Groups]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Team]]"
 ---
 
 # 6 Week Season — Tennis Curriculum Map

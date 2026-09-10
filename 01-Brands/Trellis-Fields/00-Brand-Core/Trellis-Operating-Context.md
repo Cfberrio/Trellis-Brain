@@ -14,6 +14,11 @@ sensitivity: internal
 related_systems: [clickup, ghl, n8n]
 hub_role: child
 tags: [trellis-fields, operating-context, doctrine, memory]
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Problems-and-Solutions-TF]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Content-Pillars-TF]]"
 ---
 
 # Trellis — Operating Context (Memory Dump)

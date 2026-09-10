@@ -33,6 +33,9 @@ captured_at: 2026-08-14
 last_verified_at: 2026-08-14
 completeness: partial
 research_questions: [E1, E2, E3, G1, G2]
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Official/Meta-Official-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Audience controls, location targeting, attribution, and click metrics

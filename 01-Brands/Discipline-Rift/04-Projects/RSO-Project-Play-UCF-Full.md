@@ -11,6 +11,11 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/RSO-Project-Play-UCF]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/STRATEGY-Source-DR]]"
 ---
 
 # RSO Project Play UCF — Full Plan

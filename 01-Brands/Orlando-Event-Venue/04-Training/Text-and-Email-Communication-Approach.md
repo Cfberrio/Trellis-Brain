@@ -19,6 +19,15 @@ tags:
   - communication
   - sales
   - voice
+up:
+  - "[[01-Brands/Orlando-Event-Venue/04-Training/OEV-Sales-Onboarding-System-v1]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/04-Training/Call-Communication-Approach]]"
+  - "[[01-Brands/Orlando-Event-Venue/04-Training/Source-Calls/2026-05-20_Luis_NonProfit_Inquiry]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Follow-Up-Rules]]"
 ---
 
 # OEV Text and Email Communication Approach

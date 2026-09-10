@@ -11,6 +11,11 @@ owner: Cristian Berrío
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/Claude-Skills-Catalog]]"
+related:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home]]"
 ---
 
 # Google Ads Skills — Reference

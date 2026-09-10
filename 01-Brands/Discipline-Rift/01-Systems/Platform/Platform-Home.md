@@ -16,6 +16,21 @@ tags:
   - dr
   - platform
   - canonical
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Website-Product-Standard]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Registration-and-Checkout-Flow]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Team-Status-and-Season-Model]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Waitlist-System]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Payments-Fees-and-Receipts]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Admin-Dashboard]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Backend-Migration]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Tracking-and-Attribution]]"
 ---
 
 # DR Platform Home

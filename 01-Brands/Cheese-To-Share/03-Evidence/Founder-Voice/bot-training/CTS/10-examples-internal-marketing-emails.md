@@ -13,6 +13,9 @@ purpose: Real internal/marketing inbox items paired with model handling + the ca
 format: ITEM (real) → CTS HANDLING (model) · plus outbound campaign templates
 note: Inbound items are REAL (Playwright pull). CTS sends almost no marketing today — the campaign templates show the target build.
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/05-internal-marketing-communication]]"
 ---
 
 # Internal & Marketing Email Examples

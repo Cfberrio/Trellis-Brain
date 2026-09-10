@@ -8,6 +8,13 @@ owner: Luis
 last_updated: 2026-04-23
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Sitemap]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Copy]]"
 ---
 
 # Positioning

@@ -16,6 +16,11 @@ related_systems:
 related_notes:
   - "[[Mass-SMS-Via-GHL-SOP]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/SOPs-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Mass-SMS-Via-GHL-SOP]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations]]"
 ---
 
 # Practice Cancellation Communication SOP

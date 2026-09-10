@@ -21,6 +21,8 @@ aliases:
   - "Modelo de evidencia"
   - "Meta Ads Evidence Model"
   - "Niveles de conocimiento"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Modelo de evidencia — cómo se clasifica todo aquí

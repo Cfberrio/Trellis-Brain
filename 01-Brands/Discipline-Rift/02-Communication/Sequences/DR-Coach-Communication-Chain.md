@@ -15,6 +15,11 @@ related_notes:
   - "[[../DR-Communication-Engine]]"
   - "[[../DR-Communication-Audit-2026-08-04]]"
   - "[[../../00-Brand-Core/DR-Brand-Audit-2026-08-04]]"
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Chains-Index]]"
 ---
 
 # DR Coach Communication Chain

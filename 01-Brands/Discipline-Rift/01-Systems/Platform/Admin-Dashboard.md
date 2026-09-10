@@ -16,6 +16,13 @@ tags:
   - dr
   - platform
   - admin
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-Sync-and-Segmentation]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Team-Status-and-Season-Model]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Tracking-and-Attribution]]"
 ---
 
 # Admin Dashboard

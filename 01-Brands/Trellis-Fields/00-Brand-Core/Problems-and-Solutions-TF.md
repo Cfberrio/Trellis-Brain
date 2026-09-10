@@ -11,6 +11,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Content-Pillars-TF]]"
+  - "[[01-Brands/Trellis-Fields/01-Systems/Marketing/Lead-Magnet-Strategy]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/Storytelling-Pillars]]"
 ---
 
 # TF Problems and Solutions Matrix

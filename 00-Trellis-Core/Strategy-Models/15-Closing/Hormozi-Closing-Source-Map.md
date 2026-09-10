@@ -12,6 +12,16 @@ last_updated: 2026-04-29
 sensitivity: internal
 hub_role: leaf
 book: Closing
+up:
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Guarantees]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-BAMFAM]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Cancellation-Saves]]"
 ---
 
 # Closing — Source Map

@@ -15,6 +15,10 @@ verbatim: true
 last_synced: 2026-08-27
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS]]"
+down:
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/COACHES-N8N/06-Coach-Session-Reminder]]"
 ---
 
 # COACHES (N8N)

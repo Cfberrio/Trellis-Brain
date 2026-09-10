@@ -5,6 +5,11 @@ domain: delivery
 note_type: canonical
 status: active
 used_for_ai: true
+up:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Delivery-Process]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Contact]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Payment-Rules]]"
 ---
 
 # Dependencies

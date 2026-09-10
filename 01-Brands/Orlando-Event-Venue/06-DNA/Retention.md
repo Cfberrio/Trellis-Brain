@@ -11,6 +11,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Money-Model]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Referral-System]]"
 ---
 
 # Retention + Expansion

@@ -12,6 +12,11 @@ priority: HIGHEST
 purpose: How Claude drafts replies to schools, faculty, and administrators.
 examples: 10-examples-faculty-emails.md
 source: ../03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/01-brand-voice]]"
 ---
 
 # 03 — Faculty / School Communication

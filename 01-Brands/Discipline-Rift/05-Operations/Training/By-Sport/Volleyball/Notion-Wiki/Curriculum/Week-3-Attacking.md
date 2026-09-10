@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/32c0452885a881249bdbc7f75ff7d384
 notion_db: DR VOLLEYBALL
 week: 3
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Attacking]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Practice]]"
 ---
 
 # Week 3 — Attacking

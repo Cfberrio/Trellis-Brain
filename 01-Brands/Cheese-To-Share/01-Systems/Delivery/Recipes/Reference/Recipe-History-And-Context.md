@@ -9,6 +9,9 @@ source-filename: "ALGO DE HISTORIA.docx"
 status: canon
 language: es
 sensitivity: educational
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Recipe History & European Ingredient Context

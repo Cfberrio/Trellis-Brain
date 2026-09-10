@@ -11,6 +11,15 @@ source_reference: "$100M Playbook: Branding — 'Measuring Brand', 'Case Study: 
 sensitivity: internal
 hub_role: leaf
 book: Branding
+up:
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/Hormozi-Branding-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/Hormozi-Branding-Definition]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/Hormozi-Brand-Bouquet]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Brand Measurement

@@ -30,6 +30,9 @@ retrieval_method: rendered_browser + webfetch_full_body
 captured_at: 2026-08-13
 last_verified_at: 2026-08-13
 completeness: full_page
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Official/Meta-Official-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Pixel + Conversions API deduplication

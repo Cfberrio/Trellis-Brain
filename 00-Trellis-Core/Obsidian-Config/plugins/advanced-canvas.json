@@ -1,0 +1,18 @@
+{
+  "autoResizeNodeFeatureEnabled": true,
+  "autoResizeNodeEnabledByDefault": true,
+  "edgeHighlightEnabled": true,
+  "highlightIncomingEdges": true,
+  "edgeSelectionEnabled": true,
+  "inheritEdgeColorFromNode": true,
+  "combineCustomStylesInDropdown": true,
+  "zOrderingControlFeatureEnabled": true,
+  "aspectRatioControlFeatureEnabled": true,
+  "focusModeFeatureEnabled": true,
+  "betterReadonlyEnabled": true,
+  "variableBreakpointFeatureEnabled": true,
+  "canvasEncapsulationEnabled": true,
+  "defaultEdgeStyleAttributes": {
+    "pathfindingMethod": "square"
+  }
+}

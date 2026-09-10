@@ -12,6 +12,13 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Objections]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Process]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Avatar-DRF]]"
 ---
 
 # Avatar

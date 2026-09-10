@@ -16,6 +16,12 @@ tags:
   - oev
   - platform
   - booking
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Booking-Status-Model]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Booking-Calendar-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Process]]"
 ---
 
 # Booking Types and Policies

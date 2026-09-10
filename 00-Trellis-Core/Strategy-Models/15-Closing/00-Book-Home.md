@@ -12,6 +12,17 @@ last_updated: 2026-04-29
 sensitivity: internal
 hub_role: system-hub
 book: Closing
+up:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
+  - "[[00-Trellis-Core/Strategy-Models/Strategy-Models-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Guarantees]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Cancellation-Saves]]"
 ---
 
 # Closing — Book Home

@@ -16,6 +16,11 @@ related_systems:
 related_notes:
   - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public|Public Schools Outreach SOP]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/SOPs-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec]]"
 ---
 
 # Facilitron Reservations SOP

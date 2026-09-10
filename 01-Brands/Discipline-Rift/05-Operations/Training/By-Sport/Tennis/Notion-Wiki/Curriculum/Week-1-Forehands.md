@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/4260d7332d8a43bc9d79a9b2a3b65fc8
 notion_db: DR TENNIS
 week: 1
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/6-Week-Season]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Group-Dynamics-Leading-Different-Groups]]"
 ---
 
 # Week 1 — Forehands

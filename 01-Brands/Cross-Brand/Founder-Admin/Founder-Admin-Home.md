@@ -11,6 +11,10 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Cross-Brand/Cross-Brand-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
 ---
 
 # Founder Admin — Home

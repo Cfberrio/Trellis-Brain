@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: How to handle a catering/event inquiry from first email to deposited booking. Catering is the highest-value channel and the one real customers use most.
 sources: Catering-Booking-SOP.md · Pricing-Logic.md · Catering website page · Communication-Manual Sequence 3
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
 ---
 
 # Catering Inquiries Playbook

@@ -9,6 +9,12 @@ owner: Luis
 last_updated: 2026-04-23
 sensitivity: internal
 hub_role: system-home
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Retention/Follow-Up-Cadence]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Retention/Reactivation]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Campaigns]]"
 ---
 
 # Retention Strategy

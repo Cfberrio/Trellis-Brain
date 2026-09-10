@@ -20,6 +20,8 @@ tags:
 aliases:
   - "Análisis profundo de creativos DR"
   - "DR Creative Decision Fall 2026"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Análisis profundo de creativos — Fall 2026 Volleyball

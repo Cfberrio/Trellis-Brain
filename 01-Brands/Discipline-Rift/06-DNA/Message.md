@@ -7,6 +7,11 @@ canonical: true
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-04-23
+up:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition]]"
 ---
 
 # Message

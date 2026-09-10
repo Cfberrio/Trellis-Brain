@@ -11,6 +11,19 @@ source_reference: "$100M Money Models — Section V: Continuity Offers (pp. 124�
 sensitivity: internal
 hub_role: leaf
 book: 100M-Money-Models
+up:
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-100M-Money-Models-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Money-Model]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Attraction-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Upsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Downsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Money-Model-Assembly]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Bonuses]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Guarantees]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
 ---
 
 # Hormozi — Continuity Offers

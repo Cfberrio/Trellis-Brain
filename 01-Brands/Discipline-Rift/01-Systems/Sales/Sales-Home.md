@@ -19,6 +19,21 @@ related_notes:
   - "[[School-Outreach-SOP-Private]]"
   - "[[GHL-CRM-Pipeline-Spec]]"
 hub_role: system-hub
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Process]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Public]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Private]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-Sync-and-Segmentation]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Lead]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Funnel]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Money-Model]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
 ---
 
 # DR Sales Home

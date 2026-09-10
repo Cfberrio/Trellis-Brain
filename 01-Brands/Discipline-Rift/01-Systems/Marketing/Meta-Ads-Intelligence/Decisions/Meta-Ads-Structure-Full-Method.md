@@ -20,6 +20,8 @@ tags:
 aliases:
   - "Meta Ads Structure Full Method"
   - "Estructura DR método completo"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Estructuras de campañas Meta para Discipline Rift

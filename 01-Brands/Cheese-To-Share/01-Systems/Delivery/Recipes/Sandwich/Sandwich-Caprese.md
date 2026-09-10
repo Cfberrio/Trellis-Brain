@@ -9,6 +9,10 @@ source-filename: "2. SANDWICH CAPRESE.docx"
 source-path: "1. MANUAL DE RECETAS - PUNTO DE VENTA/.../4. SANDWICH/2. SANDWICH CAPRESE.docx"
 status: canon
 language: es
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Sandwich/Sandwich-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Sandwich Caprese

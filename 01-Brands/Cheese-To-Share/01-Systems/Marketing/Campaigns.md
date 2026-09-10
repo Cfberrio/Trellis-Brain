@@ -5,6 +5,12 @@ domain: marketing
 note_type: working
 status: active
 used_for_ai: true
+up:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Marketing-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Catering]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Location]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Story]]"
 ---
 
 # Campaigns

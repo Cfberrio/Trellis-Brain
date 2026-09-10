@@ -16,6 +16,11 @@ tags:
   - trellis-fields
   - product
   - esign
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/01-Systems/Marketing/Lead-Magnet-Strategy]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
 ---
 
 # Trellis e-Sign — Home

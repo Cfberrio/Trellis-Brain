@@ -16,6 +16,11 @@ related_systems:
 related_notes:
   - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|GHL Marketing + Registration Automations]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/SOPs-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Practice-Cancellation-Comms-SOP]]"
 ---
 
 # Mass SMS via GHL SOP

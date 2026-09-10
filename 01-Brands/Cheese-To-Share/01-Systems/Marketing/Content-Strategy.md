@@ -5,6 +5,12 @@ domain: marketing
 note_type: canonical
 status: active
 used_for_ai: true
+up:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Marketing-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Assets]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/CTS-Material-Final-Product-Library]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Story]]"
 ---
 
 # Content Strategy

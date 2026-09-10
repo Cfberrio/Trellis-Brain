@@ -11,6 +11,12 @@ notion_page_id: cba7baff-d994-4db3-b16c-678453d0d015
 notion_url: https://app.notion.com/p/cba7baffd9944db3b16c678453d0d015
 notion_db: DR TENNIS
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/The-Hand-of-a-Coach]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Team]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Core-Values]]"
 ---
 
 # Being a Coach

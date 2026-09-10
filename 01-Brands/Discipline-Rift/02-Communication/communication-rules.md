@@ -12,6 +12,13 @@ last_updated: 2026-08-27
 authored: 2026-04-21
 last_verified_against_clickup: 2026-08-27
 owner: Luis
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season]]"
 ---
 
 # Discipline Rift — Communication Rules

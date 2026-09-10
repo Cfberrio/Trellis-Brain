@@ -11,6 +11,20 @@ source_reference: "$100M Playbook: Price Raise — 'The Perfect Price Raise Lett
 sensitivity: internal
 hub_role: leaf
 book: Price-Raise
+up:
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-Price-Raise-Play]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-Price-Raise-Rules]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-Price-Test-Math]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Scarcity]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Urgency]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-Price-Raise-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — RAISE Letter

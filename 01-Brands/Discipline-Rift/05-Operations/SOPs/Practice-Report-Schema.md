@@ -17,6 +17,12 @@ related_notes:
   - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home|DR Parent App]]"
   - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home|DR Coach Portal]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/SOPs-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Practice-Reports/Flag-Football-2026-Spring]]"
 ---
 
 # Practice Report + Injury Form Schema

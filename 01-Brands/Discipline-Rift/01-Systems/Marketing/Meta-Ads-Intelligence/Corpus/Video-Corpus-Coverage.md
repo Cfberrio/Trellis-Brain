@@ -21,6 +21,8 @@ aliases:
   - "Corpus de video — cobertura"
   - "Video Corpus Coverage"
   - "463 videos"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Corpus de video — cobertura de los 463

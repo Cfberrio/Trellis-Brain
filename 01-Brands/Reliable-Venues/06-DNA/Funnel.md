@@ -10,6 +10,12 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Reliable-Venues/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/06-DNA/Conversion]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Sales]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Money-Model]]"
 ---
 
 # RV Funnel — DNA

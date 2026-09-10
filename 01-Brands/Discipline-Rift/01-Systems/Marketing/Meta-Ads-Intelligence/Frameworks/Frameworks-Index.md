@@ -22,6 +22,8 @@ aliases:
   - "Frameworks — índice"
   - "Waves 1A-3"
   - "Meta Ads Frameworks"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Frameworks — índice de las cinco olas

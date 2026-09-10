@@ -12,6 +12,10 @@ owner: Cristian
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Meetings/2026-05-18-Sebastian-OEV-Onboarding]]"
 ---
 
 # Claude Setup — Team Onboarding — 2026-05-20

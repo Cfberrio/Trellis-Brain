@@ -11,6 +11,18 @@ source_reference: "$100M Playbook: Fast Cash — 'Why Fast Cash Plays Matter' (p
 sensitivity: internal
 hub_role: leaf
 book: Fast-Cash
+up:
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Play]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Promo-Sequence]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-10x-The-10-Percent-Rule]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Unscalable-Value-Levers]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Fast Cash Cadence

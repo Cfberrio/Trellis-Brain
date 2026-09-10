@@ -19,6 +19,9 @@ tags:
   - discipline-rift
 aliases:
   - "Dara Denney creative testing evidence"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Research-Runs/Research-Runs-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Evidence map — Dara Denney — "How to Test Facebook Ads Creatives at Every Budget"

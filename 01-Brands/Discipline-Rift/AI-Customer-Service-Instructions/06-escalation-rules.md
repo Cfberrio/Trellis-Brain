@@ -9,6 +9,10 @@ used_for_ai: true
 hub_role: leaf
 purpose: When Claude must stop and flag for a human instead of answering on its own.
 applies-to: All audiences (parents, faculty, coaches).
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 ---
 
 # 06 — Escalation Rules

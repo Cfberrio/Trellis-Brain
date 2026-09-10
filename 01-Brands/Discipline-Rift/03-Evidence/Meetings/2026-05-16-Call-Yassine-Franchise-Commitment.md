@@ -12,6 +12,11 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Meetings/2026-05-18-SyncUp-Yassine-Luis-DR-Outreach]]"
 ---
 
 # Call — Yassine Franchise Commitment Evaluation — 2026-05-16

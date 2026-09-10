@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: How to write to vendors, delivery platforms, landlord, payments, and compliance. This is ~70% of the CTS inbox — a distinct all-business mode.
 sources: Communication-Manual (Vendor/Ops) + 30-day inbox classification
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
 ---
 
 # Vendor & Operational Communication

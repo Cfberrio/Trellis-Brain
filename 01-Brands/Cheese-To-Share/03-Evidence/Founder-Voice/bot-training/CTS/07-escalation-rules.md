@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: When the bot must stop and hand to a human (Luis Torres). Bias toward escalating money, custom quotes, disputes, and anything past the standard offer stack.
 sources: Catering-Booking-SOP · Support/Escalation-Rules · Communication-Manual (Failure Handling)
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
 ---
 
 # Escalation Rules

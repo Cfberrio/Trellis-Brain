@@ -12,6 +12,11 @@ sequence: registration
 channel: [email, sms]
 related_notes:
   - "[[../DR-Communication-Engine]]"
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Registration-and-Checkout-Flow]]"
 ---
 
 # DR Registration Sequence

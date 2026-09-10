@@ -5,6 +5,8 @@ domain: support
 note_type: working
 status: active
 used_for_ai: true
+up:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Support/Support-Process]]"
 ---
 
 # Resolution Logic

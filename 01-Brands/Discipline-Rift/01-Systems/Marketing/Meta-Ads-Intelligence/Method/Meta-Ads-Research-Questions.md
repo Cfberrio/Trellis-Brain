@@ -20,6 +20,8 @@ tags:
 aliases:
   - "Meta Ads Research Questions"
   - "Backlog A1-S2"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Research Question Backlog — Meta Ads Intelligence

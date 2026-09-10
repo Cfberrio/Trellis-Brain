@@ -15,6 +15,11 @@ related_systems: [marketing, sales]
 related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]"]
 hub_role: child
 tags: [oev, language-rules]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Constraints]]"
 ---
 
 # OEV Language Rules

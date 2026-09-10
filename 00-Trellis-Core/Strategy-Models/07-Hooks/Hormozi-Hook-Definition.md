@@ -11,6 +11,16 @@ source_reference: "$100M Playbook: Hooks — 'What's A Hook?', 'What Makes Hooks
 sensitivity: internal
 hub_role: leaf
 book: Hooks
+up:
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hook-Types-Palette]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hook-70-20-10-Process]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hook-Library]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hooks-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Hook Definition

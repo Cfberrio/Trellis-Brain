@@ -11,6 +11,11 @@ notion_page_id: d0435cb3-8ba1-42a8-b935-ff5e6e86b1a5
 notion_url: https://app.notion.com/p/d0435cb38ba142a8b935ff5e6e86b1a5
 notion_db: DR TENNIS
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/6-Week-Season]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/The-Hand-of-a-Coach]]"
 ---
 
 # Group Dynamics — Leading Different Groups

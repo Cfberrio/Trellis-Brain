@@ -11,6 +11,17 @@ source_reference: "$100M Playbook: Price Raise — 'My Rules For Raising Prices'
 sensitivity: internal
 hub_role: leaf
 book: Price-Raise
+up:
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-Price-Raise-Play]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-Price-Test-Math]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-RAISE-Letter]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/Hormozi-Price-Raise-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Price Raise Rules

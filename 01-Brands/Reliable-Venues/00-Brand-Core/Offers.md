@@ -6,6 +6,13 @@ note_type: canonical
 status: active
 used_for_ai: true
 owner: Luis Torres
+up:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Book-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Book-Calendar-Page]]"
 ---
 # Offers
 

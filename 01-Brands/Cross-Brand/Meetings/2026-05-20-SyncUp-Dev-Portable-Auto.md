@@ -12,6 +12,8 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/Meetings/Meetings-Home]]"
 ---
 
 # SyncUp — Dev — "Portable Auto" — 2026-05-20

@@ -10,6 +10,12 @@ hub_role: leaf
 audience: Parent
 purpose: Curated real DR parent replies with the lesson to copy. Full set in source.
 source: ../03-Evidence/Founder-Voice/bot-training/01-PARENTS.md (20 verbatim threads)
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/02-parent-communication]]"
 ---
 
 # 09 — Example Parent Emails (Annotated)

@@ -11,6 +11,22 @@ source_reference: "$100M Playbook: Lifetime Value — 'Increasing Lifetime Value
 sensitivity: internal
 hub_role: leaf
 book: Lifetime-Value
+up:
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Cost-Reduction-Levers]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Price-Testing-Method]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-CFA-Three-Levers]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Upsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Downsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Continuity-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Cadence]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Play]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Lifetime-Value-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — The Crazy Eight

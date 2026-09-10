@@ -11,6 +11,22 @@ source_reference: "$100M Playbook: Retention — 'Churn Checklist #9: Make a Cus
 sensitivity: internal
 hub_role: leaf
 book: Retention
+up:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Checklist]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Activation-Points]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Onboarding]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Activation-Incentives]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Community-Linking]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Survey-ACA]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Cancellation-Saves]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/Hormozi-Upsell-Offers]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/Hormozi-6-Point-Testimonial-Script]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Retention-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Customer Journey Milestones

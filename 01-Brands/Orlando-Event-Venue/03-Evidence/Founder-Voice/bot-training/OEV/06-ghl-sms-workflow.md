@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: Step-by-step for replying to client SMS in GHL / LeadConnector. SMS = short, fast, high-volume. Most inbound lives here.
 source: GHL LeadConnector 90-day pull — 105 Q&A pairs
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # GHL SMS Workflow

@@ -11,6 +11,15 @@ source_reference: "$100M Playbook: Lifetime Value — '#2 Decrease Costs' (pp. 1
 sensitivity: internal
 hub_role: leaf
 book: Lifetime-Value
+up:
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Crazy-Eight]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Price-Testing-Method]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-CFA-Three-Levers]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Lifetime-Value-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
 ---
 
 # Hormozi — Cost Reduction Levers

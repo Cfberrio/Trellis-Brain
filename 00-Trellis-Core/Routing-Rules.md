@@ -9,6 +9,8 @@ source_type: curated
 sensitivity: internal
 hub_role: root
 last_updated: 2026-04-23
+up:
+  - "[[00-Trellis-Core/Trellis-Home]]"
 ---
 
 # Routing Rules

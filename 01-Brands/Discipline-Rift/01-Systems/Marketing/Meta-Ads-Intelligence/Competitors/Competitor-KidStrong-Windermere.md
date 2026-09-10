@@ -19,6 +19,9 @@ tags:
   - discipline-rift
 aliases:
   - "KidStrong Windermere"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Competitors/Competitors-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # KidStrong Windermere (Orlando-local)

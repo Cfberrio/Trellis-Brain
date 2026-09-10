@@ -16,6 +16,11 @@ related_notes:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Annual-Staff-Training-Home|DR Annual Staff Training Home]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2024|DR Staff Training 2024]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Annual-Staff-Training-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2024]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Source-Docs/Group-Dynamics-Leading-Different-Groups]]"
 ---
 
 # DR Staff Training — 2023 (DR Team Fall Training)

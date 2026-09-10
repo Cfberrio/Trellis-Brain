@@ -6,6 +6,17 @@ note_type: evidence
 status: active
 used_for_ai: true
 owner: Luis Torres
+up:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Website-Home]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Home-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/About-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Systems-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Solutions-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Case-Studies-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/FAQ-Page]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Contact-Page]]"
 ---
 # Website Structure Brief
 

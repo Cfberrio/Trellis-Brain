@@ -14,6 +14,16 @@ related_systems: []
 related_notes:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Shared-Coaching-Resources-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2023]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2024]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/DR-Annual-Staff-Training/DR-Staff-Training-2025]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Core-Values]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/DR-Practice]]"
 ---
 
 # DR Annual Staff Training — Home

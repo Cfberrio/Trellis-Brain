@@ -10,6 +10,9 @@ audience: Parent
 used_for_ai: true
 last_updated: 2026-07-03
 examples: 09-examples-parent-emails.md
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/01-brand-voice]]"
 ---
 
 # 02 — Parent Communication

@@ -9,6 +9,10 @@ source-filename: "2. Fichas Técnicas con Costos Unitarios.xlsx"
 source-sheet: "COSTO-RECETARIO."
 status: canon
 sensitivity: financial
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Tech-Sheets/Tech-Sheets-Workbook]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Tech-Sheets/Tech-Sheets-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Costo Recetario — full sheet

@@ -9,6 +9,8 @@ hub_role: leaf
 used_for_ai: true
 last_updated: 2026-07-03
 source: STRATEGY-Source-DR.md + extracted email threads
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README]]"
 ---
 
 # 05 — Program Info Scope

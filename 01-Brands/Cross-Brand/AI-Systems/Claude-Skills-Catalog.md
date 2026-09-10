@@ -11,6 +11,14 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
+related:
+  - "[[01-Brands/Cross-Brand/AI-Systems/Agents-Method]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-100M-Offers-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-Closing-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Retention-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/Hormozi-GOATed-Ads-Source-Map]]"
 ---
 
 # Claude Skills Catalog

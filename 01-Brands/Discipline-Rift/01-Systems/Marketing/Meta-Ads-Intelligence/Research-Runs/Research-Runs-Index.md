@@ -22,6 +22,8 @@ aliases:
   - "Research runs — índice"
   - "Research Runs Index"
   - "Bitácora de investigación Meta Ads"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Research runs — la bitácora de cómo se investigó

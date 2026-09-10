@@ -15,6 +15,17 @@ related_notes:
   - "[[Sequences/DR-Lead-Magnet-Sequence]]"
   - "[[Sequences/DR-Season-Reminder-Sequence]]"
   - "[[communication-rules]]"
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Registration-Sequence]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Lead-Magnet-Sequence]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Season-Reminder-Sequence]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Coach-Communication-Chain]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Sport-Week-Banks]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Chains-Index]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/communication-rules]]"
 ---
 
 # DR Communication Engine

@@ -16,6 +16,20 @@ tags:
   - oev
   - platform
   - canonical
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Booking-Status-Model]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Booking-Types-and-Policies]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Automation-Jobs-and-Cron]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Payments-Invoices-and-Fees]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Staff-Console-and-Payroll]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Access-Codes-and-Guest-Report]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Staff-Operations-Console]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Operating-System]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home]]"
 ---
 
 # OEV Platform Home

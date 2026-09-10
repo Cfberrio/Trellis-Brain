@@ -15,6 +15,8 @@ related_systems: [sales]
 related_notes: ["[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]"]
 hub_role: child
 tags: [oev, lead-definition]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home]]"
 ---
 
 # OEV Lead Definition

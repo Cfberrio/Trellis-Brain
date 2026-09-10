@@ -11,6 +11,14 @@ source_reference: "$100M Offers — Section I, Ch. 2: Grand Slam Offers (pp. 23�
 sensitivity: internal
 hub_role: leaf
 book: 100M-Offers
+up:
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-100M-Offers-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Grand Slam Offer

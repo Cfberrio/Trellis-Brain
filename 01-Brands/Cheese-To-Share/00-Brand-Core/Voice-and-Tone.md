@@ -8,6 +8,12 @@ owner: Luis
 last_updated: 2026-04-23
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Messaging-Strategy]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Copy]]"
 ---
 
 # Voice and Tone

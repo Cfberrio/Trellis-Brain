@@ -12,6 +12,12 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Q&A-Weekly-Themes]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/STRATEGY-Source-DR]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
 ---
 
 # DR Founder Q&A — Full Library (55 questions)

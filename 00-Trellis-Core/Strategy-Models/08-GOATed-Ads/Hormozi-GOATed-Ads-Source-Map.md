@@ -12,6 +12,12 @@ last_updated: 2026-04-28
 sensitivity: internal
 hub_role: leaf
 book: GOATed-Ads
+up:
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
 ---
 
 # GOATed Ads — Source Map

@@ -11,6 +11,17 @@ source_reference: "$100M Playbook: Lead Nurture — 'Execution' (pp. 33–37); '
 sensitivity: internal
 hub_role: leaf
 book: Lead-Nurture
+up:
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-Lead-Nurture-Four-Pillars]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-Lead-Nurture-Availability]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-Lead-Nurture-Speed]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-Lead-Nurture-Personalization]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-Lead-Nurture-Volume]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-BAMFAM]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/Hormozi-Lead-Nurture-Source-Map]]"
 ---
 
 # Hormozi — Lead Nurture Execution Culture

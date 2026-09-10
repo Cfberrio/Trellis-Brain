@@ -7,6 +7,13 @@ status: active
 used_for_ai: true
 aliases:
   - DR Core Flows
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations]]"
 ---
 
 # DR Operational Flows

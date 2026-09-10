@@ -9,6 +9,28 @@ source_type: curated
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: dna-hub
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Market]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Offer]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Money-Model]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Lead]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Conversion]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Delivery]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Retention]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Metrics]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Scale]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Referral-System]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Message]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Funnel]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Sales]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Constraints]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Opportunities]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Marketing-Home]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Cheese-To-Share/05-Operations/Ops-Home]]"
 ---
 
 # CTS DNA Home

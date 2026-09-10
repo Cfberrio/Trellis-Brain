@@ -36,6 +36,9 @@ captured_at: 2026-08-14
 last_verified_at: 2026-08-14
 completeness: partial
 research_questions: [D1, D2, D3, D4]
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Official/Meta-Official-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Creative testing, A/B testing, the breakdown effect, and delivery diagnostics

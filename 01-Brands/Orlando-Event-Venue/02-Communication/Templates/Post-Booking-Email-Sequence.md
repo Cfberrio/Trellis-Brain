@@ -15,6 +15,14 @@ related_systems:
   - ghl
   - website
 hub_role: leaf
+up:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/OEV-Communication-Manual]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Rules-and-Fees]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Fulfillment]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Conversion]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Automations]]"
 ---
 
 # Post-Booking Email + SMS Sequence

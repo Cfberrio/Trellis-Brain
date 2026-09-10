@@ -11,6 +11,16 @@ source_reference: "$100M Playbook: Hooks — 'My Process For Finding and Creatin
 sensitivity: internal
 hub_role: leaf
 book: Hooks
+up:
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hook-Definition]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hook-Types-Palette]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hook-Library]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/Hormozi-Hooks-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Hook 70-20-10 Process

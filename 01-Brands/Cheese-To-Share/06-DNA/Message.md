@@ -9,6 +9,11 @@ last_updated: 2026-04-23
 sensitivity: internal
 hub_role: child
 source_type: derived
+up:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Messaging-Strategy]]"
 ---
 
 # Message

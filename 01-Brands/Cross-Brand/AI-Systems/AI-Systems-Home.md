@@ -11,6 +11,18 @@ owner: Cristian
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Cross-Brand/Cross-Brand-Home]]"
+down:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/Agents-Method]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/Claude-Skills-Catalog]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/Meta-Ads-Skills-Reference]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/Google-Ads-Skills-Reference]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/2026-05-20-Claude-Setup]]"
+related:
+  - "[[01-Brands/Cross-Brand/Founder-Admin/Founder-Admin-Home]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
 ---
 
 # AI Systems — Home

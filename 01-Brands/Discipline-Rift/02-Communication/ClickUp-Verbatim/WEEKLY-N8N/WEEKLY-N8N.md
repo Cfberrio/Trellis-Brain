@@ -15,6 +15,15 @@ verbatim: true
 last_synced: 2026-08-27
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS]]"
+down:
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/09-Week-1-Volleyball]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/10-Week-2-Volleyball]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/11-Week-3-Volleyball]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/12-Week-4-Volleyball]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/13-Week-5-Volleyball]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/14-Week-6-Volleyball]]"
 ---
 
 # WEEKLY (N8N)

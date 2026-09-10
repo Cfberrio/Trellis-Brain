@@ -12,6 +12,20 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Communication-Home]]"
+down:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-1-The-Table]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-2-The-Event]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-3-The-Kitchen]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-4-The-Share]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-5-The-Team]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-6-Trends]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Content-Strategy]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Reference/Recording-References]]"
 ---
 
 # CTS Content Pillars — Home

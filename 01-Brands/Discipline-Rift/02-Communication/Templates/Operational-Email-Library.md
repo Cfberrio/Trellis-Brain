@@ -17,6 +17,13 @@ last_updated: 2026-08-31
 last_verified_against_clickup: 2026-08-27
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Email-Design-Spec]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
 ---
 
 # DR Operational Email Library

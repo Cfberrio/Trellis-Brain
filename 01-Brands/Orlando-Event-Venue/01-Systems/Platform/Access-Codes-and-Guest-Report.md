@@ -16,6 +16,12 @@ tags:
   - oev
   - platform
   - operations
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Rules-and-Fees]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/Agent/Voice-Agent-Knowledge-Pack]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Automation-Jobs-and-Cron]]"
 ---
 
 # Access Codes and Guest Report

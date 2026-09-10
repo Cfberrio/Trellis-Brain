@@ -6,6 +6,13 @@ note_type: evidence
 status: active
 used_for_ai: true
 owner: Luis Torres
+up:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Website-Home]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/GHL-Embed-Reference]]"
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Constraints]]"
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Opportunities]]"
 ---
 # Website Technical Documentation
 

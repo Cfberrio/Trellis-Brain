@@ -13,6 +13,9 @@ purpose: Real customer inquiries (verbatim, pulled from the CTS mailbox + Wix fo
 format: CUSTOMER (verbatim question) → CTS REPLY (model, in-voice)
 note: Inbound quotes are REAL (Playwright pull). Replies are MODEL drafts built to the Communication Manual — CTS's real outbound corpus to customers was near-zero, so these show the target, not a transcript.
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/06-email-draft-workflow]]"
 ---
 
 # Customer Email Examples

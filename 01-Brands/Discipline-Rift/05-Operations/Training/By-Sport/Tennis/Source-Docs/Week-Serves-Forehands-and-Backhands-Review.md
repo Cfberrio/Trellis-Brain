@@ -9,6 +9,11 @@ used_for_ai: true
 source_type: pdf_extract
 original_pdf: ef2763ff-3c4f-4607-923d-86df96fca3c8_WEEK_-_SERVES__FOREHAND__BACKHANDS_(REVIEW).pdf
 page_count: 36
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 ---
 
 # Week - Serves Forehands and Backhands (Review)

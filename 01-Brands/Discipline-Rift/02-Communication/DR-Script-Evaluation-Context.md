@@ -7,6 +7,16 @@ used_for_ai: true
 owner: Luis
 last_updated: 2026-04-24
 sensitivity: internal
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/communication-rules]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
 ---
 
 # Discipline Rift — Script Evaluation Context

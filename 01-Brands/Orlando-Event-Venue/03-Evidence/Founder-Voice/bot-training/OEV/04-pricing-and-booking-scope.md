@@ -12,6 +12,8 @@ hub_role: leaf
 purpose: The single authoritative fact sheet. Every number the bot states comes from here. If a fact isn't here, the bot says it will confirm — it does not invent.
 updated: 2026-07-01
 note: Two source docs conflicted on rate and size. Reconciled per operator decision (2026-07-01) — see "Reconciliation notes".
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # Pricing & Booking Scope — Source of Truth

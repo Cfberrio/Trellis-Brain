@@ -6,6 +6,10 @@ status: active
 canonical: false
 used_for_ai: true
 last_updated: 2026-08-20
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home]]"
 ---
 
 # Books Excluded From Markdown Package

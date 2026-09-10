@@ -16,6 +16,12 @@ tags:
   - audit
   - vault-health
   - cross-brand
+up:
+  - "[[01-Brands/Cross-Brand/Reference/Reference-Home]]"
+related:
+  - "[[01-Brands/Cross-Brand/Cross-Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Platform-Home]]"
 ---
 
 # Vault Freshness Audit — 2026-08-20

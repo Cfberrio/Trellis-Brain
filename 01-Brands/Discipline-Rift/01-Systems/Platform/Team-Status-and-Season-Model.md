@@ -16,6 +16,13 @@ tags:
   - dr
   - platform
   - data-model
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Season-Schedule-Load-SOP]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Registration-and-Checkout-Flow]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Waitlist-System]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations]]"
 ---
 
 # Team Status and Season Model

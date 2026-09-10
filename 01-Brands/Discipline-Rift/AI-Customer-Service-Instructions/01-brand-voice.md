@@ -9,6 +9,10 @@ used_for_ai: true
 hub_role: leaf
 purpose: How Discipline Rift talks. Load this on EVERY email, regardless of audience.
 source: Tonality tables in the bot-training set (01/02/03).
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 ---
 
 # 01 — Brand Voice

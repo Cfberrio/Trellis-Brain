@@ -12,6 +12,8 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: restricted
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/Real-Estate/Real-Estate-Home]]"
 ---
 
 # CIG (CV Capital Investment Group) — Property Management + Equity Negotiation — 2026-05-18

@@ -11,6 +11,20 @@ sensitivity: internal
 hub_role: system-hub
 aliases:
   - DR Systems Home
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Operational-Flows]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/KPIs]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
 ---
 
 # Systems Home

@@ -13,6 +13,9 @@ purpose: Real vendor/ops threads from the CTS inbox (30-day sent + received pull
 format: VENDOR (real thread) → CTS REPLY (model, documented mode)
 note: The subjects/senders are REAL (Playwright pull). Replies are MODEL drafts to the Communication Manual vendor templates.
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/04-vendor-communication]]"
 ---
 
 # Vendor Email Examples

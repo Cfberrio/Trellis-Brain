@@ -7,6 +7,10 @@ source: [[Recipe-Pack-Source-Index]]
 source-file: "1. MANUAL DE RECETAS - PUNTO DE VENTA/1. Recetario Estandarizado 3.Manual de Preparación/1. CHEESEBOARDS/1. TABLAS.docx"
 status: canon
 language: es
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Cheeseboards/Cheeseboards-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Tablas (Cheeseboards)

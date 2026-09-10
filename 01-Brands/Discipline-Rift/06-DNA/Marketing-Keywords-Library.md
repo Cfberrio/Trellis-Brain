@@ -11,6 +11,12 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/STRATEGY-Source-DR]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Ad-Scripting-Playbook]]"
 ---
 
 # DR Marketing Keywords Library

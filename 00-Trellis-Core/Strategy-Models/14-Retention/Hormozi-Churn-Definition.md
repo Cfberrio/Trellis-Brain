@@ -11,6 +11,21 @@ source_reference: "$100M Playbook: Retention — 'What Is Churn?' (p. 9); 'Price
 sensitivity: internal
 hub_role: leaf
 book: Retention
+up:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Value-Per-Second]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Economics]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Checklist]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Annual-Payment-Options]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Price-Testing-Method]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-CFA-Three-Levers]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Retention-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Churn Definition

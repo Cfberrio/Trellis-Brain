@@ -16,6 +16,11 @@ focus: DR's REPLIES to parent questions/problems (NOT outbound blasts, NOT autom
 privacy: Children's names → [CHILD]. Parent emails/phones removed. Parent first names kept.
 format: INCOMING (parent problem) → DR REPLY (verbatim)
 count: 20
+up:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/02-parent-communication]]"
 ---
 
 # DR → PARENTS — Reply / Problem-Solving Examples

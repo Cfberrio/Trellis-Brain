@@ -12,6 +12,11 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillars-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-5-The-Team]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Reference/Recording-References]]"
 ---
 
 # Pillar 6 — Trends (Virality / Internet Culture)

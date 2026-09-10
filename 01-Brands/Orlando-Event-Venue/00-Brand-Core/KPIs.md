@@ -15,6 +15,10 @@ related_systems: [sales, delivery, retention, finance]
 related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center|OEV Admin Command Center]]"]
 hub_role: child
 tags: [oev, kpis]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center]]"
 ---
 
 # OEV KPIs

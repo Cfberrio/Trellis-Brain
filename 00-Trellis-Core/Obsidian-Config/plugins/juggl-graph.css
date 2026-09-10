@@ -1,0 +1,85 @@
+/* For a full overview of styling options, see https://js.cytoscape.org/#style */
+
+/* Trellis-Brain — Juggl stylesheet (cytoscape syntax, not regular CSS).
+   Juggl copies every frontmatter key onto the node's data, so nodes can
+   be selected by `brand`, `note_type`, etc. Frontmatter link fields
+   (Breadcrumbs up/down/related) become edge classes `type-<field>`.
+   Palette matches graph.json colorGroups, the file explorer icons and
+   the canvas node roles. */
+
+/* --- brands ---------------------------------------------------------- */
+
+node[brand = "Discipline-Rift"],
+node[brand = "Discipline Rift"] {
+  background-color: #e63946;
+}
+
+node[brand = "Trellis-Core"] {
+  background-color: #6b7280;
+}
+
+node[brand = "Cheese-To-Share"],
+node[brand = "Cheese To Share"],
+node[brand = "cts"] {
+  background-color: #ffb703;
+}
+
+node[brand = "Orlando-Event-Venue"],
+node[brand = "Orlando Event Venue"] {
+  background-color: #06d6a0;
+}
+
+node[brand = "Reliable-Venues"] {
+  background-color: #118ab2;
+}
+
+node[brand = "Trellis-Fields"],
+node[brand = "Trellis Fields"] {
+  background-color: #073b4c;
+}
+
+node[brand = "Cross-Brand"] {
+  background-color: #8d99ae;
+}
+
+/* --- note roles ------------------------------------------------------ */
+
+node[note_type = "home"] {
+  shape: round-diamond;
+  border-width: 3;
+  border-color: #f4a261;
+}
+
+node[note_type = "canonical"] {
+  border-width: 2;
+  border-color: #2a9d8f;
+}
+
+node[note_type = "evidence"] {
+  shape: round-tag;
+}
+
+node[note_type = "sop"] {
+  shape: round-hexagon;
+}
+
+/* --- typed links (mirrors Breadcrumbs up / down / related) ------------ */
+
+.type-up {
+  line-color: #457b9d;
+  target-arrow-color: #457b9d;
+  width: 2;
+}
+
+.type-down {
+  line-color: #2a9d8f;
+  target-arrow-color: #2a9d8f;
+  width: 2;
+}
+
+.type-related {
+  line-color: #8d99ae;
+  target-arrow-color: #8d99ae;
+  line-style: dashed;
+  opacity: 0.7;
+}

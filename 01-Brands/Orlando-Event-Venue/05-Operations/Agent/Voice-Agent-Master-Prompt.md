@@ -12,6 +12,13 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cheese-To-Share/05-Operations/Ops-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/Agent/Voice-Agent-Knowledge-Pack]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/Agent/Voice-Agent-FAQ]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Conversion]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Booking-Calendar-Sequence]]"
 ---
 
 # OEV Voice Agent — Master Prompt

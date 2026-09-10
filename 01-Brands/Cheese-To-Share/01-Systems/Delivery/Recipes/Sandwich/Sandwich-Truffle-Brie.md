@@ -9,6 +9,10 @@ source-filename: "5. SANDWICH TRUFFLE BRIE.docx"
 source-path: "1. MANUAL DE RECETAS - PUNTO DE VENTA/.../4. SANDWICH/5. SANDWICH TRUFFLE BRIE.docx"
 status: canon
 language: es
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Sandwich/Sandwich-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Sandwich Truffle Brie

@@ -5,6 +5,13 @@ domain: website-page
 note_type: canonical
 status: active
 used_for_ai: true
+up:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Sitemap]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Location]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Assets]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/CTS-Material-Final-Product-Library]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic]]"
 ---
 
 # Menu

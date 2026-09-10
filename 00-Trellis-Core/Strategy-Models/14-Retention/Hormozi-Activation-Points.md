@@ -11,6 +11,20 @@ source_reference: "$100M Playbook: Retention — 'Churn Checklist #1: Figure Out
 sensitivity: internal
 hub_role: leaf
 book: Retention
+up:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Common-Factors-Method]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Customer-Onboarding]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Activation-Incentives]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Churn-Checklist]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Five-Horsemen-Of-Retention]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Play]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/Hormozi-Crazy-Eight]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/Hormozi-Retention-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Activation Points

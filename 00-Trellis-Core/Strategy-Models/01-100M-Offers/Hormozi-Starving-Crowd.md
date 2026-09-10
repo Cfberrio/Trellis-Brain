@@ -11,6 +11,16 @@ source_reference: "$100M Offers — Section II, Ch. 4: Pricing: Finding The Righ
 sensitivity: internal
 hub_role: leaf
 book: 100M-Offers
+up:
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Grand-Slam-Offer]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-100M-Offers-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Starving Crowd

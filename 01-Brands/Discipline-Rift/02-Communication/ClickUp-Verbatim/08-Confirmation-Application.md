@@ -16,6 +16,15 @@ content_status: rewritten-2026-08-31-not-synced-to-form-mailer
 last_synced: 2026-08-27
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/communication-rules]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/07-Parent-Assistance-N8N]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/WEEKLY-N8N/09-Week-1-Volleyball]]"
 ---
 
 # 08. Confirmation application

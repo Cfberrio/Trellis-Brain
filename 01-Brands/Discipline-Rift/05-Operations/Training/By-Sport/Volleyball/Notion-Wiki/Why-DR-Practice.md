@@ -11,6 +11,11 @@ notion_page_id: 32c04528-85a8-8193-975c-c753147f612d
 notion_url: https://app.notion.com/p/32c0452885a88193975cc753147f612d
 notion_db: DR VOLLEYBALL
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Practice]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Terminology]]"
 ---
 
 # Why DR Practice?

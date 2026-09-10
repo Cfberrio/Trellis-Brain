@@ -12,6 +12,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/Meetings/Meetings-Home]]"
+related:
+  - "[[01-Brands/Cross-Brand/Synthesis/Synthesis-Home]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Rituals/Trellis-Fruits-Weekly-Format]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
 ---
 
 # NUEVO FLUJO — 2026-05-04

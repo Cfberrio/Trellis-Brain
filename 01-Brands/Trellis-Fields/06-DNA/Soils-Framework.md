@@ -11,6 +11,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Trellis-Fields/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/06-DNA/Storytelling-Pillars]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Hook-Library-TF]]"
+  - "[[01-Brands/Trellis-Fields/01-Systems/Marketing/Lead-Magnet-Strategy]]"
 ---
 
 # Soils Framework (1–6)

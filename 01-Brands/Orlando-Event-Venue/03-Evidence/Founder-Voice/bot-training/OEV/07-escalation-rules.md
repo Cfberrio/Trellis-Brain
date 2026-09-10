@@ -11,6 +11,8 @@ source_type: derived
 hub_role: leaf
 purpose: When the bot must stop and hand to a human (Luis). Bias toward escalating money, disputes, calendar overrides, and custom quotes.
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # Escalation Rules

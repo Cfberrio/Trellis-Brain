@@ -11,6 +11,14 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Lead]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Offer]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Money-Model]]"
+  - "[[01-Brands/Cheese-To-Share/05-Operations/SOPs/Catering-Booking-SOP]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Objections]]"
 ---
 
 # CTS Conversion — DNA

@@ -22,6 +22,31 @@ aliases:
   - "Meta Ads Intelligence Home"
   - "DR Meta Ads Intelligence"
   - "Inteligencia Meta Ads DR"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Method/Meta-Ads-Evidence-Model]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Frameworks/Frameworks-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Official/Meta-Official-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Experts/Experts-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Competitors/Competitors-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Research-Runs/Research-Runs-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Corpus/Video-Corpus-Coverage]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Open-Questions/Open-Questions-and-Verification-Queue]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Open-Questions/Contradictions-Register]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Playbook]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/DR-Meta-Ads-Experiments]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Ad-Scripting-Playbook]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Constraints]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/KPIs]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Funnel]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Metrics]]"
 ---
 
 # Meta Ads Intelligence — Home

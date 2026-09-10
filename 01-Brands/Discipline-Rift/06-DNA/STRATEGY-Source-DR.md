@@ -11,6 +11,18 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Offer]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Money-Model]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Lead]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Delivery]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Marketing-Keywords-Library]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/RSO-Project-Play-UCF]]"
 ---
 
 # DR STRATEGY Source — Full Canonical

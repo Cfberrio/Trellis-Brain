@@ -14,6 +14,10 @@ sensitivity: internal
 related_notes: ["[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic|OEV Pricing Logic]]", "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation|OEV Source Reconciliation]]"]
 hub_role: child
 tags: [oev, payment]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Source-Reconciliation]]"
 ---
 
 # OEV Payment Rules

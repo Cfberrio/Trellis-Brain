@@ -16,6 +16,12 @@ tags:
   - oev
   - platform
   - automation
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Booking-Status-Model]]"
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-GoHighLevel-Automations]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Booking-Calendar-Sequence]]"
 ---
 
 # Automation, Jobs and Cron

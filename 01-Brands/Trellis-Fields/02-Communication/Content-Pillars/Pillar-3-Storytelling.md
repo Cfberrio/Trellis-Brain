@@ -12,6 +12,11 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Trellis-Fields/02-Communication/Content-Pillars/Pillars-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/06-DNA/Storytelling-Pillars]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/STRATEGY-Source-TF]]"
 ---
 
 # TF Pillar 3 — Storytelling

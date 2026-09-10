@@ -12,6 +12,16 @@ last_updated: 2026-04-28
 sensitivity: internal
 hub_role: system-hub
 book: Lifetime-Value
+up:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
+  - "[[00-Trellis-Core/Strategy-Models/Strategy-Models-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/00-Book-Home]]"
 ---
 
 # Lifetime Value — Book Home

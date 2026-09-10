@@ -15,6 +15,28 @@ related_systems:
   - n8n
   - skool
 hub_role: brand-hub
+up:
+  - "[[00-Trellis-Core/Trellis-Home]]"
+down:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Content-Pillars-TF]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Problems-and-Solutions-TF]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/On-Camera-Method]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/Soils-Framework]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/Storytelling-Pillars]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Hook-Library-TF]]"
+  - "[[01-Brands/Trellis-Fields/01-Systems/Marketing/Lead-Magnet-Strategy]]"
+  - "[[01-Brands/Trellis-Fields/01-Systems/Marketing/CTA-Formula]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Team/Team-Roles]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Rituals/Trellis-Fruits-Weekly-Format]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Skool-Methods/Lead-Magnets-Setup]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Skool-Methods/OG-Ideas-And-Virality]]"
+  - "[[01-Brands/Trellis-Fields/05-Operations/Skool-Methods/Editing-Walkthrough]]"
+  - "[[01-Brands/Trellis-Fields/04-Projects/Trellis-eSign/Trellis-eSign-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
 ---
 
 # Trellis Fields — Brand Home

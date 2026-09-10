@@ -11,6 +11,8 @@ source_type: derived
 hub_role: leaf
 purpose: Step-by-step for drafting an email reply to a client. Email = longer, structured inquiries (FAQ dumps, corporate AV specs, quotes). Use ✓ lists and route quotes to a call.
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # Email Draft Workflow

@@ -19,6 +19,9 @@ tags:
   - discipline-rift
 aliases:
   - "YouTube source audit"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Research-Runs/Research-Runs-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Pre-ingestion audit — the two Apify YouTube sources

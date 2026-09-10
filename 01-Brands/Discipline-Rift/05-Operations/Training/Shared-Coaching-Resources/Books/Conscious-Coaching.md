@@ -10,6 +10,13 @@ canonical: false
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-08-20
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Becoming-a-Coach]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Every-Moment-Matters]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/The-Coachs-Guide-to-Teaching]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Notion-Wiki/Group-Dynamics-Leading-Different-Groups]]"
 ---
 
 # Conscious Coaching — The Art & Science of Building Buy-In

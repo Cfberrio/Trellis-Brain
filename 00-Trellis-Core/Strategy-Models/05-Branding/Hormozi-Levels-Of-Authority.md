@@ -11,6 +11,17 @@ source_reference: "$100M Playbook: Branding — 'Levels Of Authority: The Brandi
 sensitivity: internal
 hub_role: leaf
 book: Branding
+up:
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/Hormozi-Branding-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/Hormozi-Brand-Economics]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/Hormozi-Brand-Building-Steps]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/Hormozi-Brand-Bouquet]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Guarantees]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Levels of Authority

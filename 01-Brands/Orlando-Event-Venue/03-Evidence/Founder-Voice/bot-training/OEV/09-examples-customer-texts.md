@@ -12,6 +12,9 @@ hub_role: leaf
 purpose: Real client SMS → OEV reply, verbatim. Tone target for the GHL SMS workflow. Bilingual. Names kept from the 90-day pull.
 format: CLIENT (question) → OEV REPLY (verbatim)
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/06-ghl-sms-workflow]]"
 ---
 
 # Verbatim SMS Examples

@@ -11,6 +11,12 @@ audience: Faculty / School Admin
 purpose: Curated real DR faculty replies with the lesson to copy. Full set in source.
 source: ../03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS.md (10 verbatim threads)
 note: Plan target was 10–20 (ideally 20). Source currently has 10. See expansion note at bottom.
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/03-faculty-communication]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS]]"
 ---
 
 # 10 — Example Faculty / School Emails (Annotated)

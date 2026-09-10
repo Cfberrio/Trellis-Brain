@@ -13,6 +13,10 @@ last_updated: 2026-06-08
 sensitivity: internal
 hub_role: leaf
 tags: [oev, signage, operations, cleaning]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Staff-Operations-Console]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/OEV-Admin-Command-Center]]"
 ---
 
 # OEV Trash-Bag Signage — Poster Production Spec

@@ -20,6 +20,9 @@ tags:
 aliases:
   - "Wave 1B"
   - "Volume and Budget Framework"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Frameworks/Frameworks-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Wave 1B — Volume + Budget Viability Framework for DR

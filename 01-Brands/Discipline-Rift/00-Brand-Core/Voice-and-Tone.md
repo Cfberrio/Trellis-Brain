@@ -16,6 +16,14 @@ related_notes:
   - "[[Language-Rules]]"
   - "[[Positioning]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Language-Rules]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Q&A-Weekly-Themes]]"
 ---
 
 # Voice and Tone

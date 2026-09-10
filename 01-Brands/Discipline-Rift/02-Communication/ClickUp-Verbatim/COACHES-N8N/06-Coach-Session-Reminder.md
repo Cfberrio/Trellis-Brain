@@ -16,6 +16,14 @@ content_status: link-corrected-2026-08-31-not-synced-to-clickup
 last_synced: 2026-08-27
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/COACHES-N8N/COACHES-N8N]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/NOTIFICATIONS]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/05-1-Day-Reminder-N8N]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/ClickUp-Verbatim/07-Parent-Assistance-N8N]]"
 ---
 
 # 06. Coach session reminder

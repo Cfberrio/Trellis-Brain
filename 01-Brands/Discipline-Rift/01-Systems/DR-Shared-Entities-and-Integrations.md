@@ -8,6 +8,13 @@ used_for_ai: true
 aliases:
   - DR Shared Data Model
   - DR Integrations
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Operational-Flows]]"
 ---
 
 # DR Shared Entities and Integrations

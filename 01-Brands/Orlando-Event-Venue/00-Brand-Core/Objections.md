@@ -15,6 +15,10 @@ related_systems: [sales]
 related_notes: ["[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home|Orlando Event Venue - Brand Home]]", "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Sales-Home|OEV Sales Home]]"]
 hub_role: child
 tags: [oev, objections]
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Objection-Handling]]"
 ---
 
 # OEV Objections

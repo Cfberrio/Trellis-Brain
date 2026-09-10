@@ -11,6 +11,23 @@ source_reference: "$100M Lost Chapters — Section C: Advanced Offer Stacking (i
 sensitivity: internal
 hub_role: leaf
 book: 100M-Lost-Chapters
+up:
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-100M-Lost-Chapters-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Offer-Creation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Grand-Slam-Offer]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Value-Grid]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Promotion-Wrappers]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Attraction-Free-Presentations]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Attraction-Freemium]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Attraction-Pick-Your-Price]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Upsell-Free-Alt-Revenue]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Continuity-Lifetime-Upgrades]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Continuity-Lifetime-Discounts]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/Hormozi-Continuity-Discount-Plus-Fee]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
 ---
 
 # Hormozi — Offer Stacking

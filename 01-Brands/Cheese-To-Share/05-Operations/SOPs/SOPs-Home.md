@@ -11,6 +11,14 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Cheese-To-Share/05-Operations/Ops-Home]]"
+down:
+  - "[[01-Brands/Cheese-To-Share/05-Operations/SOPs/Catering-Booking-SOP]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Delivery]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Conversion]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Offer]]"
 ---
 
 # CTS SOPs — Home

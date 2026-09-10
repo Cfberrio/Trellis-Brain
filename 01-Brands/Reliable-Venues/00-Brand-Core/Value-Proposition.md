@@ -6,6 +6,13 @@ note_type: canonical
 status: active
 used_for_ai: true
 owner: Luis Torres
+up:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Reliable-Venues/06-DNA/Message]]"
+  - "[[01-Brands/Cross-Brand/Systems/Systems-Home]]"
+  - "[[01-Brands/Reliable-Venues/03-Evidence/Website/Home-Page]]"
 ---
 # Value Proposition
 

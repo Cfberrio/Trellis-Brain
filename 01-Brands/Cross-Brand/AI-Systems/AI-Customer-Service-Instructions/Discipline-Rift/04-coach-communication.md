@@ -10,6 +10,9 @@ audience: Coach / Internal Staff
 used_for_ai: true
 last_updated: 2026-07-03
 examples: 11-examples-coach-emails.md
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/01-brand-voice]]"
 ---
 
 # 04 — Coach / Staff Communication

@@ -7,6 +7,12 @@ used_for_ai: true
 owner: Luis
 last_updated: 2026-04-23
 sensitivity: internal
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Assets]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Website/Pages/Menu]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Marketing/Content-Strategy]]"
 ---
 
 # CTS Material Final — Product Library

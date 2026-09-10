@@ -22,6 +22,8 @@ aliases:
   - "Competidores — índice"
   - "Meta Ad Library sweep"
   - "Competitors Index"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Competidores — índice del barrido de Ad Library

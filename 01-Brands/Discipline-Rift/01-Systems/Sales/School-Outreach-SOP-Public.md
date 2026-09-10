@@ -19,6 +19,13 @@ related_notes:
   - "[[GHL-CRM-Pipeline-Spec]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates|Email Templates]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/School-Outreach-SOP-Private]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/GHL-CRM-Pipeline-Spec]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Facilitron-Reservations-SOP]]"
 ---
 
 # School Outreach SOP — Public Schools

@@ -10,6 +10,15 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: dna-hub
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Trellis-Fields/06-DNA/Soils-Framework]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/Storytelling-Pillars]]"
+related:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Content-Pillars-TF]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Problems-and-Solutions-TF]]"
+  - "[[01-Brands/Trellis-Fields/02-Communication/Hook-Library-TF]]"
 ---
 
 # TF DNA Home

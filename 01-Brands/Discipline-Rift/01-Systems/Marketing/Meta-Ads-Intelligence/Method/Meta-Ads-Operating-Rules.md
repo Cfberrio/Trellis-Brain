@@ -20,6 +20,8 @@ tags:
 aliases:
   - "Meta Ads Operating Rules"
   - "Reglas de operación Meta Ads Intelligence"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Reglas de operación — Meta Ads Intelligence

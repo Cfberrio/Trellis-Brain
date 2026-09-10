@@ -11,6 +11,9 @@ source_type: derived
 hub_role: leaf
 purpose: General rules for handling any inbound customer message. Catering has its own file (03); email mechanics live in 06.
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Founder-Voice/bot-training/CTS/03-catering-inquiries]]"
 ---
 
 # Customer Communication Playbook

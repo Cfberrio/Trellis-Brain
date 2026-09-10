@@ -1,0 +1,155 @@
+{
+  "pinVaultRoot": true,
+  "selectedSpace": {
+    "path": "/",
+    "type": "folder"
+  },
+  "spaces": [
+    {
+      "path": "/",
+      "type": "folder",
+      "icon": "house",
+      "color": "#2a9d8f"
+    },
+    {
+      "path": "00-Trellis-Core",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#6b7280"
+    },
+    {
+      "path": "01-Brands/Discipline-Rift",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#e63946"
+    },
+    {
+      "path": "01-Brands/Cheese-To-Share",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#ffb703",
+      "stackId": "stack-trellis-brands"
+    },
+    {
+      "path": "01-Brands/Orlando-Event-Venue",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#06d6a0",
+      "stackId": "stack-trellis-brands"
+    },
+    {
+      "path": "01-Brands/Reliable-Venues",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#118ab2",
+      "stackId": "stack-trellis-brands"
+    },
+    {
+      "path": "01-Brands/Trellis-Fields",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#073b4c",
+      "stackId": "stack-trellis-brands"
+    },
+    {
+      "path": "01-Brands/Cross-Brand",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#8d99ae",
+      "stackId": "stack-trellis-brands"
+    },
+    {
+      "path": "01-Brands/Luis-Torres",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#adb5bd",
+      "stackId": "stack-trellis-brands"
+    },
+    {
+      "path": "Excalidraw",
+      "type": "folder",
+      "icon": "folder-simple",
+      "color": "#457b9d"
+    }
+  ],
+  "portalStacks": [
+    {
+      "id": "stack-trellis-brands",
+      "name": "Marcas",
+      "collapsed": false,
+      "order": 0,
+      "color": "#8d99ae"
+    }
+  ],
+  "tabBarOrder": [
+    "folder:/",
+    "stack:stack-trellis-brands",
+    "folder:00-Trellis-Core",
+    "folder:01-Brands/Discipline-Rift",
+    "folder:Excalidraw"
+  ],
+  "customIcons": {
+    "00-Trellis-Core": "compass",
+    "00-Trellis-Core/Strategy-Models": "puzzle-piece",
+    "01-Brands": "buildings",
+    "01-Brands/Discipline-Rift": "trophy",
+    "01-Brands/Discipline-Rift/00-Brand-Core": "tag",
+    "01-Brands/Discipline-Rift/01-Systems": "gear",
+    "01-Brands/Discipline-Rift/02-Communication": "chat-circle",
+    "01-Brands/Discipline-Rift/03-Evidence": "chart-bar",
+    "01-Brands/Discipline-Rift/04-Projects": "folders",
+    "01-Brands/Discipline-Rift/05-Operations": "wrench",
+    "01-Brands/Discipline-Rift/06-DNA": "dna",
+    "01-Brands/Discipline-Rift/AI-Customer-Service-Instructions": "robot",
+    "01-Brands/Discipline-Rift/Notion": "note",
+    "01-Brands/Cheese-To-Share": "cheese",
+    "01-Brands/Orlando-Event-Venue": "tent",
+    "01-Brands/Reliable-Venues": "bank",
+    "01-Brands/Trellis-Fields": "barn",
+    "01-Brands/Cross-Brand": "link",
+    "01-Brands/Luis-Torres": "user",
+    "Excalidraw": "pencil-simple",
+    "folder:00-Trellis-Core": "compass",
+    "folder:01-Brands/Discipline-Rift": "trophy",
+    "folder:01-Brands/Cheese-To-Share": "cheese",
+    "folder:01-Brands/Orlando-Event-Venue": "tent",
+    "folder:01-Brands/Reliable-Venues": "bank",
+    "folder:01-Brands/Trellis-Fields": "barn",
+    "folder:01-Brands/Cross-Brand": "link",
+    "folder:01-Brands/Luis-Torres": "user",
+    "folder:Excalidraw": "pencil-simple",
+    "folder:/": "house"
+  },
+  "customColors": {
+    "00-Trellis-Core": "#6b7280",
+    "01-Brands/Discipline-Rift": "#e63946",
+    "01-Brands/Discipline-Rift/00-Brand-Core": "#e63946",
+    "01-Brands/Discipline-Rift/01-Systems": "#f4a261",
+    "01-Brands/Discipline-Rift/02-Communication": "#e76f51",
+    "01-Brands/Discipline-Rift/03-Evidence": "#2a9d8f",
+    "01-Brands/Discipline-Rift/04-Projects": "#e9c46a",
+    "01-Brands/Discipline-Rift/05-Operations": "#264653",
+    "01-Brands/Discipline-Rift/06-DNA": "#9d4edd",
+    "01-Brands/Discipline-Rift/AI-Customer-Service-Instructions": "#c1121f",
+    "01-Brands/Discipline-Rift/Notion": "#457b9d",
+    "01-Brands/Cheese-To-Share": "#ffb703",
+    "01-Brands/Orlando-Event-Venue": "#06d6a0",
+    "01-Brands/Reliable-Venues": "#118ab2",
+    "01-Brands/Trellis-Fields": "#073b4c",
+    "01-Brands/Cross-Brand": "#8d99ae",
+    "01-Brands/Luis-Torres": "#adb5bd",
+    "Excalidraw": "#457b9d"
+  },
+  "userPalette": [
+    "#e63946",
+    "#f4a261",
+    "#e76f51",
+    "#2a9d8f",
+    "#e9c46a",
+    "#264653",
+    "#9d4edd",
+    "#457b9d",
+    "#118ab2",
+    "#6b7280"
+  ]
+}

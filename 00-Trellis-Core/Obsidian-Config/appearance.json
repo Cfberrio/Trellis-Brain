@@ -1,0 +1,13 @@
+{
+  "cssTheme": "",
+  "theme": "system",
+  "accentColor": "#2a9d8f",
+  "enabledCssSnippets": [
+    "00-typography",
+    "01-callouts-and-elements",
+    "02-file-explorer-icons",
+    "03-excalidraw",
+    "04-canvas",
+    "05-breadcrumbs"
+  ]
+}

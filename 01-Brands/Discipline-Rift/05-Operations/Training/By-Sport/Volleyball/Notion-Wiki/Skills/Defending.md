@@ -12,6 +12,12 @@ notion_url: https://app.notion.com/p/32c0452885a88188beb0dee2006abae5
 notion_db: DR VOLLEYBALL
 skill: defending
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Moving]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Passing]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Curriculum/Week-4-Defending]]"
 ---
 
 # Defending Module (Developmental Volleyball)

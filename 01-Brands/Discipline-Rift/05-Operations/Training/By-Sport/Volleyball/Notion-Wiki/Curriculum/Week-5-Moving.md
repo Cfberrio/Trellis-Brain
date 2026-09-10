@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/32c0452885a881c7bc2bc46b4db1ef58
 notion_db: DR VOLLEYBALL
 week: 5
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Moving]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Practice]]"
 ---
 
 # Week 5 — Moving

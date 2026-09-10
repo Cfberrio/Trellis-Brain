@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/32c0452885a881329b8ec3309a4f2fd0
 notion_db: DR VOLLEYBALL
 week: 2
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Serving]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Practice]]"
 ---
 
 # Week 2 — Serving

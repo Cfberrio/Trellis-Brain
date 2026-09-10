@@ -12,6 +12,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillars-Home]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-3-The-Kitchen]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-6-Trends]]"
 ---
 
 # Recording References

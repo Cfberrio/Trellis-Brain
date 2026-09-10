@@ -12,6 +12,11 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Booking-Calendar-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Money-Model]]"
 ---
 
 # OEV General Invoice Templates (Stripe)

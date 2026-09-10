@@ -8,6 +8,14 @@ used_for_ai: true
 aliases:
   - DR Coach Dashboard
   - Coach Portal
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Admin-Operations-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Shared-Entities-and-Integrations]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/DR-Operational-Flows]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
 ---
 
 # Coach Portal Home

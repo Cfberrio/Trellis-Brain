@@ -12,6 +12,11 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/05-Operations/Team/Team-Roles]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Content-Pillars-TF]]"
 ---
 
 # Trellis Fruits — Weekly Format

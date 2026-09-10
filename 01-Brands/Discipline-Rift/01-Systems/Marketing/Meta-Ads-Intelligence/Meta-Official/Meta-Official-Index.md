@@ -21,6 +21,8 @@ aliases:
   - "Meta oficial — índice"
   - "Meta Official Index"
   - "Documentación oficial de Meta"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Meta oficial — índice de la base documental

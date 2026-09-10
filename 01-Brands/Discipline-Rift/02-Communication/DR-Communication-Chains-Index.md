@@ -13,6 +13,15 @@ supersedes: "Template index in communication-rules.md §4"
 related_notes:
   - "[[DR-Communication-Engine]]"
   - "[[DR-Communication-Audit-2026-08-04]]"
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Lead-Magnet-Sequence]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Registration-Sequence]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Season-Reminder-Sequence]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Coach-Communication-Chain]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Sequences/DR-Sport-Week-Banks]]"
 ---
 
 # DR Communication Chains — Index

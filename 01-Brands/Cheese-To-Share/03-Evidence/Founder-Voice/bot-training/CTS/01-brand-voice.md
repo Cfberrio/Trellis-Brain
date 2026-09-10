@@ -13,6 +13,8 @@ purpose: How the bot should sound in every email and SMS. Read this before writi
 sources: CTS-Communication-Manual-v2.md (canonical voice/signature) + Voice-and-Tone.md + 30-day + 12-month inbox classification (Playwright)
 owner: Luis Torres
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
 ---
 
 # Brand Voice — Cheese To Share

@@ -12,6 +12,11 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Cross-Brand/AI-Systems/2026-05-20-Claude-Setup]]"
+  - "[[01-Brands/Cross-Brand/Real-Estate/2026-05-20-Meeting-Eric]]"
 ---
 
 # Sebastian — OEV Onboarding — 2026-05-18

@@ -1,0 +1,150 @@
+/* Trellis-Brain — Advanced Canvas
+   Custom node/edge styles are declared below in the YAML-in-CSS-comment
+   format that Advanced Canvas v7 parses out of active stylesheets
+   (@advanced-canvas-node-style / @advanced-canvas-edge-style).
+   Colors match .obsidian/graph.json colorGroups and
+   02-file-explorer-icons.css, so canvas, graph and explorer read as
+   one system. */
+
+/* @advanced-canvas-node-style
+key: trellis-role
+label: Trellis Role
+options:
+  - label: None
+    value: null
+    icon: circle-off
+  - label: Brand Core
+    value: brand-core
+    icon: tag
+  - label: System
+    value: system
+    icon: settings
+  - label: Communication
+    value: communication
+    icon: message-circle
+  - label: Evidence
+    value: evidence
+    icon: bar-chart-3
+  - label: Project
+    value: project
+    icon: folder
+  - label: Operations
+    value: operations
+    icon: wrench
+  - label: DNA
+    value: dna
+    icon: dna
+  - label: AI
+    value: ai
+    icon: bot
+*/
+
+/* @advanced-canvas-edge-style
+key: trellis-link
+label: Trellis Link
+options:
+  - label: Plain
+    value: null
+    icon: minus
+  - label: Parent (up)
+    value: up
+    icon: arrow-up
+  - label: Child (down)
+    value: down
+    icon: arrow-down
+  - label: Related
+    value: related
+    icon: shuffle
+*/
+
+/* --- node roles ------------------------------------------------------ */
+
+.canvas-node[data-trellis-role] .canvas-node-container {
+  border-width: 2px;
+}
+
+.canvas-node[data-trellis-role="brand-core"] .canvas-node-container {
+  border-color: #e63946;
+  box-shadow: inset 4px 0 0 0 #e63946;
+  background-color: color-mix(in srgb, #e63946 6%, var(--background-primary));
+}
+
+.canvas-node[data-trellis-role="system"] .canvas-node-container {
+  border-color: #f4a261;
+  box-shadow: inset 4px 0 0 0 #f4a261;
+  background-color: color-mix(in srgb, #f4a261 6%, var(--background-primary));
+}
+
+.canvas-node[data-trellis-role="communication"] .canvas-node-container {
+  border-color: #e76f51;
+  box-shadow: inset 4px 0 0 0 #e76f51;
+  background-color: color-mix(in srgb, #e76f51 6%, var(--background-primary));
+}
+
+.canvas-node[data-trellis-role="evidence"] .canvas-node-container {
+  border-color: #2a9d8f;
+  box-shadow: inset 4px 0 0 0 #2a9d8f;
+  background-color: color-mix(in srgb, #2a9d8f 6%, var(--background-primary));
+}
+
+.canvas-node[data-trellis-role="project"] .canvas-node-container {
+  border-color: #e9c46a;
+  box-shadow: inset 4px 0 0 0 #e9c46a;
+  background-color: color-mix(in srgb, #e9c46a 6%, var(--background-primary));
+}
+
+.canvas-node[data-trellis-role="operations"] .canvas-node-container {
+  border-color: #264653;
+  box-shadow: inset 4px 0 0 0 #264653;
+  background-color: color-mix(in srgb, #264653 6%, var(--background-primary));
+}
+
+.canvas-node[data-trellis-role="dna"] .canvas-node-container {
+  border-color: #9d4edd;
+  box-shadow: inset 4px 0 0 0 #9d4edd;
+  background-color: color-mix(in srgb, #9d4edd 6%, var(--background-primary));
+}
+
+.canvas-node[data-trellis-role="ai"] .canvas-node-container {
+  border-color: #c1121f;
+  box-shadow: inset 4px 0 0 0 #c1121f;
+  background-color: color-mix(in srgb, #c1121f 6%, var(--background-primary));
+}
+
+/* --- edge semantics (mirrors Breadcrumbs up/down/related) ------------- */
+
+.canvas-edges path[data-trellis-link="up"] {
+  stroke: #457b9d;
+}
+
+.canvas-edges path[data-trellis-link="down"] {
+  stroke: #2a9d8f;
+}
+
+.canvas-edges path[data-trellis-link="related"] {
+  stroke: #8d99ae;
+  stroke-dasharray: 9px;
+}
+
+/* --- general canvas polish ------------------------------------------- */
+
+.canvas-node-container {
+  border-radius: 10px;
+}
+
+.canvas-node.is-selected .canvas-node-container,
+.canvas-node.is-focused .canvas-node-container {
+  box-shadow: 0 0 0 2px var(--interactive-accent);
+}
+
+.canvas-group-label {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.canvas-path-label {
+  border-radius: 6px;
+  padding: 0.1em 0.5em;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+}

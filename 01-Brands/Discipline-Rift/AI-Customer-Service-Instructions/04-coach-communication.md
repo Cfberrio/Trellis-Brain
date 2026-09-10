@@ -11,6 +11,11 @@ audience: Coach / Internal Staff
 purpose: How Claude drafts replies to coaches and internal staff.
 examples: 11-examples-coach-emails.md
 source: ../03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF.md
+up:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/01-brand-voice]]"
 ---
 
 # 04 — Coach / Staff Communication

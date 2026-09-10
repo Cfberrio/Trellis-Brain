@@ -11,6 +11,8 @@ notion_db: DR TENNIS
 notion_db_id: d7a0a9e9-4ba4-49b8-b1a0-0cf65df45be1
 notion_url: https://app.notion.com/p/d7a0a9e94ba449b8b1a00cf65df45be1
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home]]"
 ---
 
 # DR Tennis Notion Wiki

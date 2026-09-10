@@ -12,6 +12,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/Real-Estate/Real-Estate-Home]]"
+related:
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cross-Brand/Real-Estate/2026-05-20-Meeting-Eric]]"
 ---
 
 # RV x 5th Floor — Venue Automation Pitch — 2026-02-25

@@ -12,6 +12,13 @@ owner: María José
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Content-Pillars-TF]]"
+related:
+  - "[[01-Brands/Trellis-Fields/05-Operations/Skool-Methods/Lead-Magnets-Setup]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/Storytelling-Pillars]]"
+  - "[[01-Brands/Trellis-Fields/06-DNA/Soils-Framework]]"
 ---
 
 # OG Ideas + Virality Method

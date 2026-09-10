@@ -21,6 +21,8 @@ aliases:
   - "Registro de contradicciones"
   - "Contradictions Register"
   - "Dónde discrepan los expertos"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Registro de contradicciones

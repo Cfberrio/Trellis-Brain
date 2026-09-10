@@ -12,6 +12,12 @@ last_updated: 2026-04-28
 sensitivity: internal
 hub_role: system-hub
 book: 100M-Offers
+up:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
+  - "[[00-Trellis-Core/Strategy-Models/Strategy-Models-Home]]"
 ---
 
 # 100M Offers — Book Home

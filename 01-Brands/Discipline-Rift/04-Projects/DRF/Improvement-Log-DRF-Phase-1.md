@@ -12,6 +12,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Avatar-DRF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Funnel-DRF]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/DRF-Knight-Shadow-Phase-1-Feedback]]"
 ---
 
 # DRF Phase 1 Improvement Log — Knight Shadow Day

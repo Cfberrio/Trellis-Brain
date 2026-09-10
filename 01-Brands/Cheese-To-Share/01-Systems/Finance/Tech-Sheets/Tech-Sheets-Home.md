@@ -3,6 +3,9 @@ type: hub
 brand: cts
 parent: [[Pricing-Logic]]
 status: canon
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic]]"
 ---
 
 # Tech Sheets Home

@@ -16,6 +16,11 @@ focus: DR's REPLIES to school questions/concerns (NOT the initial cold outreach)
 privacy: School names + staff names kept (professional). Children's names → [CHILD].
 format: INCOMING (school message) → DR REPLY (verbatim)
 count: 10
+up:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/03-faculty-communication]]"
 ---
 
 # DR → FACULTY / SCHOOLS — Reply / Problem-Solving Examples

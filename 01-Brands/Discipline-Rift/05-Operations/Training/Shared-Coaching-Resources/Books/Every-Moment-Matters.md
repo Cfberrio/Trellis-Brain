@@ -10,6 +10,14 @@ canonical: false
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-08-20
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Becoming-a-Coach]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Conscious-Coaching]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/The-Coachs-Guide-to-Teaching]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Core-Values]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Source-Docs/Why-DR-Practice]]"
 ---
 
 # Every Moment Matters — How the World's Best Coaches Inspire Their Athletes

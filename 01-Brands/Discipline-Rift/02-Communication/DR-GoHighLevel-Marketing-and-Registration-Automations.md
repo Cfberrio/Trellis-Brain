@@ -7,6 +7,11 @@ used_for_ai: true
 owner: Luis
 last_updated: 2026-04-23
 sensitivity: internal
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/communication-rules]]"
 ---
 
 # DR GoHighLevel Marketing and Registration Automations

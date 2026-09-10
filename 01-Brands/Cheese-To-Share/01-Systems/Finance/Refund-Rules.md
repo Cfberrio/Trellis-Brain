@@ -5,6 +5,10 @@ domain: finance
 note_type: working
 status: active
 used_for_ai: true
+up:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Payment-Rules]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Finance/Pricing-Logic]]"
 ---
 
 # Refund Rules

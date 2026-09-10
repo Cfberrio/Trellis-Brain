@@ -9,6 +9,8 @@ hub_role: leaf
 used_for_ai: true
 last_updated: 2026-07-03
 related: ghl-ai-draft-bots (multibrand draft-note pattern)
+up:
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Customer-Service-Instructions/Discipline-Rift/00-README]]"
 ---
 
 # 08 — SMS / GHL Draft Workflow

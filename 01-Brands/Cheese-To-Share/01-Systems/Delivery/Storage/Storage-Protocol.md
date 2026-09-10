@@ -11,6 +11,10 @@ source-filenames:
 status: canon
 language: en+es
 sensitivity: operational
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Storage/Storage-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Storage & Preservation Protocol (EV-CAL-MAN-02)

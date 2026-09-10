@@ -16,6 +16,11 @@ focus: OEV's REPLIES to real client emails ONLY. Excludes payment confirmations,
 privacy: Client first names + inquiry details kept. Signatures trimmed.
 format: CLIENT (question) → OEV REPLY (verbatim)
 threads: 9
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/01-brand-voice]]"
+  - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/08-examples-customer-emails]]"
 ---
 
 # OEV → CLIENT — Verbatim Reply Threads

@@ -11,6 +11,13 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Funnel]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Process]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Metrics]]"
 ---
 
 # Lead

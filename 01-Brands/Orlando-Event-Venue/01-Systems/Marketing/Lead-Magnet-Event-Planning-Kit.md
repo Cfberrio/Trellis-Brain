@@ -16,6 +16,12 @@ tags:
   - oev
   - marketing
   - lead-magnet
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Marketing-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Pop-Up-Lead-Magnet-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Google-Ads-Post-Mortem-2026-06]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Sales/Lead-Definition]]"
 ---
 
 # Lead Magnet — Event Planning Kit

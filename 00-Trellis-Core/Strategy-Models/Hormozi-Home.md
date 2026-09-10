@@ -11,6 +11,28 @@ owner: Trellis
 last_updated: 2026-04-28
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[00-Trellis-Core/Strategy-Models/Strategy-Models-Home]]"
+down:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/05-Branding/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/07-Hooks/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/08-GOATed-Ads/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/11-Price-Raise/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/12-Marketing-Machine/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/13-Pricing/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/14-Retention/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/Strategy-Models-Home]]"
+  - "[[00-Trellis-Core/Routing-Rules]]"
+  - "[[00-Trellis-Core/Metadata-Standard]]"
 ---
 
 # Hormozi Home

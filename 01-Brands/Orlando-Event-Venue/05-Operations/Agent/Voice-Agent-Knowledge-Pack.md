@@ -12,6 +12,11 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/Agent/Voice-Agent-Master-Prompt]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/05-Operations/Agent/Voice-Agent-FAQ]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # OEV Voice Agent — Knowledge Pack (GHL)

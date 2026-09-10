@@ -29,6 +29,9 @@ retrieval_method: webfetch_full_body
 captured_at: 2026-08-13
 last_verified_at: 2026-08-13
 completeness: partial
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Official/Meta-Official-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Geographic targeting — `geo_locations` and `location_types`

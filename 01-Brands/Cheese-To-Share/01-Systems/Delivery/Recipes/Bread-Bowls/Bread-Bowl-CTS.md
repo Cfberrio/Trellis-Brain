@@ -9,6 +9,10 @@ source-filename: "4. BREAD BOWL CTS.docx"
 source-path: "1. MANUAL DE RECETAS - PUNTO DE VENTA/1. Recetario Estandarizado 3.Manual de Preparación/6. BREAD BOWLS/4. BREAD BOWL CTS.docx"
 status: canon
 language: es
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Bread-Bowls/Bread-Bowls-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Bread Bowl CTS

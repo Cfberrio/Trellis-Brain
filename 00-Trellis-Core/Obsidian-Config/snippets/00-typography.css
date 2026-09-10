@@ -1,0 +1,42 @@
+/* Trellis-Brain — typography
+   Theme-agnostic: uses Obsidian's CSS vars only, so it follows
+   system light/dark automatically. Safe to disable anytime in
+   Settings -> Appearance -> CSS snippets. */
+
+:root {
+  --font-text-size: 16px;
+  --line-height-normal: 1.65;
+  --line-height-tight: 1.3;
+  --font-text-theme: -apple-system, "SF Pro Text", "Inter", "Segoe UI", sans-serif;
+  --font-monospace-theme: "SF Mono", "Cascadia Code", Menlo, Consolas, monospace;
+  --h1-size: 1.85em;
+  --h2-size: 1.5em;
+  --h3-size: 1.25em;
+  --h4-size: 1.1em;
+}
+
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-preview-view {
+  letter-spacing: 0.003em;
+}
+
+.markdown-preview-view h1,
+.markdown-source-view .HyperMD-header-1 .cm-header-1 {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.2em;
+}
+
+.markdown-preview-view h2 {
+  margin-top: 1.7em;
+}
+
+/* frontmatter / properties panel, easier to scan */
+.metadata-container {
+  border-radius: 8px;
+  background-color: var(--background-secondary);
+}
+
+.metadata-property-key {
+  font-weight: 600;
+  opacity: 0.85;
+}

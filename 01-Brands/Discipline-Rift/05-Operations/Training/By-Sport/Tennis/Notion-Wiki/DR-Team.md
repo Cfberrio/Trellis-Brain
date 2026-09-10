@@ -11,6 +11,12 @@ notion_page_id: 67c4d4f6-44f3-42ec-911c-828a0df8cd17
 notion_url: https://app.notion.com/p/67c4d4f644f342ec911c828a0df8cd17
 notion_db: DR TENNIS
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Culture]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Method-FUELED]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Being-a-Coach]]"
 ---
 
 # DR Team — The 10 Coach Responsibilities

@@ -11,6 +11,18 @@ source_reference: "$100M Playbook: Pricing — 'Guiding Principles' (p. 3); 'Pri
 sensitivity: internal
 hub_role: leaf
 book: Pricing
+up:
+  - "[[00-Trellis-Core/Strategy-Models/13-Pricing/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/13-Pricing/Hormozi-Value-Driven-Pricing-Model]]"
+  - "[[00-Trellis-Core/Strategy-Models/13-Pricing/Hormozi-Pricing-Rules]]"
+  - "[[00-Trellis-Core/Strategy-Models/13-Pricing/Hormozi-Instant-Profit-Pricing-Plays]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Pricing-Power]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/13-Pricing/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/13-Pricing/Hormozi-Pricing-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Pricing Profit Leverage

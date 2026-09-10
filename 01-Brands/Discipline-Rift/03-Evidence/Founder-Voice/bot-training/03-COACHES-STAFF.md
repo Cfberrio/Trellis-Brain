@@ -16,6 +16,11 @@ focus: DR's REPLIES to what coaches/staff write (NOT broadcasts, NOT automated/i
 privacy: Coach first names kept (internal team). Personal emails/phones removed.
 format: INCOMING (coach message) → DR REPLY (verbatim)
 count: 10
+up:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/04-coach-communication]]"
 ---
 
 # DR → COACHES / STAFF — Reply Examples

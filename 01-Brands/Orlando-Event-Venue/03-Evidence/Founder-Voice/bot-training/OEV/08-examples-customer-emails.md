@@ -13,6 +13,9 @@ purpose: Real client email → OEV reply, verbatim. Gold-standard tone reference
 format: CLIENT (question) → OEV REPLY (verbatim)
 threads: 9
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/OEV/05-email-draft-workflow]]"
 ---
 
 # Verbatim Email Examples

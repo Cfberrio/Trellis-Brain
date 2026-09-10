@@ -10,6 +10,22 @@ owner: Trellis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: brand-hub
+up:
+  - "[[00-Trellis-Core/Trellis-Home]]"
+down:
+  - "[[01-Brands/Cross-Brand/Meetings/Meetings-Home]]"
+  - "[[01-Brands/Cross-Brand/Real-Estate/Real-Estate-Home]]"
+  - "[[01-Brands/Cross-Brand/AI-Systems/AI-Systems-Home]]"
+  - "[[01-Brands/Cross-Brand/Founder-Admin/Founder-Admin-Home]]"
+  - "[[01-Brands/Cross-Brand/Reference/Reference-Home]]"
+  - "[[01-Brands/Cross-Brand/Systems/Systems-Home]]"
+  - "[[01-Brands/Cross-Brand/Synthesis/Synthesis-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Trellis-Fields/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Reliable-Venues/00-Brand-Core/Brand-Home]]"
 ---
 
 # Cross-Brand — Home

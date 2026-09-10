@@ -11,6 +11,12 @@ notion_page_id: 32c04528-85a8-81c6-ad44-cc754dfc5807
 notion_url: https://app.notion.com/p/32c0452885a881c6ad44cc754dfc5807
 notion_db: DR VOLLEYBALL
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Why-DR-Practice]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Terminology]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Tier-System]]"
 ---
 
 # DR Practice — Discipline Rift Universal Practice Structure (DR-UPS)

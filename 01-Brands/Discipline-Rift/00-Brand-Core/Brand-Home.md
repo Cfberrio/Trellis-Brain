@@ -11,6 +11,37 @@ owner: Luis
 last_updated: 2026-04-23
 sensitivity: internal
 hub_role: brand-hub
+up:
+  - "[[00-Trellis-Core/Trellis-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Objections]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Constraints]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Opportunities]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/KPIs]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Systems-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Marketing-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
+  - "[[01-Brands/Discipline-Rift/Notion/_index]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Problem]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Offer]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Funnel]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Lead]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Money-Model]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Metrics]]"
 ---
 
 # Discipline Rift — Brand Home

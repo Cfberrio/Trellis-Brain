@@ -11,6 +11,12 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Retention/Retention-Strategy]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Delivery]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Referral-System]]"
 ---
 
 # CTS Retention — DNA

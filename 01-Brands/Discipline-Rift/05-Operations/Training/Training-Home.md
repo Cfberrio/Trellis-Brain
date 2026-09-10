@@ -7,6 +7,15 @@ canonical: true
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-08-20
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Shared-Coaching-Resources-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/KPIs]]"
+  - "[[01-Brands/Discipline-Rift/Notion/_index]]"
 ---
 
 # Training Home

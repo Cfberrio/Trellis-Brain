@@ -9,6 +9,23 @@ source_type: curated
 sensitivity: internal
 hub_role: communication-hub
 last_updated: 2026-08-27
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/02-Communication/communication-rules]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Script-Evaluation-Context]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Email-Design-Spec]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Email-Template]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Guides-Library]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/School-Outreach-AI-Feedback-Synthesis]]"
 ---
 
 # Discipline Rift — Communication Home

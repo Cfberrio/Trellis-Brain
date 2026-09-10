@@ -21,6 +21,9 @@ aliases:
   - "Taylor Holiday"
   - "Common Thread Collective"
   - "CTC"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Experts/Experts-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Taylor Holiday (Common Thread Collective)

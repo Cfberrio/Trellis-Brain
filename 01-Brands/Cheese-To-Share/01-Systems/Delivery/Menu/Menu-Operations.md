@@ -9,6 +9,11 @@ source-filename: "Carta Cheese to Share.xlsx"
 status: canon
 language: es+en
 sensitivity: operational
+related:
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Menu/Menu-Home]]"
+  - "[[01-Brands/Cheese-To-Share/01-Systems/Delivery/Recipes/Recipes-Home]]"
+  - "[[01-Brands/Cheese-To-Share/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Cheese-To-Share/03-Evidence/Recipe-Pack-Source/Recipe-Pack-Source-Index]]"
 ---
 
 # Menu Operations — Carta Cheese to Share

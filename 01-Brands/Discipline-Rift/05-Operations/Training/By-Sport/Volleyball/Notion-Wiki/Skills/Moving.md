@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/32c0452885a88199a8c5eec1d03c7a2f
 notion_db: DR VOLLEYBALL
 skill: moving
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Defending]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Curriculum/Week-5-Moving]]"
 ---
 
 # Moving Module (Developmental Volleyball)

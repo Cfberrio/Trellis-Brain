@@ -11,6 +11,25 @@ purpose: Master index for the instruction set that trains/guides Claude to draft
 created: 2026-07-01
 owner: Chris / Luis Torres (Founder)
 status: Draft — human-review-only mode (no auto-send)
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/01-brand-voice]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/02-parent-communication]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/03-faculty-communication]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/04-coach-communication]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/05-program-info-scope]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/06-escalation-rules]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/07-email-draft-workflow]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/09-examples-parent-emails]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/10-examples-faculty-emails]]"
+  - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/11-examples-coach-emails]]"
+related:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF]]"
 ---
 
 # AI Customer Service Instructions — Discipline Rift

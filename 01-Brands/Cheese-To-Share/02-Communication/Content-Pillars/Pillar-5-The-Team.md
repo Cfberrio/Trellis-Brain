@@ -12,6 +12,11 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: child
+up:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillars-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-3-The-Kitchen]]"
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-6-Trends]]"
 ---
 
 # Pillar 5 — The Team (Culture / Equipo)

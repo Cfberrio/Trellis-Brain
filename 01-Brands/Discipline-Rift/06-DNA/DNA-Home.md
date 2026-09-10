@@ -9,6 +9,25 @@ source_type: curated
 sensitivity: internal
 hub_role: dna-hub
 last_updated: 2026-08-09
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Problem]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Problem-Map]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Offer]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Funnel]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Lead]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Conversion]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Money-Model]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Delivery]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Metrics]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Value-Proposition]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
 ---
 
 # DNA Home

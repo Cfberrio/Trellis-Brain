@@ -11,6 +11,8 @@ source_type: derived
 hub_role: leaf
 purpose: Handle tour requests, tour-day logistics, and the post-tour follow-up (recap + discount). This is the #1 conversion lever — most fall-off is post-tour email deliverability.
 updated: 2026-07-01
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
 ---
 
 # Tours & Follow-Up

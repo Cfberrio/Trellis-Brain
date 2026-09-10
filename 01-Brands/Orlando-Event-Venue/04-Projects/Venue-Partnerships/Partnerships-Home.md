@@ -11,6 +11,13 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/06-DNA/Referral-System]]"
+  - "[[01-Brands/Cross-Brand/Real-Estate/Real-Estate-Home]]"
+  - "[[01-Brands/Cross-Brand/Real-Estate/2026-02-25-RV-x-5th-Floor]]"
+  - "[[01-Brands/Cross-Brand/Real-Estate/2026-05-20-Meeting-Eric]]"
 ---
 
 # Venue Partnerships — Home

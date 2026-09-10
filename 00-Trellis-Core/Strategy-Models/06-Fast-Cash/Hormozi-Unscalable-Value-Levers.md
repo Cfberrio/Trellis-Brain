@@ -11,6 +11,20 @@ source_reference: "$100M Playbook: Fast Cash — 'The Fast Cash Playbook: Descri
 sensitivity: internal
 hub_role: leaf
 book: Fast-Cash
+up:
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Play]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-10x-The-10-Percent-Rule]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Promo-Sequence]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Offer-Creation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Value-Equation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Bonuses]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Naming]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/Hormozi-Fast-Cash-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Unscalable Value Levers

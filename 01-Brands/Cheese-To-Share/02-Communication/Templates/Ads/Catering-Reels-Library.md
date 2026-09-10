@@ -12,6 +12,13 @@ owner: Luis
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Cheese-To-Share/02-Communication/Content-Pillars/Pillar-2-The-Event]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Lead]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Conversion]]"
+  - "[[01-Brands/Cheese-To-Share/06-DNA/Offer]]"
 ---
 
 # Catering Reels Library

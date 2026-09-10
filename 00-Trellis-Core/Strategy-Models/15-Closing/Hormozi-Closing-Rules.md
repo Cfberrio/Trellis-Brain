@@ -11,6 +11,19 @@ source_reference: "$100M Playbook: Closing — 'My Rules of Closing' (pp. 15–1
 sensitivity: internal
 hub_role: leaf
 book: Closing
+up:
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-Closing-Definition]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-All-Purpose-Closes]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-Closing-Circumstances-Closes]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-Closing-Other-People-Closes]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-Closing-Self-Closes]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-Closing-Training-System]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/15-Closing/Hormozi-Closing-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Closing Rules

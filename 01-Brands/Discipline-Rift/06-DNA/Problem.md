@@ -7,6 +7,12 @@ canonical: true
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-08-09
+up:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Positioning]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Problem-Map]]"
 ---
 
 # Problem

@@ -12,6 +12,12 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/Marketing-Language-Library]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Lead]]"
 ---
 
 # DR Parent Guides — Library

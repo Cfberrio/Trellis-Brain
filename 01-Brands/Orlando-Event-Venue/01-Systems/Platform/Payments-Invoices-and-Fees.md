@@ -16,6 +16,13 @@ tags:
   - oev
   - platform
   - finance
+up:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Platform-Home]]"
+related:
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Payment-Rules]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Finance/Pricing-Logic]]"
+  - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/General-Invoice-Templates]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Platform/Booking-Status-Model]]"
 ---
 
 # Payments, Invoices and Fees

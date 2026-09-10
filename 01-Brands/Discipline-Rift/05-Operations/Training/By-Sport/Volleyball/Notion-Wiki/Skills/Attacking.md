@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/32c0452885a8817c906be6ba7f77c8c3
 notion_db: DR VOLLEYBALL
 skill: attacking
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Curriculum/Week-3-Attacking]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/DR-Practice]]"
 ---
 
 # Attacking Module (Developmental Volleyball)

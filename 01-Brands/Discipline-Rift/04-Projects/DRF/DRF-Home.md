@@ -16,6 +16,17 @@ related_notes:
   - "[[Funnel-DRF]]"
   - "[[Improvement-Log-DRF-Phase-1]]"
 hub_role: system-hub
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Avatar-DRF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Funnel-DRF]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/Improvement-Log-DRF-Phase-1]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/DRF/RSO-Project-Play-UCF]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Funnel]]"
 ---
 
 # Discipline Rift Franchise (DRF) — Home

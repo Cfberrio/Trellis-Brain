@@ -20,6 +20,8 @@ tags:
 aliases:
   - "Meta Ads Handoff"
   - "Briefing de ejecución Meta Ads"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Meta Ads Intelligence — Briefing de ejecución

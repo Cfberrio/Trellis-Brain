@@ -11,6 +11,13 @@ owner: Trellis
 last_updated: 2026-04-28
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Strategy-Models-Home]]"
+  - "[[00-Trellis-Core/Metadata-Standard]]"
+  - "[[00-Trellis-Core/Routing-Rules]]"
 ---
 
 # Hormozi Linking Contract

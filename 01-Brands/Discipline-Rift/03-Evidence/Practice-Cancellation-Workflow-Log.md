@@ -16,6 +16,10 @@ related_systems:
 related_notes:
   - "[[../05-Operations/SOPs/Practice-Cancellation-Comms-SOP|Practice Cancellation Comms SOP]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Practice-Cancellation-Comms-SOP]]"
+related:
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations]]"
 ---
 
 # Practice Cancellation Workflow — Log + Recording

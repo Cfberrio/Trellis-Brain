@@ -11,6 +11,17 @@ source_reference: "$100M Offers — Section IV, Ch. 16: Enhancing The Offer: Nam
 sensitivity: internal
 hub_role: leaf
 book: 100M-Offers
+up:
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Grand-Slam-Offer]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Offer-Creation]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Bonuses]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-Starving-Crowd]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/01-100M-Offers/Hormozi-100M-Offers-Source-Map]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Hormozi — Naming

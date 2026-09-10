@@ -12,6 +12,11 @@ notion_url: https://app.notion.com/p/32c0452885a88146a0aec1588588ed59
 notion_db: DR VOLLEYBALL
 skill: passing
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Notion-Wiki-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Skills/Setting]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Curriculum/Week-1-Passing-and-Setting]]"
 ---
 
 # Passing Module (Developmental Volleyball)

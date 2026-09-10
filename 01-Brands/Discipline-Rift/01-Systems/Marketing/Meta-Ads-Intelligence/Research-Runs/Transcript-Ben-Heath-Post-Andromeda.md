@@ -19,6 +19,9 @@ tags:
   - discipline-rift
 aliases:
   - "Ben Heath Andromeda transcript"
+up:
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Research-Runs/Research-Runs-Index]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Marketing/Meta-Ads-Intelligence/Meta-Ads-Intelligence-Home]]"
 ---
 
 # Raw source — Ben Heath — "The NEW WAY To Test Facebook Ads (Post Andromeda)"

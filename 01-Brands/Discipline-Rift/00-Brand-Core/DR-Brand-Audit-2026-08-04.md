@@ -16,6 +16,9 @@ related_notes:
   - "[[Positioning]]"
   - "[[Avatar]]"
   - "[[../02-Communication/DR-Communication-Audit-2026-08-04]]"
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Audit-2026-08-04]]"
 ---
 
 # DR Brand Audit — 2026-08-04

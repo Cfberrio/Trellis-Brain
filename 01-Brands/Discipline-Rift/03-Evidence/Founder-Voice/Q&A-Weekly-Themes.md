@@ -17,6 +17,16 @@ related_notes:
   - "[[../../00-Brand-Core/Avatar|DR Avatar]]"
   - "[[../../06-DNA/Delivery|DR Delivery]]"
 hub_role: leaf
+up:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Evidence-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Voice-and-Tone]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Objections]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Delivery]]"
+  - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
 ---
 
 # Founder Q&A Weekly — Themes Synthesis

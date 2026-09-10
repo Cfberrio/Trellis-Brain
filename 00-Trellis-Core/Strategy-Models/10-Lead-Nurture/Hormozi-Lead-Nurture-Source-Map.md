@@ -12,6 +12,11 @@ last_updated: 2026-04-28
 sensitivity: internal
 hub_role: leaf
 book: Lead-Nurture
+up:
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/10-Lead-Nurture/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
 ---
 
 # Lead Nurture — Source Map

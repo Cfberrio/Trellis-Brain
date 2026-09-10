@@ -19,6 +19,9 @@ tags:
   - non-profit
   - inquiry
   - sales
+up:
+  - "[[01-Brands/Orlando-Event-Venue/04-Training/Call-Communication-Approach]]"
+  - "[[01-Brands/Orlando-Event-Venue/04-Training/OEV-Sales-Onboarding-System-v1]]"
 ---
 
 # Source Call — 2026-05-20 — Luis × Non-Profit Inquiry

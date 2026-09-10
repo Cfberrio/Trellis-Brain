@@ -12,6 +12,14 @@ last_updated: 2026-04-28
 sensitivity: internal
 hub_role: leaf
 book: Lifetime-Value
+up:
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/00-Book-Home]]"
+related:
+  - "[[00-Trellis-Core/Strategy-Models/09-Lifetime-Value/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/Hormozi-Linking-Contract]]"
+  - "[[00-Trellis-Core/Strategy-Models/04-100M-Lost-Chapters/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/03-100M-Money-Models/00-Book-Home]]"
+  - "[[00-Trellis-Core/Strategy-Models/06-Fast-Cash/00-Book-Home]]"
 ---
 
 # Lifetime Value — Source Map

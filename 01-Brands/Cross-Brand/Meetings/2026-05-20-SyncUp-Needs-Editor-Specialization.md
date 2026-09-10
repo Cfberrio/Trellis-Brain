@@ -12,6 +12,11 @@ owner: María José
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: leaf
+up:
+  - "[[01-Brands/Cross-Brand/Meetings/Meetings-Home]]"
+related:
+  - "[[01-Brands/Trellis-Fields/05-Operations/Team/Team-Roles]]"
+  - "[[01-Brands/Cross-Brand/Cross-Brand-Home]]"
 ---
 
 # SyncUp — Editor Specialization Phasing — 2026-05-20

@@ -1,0 +1,32 @@
+/* Trellis-Brain — Breadcrumbs views
+   The trail block renders on every note that has hierarchy frontmatter
+   (753 of them), so it is worth making it read as a quiet header strip
+   rather than raw text. Class names taken from the plugin's own
+   stylesheet. */
+
+.BC-page-views {
+  border-radius: 8px;
+  padding: 0.4em 0.6em;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+}
+
+.BC-page-views-sticky {
+  backdrop-filter: blur(6px);
+}
+
+.BC-field {
+  font-size: 0.85em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  opacity: 0.7;
+  text-transform: uppercase;
+}
+
+.BC-prev-next-view .BC-next-prev-item {
+  border-radius: 6px;
+}
+
+.BC-matrix-view {
+  border-radius: 8px;
+}

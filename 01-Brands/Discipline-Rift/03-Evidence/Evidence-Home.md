@@ -10,6 +10,21 @@ owner: Luis Torres
 last_updated: 2026-05-21
 sensitivity: internal
 hub_role: system-hub
+up:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/03-Evidence/DRF-Knight-Shadow-Phase-1-Feedback]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Practice-Cancellation-Workflow-Log]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/School-Outreach-AI-Feedback-Synthesis]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF]]"
+related:
+  - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
+  - "[[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home]]"
 ---
 
 # DR Evidence — Home

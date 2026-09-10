@@ -8,6 +8,11 @@ canonical: true
 used_for_ai: true
 sensitivity: internal
 last_updated: 2026-08-11
+up:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
+related:
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
 ---
 
 # Volleyball Home
