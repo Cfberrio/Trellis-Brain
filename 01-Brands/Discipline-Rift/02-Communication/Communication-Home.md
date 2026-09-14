@@ -8,7 +8,7 @@ used_for_ai: true
 source_type: curated
 sensitivity: internal
 hub_role: communication-hub
-last_updated: 2026-08-27
+last_updated: 2026-09-14
 up:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 down:
@@ -22,6 +22,7 @@ down:
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Guides-Library]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Messages-Reminders/Messages-Reminders-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
@@ -69,6 +70,7 @@ related:
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]]
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates|School Outreach Email Templates]]
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Guides-Library|Parent Guides Library]]
+- [[01-Brands/Discipline-Rift/02-Communication/Messages-Reminders/Messages-Reminders-Home|Messages Reminders]] — unread-dashboard-message emails to parents and coaches (live 2026-09-11): max 2 per cycle, business hours only, all logic in the database, GHL only renders. Four templates + design spec inside.
 
 ## Campaigns (dated, one-time — not lifecycle chains)
 - [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-First-Week-Of-School-Campaign-2026-08|First Week of School Campaign — August 2026]] — 3 emails to the parent house list, fires on the first day of school and retires. Primary approved by Luis 2026-08-09; §0 carries his five binding parent-copy rules; GHL-ready HTML kit in the Trellis repo (`email-html/`).
