@@ -1,6 +1,6 @@
 ---
 type: recipe
-brand: cts
+brand: Cheese-To-Share
 category: Toasts
 parent: [[Toasts-Home]]
 source: [[Recipe-Pack-Source-Index]]

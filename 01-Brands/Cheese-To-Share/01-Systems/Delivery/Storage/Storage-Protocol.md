@@ -1,6 +1,6 @@
 ---
 type: protocol
-brand: cts
+brand: Cheese-To-Share
 area: delivery/storage
 parent: [[Storage-Home]]
 source: [[Recipe-Pack-Source-Index]]

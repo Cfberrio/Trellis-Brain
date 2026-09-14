@@ -1,6 +1,6 @@
 ---
 type: hub
-brand: cts
+brand: Cheese-To-Share
 parent: [[Delivery-Process]]
 status: canon
 ---

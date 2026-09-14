@@ -1,6 +1,6 @@
 ---
 title: OEV Website Policies v1
-brand: Orlando Event Venue
+brand: Orlando-Event-Venue
 owner: Luis Torres
 last_updated: 2026-07-21
 status: draft — not publishable until Decision Register is cleared

@@ -1,6 +1,6 @@
 ---
 title: DR Website Policies v1
-brand: Discipline Rift
+brand: Discipline-Rift
 owner: Luis Torres
 last_updated: 2026-07-21
 status: draft — not publishable until Decision Register is cleared; counsel review required

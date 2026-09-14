@@ -10,7 +10,7 @@ source_type: derived
 source_reference: "Repo TrellisClaudeCode — domains/ads/meta/intelligence/CLAUDE.md"
 repo_path: domains/ads/meta/intelligence/CLAUDE.md
 owner: Cristian
-last_updated: 2026-08-20
+last_updated: 2026-09-11
 sensitivity: internal
 hub_role: leaf
 tags:
@@ -80,7 +80,9 @@ Do not modify, unless a later approved integration task explicitly requires it:
 
 Do not create: duplicate DR context, a database, Anthropic API infrastructure, TypeScript ingestion pipelines, or scraping infrastructure beyond what the Apify MCP already provides.
 
-Claude Code is the orchestrator. There is no second system.
+Claude Code is the orchestrator for this project. "No second system" means **no parallel infrastructure** — no second database, no separate API layer, no competing ingestion pipeline. It was never a rule about which model is allowed to write code.
+
+Clarified 2026-09-11: the Trellis repos now also run OpenAI Codex as a second engine, scoped to adversarial review of diffs and bounded mechanical work with a closed spec. Each repo's `AGENTS.md` defines that contract. It changes nothing here — Codex does not orchestrate, holds no DR context, and touches nothing under `domains/ads/meta/`.
 
 Everything new lives under `domains/ads/meta/intelligence/` plus the intel skill files.
 

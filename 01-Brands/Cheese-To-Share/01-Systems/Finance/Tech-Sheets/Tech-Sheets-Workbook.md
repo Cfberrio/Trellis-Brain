@@ -1,6 +1,6 @@
 ---
 type: hub
-brand: cts
+brand: Cheese-To-Share
 area: finance/tech-sheets
 parent: [[Tech-Sheets-Home]]
 source: [[Recipe-Pack-Source-Index]]

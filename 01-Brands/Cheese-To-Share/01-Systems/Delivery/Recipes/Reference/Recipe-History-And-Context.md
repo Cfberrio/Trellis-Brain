@@ -1,6 +1,6 @@
 ---
 type: reference
-brand: cts
+brand: Cheese-To-Share
 area: delivery/recipes
 parent: [[Recipes-Home]]
 source: [[Recipe-Pack-Source-Index]]

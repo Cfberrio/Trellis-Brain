@@ -1,6 +1,6 @@
 ---
 type: recipe
-brand: cts
+brand: Cheese-To-Share
 category: Sandwich
 parent: [[Sandwich-Home]]
 source: [[Recipe-Pack-Source-Index]]

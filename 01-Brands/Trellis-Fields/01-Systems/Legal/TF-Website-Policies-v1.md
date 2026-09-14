@@ -1,6 +1,6 @@
 ---
 title: TF Website Policies v1
-brand: Trellis Fields
+brand: Trellis-Fields
 owner: Luis Torres
 last_updated: 2026-07-21
 status: draft — blocked on basic entity and contact facts

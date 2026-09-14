@@ -1,6 +1,6 @@
 ---
 type: hub
-brand: cts
+brand: Cheese-To-Share
 category: Toasts
 parent: [[Recipes-Home]]
 status: canon

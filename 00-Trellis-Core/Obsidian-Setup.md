@@ -7,7 +7,7 @@ canonical: true
 used_for_ai: true
 source_type: curated
 sensitivity: internal
-last_updated: 2026-09-09
+last_updated: 2026-09-14
 up:
   - "[[00-Trellis-Core/Trellis-Home]]"
 ---
@@ -78,6 +78,7 @@ Esperá a que termine.
 - [ ] Los tabs de las marcas tienen íconos de colores (trofeo, queso, carpa...)
 - [ ] En el explorador de archivos, las carpetas tienen emoji y color
 - [ ] El color de la interfaz (botones, links) es verde azulado
+- [ ] Abrí una nota de marca (ej. `Offers` de Cheese-To-Share), abrí el panel de myBrain y `Brand-Home` aparece **arriba** (Parents), no abajo
 
 **¿Algo no aparece?** Andá a **Settings → Community plugins**, apagá y prendé ese plugin. Con eso se resuelve casi siempre.
 
@@ -95,7 +96,15 @@ Esperá a que termine.
 
 **Excalidraw** — Los dibujos se guardan como notas `.md` normales, así que viajan por git como cualquier otra nota. Nadie tiene que exportar ni adjuntar nada.
 
-**Juggl** — Colorea cada nota según su campo `brand`. Si una nota sale gris, es porque tiene el `brand` mal escrito o vacío.
+**Juggl** — Colorea cada nota según su campo `brand`. Si una nota sale gris, es porque tiene el `brand` mal escrito o vacío. Los valores válidos son los de [[00-Trellis-Core/Metadata-Standard|Metadata Standard]] (`Cheese-To-Share`, no `cts` ni `Cheese To Share`).
+
+**myBrain** — Panel que muestra la nota activa en el centro y sus relaciones en cuatro cuadrantes. Lee los mismos campos que Breadcrumbs, así que no hay que escribir nada extra:
+- **Parents** (arriba) = `up`
+- **Children** (abajo) = `down`, o notas cuyo `up` apunta a la actual
+- **Friends** (izquierda) = `related`
+- **Siblings** (derecha) = notas que comparten el mismo parent (automático)
+
+Si todo aparece abajo en "undefined", el patch de myBrain no está aplicado: cerrá Obsidian y corré el prompt del Paso 3. Eso también pasa después de actualizar myBrain, es normal.
 
 ---
 

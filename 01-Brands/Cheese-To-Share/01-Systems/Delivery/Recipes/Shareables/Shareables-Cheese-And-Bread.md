@@ -1,6 +1,6 @@
 ---
 type: recipe
-brand: cts
+brand: Cheese-To-Share
 category: Shareables
 parent: [[Shareables-Home]]
 source: [[Recipe-Pack-Source-Index]]

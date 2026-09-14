@@ -1,0 +1,13 @@
+{
+  "parentProperties": "up",
+  "childProperties": "down",
+  "friendProperties": "related",
+  "parentTags": "",
+  "childTags": "",
+  "friendTags": "",
+  "ignoreTags": "#excalidraw",
+  "ignoreNameFragments": "",
+  "displayAliases": false,
+  "groupsCollapsed": false,
+  "colorful": true
+}

@@ -1,6 +1,6 @@
 ---
 title: CTS Website Policies v1
-brand: Cheese To Share
+brand: Cheese-To-Share
 owner: Luis Torres
 last_updated: 2026-07-21
 status: draft — not publishable until Decision Register is cleared

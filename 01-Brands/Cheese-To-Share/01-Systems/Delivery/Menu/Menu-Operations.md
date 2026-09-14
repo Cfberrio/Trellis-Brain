@@ -1,6 +1,6 @@
 ---
 type: hub
-brand: cts
+brand: Cheese-To-Share
 area: delivery/menu
 parent: [[Menu-Home]]
 source: [[Recipe-Pack-Source-Index]]

@@ -1,6 +1,6 @@
 ---
 type: reference
-brand: cts
+brand: Cheese-To-Share
 area: finance/tech-sheets
 parent: [[Tech-Sheets-Workbook]]
 source: [[Recipe-Pack-Source-Index]]
