@@ -3,7 +3,7 @@ brand: Orlando-Event-Venue
 area: evidence
 subarea: training
 note_type: evidence
-status: review
+status: active
 canonical: false
 used_for_ai: false
 source_type: curated
@@ -14,10 +14,10 @@ up:
   - "[[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/2026-09-14-README-corpus-and-prompt-rewrite]]"
 ---
 
-# OEV — proposed bot prompts (drafted 2026-09-14, pending approval — ClickUp 86e38pqmw)
+# OEV — active bot prompts (sms v3 · email v3 · gmail v3; activated 2026-09-14 17:21 ET, ClickUp 86e38pqmw)
 
-> [!warning] Not live
-> These are the rewritten prompts awaiting Luis's approval. Production `brand_prompts` still serves the previous versions. Source files + activation SQL: `domains/ops/ghl/sms-draft/prompts/v4-2026-09-14/`.
+> [!info] Live in `brand_prompts`
+> Activated 2026-09-14 17:21 ET. Verbatim copy of the rows marked `active = true` in production. Edit via SQL in the repo (`domains/ops/ghl/sms-draft/prompts/v4-2026-09-14/insert_statements.sql`), then mirror here. Until `supabase functions deploy ghl-sms-draft composio-gmail-webhook` runs (commit 731b067), the deployed function still feeds an empty ACTIVE_PROGRAMS catalog, so grounding is incomplete.
 
 ## Parent
 - [[01-Brands/Orlando-Event-Venue/03-Evidence/Founder-Voice/bot-training/2026-09-14-README-corpus-and-prompt-rewrite|OEV prompt rewrite — corpus, decisions, validation]]

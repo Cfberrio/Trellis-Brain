@@ -17,7 +17,7 @@ up:
 # DR — bot prompt rewrite 2026-09-14: corpus, decisions, validation
 
 > [!info] Status
-> Prompts **drafted, not activated**. `brand_prompts` in production still runs the previous versions. Activation waits for Luis's review (ClickUp 86e38pqmw). Raw verbatim corpus (client PII) lives in the Trellis repo at `domains/ops/ghl/sms-draft/data/raw/bot-training-corpus/` (git-ignored), never in this vault. Prompt files + SQL: `domains/ops/ghl/sms-draft/prompts/v4-2026-09-14/`.
+> Prompts **activated 2026-09-14 17:14 ET** (sms v6 · email v4 · gmail v2) in production `brand_prompts` (ClickUp 86e38pqmw). Luis's review of copy is still open; a rollback is one `UPDATE ... SET active` away. Raw verbatim corpus (client PII) lives in the Trellis repo at `domains/ops/ghl/sms-draft/data/raw/bot-training-corpus/` (git-ignored), never in this vault. Prompt files + SQL: `domains/ops/ghl/sms-draft/prompts/v4-2026-09-14/`.
 
 ## Parent
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/2026-09-14-PROMPTS-active|DR proposed prompts]]
