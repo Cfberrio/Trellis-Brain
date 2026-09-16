@@ -9,14 +9,19 @@ notion_db: COACH HUB
 section: The Method
 page_type: Method
 sport: All Sports
-status: Live
+status: Archived
 notion_created: 2026-02-12
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WARM UPS"
+  - "ARCHIVE — WARM UPS (use sport warm-up banks)"
+  - "WARM-UPS"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — WARM UPS (use sport warm-up banks)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by the per-sport warm-up banks (e.g. [[VOLLEYBALL WARM-UP GAMES]]).
+</callout>
 # WARM UPS
 
 # WARM-UP BLOCK

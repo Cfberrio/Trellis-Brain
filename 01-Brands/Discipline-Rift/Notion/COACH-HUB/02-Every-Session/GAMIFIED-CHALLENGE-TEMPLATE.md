@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "GAMIFIED CHALLENGE TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! A Gamified Challenge is a targeted drill that feels like a game. Build one per problem, inside your sport. Every row below is a page: tap it.

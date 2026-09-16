@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "SPORT CURRICULUM TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! This is the shape every sport hub should have: volleyball, flag, tennis, pickleball. Every row below is a page: tap it.

@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 2
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 2"
@@ -22,6 +22,9 @@ aliases:
 	Coach! Week 2. Focus is **Serving + Passing**. Retrieve before you teach — see what they kept from Week 1 first. You pick the games.
 </callout>
 # WEEK 2
+<callout icon="🪜" color="yellow_bg">
+	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs. Run it inside [[PRACTICE DESIGN]].
+</callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
@@ -100,8 +103,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 ## 4. CLOSE
 **What Did We Learn?** What starts the rally? Show Hold - Open Palm - Finish. Where should the receive go?
 <callout icon="🏐" color="gray_bg">
-	**LIFE LESSON**
-	[[LIFE LESSON]]
+	**OPTIONAL CLOSING THEME** (not a required block)
 	*Consistency + Humility.*
 </callout>
 **Recognition:** Who repeated the routine or used a teammate's feedback?

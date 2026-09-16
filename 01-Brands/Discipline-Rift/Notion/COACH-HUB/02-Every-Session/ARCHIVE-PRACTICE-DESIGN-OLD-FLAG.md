@@ -9,15 +9,18 @@ notion_db: COACH HUB
 section: The Method
 page_type: Method
 sport: All Sports
-status: Live
+status: Archived
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)", status `Archived`. Content below is unchanged since the last mirror; treat it as history only.
+</callout>
 <callout icon="🗄️" color="gray_bg">
 	Backup copy, kept per [[CURRICULUM RESTRUCTURE]]: the old flag football six-session plan, duplicated before Practice Design was rewritten. Delete once nobody needs the flag six-session plan.
 </callout>

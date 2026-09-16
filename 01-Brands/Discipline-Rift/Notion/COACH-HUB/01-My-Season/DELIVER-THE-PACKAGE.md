@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "DELIVER THE PACKAGE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! **Skill:** [[PASSING]]. Run this when contact happens but the pass does not give a teammate a playable second ball.

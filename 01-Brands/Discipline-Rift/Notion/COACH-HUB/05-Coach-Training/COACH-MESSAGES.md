@@ -9,15 +9,20 @@ notion_db: COACH HUB
 section: Coach Training
 page_type: Reference
 sport: All Sports
-status: Live
+status: Internal
 order: 8
 notion_created: 2026-08-12
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "COACH MESSAGES"
+  - "INTERNAL — COACH MESSAGES (email sequence reference)"
+  - "INTERNAL — COACH MESSAGES"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**MARKED INTERNAL IN NOTION on 2026-09-11.** Title is now "INTERNAL — COACH MESSAGES (email sequence reference)", status `Internal`. Content below is unchanged since the last mirror; treat it as an internal reference (the onboarding email sequence), not a coach-facing page.
+</callout>
 <callout icon="✉️" color="gray_bg">
 	Every message DR sends you, from application to season close, and what each expects back from you.
 </callout>

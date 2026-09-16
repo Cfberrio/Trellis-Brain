@@ -9,13 +9,19 @@ notion_db: COACH HUB
 section: Coach Training
 page_type: Reference
 sport: All Sports
-status: Live
+status: Archived
 order: 1
 notion_created: 2024-09-20
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)"
+  - "PRACTICE STRUCTURE"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)", status `Archived`. Content below is unchanged since the last mirror; treat it as the reasoning behind [[PRACTICE DESIGN]], not the instruction.
+</callout>
 <callout icon="💡" color="gray_bg">
 	**This is the reasoning, not the instruction.** Do not run practice from this page. Run it from [[PRACTICE DESIGN]] and [[PROGRESSION LADDER]].
 	This page is why the method works: blocked, serial, interleaved and randomized practice, retrieval, spacing, cognitive load, CFU and exit criteria. Read it when you are not about to coach.

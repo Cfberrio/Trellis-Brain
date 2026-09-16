@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "HIGH HAND TARGET"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! **Skill:** [[ATTACKING]]. Run this when players try to hit hard before they can find a controlled contact.

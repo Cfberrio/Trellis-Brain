@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "BEAT YOUR BEST CONNECTIONS"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! **Skill:** [[PASSING]] **/ connection.** Run this when a group loses confidence because every miss resets a long streak.

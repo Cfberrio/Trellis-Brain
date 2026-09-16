@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "VOLLEYBALL GAMIFIED CHALLENGES"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! This is your challenge bank. You are not told which one to run. You watch your group, name the problem you actually see, and pick the challenge that solves it. Every row below is a page: tap it.

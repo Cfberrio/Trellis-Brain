@@ -10,18 +10,20 @@ section: The Method
 page_type: Method
 sport: All Sports
 status: Live
-order: null
+notion_parent: HOW WE COACH
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "COACH RULES"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! These are the twelve behaviors we expect from you while players are practicing. Scan them before you walk on. Every row below is a page: tap it.
 </callout>
 # COACH RULES
 <callout icon="💡" color="gray_bg">
-	**Different page, different purpose.** COACH EXPECTATIONS covers punctuality, uniform, attendance, communication and operations. COACH RULES covers what good coaching looks like on the court, written as what to do — not as a list of mistakes.
+	**Different page, different purpose.** The Coach Non-Negotiables in START HERE cover punctuality, attendance, communication and operations. COACH RULES covers what good coaching looks like on the court, written as what to do, not as a list of mistakes.
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**THE UNIVERSAL METHOD**
@@ -29,8 +31,8 @@ mirror_complete: true
 	*How the practice is built.*
 	[[PROGRESSION LADDER]]
 	*What you teach next and when.*
-	[[WEEK PAGE TEMPLATE]]
-	*The page you run practice from.*
+	[[COACHING DIFFERENT LEVELS / CO-COACHING]]
+	*Same rules, different levels, two coaches.*
 </callout>
 ## THE TWELVE
 1. **Show first.** Demonstrate the movement or activity. Narrate what players should see. Keep setup talk short.
@@ -45,6 +47,22 @@ mirror_complete: true
 10. **Check with evidence.** Look for the skill or decision under changed conditions. Use CFU. Do not rely on "Got it?"
 11. **Keep waiting low.** Design for time-on-task. Reset quickly, use multiple lines, keep eliminated players involved if a game has outs.
 12. **Fun first. Learning always.** The challenge should feel like play while still solving a real developmental problem.
+## SAY IT LIKE THIS
+<callout icon="🗣️" color="gray_bg">
+	**SPECIFIC FEEDBACK, NOT "GOOD JOB"**
+	**Praise what should be repeated. Correct what should change on the next rep.**
+	Praise: "Great positioning." "Good height." "Nice control." "Called it early."
+	Correct: "Move your feet before contact." "Step to target." "Get lower." "Eyes on the ball, then the target."
+	One cue per rep. The player should be able to do something with it on the very next attempt.
+</callout>
+<callout icon="🔢" color="gray_bg">
+	**TEACH IN NUMBERED POSITIONS**
+	Skill pages break movements into numbered positions or steps. Demonstrate them, then use the number as shared vocabulary: "Show me position 2." "Back to 1." A number is faster than a sentence and the players own it. Keep cues short.
+</callout>
+<callout icon="⏱️" color="gray_bg">
+	**PROTECT THE HOUR**
+	Rules 2, 3, 4, 11 exist because one hour is already limited. Multiple lines, ready positions, short explanations, next setup prepared before the current one ends, quick resets. Dead time is the enemy, not the players.
+</callout>
 ## THE 3-LINE STANDARD
 Each coach owns three lines. Every line has an active rep and a player already prepared for the next rep.
 <table header-row="true">

@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "TARGET HOOPS"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! **Skill:** [[PASSING]]. Run this when players send the ball generally forward without choosing a destination.

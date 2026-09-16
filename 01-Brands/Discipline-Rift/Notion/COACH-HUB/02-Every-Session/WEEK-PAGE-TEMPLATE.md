@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "WEEK PAGE TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! Copy this page for every week, in every sport. This is your roadmap, not the encyclopedia. Every row below is a page: tap it.

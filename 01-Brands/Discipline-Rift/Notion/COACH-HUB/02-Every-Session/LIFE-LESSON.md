@@ -9,13 +9,19 @@ notion_db: COACH HUB
 section: Coach Training
 page_type: Topic
 sport: All Sports
-status: Live
+status: Archived
 order: null
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "ARCHIVE — LIFE LESSON (no longer a required block)"
+  - "LIFE LESSON"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — LIFE LESSON (no longer a required block)", status `Archived`. Content below is unchanged since the last mirror; treat it as optional; Week pages now carry an OPTIONAL CLOSING THEME instead.
+</callout>
 <callout icon="💬" color="gray_bg">
 	The closing block of every practice: the Word of the Week, how to teach it, and the season word map. Same protocol in every sport.
 </callout>

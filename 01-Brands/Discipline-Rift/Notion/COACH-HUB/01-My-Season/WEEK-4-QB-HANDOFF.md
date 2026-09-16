@@ -12,13 +12,25 @@ sport: Flag Football
 status: Live
 order: 4
 notion_created: 2026-02-04
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 4 - QB HANDOFF"
 ---
-# WEEK 4 - QB HANDOFF
+<callout icon="📢" color="gray_bg">
+	Coach! Flag Football, Week 4. Focus is **QB Handoff**. Read it before you drive out. The technical content below is yours; the practice shape is the DR Practice Design.
+</callout>
+# WEEK 4 — QB HANDOFF
+<callout icon="🪜" color="yellow_bg">
+	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
+</callout>
+<callout icon="🧠" color="gray_bg">
+	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are in COACHING TODAY, not here.
+	[[PRACTICE DESIGN]]
+	[[PROGRESSION LADDER]]
+	[[COACH RULES]]
+</callout>
 
 **Theme:** Ball Carrying + YAC Chase **with QB→RB handoff after the whistle**
 **Anchor activities:** YAC; Snake Run

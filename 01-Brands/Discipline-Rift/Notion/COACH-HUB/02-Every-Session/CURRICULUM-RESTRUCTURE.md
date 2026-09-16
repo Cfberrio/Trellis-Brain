@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "CURRICULUM RESTRUCTURE"
 ---
 <callout icon="📢" color="gray_bg">
 	This page is for whoever is rebuilding the Coach Hub, not for a coach on the way to practice. It records what the new structure is and what still has to change. Every row below is a page: tap it.
@@ -112,7 +114,7 @@ mirror_complete: true
 <callout icon="⚠️" color="yellow_bg">
 	**[[PRACTICE STRUCTURE]] — demote, do not delete.**
 	This page is the only place DR's actual learning science is written down: blocked → serial → interleaved → randomized practice, retrieval, spacing, cognitive load, micro-CFU, exit criteria. Practice Design does not carry any of it and was not meant to.
-	Deleting it deletes the reasoning behind the method. Move it under [[COACHING SCIENCE]] and take it out of the practice nav. It stops competing as a second "how to run practice" page and survives as the why.
+	Deleting it deletes the reasoning behind the method. Move it under [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Coaching-Science|COACHING SCIENCE]] and take it out of the practice nav. It stops competing as a second "how to run practice" page and survives as the why.
 </callout>
 <callout icon="⚠️" color="yellow_bg">
 	**[[LIFE LESSON]] — move, do not delete.**

@@ -9,15 +9,19 @@ notion_db: COACH HUB
 section: The Paperwork
 page_type: Reference
 sport: All Sports
-status: Live
+status: Archived
 order: 1
 notion_created: 2026-08-12
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "COACH PORTAL"
+  - "ARCHIVE — COACH PORTAL (see Coach Dashboard)"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — COACH PORTAL (see Coach Dashboard)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by [[COACH DASHBOARD]].
+</callout>
 <callout icon="📱" color="gray_bg">
 	The app where attendance, rosters and parent messages live. No Notion page told you this existed until now.
 </callout>

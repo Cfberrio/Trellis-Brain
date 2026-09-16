@@ -15,6 +15,8 @@ notion_created: 2026-08-11
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "SETTING"
 ---
 *(Developmental Volleyball)*
 ---

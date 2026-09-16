@@ -16,6 +16,7 @@ notion_last_edited: 2026-08-31
 mirrored: 2026-09-10
 mirror_complete: true
 aliases:
+  - "MISSION VISION"
   - "MISSION & VISION"
 ---
 <callout icon="💡" color="gray_bg">

@@ -109,11 +109,11 @@ aliases:
 <callout icon="📚" color="gray_bg">
 	<span underline="true">**WHAT WAS TAUGHT**</span>
 	The content lives in the topic pages. This page is the record of the day.
-	[[BEING A COACH]]
-	[[THE HAND OF A COACH]]
-	[[DR FORMULA]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/BEING-A-COACH|BEING A COACH]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/THE-HAND-OF-A-COACH|THE HAND OF A COACH]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/DR-FORMULA|DR FORMULA]]
 	[[COACH EXPECTATIONS]]
-	[[CORE VALUES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
 </callout>
 ---
 ### WHO PRESENTED

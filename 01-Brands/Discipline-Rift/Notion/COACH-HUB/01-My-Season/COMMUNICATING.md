@@ -15,6 +15,8 @@ notion_created: 2026-08-11
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "COMMUNICATING"
 ---
 <callout icon="🗣️" color="gray_bg">
 	Skill module for communicating in developmental volleyball: builds comfort, habit, and shared language, from coach led call and response to player to player communication.

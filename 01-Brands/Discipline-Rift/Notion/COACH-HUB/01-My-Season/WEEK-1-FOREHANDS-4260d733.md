@@ -12,14 +12,26 @@ sport: Tennis
 status: Live
 order: 1
 notion_created: 2024-09-04
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
+  - "WEEK 1 - FOREHANDS-4260d733"
   - "WEEK 1 - FOREHANDS"
 ---
-
-# WEEK 1 - FOREHANDS
+<callout icon="📢" color="gray_bg">
+	Coach! Tennis, Week 1. Focus is **Forehands**. Read it before you drive out. The technical content below is yours; the practice shape is the DR Practice Design.
+</callout>
+# WEEK 1 — FOREHANDS
+<callout icon="🪜" color="yellow_bg">
+	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
+</callout>
+<callout icon="🧠" color="gray_bg">
+	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are in COACHING TODAY, not here.
+	[[PRACTICE DESIGN]]
+	[[PROGRESSION LADDER]]
+	[[COACH RULES]]
+</callout>
 # INTRODUCTION (10 MIN)
 > **WELCOME**
 	- Greet all students and introduce them to the tennis season.

@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "THE LINES GAME"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! Warm-up game. Court awareness and readiness. It does **not** test passing or setting, so do not score it that way.

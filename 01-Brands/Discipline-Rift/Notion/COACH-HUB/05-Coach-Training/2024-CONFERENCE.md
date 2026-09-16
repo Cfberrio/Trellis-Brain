@@ -113,7 +113,7 @@ aliases:
 ---
 <callout icon="📚" color="gray_bg">
 	<span underline="true">**WHAT WAS TAUGHT**</span>
-	[[CORE VALUES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
 	[[FUELED]]
 	[[OUR CULTURE]]
 </callout>

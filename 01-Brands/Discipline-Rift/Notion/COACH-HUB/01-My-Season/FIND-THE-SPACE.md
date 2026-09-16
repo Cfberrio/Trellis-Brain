@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "FIND THE SPACE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! **Skill:** [[ATTACKING]] **/ decision.** Run this when players send straight at opponents without noticing an available area.

@@ -9,13 +9,19 @@ notion_db: COACH HUB
 section: The Method
 page_type: Reference
 sport: All Sports
-status: Draft
+status: Archived
 order: null
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-06
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "ARCHIVE — GAMES (superseded by sport game banks)"
+  - "GAMES"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — GAMES (superseded by sport game banks)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by the sport-owned game banks under [[VOLLEYBALL CURRICULUM]] and [[FLAG CURRICULUM]].
+</callout>
 <callout icon="🎲" color="gray_bg">
 	The game library, any sport. One page per game. Every row below is a page: tap it.
 </callout>

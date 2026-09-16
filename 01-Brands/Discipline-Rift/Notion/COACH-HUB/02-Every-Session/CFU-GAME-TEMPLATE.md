@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "CFU GAME TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! A CFU Game checks whether learning survives when the situation changes. This is how you know they learned it. Every row below is a page: tap it.

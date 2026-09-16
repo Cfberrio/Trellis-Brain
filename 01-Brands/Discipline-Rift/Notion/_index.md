@@ -5,7 +5,7 @@ area: notion-mirror
 note_type: moc
 source_type: notion_mirror
 notion_workspace: DISCIPLINE RIFT
-mirrored: 2026-09-10
+mirrored: 2026-09-15
 tags:
   - brand/discipline-rift
   - notion-mirror
@@ -22,18 +22,19 @@ Complete mirror of the DISCIPLINE RIFT Notion workspace: every database, every p
 level, with content. Notion stays the source of truth; this is the readable, searchable,
 linkable copy that lives in the vault.
 
-Mirrored 2026-08-12, immediately after the Coach Hub redesign of the same day. Re-synced
-2026-09-10 against the live "DR | COACH HUB" data source (139 canonical rows) to catch a
-second wave of changes: a Coach Operations section (dashboard, schedule, messaging), a full
-volleyball game/challenge bank, a new "The Method" section replacing "Every Session," and a
-documented curriculum restructure. Every file carries its `notion_page_id` and `notion_url`
-in frontmatter, so any page here can be traced back to the live page it came from.
+Mirrored 2026-08-12 (Coach Hub redesign day), re-synced 2026-09-10 (139 rows: Coach Operations,
+volleyball game banks, "The Method"), and **re-synced again 2026-09-15** against the live
+"DR | COACH HUB" data source (121 canonical rows, latest edit 2026-09-14) to capture the
+**2026-09-11 navigation rebuild**: a six-hub coach spine, eight pages archived or marked
+internal, and a "ladder is a sample" rule stamped on every Week page. Every file carries its
+`notion_page_id` and `notion_url` in frontmatter, so any page here can be traced back to the
+live page it came from.
 
 ## What is in the workspace
 
 | Database | Role | Pages | Where |
 |---|---|---|---|
-| DISCIPLINE RIFT \| COACH HUB | The live coach wiki, redesigned 2026-08-12, re-synced 2026-09-10 | 126 | `COACH-HUB/` |
+| DISCIPLINE RIFT \| COACH HUB | The live coach wiki, redesigned 2026-08-12, nav rebuilt 2026-09-11, re-synced 2026-09-15 | 136 files | `COACH-HUB/` |
 | DR VOLLEYBALL | Legacy wiki, identity pages left after the curriculum moved to the hub | 10 | `Sport-Wikis/DR-VOLLEYBALL/` |
 | DR TENNIS | Legacy wiki, identity pages left after the curriculum moved to the hub | 9 | `Sport-Wikis/DR-TENNIS/` |
 | DR PICKLEBALL | Legacy wiki, identity pages left after the curriculum moved to the hub | 10 | `Sport-Wikis/DR-PICKLEBALL/` |
@@ -44,30 +45,97 @@ in frontmatter, so any page here can be traced back to the live page it came fro
 Calendar rows are mirrored as two tables rather than hundreds of one-line files, because each
 row is a date entry, not a document.
 
+## WHAT CHANGED 2026-09-11 → 2026-09-15 (read this first)
+
+> [!abstract] The one-paragraph version
+> Notion now has a **six-hub spine** a coach reads top to bottom: **START HERE** (order 1) →
+> **COACHING TODAY** (2) → **CURRICULUM** (3) → **HOW WE COACH** (4) → **NEED HELP** (5) →
+> **TRAINING & CULTURE** (6). Everything else is nested under one of those six or parked under
+> an `INTERNAL — Curriculum Builder` container (order 99). The single rule stamped everywhere:
+> *the ladder on a Week page is a sample, not a required path.* The DR leadership line
+> **(407) 614-7454** appears on every operational page.
+
+**New pages (10)** — mirrored for the first time:
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/00-Start-Here/START-HERE|START HERE]] <sub>Hub · Live · order 1</sub> — four systems (Notion / Schedule / Dashboard / WhatsApp), first-practice checklist, Coach Non-Negotiables
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACHING-TODAY|COACHING TODAY]] <sub>Hub · Live · order 2</sub> — the practice day: before you leave → arrive → account → run → dismiss → after
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CURRICULUM|CURRICULUM]] <sub>Hub · Live · order 3</sub> — the four sport curriculums, one method
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HOW-WE-COACH|HOW WE COACH]] <sub>Hub · Live · order 4</sub> — Practice Design / Progression Ladder / Coach Rules
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/NEED-HELP|NEED HELP]] <sub>Hub · Live · order 5</sub> — the "something is wrong right now" router
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/BEHAVIOR|BEHAVIOR]] <sub>Topic · Live</sub> — 3 call-out rule, safety overrides
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/WEATHER-AND-HEAT|WEATHER & HEAT]] <sub>Topic · Live</sub> — you adapt, DR cancels
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/MISSING-PLAYER|MISSING PLAYER]] <sub>Topic · Live</sub> — ask, send, supervise, call
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|COACHING DIFFERENT LEVELS / CO-COACHING]] <sub>Method · Live</sub> — one design, dials per line, two coaches
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/INTERNAL-CURRICULUM-BUILDER|INTERNAL — Curriculum Builder]] <sub>Internal · order 99</sub> — container for the five templates + restructure log
+
+**Renamed in Notion (file renamed here to match, old alias kept so old links still resolve):**
+- COACH TRAINING → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/TRAINING-AND-CULTURE|TRAINING & CULTURE]]
+- SCHEDULE → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]] — now links the 26–27 Google Drive schedule folder; the Dashboard session list is explicitly *not* the schedule any more
+- YOUR ROSTER → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
+- PARENTS → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|PARTNERING WITH PARENTS]]
+- INCIDENTS → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INJURY-INCIDENT|INJURY / INCIDENT]]
+- WHEN SOMETHING BREAKS → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|DASHBOARD PROBLEMS]]
+- SEASON DESIGN file → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]] (the live umbrella page; the old trashed "Practice Template" file moved to `ARCHIVE-PRACTICE-TEMPLATE-OLD.md`)
+
+**Content rewritten 2026-09-11 (full re-mirror, 18 pages):** the seven above plus HEAD COUNTS,
+ARRIVAL, DISMISSAL, EMERGENCIES, PRACTICE CANCELLATION, COACH DASHBOARD, TAKING ATTENDANCE,
+MESSAGING PARENTS, PROGRESSION LADDER, COACH RULES, COACH EXPECTATIONS. Common thread: the DR
+line (407) 614-7454, "offline: true → call DR", "a missing Dashboard session is not a
+cancellation", and cross-links into the new spine.
+
+**All 21 Week pages touched 2026-09-11** (property batch + content): volleyball weeks got the
+yellow "ladder is a sample" callout and their LIFE LESSON block became *OPTIONAL CLOSING THEME
+(not a required block)*; tennis, pickleball and flag weeks got three header callouts (sport
+intro, "plan is a sample", "run it through Practice Design") and an em-dash H1. Bodies
+otherwise unchanged.
+
+**Archived / marked internal in Notion (kept here, banner added, `status` updated):**
+- `ARCHIVE — HOW THE SCHEDULE WORKS (merged into Your Schedule)` — nested under the INTERNAL container
+- `ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)` — kept as "the reasoning, not the instruction"
+- `ARCHIVE — WARM UPS (use sport warm-up banks)`
+- `ARCHIVE — LIFE LESSON (no longer a required block)`
+- `ARCHIVE — GAMES (superseded by sport game banks)`
+- `ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)`
+- `ARCHIVE — COACH PORTAL (see Coach Dashboard)`
+- `INTERNAL — COACH MESSAGES (email sequence reference)`
+
+**Property-only:** ZONES GAME re-filed to Section `My Season`, Sport `Volleyball` — content is
+flag-football field zones, so ⚠ **flag for review: likely a mis-tag** (should be Flag Football).
+
+**Link hygiene done in this sync:** 51 hub files were missing `aliases` (so `[[TITLE]]` links to
+them were dead in Obsidian); title aliases added from each page's H1 / Notion title. Links to
+names that collide with the legacy Sport-Wikis (START HERE, CORE VALUES, BEING A COACH, DR
+FORMULA, THE HAND OF A COACH, ACCIDENT REPORT) are now path-qualified inside the hub. Result:
+**0 unresolved wikilinks in `COACH-HUB/`**.
+
 ## THE COACH HUB
 
-The hub root was five sections at first mirror (2026-08-12). As of the 2026-09-10 re-sync it
-is effectively six: a new "The Method" section has replaced most of what was "Every Session,"
-and a new "Coach Operations" section (the Coach Dashboard app: login, attendance, schedule,
-messaging) has appeared with no analog in the original five. This mirror keeps `02-Every-Session/`
-as the folder for "The Method" content (same underlying purpose: universal practice mechanics)
-and adds `06-Coach-Operations/` as a new folder for the operations pages. **Judgment call, flag
-for review:** this section→folder mapping was not specified anywhere in Notion; a human should
-confirm it before the next sync.
+Folder → Notion mapping (unchanged since 2026-09-10 except the new `00-Start-Here/`):
+`00-Start-Here/` = the entry hub · `01-My-Season/` = Curriculums · `02-Every-Session/` = The Method
+· `03-Problems/` = Problems / Need Help · `04-The-Paperwork/` = forms · `05-Coach-Training/` =
+Training & Culture · `06-Coach-Operations/` = Coaching Today + Coach Dashboard.
+
+### THE SPINE (read in this order)
+
+1. [[01-Brands/Discipline-Rift/Notion/COACH-HUB/00-Start-Here/START-HERE|START HERE]]
+2. [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACHING-TODAY|COACHING TODAY]] → nests YOUR SCHEDULE, COACH DASHBOARD (→ LOGGING IN, TAKING ATTENDANCE, MESSAGING PARENTS, DASHBOARD PROBLEMS), HEAD COUNTS, ROSTER & PLAYER ACCOUNTABILITY
+3. [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CURRICULUM|CURRICULUM]] → the four sport hubs
+4. [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HOW-WE-COACH|HOW WE COACH]] → nests PROGRESSION LADDER, COACH RULES, COACHING DIFFERENT LEVELS / CO-COACHING
+5. [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/NEED-HELP|NEED HELP]] → nests BEHAVIOR, WEATHER & HEAT, MISSING PLAYER
+6. [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/TRAINING-AND-CULTURE|TRAINING & CULTURE]]
 
 ### MY SEASON
 
-*The four sport curriculums: weeks, skills, per-sport resources.*
+*The four sport curriculums: weeks, skills, per-sport resources.* Entry: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CURRICULUM|CURRICULUM]] <sub>Hub · Live</sub>
 
 **VOLLEYBALL**
 
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|Volleyball Curriculum]] <sub>Hub · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|Week 1]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|Week 2]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|Week 3]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|Week 4]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|Week 5]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|Week 6]] <sub>Week · Live</sub> — status changed Needs Recovery → Live
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|Week 1]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|Week 2]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|Week 3]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|Week 4]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|Week 5]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|Week 6]] <sub>Week · Live · edited 09-11</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|Passing]] <sub>Skill · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|Setting]] <sub>Skill · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVING|Serving]] <sub>Skill · Live</sub>
@@ -78,7 +146,8 @@ confirm it before the next sync.
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DRILLS|Drills]] <sub>Reference · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-BOOKS|Volleyball Books]] <sub>Reference · Draft</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-TIERS|Volleyball Tiers]] <sub>Reference · Draft — ⚠ archived in Notion 2026-09-07, kept for history</sub>
-- **NEW 2026-09-10 — game banks (sport-owned, replacing the cross-sport libraries for volleyball):**
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ZONES-GAME|Zones Game]] <sub>Reference · Live — re-filed to Volleyball / My Season on 09-11; content is flag football, ⚠ probable mis-tag</sub>
+- **Game banks (sport-owned):**
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-WARM-UP-GAMES|Volleyball Warm-Up Games]] <sub>Reference · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/THE-LINES-GAME|The Lines Game]] <sub>Reference · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-TAG|Volleyball Tag]] <sub>Reference · Live</sub>
@@ -110,131 +179,130 @@ confirm it before the next sync.
 **FLAG FOOTBALL**
 
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-CURRICULUM|Flag Curriculum]] <sub>Hub · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-THROWING|Week 1 Throwing]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-CATCHING|Week 2 Catching]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-FLAG-PULLING|Week 3 Flag Pulling]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-QB-HANDOFF|Week 4 QB Handoff]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-RUNNING-LANES|Week 5 Running Lanes]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-PLAY-ACTION|Week 6 Play Action]] <sub>Week · Live</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-THROWING|Week 1 — Throwing]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-CATCHING|Week 2 — Catching]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-FLAG-PULLING|Week 3 — Flag Pulling]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-QB-HANDOFF|Week 4 — QB Handoff]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-RUNNING-LANES|Week 5 — Running Lanes]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-PLAY-ACTION|Week 6 — Play Action]] <sub>Week · Live · edited 09-11</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/THROWING|Throwing]] <sub>Skill · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CATCHING|Catching]] <sub>Skill · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-PULLING|Flag Pulling]] <sub>Skill · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/AGILITY-DRILLS|Agility Drills]] <sub>Skill · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CONDITIONING|Conditioning]] <sub>Skill · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FORMATIONS|Formations]] <sub>Reference · Live</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/HOW-TO-THROW-A-FOOTBALL|How To Throw A Football]] <sub>Reference · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/NFL|NFL]] <sub>Reference · Draft</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/NUGGETS|Nuggets]] <sub>Reference · Draft</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-PROGRAM-OVERVIEW|Flag Program Overview]] <sub>Reference · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SEASON-OVERVIEW|Season Overview]] <sub>Reference · Live</sub>
 
-**PICKLEBALL**
+**PICKLEBALL** *(weeks 4–6 not built in Notion)*
 
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PICKLEBALL-CURRICULUM|Pickleball Curriculum]] <sub>Hub · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-FOREHANDS-2ba04528|Week 1 Forehands 2ba04528]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-BACKHANDS-2ba04528|Week 2 Backhands 2ba04528]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-DINKS|Week 3 Dinks]] <sub>Week · Live</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-FOREHANDS-2ba04528|Week 1 — Forehands]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-BACKHANDS-2ba04528|Week 2 — Backhands]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-DINKS|Week 3 — Dinks]] <sub>Week · Live · edited 09-11</sub>
 
 **TENNIS**
 
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-CURRICULUM|Tennis Curriculum]] <sub>Hub · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-FOREHANDS-4260d733|Week 1 Forehands 4260d733]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-BACKHANDS-10804528|Week 2 Backhands 10804528]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-VOLLEYS|Week 3 Volleys]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-SERVES|Week 4 Serves]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-ALL-SKILLS|Week 5 All Skills]] <sub>Week · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-ASSESSMENT|Week 6 Assessment]] <sub>Week · Live</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-FOREHANDS-4260d733|Week 1 — Forehands]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-BACKHANDS-10804528|Week 2 — Backhands]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-VOLLEYS|Week 3 — Volleys]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-SERVES|Week 4 — Serves]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-ALL-SKILLS|Week 5 — All Skills]] <sub>Week · Live · edited 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-ASSESSMENT|Week 6 — Assessment]] <sub>Week · Live · edited 09-11</sub>
 
-### EVERY SESSION / THE METHOD
+### THE METHOD (`02-Every-Session/`)
 
-*What every practice is made of, any sport. Notion renamed this section "The Method" on
-2026-09-07 and archived several of its original pages; both generations are mirrored here,
-folder unchanged.*
+Entry: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HOW-WE-COACH|HOW WE COACH]] <sub>Hub · Live</sub>
 
-**Still live, carried over (some moved sections in Notion — LIFE LESSON and PRACTICE STRUCTURE
-are now filed under Coach Training in Notion; kept in this folder here for continuity):**
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|Arrival]] <sub>Method · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|Dismissal]] <sub>Method · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMES|Games]] <sub>Reference · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WARM-UPS|Warm Ups]] <sub>Method · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ZONES-GAME|Zones Game]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/READING-SHELF|→ see Coach Training]] for Life Lesson and Practice Structure
-
-**⚠ ARCHIVED in Notion 2026-09-07 (kept here for history, flagged in each file):**
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GROUP-DYNAMICS|Group Dynamics]] <sub>Method · trashed</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|Practice Design (old, superseded)]] <sub>Method · trashed, live title was "Practice Template"</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SEQUENCING|Sequencing]] <sub>Method · gone (404, not even a trash tombstone)</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/TIERS|Tiers (old, universal)]] <sub>Method · trashed</sub>
-
-**RENAMED in Notion (same page, new title/section, same file kept for continuity):**
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SEASON-DESIGN|Practice Design]] <sub>Method · Live</sub> — was "Season Design"; Notion's live "Practice Design" is now the single umbrella practice page
-
-**NEW 2026-09-10 — "The Method" universal pages and templates:**
+**The three live method pages + the real-groups page:**
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|Practice Design]] <sub>Method · Live</sub> — the only live practice structure (Open → Retrieve/Show → Build the Ladder → Test Transfer → Close)
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|Progression Ladder]] <sub>Method · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|Coach Rules]] <sub>Method · Live</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|Coach Rules]] <sub>Method · Live</sub> — the twelve
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|Coaching Different Levels / Co-Coaching]] <sub>Method · Live · NEW</sub>
+
+**Practice-day mechanics (nested under COACHING TODAY in Notion, filed here by section):**
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|Arrival]] <sub>Method · Draft · rewritten 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|Dismissal]] <sub>Method · Draft · rewritten 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|Head Counts]] <sub>Method · Live · rewritten 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|Roster & Player Accountability]] <sub>Reference · Live · was "Your Roster"</sub>
+
+**Curriculum-builder templates (nested under INTERNAL — Curriculum Builder in Notion):**
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/INTERNAL-CURRICULUM-BUILDER|INTERNAL — Curriculum Builder]] <sub>container · Internal</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WEEK-PAGE-TEMPLATE|Week Page Template]] <sub>Method · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE|Skill Page Template]] <sub>Method · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMIFIED-CHALLENGE-TEMPLATE|Gamified Challenge Template]] <sub>Method · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CFU-GAME-TEMPLATE|CFU Game Template]] <sub>Method · Live</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SPORT-CURRICULUM-TEMPLATE|Sport Curriculum Template]] <sub>Method · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|Head Counts]] <sub>Method · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/YOUR-ROSTER|Your Roster]] <sub>Reference · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARCHIVE-PRACTICE-DESIGN-OLD-FLAG|Archive — Practice Design (old flag 6-session plan)]] <sub>Method · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|Curriculum Restructure]] <sub>Method · Draft</sub> — the change-log for this whole reorganization; read this first if anything above looks confusing
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|Curriculum Restructure]] <sub>Method · Draft</sub> — the change-log for the whole reorganization
 
-### PROBLEMS
+**⚠ ARCHIVED in Notion (kept here for history, banner at top of each file):**
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-STRUCTURE|ARCHIVE — Practice Structure (merged into Practice Design)]] <sub>Reference · Archived 09-11</sub> — the learning-science "why"; still linked from Coach Training
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WARM-UPS|ARCHIVE — Warm Ups (use sport warm-up banks)]] <sub>Method · Archived 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/LIFE-LESSON|ARCHIVE — Life Lesson (no longer a required block)]] <sub>Topic · Archived 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMES|ARCHIVE — Games (superseded by sport game banks)]] <sub>Reference · Archived 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARCHIVE-PRACTICE-DESIGN-OLD-FLAG|ARCHIVE — Practice Design (old flag 6-session plan)]] <sub>Method · Archived 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARCHIVE-PRACTICE-TEMPLATE-OLD|Practice Template (old, trashed 2026-09-07)]] <sub>Method · trashed</sub> — file was `PRACTICE-DESIGN.md` until 09-15
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GROUP-DYNAMICS|Group Dynamics]] <sub>Method · trashed 09-07</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SEQUENCING|Sequencing]] <sub>Method · gone (404)</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/TIERS|Tiers (old, universal)]] <sub>Method · trashed 09-07</sub>
 
-*Something is going wrong right now.*
+### PROBLEMS / NEED HELP (`03-Problems/`)
 
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INCIDENTS|Incidents]] <sub>Topic · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/EMERGENCIES|Emergencies]] <sub>Topic · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARENTS|Parents]] <sub>Topic · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PRACTICE-CANCELLATION|Cancellation]] <sub>Topic · Draft</sub> — Notion's short title is now "CANCELLATION"
+Entry: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/NEED-HELP|NEED HELP]] <sub>Hub · Live</sub>
 
-### THE PAPERWORK
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INJURY-INCIDENT|Injury / Incident]] <sub>Topic · Live · order 1 · was "Incidents"</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/EMERGENCIES|Emergencies]] <sub>Topic · Live · order 2</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|Partnering With Parents]] <sub>Topic · Live · order 3 · was "Parents"</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PRACTICE-CANCELLATION|Practice Cancellation]] <sub>Topic · Live · order 4</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/BEHAVIOR|Behavior]] <sub>Topic · Live · NEW</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/WEATHER-AND-HEAT|Weather & Heat]] <sub>Topic · Live · NEW</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/MISSING-PLAYER|Missing Player]] <sub>Topic · Live · NEW</sub>
 
-*What you log and where.*
+### THE PAPERWORK (`04-The-Paperwork/`)
 
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/04-The-Paperwork/COACH-PORTAL|Coach Portal]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/04-The-Paperwork/ACCIDENT-REPORT|Accident Report]] <sub>Form · Needs Recovery</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/04-The-Paperwork/ACCIDENT-REPORT|Accident Report]] <sub>Form · Needs Recovery</sub> — linked from NEED HELP and INJURY / INCIDENT
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/04-The-Paperwork/COACH-PORTAL|ARCHIVE — Coach Portal (see Coach Dashboard)]] <sub>Reference · Archived 09-11</sub>
 
-### COACH TRAINING
+### TRAINING & CULTURE (`05-Coach-Training/`)
 
-*Who we are and how you get better. Two pages moved into this section from "Every Session" on
-2026-09-07: Life Lesson and Practice Structure (files stayed in `02-Every-Session/` for
-continuity — see that section's note).*
+Entry: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/TRAINING-AND-CULTURE|TRAINING & CULTURE]] <sub>Hub · Live · order 6 · was "Coach Training"</sub>
 
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-TRAINING|Coach Training]] <sub>Hub · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-MESSAGES|Coach Messages]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/1-SOLUTIONS|1 Solutions]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2023-CONFERENCE|2023 Conference]] <sub>Conference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2024-CONFERENCE|2024 Conference]] <sub>Conference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2025-CONFERENCE|2025 Conference]] <sub>Conference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/BEING-A-COACH|Being A Coach]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-EXPECTATIONS|Coach Expectations]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACHING-TERMS|Coaching Terms]] <sub>Glossary · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|Core Values]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/DR-FORMULA|DR Formula]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/FUELED|Fueled]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/MISSION-VISION|Mission Vision]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/OUR-CULTURE|Our Culture]] <sub>Topic · Draft</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/READING-SHELF|Reading Shelf]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/THE-HAND-OF-A-COACH|The Hand Of A Coach]] <sub>Topic · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/WORKSHOPS|Workshops]] <sub>Topic · Needs Recovery</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/LIFE-LESSON|Life Lesson]] <sub>Topic · Live</sub> — file lives in `02-Every-Session/`, Notion section is now Coach Training
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-STRUCTURE|Practice Structure]] <sub>Reference · Live</sub> — file lives in `02-Every-Session/`, Notion section is now Coach Training
+- Who we are: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/MISSION-VISION|Mission Vision]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|Core Values]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/OUR-CULTURE|Our Culture]] <sub>Draft</sub>
+- Who you are as a coach: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/BEING-A-COACH|Being A Coach]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/THE-HAND-OF-A-COACH|The Hand Of A Coach]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/FUELED|Fueled]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/DR-FORMULA|DR Formula]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-EXPECTATIONS|Coach Expectations]] <sub>rewritten 09-11 — now points to START HERE's Non-Negotiables</sub>
+- How you get better: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/1-SOLUTIONS|1 Solutions]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACHING-TERMS|Coaching Terms]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/READING-SHELF|Reading Shelf]]
+- Conferences: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2023-CONFERENCE|2023]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2024-CONFERENCE|2024]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2025-CONFERENCE|2025]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/WORKSHOPS|Workshops]] <sub>Needs Recovery</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-MESSAGES|INTERNAL — Coach Messages (email sequence reference)]] <sub>Reference · Internal 09-11</sub>
 
-### COACH OPERATIONS *(new section, 2026-09-10)*
+### COACH OPERATIONS (`06-Coach-Operations/`)
 
-*The Coach Dashboard app — login, attendance, schedule, messaging parents, troubleshooting.
-No analog in the original five sections; new folder `06-Coach-Operations/`.*
+Entry: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACHING-TODAY|COACHING TODAY]] <sub>Hub · Live · order 2</sub>
 
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|Coach Dashboard]] <sub>Hub · Live</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|Your Schedule]] <sub>Topic · Live · was "Schedule" — links the 26–27 Google Drive folder</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|Coach Dashboard]] <sub>Hub · Live · rewritten 09-11</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/LOGGING-IN|Logging In]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|Taking Attendance]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/HOW-THE-SCHEDULE-WORKS|How The Schedule Works]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/MESSAGING-PARENTS|Messaging Parents]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/WHEN-SOMETHING-BREAKS|When Something Breaks]] <sub>Reference · Live</sub>
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/SCHEDULE|Schedule]] <sub>Topic · Live</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|Taking Attendance]] <sub>Reference · Live · rewritten 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/MESSAGING-PARENTS|Messaging Parents]] <sub>Reference · Live · rewritten 09-11</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|Dashboard Problems]] <sub>Reference · Live · was "When Something Breaks"</sub>
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/HOW-THE-SCHEDULE-WORKS|ARCHIVE — How The Schedule Works (merged into Your Schedule)]] <sub>Reference · Archived 09-11</sub> — its core claim ("the Select Session list is your schedule") is now **wrong**; YOUR SCHEDULE says the opposite
+
+## LEGACY LINEAGE INSIDE "DR | COACH HUB" — 24 property-less rows (checked 2026-09-15, not mirrored)
+
+The live data source contains 24 rows with no Type / Sport / Section / Status: **COACH
+CURRICULUM** (`32c0452885a88052af8ceb4a41bd9cc5`) and its children — WEEK 1 – Passing & Setting
+… WEEK 6 – Communicating, PASSING/SETTING/SERVING/ATTACKING/DEFENDING/MOVING/COMMUNICATING,
+FUNDAMENTALS, DRILLS, COACHING SCIENCE, TERMINOLOGY. Ancestor path shows them parented to the
+wiki root, not to any spine hub. This is the pre-redesign DRVC seven-block volleyball curriculum
+(2026-03 vintage, created inside this DB on 2026-08-29), the same lineage as the legacy "COACH
+HUB" database below. Content already lives in
+`05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/` (Coach-Curriculum.md, Curriculum/Week-*.md,
+Skills/*.md, Coaching-Science.md, Terminology.md). **WEEK 1 – Passing & Setting** carries the
+newest edit in the whole DB (2026-09-14 18:00) — a body of 7 blocks with add-on options; it is
+not referenced by any spine page. ⚠ Flag for Luis: these 24 rows are dead weight in coach search
+results and should be archived or moved out of "DR | COACH HUB".
 
 ## LEGACY DUPLICATE DATABASE — "COACH HUB" (checked 2026-09-10, not mirrored)
 
@@ -248,28 +316,18 @@ classify every row, not re-mirrored in full:
   FUNDAMENTALS, DRILLS, TIER SYSTEM, DR PRACTICE, WHY DR PRACTICE? — same pre-redesign
   volleyball curriculum already captured in
   `01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/`
-  (Coach-Curriculum.md, Drills.md, Fundamentals.md, Tier-System.md, DR-Practice.md,
-  Why-DR-Practice.md, `Curriculum/Week-*.md`, `Skills/*.md`) and/or in `_superseded-2026-05/`.
-  Content compared and matches. Not re-mirrored here.
-- **CORE VALUES and START HERE — superseded.** Old DRVC-specific mission/vision/values
-  (Hungry/Humble/Smart/Grit/Commitment/Discipline/Unity/Accountability), fully replaced by the
-  current [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/MISSION-VISION|Mission Vision]]
+  and/or in `_superseded-2026-05/`. Content compared and matches. Not re-mirrored here.
+- **CORE VALUES and START HERE — superseded.** Old DRVC-specific mission/vision/values, fully
+  replaced by the current [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/MISSION-VISION|Mission Vision]]
   and [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|Core Values]]
-  pages already mirrored. Not re-mirrored here.
-- **ATTENDANCE — superseded.** Describes an old manual Google Sheet attendance process,
-  replaced by the Coach Dashboard flow now mirrored at
+  pages already mirrored.
+- **ATTENDANCE — superseded.** Old manual Google Sheet process, replaced by
   [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|Taking Attendance]].
-  Not re-mirrored here.
 - **⚠ FLAG FOR HUMAN REVIEW — NOT captured anywhere in this vault.** **FUELED METHOD**, a full
-  12-module coach certification course (Module 1: The Role of a Coach, through Module 12:
-  Legacy of a Coach, plus a Course Completion & Certification page — 14 pages total, each with
-  objectives, tables, reflection questions, real substantive content, not placeholders). This
-  is genuinely distinct from anything in the current Coach Training section (which covers
-  culture/values/formula but not a structured multi-module certification curriculum). It was
-  **not mirrored** in this pass per instruction to check-not-remirror the legacy database, but
-  it does not appear to be dead weight — a human should decide whether to fold it into
-  `05-Coach-Training/` as a genuinely new asset, archive it deliberately, or confirm DR has
-  already decided not to use it. Root page: `https://app.notion.com/p/19a0452885a880039dbbe01f1ce9cfbf`.
+  12-module coach certification course (14 pages, real content). Not mirrored per the
+  check-not-remirror instruction; a human should decide whether to fold it into
+  `05-Coach-Training/`, archive it deliberately, or confirm DR has already decided not to use it.
+  Root page: `https://app.notion.com/p/19a0452885a880039dbbe01f1ce9cfbf`. Still open as of 2026-09-15.
 
 ## LEGACY SPORT WIKIS
 

@@ -12,13 +12,25 @@ sport: Pickleball
 status: Live
 order: 3
 notion_created: 2025-11-29
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 3 - DINKS"
 ---
-# WEEK 3 - DINKS
+<callout icon="📢" color="gray_bg">
+	Coach! Pickleball, Week 3. Focus is **Dinks**. Read it before you drive out. The technical content below is yours; the practice shape is the DR Practice Design.
+</callout>
+# WEEK 3 — DINKS
+<callout icon="🪜" color="yellow_bg">
+	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
+</callout>
+<callout icon="🧠" color="gray_bg">
+	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are in COACHING TODAY, not here.
+	[[PRACTICE DESIGN]]
+	[[PROGRESSION LADDER]]
+	[[COACH RULES]]
+</callout>
 # INTRODUCTION (10 MIN)
 > **WELCOME**
 	- Greet the players

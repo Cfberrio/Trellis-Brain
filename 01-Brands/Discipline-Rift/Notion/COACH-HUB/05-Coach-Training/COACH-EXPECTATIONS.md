@@ -4,19 +4,23 @@ area: notion-mirror
 note_type: notion-page
 source_type: notion_mirror
 notion_page_id: 5d904528-85a8-8225-a277-81905923c389
-notion_url: "https://app.notion.com/p/COACH-EXPECTATIONS-5d90452885a88225a27781905923c389"
+notion_url: https://app.notion.com/p/COACH-EXPECTATIONS-5d90452885a88225a27781905923c389
 notion_db: COACH HUB
 section: Coach Training
 page_type: Topic
 sport: All Sports
 status: Live
-notion_created: 2026-08-11
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+year: 2023
+notion_created: 2024-09-04
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "COACH EXPECTATIONS"
 ---
+<callout icon="📢" color="gray_bg">
+	Coach! The practical version of this page is the **Coach Non-Negotiables** in [[01-Brands/Discipline-Rift/Notion/COACH-HUB/00-Start-Here/START-HERE|START HERE]]. This page is the why behind them. Read it when you are not about to coach.
+</callout>
 <callout icon="📋" color="gray_bg">
 	The ten responsibilities every DR coach owns, every session, every school.
 </callout>

@@ -9,12 +9,15 @@ notion_db: COACH HUB
 section: The Method
 page_type: Method
 sport: All Sports
-status: Draft
+status: Live
 order: 1
+notion_parent: COACHING TODAY
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "HEAD COUNTS"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! You count your team every time you move. This page is the standard: when you count, how you count, and what you do when the number is wrong.
@@ -74,15 +77,16 @@ Every one of these, every session. No exceptions, and no skipping one because th
 <callout icon="⚠️" color="yellow_bg">
 	**Stop practice. Do not finish the drill.** A short count outranks everything else on this page.
 	**First 60 seconds:** recount, scan the space, check the bathroom and the water fountain, ask the players — they usually know.
-	**At 60 seconds, still short:** one coach stays with the team and keeps them in one place. The other tells the front desk. If you are coaching alone, the whole team walks with you to the front desk. You do not leave a group unattended to search, ever.
-	**Then:** call DR admin. Do not wait until the end of practice to report it, and do not let the parent be the one who tells us.
+	**At 60 seconds, still short:** ask aftercare, the front office or nearby school staff. When appropriate, send one responsible player, or two responsible players together, to check and come straight back. One coach stays with the team and keeps them in one place; if you are coaching alone, the team stays with you. You do not leave a group unattended to search.
+	**Still unconfirmed:** **call DR at (407) 614-7454.** The line rings DR leadership. Do not wait until the end of practice to report it, and do not let the parent be the one who tells us.
+	[[ROSTER & PLAYER ACCOUNTABILITY]]
 </callout>
 ## 5 · WHILE YOU ARE MOVING
 The walk between two places is the highest-risk part of a session that has no ball in it.
 **The group moves as one group.** No stragglers collecting equipment behind you, no early runners ahead.
 **Two coaches:** one leads, one takes the back. The coach at the back owns the count.
 **One coach:** you take the back, where you can see all of them. Never the front.
-**Nobody goes anywhere alone.** Bathroom, water, front desk, forgotten bottle — players move in pairs and you know they went. Water, snack and bathroom belong at the meeting spot before you walk, so this comes up less often than you think.
+**Players leave the group only when you send them, and you know they went.** Bathroom, water, forgotten bottle: in pairs where possible. Checking for a missing player: one responsible player, or two together, straight there and straight back. Water, snack and bathroom belong at the meeting point before you walk, so this comes up less often than you think.
 **Count on arrival before you say another word about the drill.**
 ## 6 · THE STANDING NUMBERS
 <table header-row="true">
@@ -93,7 +97,7 @@ The walk between two places is the highest-risk part of a session that has no ba
 </tr>
 <tr>
 <td>Coach on campus before practice</td>
-<td>The arrival time on your roster (arrival / start–end)</td>
+<td>The arrival time on your schedule (arrival / start–end)</td>
 <td>Committed to schools and parents</td>
 </tr>
 <tr>
@@ -107,34 +111,26 @@ The walk between two places is the highest-risk part of a session that has no ba
 <td>Committed</td>
 </tr>
 <tr>
-<td>Players per coach</td>
-<td>Up to 10, named, each coach counts their own</td>
-<td>Proposed — needs Luis</td>
-</tr>
-<tr>
 <td>Time to complete a count</td>
 <td>10 seconds, twice, matching</td>
-<td>Proposed — needs Luis</td>
+<td>Operating standard</td>
 </tr>
 <tr>
-<td>Escalate a short count to the front desk</td>
-<td>60 seconds</td>
-<td>Proposed — needs Luis</td>
+<td>Escalate a short count</td>
+<td>60 seconds, then school staff; unresolved, call DR</td>
+<td>Operating standard</td>
 </tr>
 <tr>
 <td>Water break</td>
 <td>Every 20 minutes, and on request always</td>
-<td>Proposed — needs Luis</td>
+<td>Operating standard</td>
 </tr>
 <tr>
-<td>Players away from the group at once</td>
-<td>2, together, announced</td>
-<td>Proposed — needs Luis</td>
+<td>Players sent to check for a missing player</td>
+<td>One responsible player, or two together, announced, straight back</td>
+<td>DR policy</td>
 </tr>
 </table>
-<callout icon="⚠️" color="yellow_bg">
-	The rows marked **Proposed** are operating standards written to be usable today, not validated policy. They are deliberately conservative. Luis approves or changes them; until then, coach to them.
-</callout>
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**WHERE COUNTING HAPPENS**
@@ -142,10 +138,10 @@ The walk between two places is the highest-risk part of a session that has no ba
 	*Your first count of the session.*
 	[[DISMISSAL]]
 	*Your last one, and the one that matters most.*
-	[[INCIDENTS]]
+	[[INJURY / INCIDENT]]
 	*When a count does not resolve, or anyone is hurt.*
-	[[YOUR ROSTER]]
-	*Where your number comes from, and where you gather.*
+	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	*Where your number comes from, late arrivals, the missing-player procedure.*
 </callout>
 <callout icon="🚩" color="gray_bg">
 	Count before you move, count when you land. Two counts per transition and you will never be the coach who finds out at the car line.

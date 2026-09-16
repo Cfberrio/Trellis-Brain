@@ -6,17 +6,20 @@ source_type: notion_mirror
 notion_page_id: 30504528-85a8-80b9-967e-cf441d2a86b7
 notion_url: https://app.notion.com/p/ZONES-GAME-3050452885a880b9967ecf441d2a86b7
 notion_db: COACH HUB
-section: The Method
+section: My Season
 page_type: Reference
-sport: All Sports
+sport: Volleyball
 status: Live
 notion_created: 2026-02-12
-notion_last_edited: 2026-08-12
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "ZONES GAME"
 ---
+<callout icon="💡" color="gray_bg">
+	**Re-filed in Notion on 2026-09-11:** Section `My Season`, Sport `Volleyball`. The content is flag-football field-zone logic, so the `Volleyball` tag looks like a mis-tag — flagged for review, mirrored as-is. Content unchanged since 2026-02-12.
+</callout>
 # ZONES GAME
 **Field Awareness, Scoring Structure & Situational Intelligence**
 ---

@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "SKILL PAGE TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! One page per skill, inside your sport. Week pages link here instead of re-explaining technique. Every row below is a page: tap it.

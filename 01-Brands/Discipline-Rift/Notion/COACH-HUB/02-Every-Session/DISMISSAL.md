@@ -12,21 +12,22 @@ sport: All Sports
 status: Draft
 order: 9
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "DISMISSAL"
 ---
-<callout color="gray_bg">
-	Coach! What you do from the final whistle until the last child is gone. This is the highest-risk ten minutes of your session.
+<callout icon="📢" color="gray_bg">
+	Coach! What you do from the final whistle until the last child is handed off. This is the highest-risk ten minutes of your session. Every row below is a page: tap it.
 </callout>
 # DISMISSAL
 <callout icon="💡" color="gray_bg">
 	"Dismissal is the part that goes wrong when you're rushed."
 	*From your onboarding message. It is the reason this page exists.*
 </callout>
-<callout icon="📋" color="gray_bg">
-	**KNOW EVERY CHILD'S PICKUP METHOD BEFORE THE WHISTLE.** Car rider, aftercare, walker or biker — it is on your roster, per child. Learn it in week 1, not at the loop.
-	[[YOUR ROSTER]]
+<callout icon="🏫" color="gray_bg">
+	**YOU FOLLOW THE HOST SCHOOL'S DISMISSAL PROCESS.** Every school runs pickup its own way: car line, aftercare handoff, walkers. Learn the process from school and aftercare staff in week 1, and use the process the school is running that day. Do not invent a pickup method from an old email. If the Coach Dashboard shows a team-specific detail, follow it.
 </callout>
 ## THE SEQUENCE
 <callout icon="🔢" color="gray_bg">
@@ -34,68 +35,65 @@ mirror_complete: true
 	Bring them in, count out loud, twice. Your number has to match today's attendance number before a single child leaves your sight. If it does not match, nobody is released until it does.
 	[[HEAD COUNTS]]
 </callout>
-<callout icon="🚗" color="gray_bg">
-	**2 · SPLIT THE GROUP BY PICKUP METHOD, OUT LOUD**
-	Name each group — aftercare, car line, walkers and bikers — and have each one answer. Now you have three numbers that add up to your number.
+<callout icon="🗣️" color="gray_bg">
+	**2 · SPLIT THE GROUP BY HOW THEY LEAVE, OUT LOUD**
+	Aftercare, car line, walkers: name each group and have each one answer. Now you have numbers that add up to your number. Players usually know how they go home; school staff confirm it.
+</callout>
+<callout icon="🧒" color="gray_bg">
+	**3 · AFTERCARE FIRST**
+	Walk them directly to the aftercare location the school uses, before you go anywhere else. They are the ones who get forgotten. Count them as you hand them over, and confirm with the aftercare staff member.
 </callout>
 <callout icon="🚗" color="gray_bg">
-	**3 · AFTERCARE STUDENTS FIRST**
-	Walk them directly to their designated aftercare location before you go anywhere else. They are the ones who get forgotten. Count them as you hand them over, and confirm with the aftercare staff member.
+	**4 · THEN PICKUP. THE WHOLE GROUP MOVES TOGETHER**
+	Go to wherever the school runs pickup and greet parents there. Do not wait for parents to come find you. Nobody walks ahead of you or alone.
 </callout>
-<callout icon="🚗" color="gray_bg">
-	**4 · THEN THE CAR LINE LOOP — THE WHOLE GROUP MOVES TOGETHER**
-	Go to the loop and greet parents there. Do not wait for parents to come find you. Nobody walks to the loop alone or ahead of you.
+<callout icon="👋" color="gray_bg">
+	**5 · RELEASE ONE BY ONE**
+	One at a time. Visually confirm the adult every single time. Every child goes to an authorized adult or to coordinated aftercare, and nobody else. Your count drops by one as each child goes.
 </callout>
-<callout icon="🚗" color="gray_bg">
-	**5 · CAR RIDERS: RELEASE ONE BY ONE**
-	One at a time, and visually confirm the ride every single time. Every child is released to an authorized party or to coordinated aftercare, and nobody else. Your count drops by one as each child goes.
+<callout icon="⚠️" color="yellow_bg">
+	**NEVER LEAVE AN UNRESOLVED PLAYER.** A child whose adult has not come, or whose way home you cannot confirm: they stay with you, in sight. You do not send them back inside alone and you do not leave. Ask school staff, then **call DR at (407) 614-7454**. Waiting with one child is the job; walking away from one is the only version of this that ends badly.
 </callout>
-<callout icon="🚶" color="gray_bg">
-	**6 · WALKERS AND BIKERS: FOLLOW THE ROSTER**
-	Each one leaves the way their roster line says they leave, and not before you have seen the rest of the group settled.
-	**If a child's pickup method is not written on the roster, they do not leave on their own.** Ask the front desk, call DR admin, and keep them with you until it is confirmed.
-</callout>
-<callout icon="🚗" color="gray_bg">
-	**7 · TALK TO THE PARENT**
+<callout icon="🤝" color="gray_bg">
+	**6 · TALK TO THE PARENT**
 	Say something real about practice. If they want a conversation, take it. This is the only face-to-face minute you get with them all week.
 </callout>
 <callout icon="✅" color="gray_bg">
-	**8 · COUNT TO ZERO, THEN SUBMIT FINAL ATTENDANCE**
-	You are not done until your number is zero and every child is accounted for by name. Submit final attendance in the Coach Dashboard **before you leave campus** — check-out is recorded, same as check-in.
-	**No signal?** Screenshot the roster PDF, mark it up, and enter it the moment you have service.
-</callout>
-<callout icon="⚠️" color="yellow_bg">
-	**A CHILD WHOSE ADULT HAS NOT COME.** They stay with you, in sight, at the loop. You do not send them back inside alone and you do not leave. Call the front desk, then DR admin. Waiting with one child is the job; walking away from one is the only version of this that ends badly.
+	**7 · COUNT TO ZERO, THEN CLOSE OUT**
+	You are not done until your number is zero and every child is accounted for by name. Then, before you leave campus:
+	- attendance complete in the Coach Dashboard, Pending: 0;
+	- parent update sent with **Message All**;
+	- anything DR needs to know, escalated.
+	[[TAKING ATTENDANCE]]
+	[[PARTNERING WITH PARENTS]]
 </callout>
 ## PARTNERING WITH PARENTS
-We partner with parents. That is not a slogan, it is the mechanism — a parent who hears from you at the car line is a parent who is on your side later.
-Greet parents at drop-off as well as pickup where you can. Learn names. Set a friendly tone early, so the hard conversation later starts from a relationship instead of from nothing.
+We partner with parents. That is not a slogan, it is the mechanism: a parent who hears from you at pickup is a parent who is on your side later.
+Greet parents at pickup, learn names, set a friendly tone early, so the hard conversation later starts from a relationship instead of from nothing.
 <callout icon="🤝" color="gray_bg">
-	**SPECIAL PLAYERS**
-	If a player is taking a lot of your attention, the car line is where you start the partnership. Tell the parent what happened today, specifically and without a verdict on their child.
-	DR admin will step in, and can remove a player from a team. That only works if the parent has already heard from you — through the Coach Dashboard and in person. Without that, removal blindsides them and we lose the family.
+	**PLAYERS WHO NEED MORE OF YOU**
+	If a player is taking a lot of your attention, pickup is where you start the partnership. Tell the parent what happened today, specifically and without a verdict on their child. DR steps in on serious or repeated cases. That only works if the parent has already heard from you, in the Dashboard and in person.
+	[[PARTNERING WITH PARENTS]]
 </callout>
 <callout icon="⚠️" color="yellow_bg">
 	Do not save it all for a problem. The first time a parent hears from you should not be the day something went wrong.
 </callout>
 ## WHAT DR HAS COMMITTED
 These commitments are live in parent and school communication today. This page makes them keepable.
-- At the end of practice, car riders are directed to pickup and aftercare kids to aftercare.
+- At the end of practice, players are handed off through the school's pickup or aftercare process.
 - Check-in and check-out are recorded. Participants are released only to authorized parties or to coordinated aftercare.
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND DISMISSAL**
-	[[YOUR ROSTER]]
-	*Pickup method per child, and the dashboard link.*
 	[[HEAD COUNTS]]
 	*The counting standard this page runs on.*
+	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	*Your roster and the Dashboard.*
 	[[ARRIVAL]]
 	*The other end of the session.*
 	[[MESSAGING PARENTS]]
-	*Messaging parents through the Coach Dashboard.*
-	[[PARENTS]]
-	*When a parent conversation gets hard.*
-	[[INCIDENTS]]
+	*Message All in the Coach Dashboard.*
+	[[INJURY / INCIDENT]]
 	*When something happens that has to be reported.*
 </callout>
 <callout icon="🚩" color="gray_bg">

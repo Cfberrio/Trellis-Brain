@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 5
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 5"
@@ -22,6 +22,9 @@ aliases:
 	Coach! Week 5. Focus is **Moving + Setting**. The question all week is: where do you go **after** you touch the ball? You pick the games.
 </callout>
 # WEEK 5
+<callout icon="🪜" color="yellow_bg">
+	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs. Run it inside [[PRACTICE DESIGN]].
+</callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
@@ -100,8 +103,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 ## 4. CLOSE
 **What Did We Learn?** When is one step enough? Where do you go after your pass? Show it from a new starting spot.
 <callout icon="🏐" color="gray_bg">
-	**LIFE LESSON**
-	[[LIFE LESSON]]
+	**OPTIONAL CLOSING THEME** (not a required block)
 	*Focus + Integrity.*
 </callout>
 **Recognition:** Who moved to help or counted a miss honestly?

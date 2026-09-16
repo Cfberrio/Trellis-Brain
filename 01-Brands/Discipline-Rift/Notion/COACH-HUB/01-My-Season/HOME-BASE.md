@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "HOME BASE"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! **Skill:** [[MOVING]]. Run this when players watch their own contact and leave useful space uncovered.

@@ -15,6 +15,7 @@ notion_last_edited: 2026-08-11
 mirrored: 2026-08-12
 mirror_complete: true
 aliases:
+  - "1 SOLUTIONS"
   - "1% SOLUTIONS"
 ---
 

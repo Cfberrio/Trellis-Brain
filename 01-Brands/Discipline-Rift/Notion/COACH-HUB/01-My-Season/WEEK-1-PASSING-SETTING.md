@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 1
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-09
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 1"
@@ -22,6 +22,9 @@ aliases:
 	Coach! This is your Week 1 roadmap. Focus is **Passing + Setting**. You pick the games. Every game below is one tap away; the rules live there, not here.
 </callout>
 # WEEK 1
+<callout icon="🪜" color="yellow_bg">
+	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs. Run it inside [[PRACTICE DESIGN]].
+</callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
@@ -107,8 +110,7 @@ Begin with a coach toss and a declared second-contact catch bridge if needed. Th
 ## 4. CLOSE
 **What Did We Learn?** Why do we pass to a teammate? Show how you get ready for the next ball.
 <callout icon="🏐" color="gray_bg">
-	**LIFE LESSON**
-	[[LIFE LESSON]]
+	**OPTIONAL CLOSING THEME** (not a required block)
 	*Teamwork + Discipline.*
 </callout>
 **Recognition:** Who gave a teammate a playable ball or tried the next rep after a miss?

@@ -15,6 +15,8 @@ notion_created: 2026-09-07
 notion_last_edited: 2026-09-08
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "MINI VOLLEYBALL"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! Smaller teams, more decisions and more contacts per child. Only run it if you can actually see both games from where you stand.

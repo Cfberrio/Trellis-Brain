@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 3
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 3"
@@ -22,6 +22,9 @@ aliases:
 	Coach! Week 3. Focus is **Attacking + Setting**. Attacking only gets demonstrated once a playable set creates the need for it. You pick the games.
 </callout>
 # WEEK 3
+<callout icon="🪜" color="yellow_bg">
+	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs. Run it inside [[PRACTICE DESIGN]].
+</callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
@@ -103,8 +106,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 ## 4. CLOSE
 **What Did We Learn?** What tells you when to start? Show the approach rhythm and balanced finish.
 <callout icon="🏐" color="gray_bg">
-	**LIFE LESSON**
-	[[LIFE LESSON]]
+	**OPTIONAL CLOSING THEME** (not a required block)
 	*Confidence + Adaptability.*
 </callout>
 **Recognition:** Who adjusted to a different set instead of repeating the same timing?

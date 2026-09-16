@@ -9,13 +9,20 @@ notion_db: COACH HUB
 section: Coach Operations
 page_type: Reference
 sport: All Sports
-status: Live
+status: Archived
 order: null
 notion_created: 2026-08-25
-notion_last_edited: 2026-09-06
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+notion_parent: INTERNAL — Curriculum Builder
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "ARCHIVE — HOW THE SCHEDULE WORKS (merged into Your Schedule)"
+  - "HOW THE SCHEDULE WORKS"
 ---
+<callout icon="⚠️" color="yellow_bg">
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — HOW THE SCHEDULE WORKS (merged into Your Schedule)", status `Archived`, nested under INTERNAL — Curriculum Builder. Content below is unchanged since the last mirror; treat it as no longer authoritative — the live rule is [[YOUR SCHEDULE]] (the Dashboard session list is NOT the schedule any more).
+</callout>
 <callout color="gray_bg">
 	Coach! Your schedule is the **Select Session** list on your dashboard. There is no separate calendar and no calendar invite. That list is the truth.
 </callout>

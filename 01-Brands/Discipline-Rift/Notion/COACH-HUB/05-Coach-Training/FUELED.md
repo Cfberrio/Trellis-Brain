@@ -14,6 +14,8 @@ notion_created: 2026-08-11
 notion_last_edited: 2026-08-11
 mirrored: 2026-08-12
 mirror_complete: true
+aliases:
+  - "FUELED"
 ---
 # FUELED
 > <span underline="true">**6-Letter Acronym for: how we behave! How we approach coaching others.**</span>

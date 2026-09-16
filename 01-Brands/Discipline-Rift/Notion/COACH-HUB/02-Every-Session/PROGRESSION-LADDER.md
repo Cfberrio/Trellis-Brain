@@ -10,16 +10,21 @@ section: The Method
 page_type: Method
 sport: All Sports
 status: Live
-order: null
+notion_parent: HOW WE COACH
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
+aliases:
+  - "PROGRESSION LADDER"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! This is the engine inside practice. It decides what you teach next and when. Every row below is a page: tap it.
 </callout>
 # PROGRESSION LADDER
+<callout icon="🪜" color="yellow_bg">
+	**IMPORTANT: THE LADDER ON A WEEK PAGE IS AN EXAMPLE, NOT A REQUIRED PATH FOR YOUR TEAM.** Start with what your players can execute successfully, identify the problem that appears, then choose or build the next challenge. Different teams finish practice on different rungs. Beginners may stay longer on an early rung; advanced players move faster; the same team can hold players on different constraints at once. One method, many rungs.
+</callout>
 <callout icon="💡" color="gray_bg">
 	The Progression Ladder organizes how a skill grows during one practice and across the six-week season. **Every rung: Skill + Problem + Gamified Challenge.** All three belong together.
 </callout>
@@ -29,8 +34,8 @@ mirror_complete: true
 	*The umbrella: how the whole practice is built.*
 	[[COACH RULES]]
 	*How you coach while the ladder is running.*
-	[[WEEK PAGE TEMPLATE]]
-	*Where you write your rungs down.*
+	[[COACHING DIFFERENT LEVELS / CO-COACHING]]
+	*Turning one dial per line, and sharing the ladder with a co-coach.*
 </callout>
 ## HOW THE LADDER WORKS
 ![How to read one step — skill on top, problem underneath, gamified challenge as the solution](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/8784fdf1-8384-439d-aa5f-5a844db9d3e0/ladder-anatomy.png) <!-- notion-hosted, URL expires -->
@@ -145,5 +150,5 @@ Use this as an optional role-upgrade mechanic, not a random prize.
 </tr>
 </table>
 <callout icon="🚩" color="gray_bg">
-	Write two rungs before you drive out, not in the parking lot. Two real rungs beat six invented ones.
+	Write one or two realistic starting rungs before you drive out, not in the parking lot. Two real rungs beat six invented ones. You cannot predict the whole ladder before you have seen the players.
 </callout>

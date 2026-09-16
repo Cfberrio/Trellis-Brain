@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 6
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 6"
@@ -22,6 +22,9 @@ aliases:
 	Coach! Week 6. Focus is **Communicating + Integrated Play**. Today is mostly playing — you are watching whether the season survives changed conditions. You pick the games.
 </callout>
 # WEEK 6
+<callout icon="🪜" color="yellow_bg">
+	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs. Run it inside [[PRACTICE DESIGN]].
+</callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
@@ -100,8 +103,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 ## 4. CLOSE
 **What Did We Learn?** Show something that was hard in Week 1 and is easier now. What did your call help a teammate do?
 <callout icon="🏐" color="gray_bg">
-	**LIFE LESSON**
-	[[LIFE LESSON]]
+	**OPTIONAL CLOSING THEME** (not a required block)
 	*Growth + Fun.*
 </callout>
 **Recognition:** Recognize every player with specific evidence of progress, teamwork or willingness to try.

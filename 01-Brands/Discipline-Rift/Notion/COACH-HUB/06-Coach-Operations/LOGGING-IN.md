@@ -15,6 +15,8 @@ notion_created: 2026-08-25
 notion_last_edited: 2026-09-06
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "LOGGING IN"
 ---
 <callout color="gray_bg">
 	Coach! Read this once. After the first time, your phone remembers you and you go straight in.

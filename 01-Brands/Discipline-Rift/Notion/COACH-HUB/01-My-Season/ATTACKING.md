@@ -15,6 +15,8 @@ notion_created: 2026-08-11
 notion_last_edited: 2026-09-07
 mirrored: 2026-09-10
 mirror_complete: true
+aliases:
+  - "ATTACKING"
 ---
 <callout icon="🏐" color="gray_bg">
 	Skill module for attacking in developmental volleyball: a full 7 block DR-UPS session plan that applies DR Practice to attacking, block by block, with source cited drills.

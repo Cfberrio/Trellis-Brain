@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 4
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-11
+mirrored: 2026-09-15
 mirror_complete: true
 aliases:
   - "WEEK 4"
@@ -22,6 +22,9 @@ aliases:
 	Coach! Week 4. Focus is **Defending + Communicating**. Defense here is the passing platform they already own, used against a changed entry. You pick the games.
 </callout>
 # WEEK 4
+<callout icon="🪜" color="yellow_bg">
+	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs. Run it inside [[PRACTICE DESIGN]].
+</callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
@@ -97,8 +100,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 ## 4. CLOSE
 **What Did We Learn?** What comes first, feet or platform? Who takes a seam ball and what does the teammate do?
 <callout icon="🏐" color="gray_bg">
-	**LIFE LESSON**
-	[[LIFE LESSON]]
+	**OPTIONAL CLOSING THEME** (not a required block)
 	*Resilience + Passion.*
 </callout>
 **Recognition:** Who reset after a miss and supported the next play?
