@@ -12,26 +12,30 @@ sport: Volleyball
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "VOLLEYBALL CFU GAMES"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your Check For Understanding bank. Pick the game that lets you see whether they can actually use what you taught. Every row below is a page: tap it.
+	Coach! This is your Check For Understanding bank. Pick the game that lets you see whether they can actually use what you taught. Every **→** below is a door: tap it.
 </callout>
 # VOLLEYBALL CFU GAMES
 CFU is the last 15 minutes. It is not a reward and it is not free play. You change one condition, then you watch before you talk. If the behaviour breaks: **Freeze → Cue → Replay**, then observe again with no cue.
 <callout icon="💡" color="gray_bg">
 	**HOW TO PICK ONE**
-	Beginners, twenty players, two courts → [[CATCH → CONNECT → SEND]].
-	You want more contacts per child and you can see both games → [[MINI VOLLEYBALL]].
-	Connection matters more than winning today → [[TEAM RALLY]].
-	You are checking decisions and covering space → [[SPACE & SUPPORT]].
+	[[CATCH → CONNECT → SEND]]
+	*Beginners, twenty players, two courts.*
+	[[MINI VOLLEYBALL]]
+	*You want more contacts per child and you can see both games.*
+	[[TEAM RALLY]]
+	*Connection matters more than winning today.*
+	[[SPACE & SUPPORT]]
+	*You are checking decisions and covering space.*
 	Different courts can run different versions. Record which version you used next to the score, or the score means nothing next week.
 </callout>
-**THE BANK — tap any game below.**
+**THE BANK: the same four, as full rows.**
 [[CATCH → CONNECT → SEND]]
 [[MINI VOLLEYBALL]]
 [[TEAM RALLY]]

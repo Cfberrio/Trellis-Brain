@@ -12,14 +12,14 @@ sport: All Sports
 status: Draft
 order: 9
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "DISMISSAL"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! What you do from the final whistle until the last child is handed off. This is the highest-risk ten minutes of your session. Every row below is a page: tap it.
+	Coach! What you do from the final whistle until the last child is handed off. This is the highest-risk ten minutes of your session. Every **→** below is a door: tap it.
 </callout>
 # DISMISSAL
 <callout icon="💡" color="gray_bg">
@@ -34,6 +34,7 @@ aliases:
 	**1 · FINAL WHISTLE. COUNT BEFORE YOU RELEASE ANYONE.**
 	Bring them in, count out loud, twice. Your number has to match today's attendance number before a single child leaves your sight. If it does not match, nobody is released until it does.
 	[[HEAD COUNTS]]
+	*The counting standard.*
 </callout>
 <callout icon="🗣️" color="gray_bg">
 	**2 · SPLIT THE GROUP BY HOW THEY LEAVE, OUT LOUD**
@@ -65,7 +66,9 @@ aliases:
 	- parent update sent with **Message All**;
 	- anything DR needs to know, escalated.
 	[[TAKING ATTENDANCE]]
+	*Finish at Pending: 0.*
 	[[PARTNERING WITH PARENTS]]
+	*What to say to parents and why.*
 </callout>
 ## PARTNERING WITH PARENTS
 We partner with parents. That is not a slogan, it is the mechanism: a parent who hears from you at pickup is a parent who is on your side later.
@@ -74,6 +77,7 @@ Greet parents at pickup, learn names, set a friendly tone early, so the hard con
 	**PLAYERS WHO NEED MORE OF YOU**
 	If a player is taking a lot of your attention, pickup is where you start the partnership. Tell the parent what happened today, specifically and without a verdict on their child. DR steps in on serious or repeated cases. That only works if the parent has already heard from you, in the Dashboard and in person.
 	[[PARTNERING WITH PARENTS]]
+	*The hard conversation, and how to start it from a relationship.*
 </callout>
 <callout icon="⚠️" color="yellow_bg">
 	Do not save it all for a problem. The first time a parent hears from you should not be the day something went wrong.

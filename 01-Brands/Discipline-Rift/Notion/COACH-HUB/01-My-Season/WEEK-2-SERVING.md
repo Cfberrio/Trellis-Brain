@@ -12,18 +12,22 @@ sport: Volleyball
 status: Live
 order: 2
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "WEEK 2"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Week 2. Focus is **Serving + Passing**. Retrieve before you teach — see what they kept from Week 1 first. You pick the games.
+	Coach! Week 2. Focus is **Serving + Passing**. Retrieve before you teach — see what they kept from Week 1 first. You pick the games. Every **→** below is a door.
 </callout>
 # WEEK 2
 <callout icon="🪜" color="yellow_bg">
-	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs. Run it inside [[PRACTICE DESIGN]].
+	**THE LADDER BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build from there. Different teams finish on different rungs.
+	[[PROGRESSION LADDER]]
+	*The sample ladder. Pick your one or two starting rungs from it.*
+	[[PRACTICE DESIGN]]
+	*Run the ladder inside this: open, retrieve or show, build, test transfer, close.*
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**COACH RULES**
@@ -44,12 +48,17 @@ aliases:
 </callout>
 **Stretch:** Stretch with the players. Keep it dynamic; coach counts 1, players 2, coach 3, players 4.
 <callout icon="🎲" color="gray_bg">
-	**WARM-UP GAME — you pick**
-	[[THE LINES GAME]] — new group or new space.
-	[[VOLLEYBALL TAG]] — energy is flat.
-	[[POLICE & ROBBERS]] — energy is flat.
-	[[MIRROR & FREEZE]] — footwork before contact.
-	*Whole bank: [[VOLLEYBALL WARM-UP GAMES]]. Demonstrate before play.*
+	**WARM-UP GAME: you pick.** Demonstrate before play.
+	[[THE LINES GAME]]
+	*New group or new space.*
+	[[VOLLEYBALL TAG]]
+	*Energy is flat.*
+	[[POLICE & ROBBERS]]
+	*Energy is flat, bigger space.*
+	[[MIRROR & FREEZE]]
+	*Footwork before contact.*
+	[[VOLLEYBALL WARM-UP GAMES]]
+	*The whole warm-up bank.*
 </callout>
 ## 2. PROGRESSION LADDER
 ![Week 2 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/a5d022f9-2a5a-4973-ae8b-e7a40c2e314e/ladder-week2.png) <!-- notion-hosted, URL expires -->
@@ -57,46 +66,53 @@ aliases:
 Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
 <callout icon="🎲" color="gray_bg">
 	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
-	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or open [[VOLLEYBALL GAMIFIED CHALLENGES]] and pick another for the same Skill + Problem.*
+	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
+	[[VOLLEYBALL GAMIFIED CHALLENGES]]
+	*Sixteen challenges, indexed by the problem you can see.*
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**STEP 1** — [[PASSING]] + [[SETTING]]
 	*Retrieval: players perform both skills alone but cannot connect them. Check what remains reliable before adding instruction.*
-	Challenge: [[BUILD THE BRIDGE]]
+	**Challenge →** [[BUILD THE BRIDGE]]
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**STEP 2** — [[SERVING]]
 	*Problem: players do not yet make repeatable underhand serve contact.*
-	Challenge: [[SERVE TO UNLOCK]]
+	**Challenge →** [[SERVE TO UNLOCK]]
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**STEP 3** — [[SERVING]]
 	*Problem: players contact the ball but cannot reliably clear the net.*
-	Challenge: [[SERVE TO UNLOCK]]
+	**Challenge →** [[SERVE TO UNLOCK]]
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**STEP 4** — [[SERVING]]
 	*Problem: players serve in but do not adjust to a target cue.*
-	Challenge: [[CLAIM THE SQUARES]]
+	**Challenge →** [[CLAIM THE SQUARES]]
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**STEP 5** — [[SERVING]] + [[PASSING]]
 	*Problem: players pass a toss but struggle receiving a serve.*
-	Challenge: [[SERVE → READ → CATCH]]
+	**Challenge →** [[SERVE → READ → CATCH]]
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**STEP 6** — [[PASSING]] + [[SETTING]]
 	*Problem: the team receives a serve but must retrieve the next pass - set connection from that changed entry.*
-	Challenge: [[BUILD THE BRIDGE]]
+	**Challenge →** [[BUILD THE BRIDGE]]
 </callout>
 ## 3. CHECK FOR UNDERSTANDING
 <callout icon="🎲" color="gray_bg">
-	**CFU GAME — you pick**
-	[[TEAM RALLY]] — connection matters more than winning. Best fit for Week 2.
-	[[CATCH → CONNECT → SEND]] — beginners, twenty players, two courts.
-	[[MINI VOLLEYBALL]] — more contacts per child.
-	[[SPACE & SUPPORT]] — checking decisions and covering space.
-	*Whole bank: [[VOLLEYBALL CFU GAMES]].*
+	**CFU GAME: you pick.**
+	[[TEAM RALLY]]
+	*Connection matters more than winning. Best fit for Week 2.*
+	[[CATCH → CONNECT → SEND]]
+	*Beginners, twenty players, two courts.*
+	[[MINI VOLLEYBALL]]
+	*More contacts per child.*
+	[[SPACE & SUPPORT]]
+	*Checking decisions and covering space.*
+	[[VOLLEYBALL CFU GAMES]]
+	*The whole CFU bank.*
 </callout>
 Replace the coach toss with a scaled player serve. Then change server or service position. Watch purposeful serving and movement-first reception. Permit a coach-toss fallback for a receiver who needs it, and record those entries separately.
 Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**

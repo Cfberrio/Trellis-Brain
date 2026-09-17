@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "SKILL PAGE TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! One page per skill, inside your sport. Week pages link here instead of re-explaining technique. Every row below is a page: tap it.
+	Coach! One page per skill, inside your sport. Week pages link here instead of re-explaining technique. Every **→** below is a door: tap it.
 </callout>
 # SKILL PAGE TEMPLATE
 <callout icon="💡" color="gray_bg">
@@ -34,7 +34,7 @@ aliases:
 	[[GAMIFIED CHALLENGE TEMPLATE]]
 	*The challenges that train it.*
 </callout>
-# [SKILL NAME]
+# \[SKILL NAME\]
 ## WHY WE USE IT
 What problem does this skill solve in the actual sport? Why does it exist?
 ## SHOW IT
@@ -106,7 +106,7 @@ Numbered positions or steps, easy to demonstrate.
 ## OBSERVABLE EVIDENCE
 What can the coach physically see that shows the player is ready for a harder condition?
 ## RELATED CHALLENGES
-Gamified Challenge links, organized by problem.
+Gamified Challenge doors, organized by problem. One per line: `**→** <mention-page/>` then a one-line italic naming the problem it solves.
 <callout icon="🚩" color="gray_bg">
 	If a week page repeats what is written here, delete it from the week page. One home per skill.
 </callout>

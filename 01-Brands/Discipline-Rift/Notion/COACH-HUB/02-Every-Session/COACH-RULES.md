@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 notion_parent: HOW WE COACH
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "COACH RULES"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! These are the twelve behaviors we expect from you while players are practicing. Scan them before you walk on. Every row below is a page: tap it.
+	Coach! These are the twelve behaviors we expect from you while players are practicing. Scan them before you walk on. Every **→** below is a door: tap it.
 </callout>
 # COACH RULES
 <callout icon="💡" color="gray_bg">

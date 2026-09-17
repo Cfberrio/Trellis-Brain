@@ -12,8 +12,8 @@ sport: Pickleball
 status: Live
 order: 3
 notion_created: 2025-11-29
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "WEEK 3 - DINKS"
@@ -24,12 +24,19 @@ aliases:
 # WEEK 3 — DINKS
 <callout icon="🪜" color="yellow_bg">
 	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
+	[[PROGRESSION LADDER]]
+	*The sample ladder. Pick your one or two starting rungs from it.*
 </callout>
 <callout icon="🧠" color="gray_bg">
-	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are in COACHING TODAY, not here.
+	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are not here.
 	[[PRACTICE DESIGN]]
+	*The shape of practice.*
 	[[PROGRESSION LADDER]]
+	*What comes next and why.*
 	[[COACH RULES]]
+	*How you coach each rep.*
+	[[COACHING TODAY]]
+	*Arrival, attendance, dismissal, parents: the practice day.*
 </callout>
 # INTRODUCTION (10 MIN)
 > **WELCOME**
@@ -73,7 +80,7 @@ aliases:
 		<details>
 		<summary>**THE LINES GAME**</summary>
 			1. **Court Overview**: <br>Explain key court lines (kitchen, baseline, sidelines).
-			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/9b4a3421-e5a1-42f1-9855-371c365828b4/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VY7CBGUG%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001222Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJHMEUCIQDlprg7yyqayOSJM4CEvMmWIBPIUumWAQuIkVbxeL3aWAIgE%2FahYiH2AtvFb1X7gWJg2IEzhLilNjc7mYauj5ZN5nkqiAQI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDIzOayz8bYBug3xHeircAz%2BgMytom1%2F%2B4MdsRmmB1MzT8x%2F5v9yOvwxSdGI5d1oIn%2B5d%2BffIJfoUx3VsY2U4m1SNUS71eAF%2FctpnL6ucWrAeLAhEKsRiKzN8kTxqeOePhjndiUz0egTXsoOfPEXZZGs%2BtA9poA7AtRgH2YtfQgzXFQXWTkL6adkkkgSrnkZoFUOu36iGq0lIl7ZGXtR1EBpfVQaW1Punmw%2FdRav90hSCm0gA9SL5qPFv36mwKN55tT5g1HTkbwe1POyy4lUAU5wN1bLvvKM7BVH64o%2Fea2oFqP15VhdwKmtyK1%2F32iaLFlkd5HecpiANVYhb6ok31X5zQD3AjN40GbkNm4D995C%2FCbXQN2SoCJO%2BBdS1OziTy9iNDYCz%2F7JtAEQhLg9G9zPQKQHIX9Nz9djw2tVXbEsDS49xi41j5s3Iyw3NqsW5%2FxVxQoIXGF0WpgjAPGhac85mDDeVF140apkvszFGzeWKK0SqboIkAiHctdJLefe4I8RHJywrF3tKDU%2B1IchfYOWb2Miug5WoMdUAhM7eP6zmWm0CP6%2FRCDfFKnRPaGS06%2F46JkFi%2F3NuDjfDGUubTic7pHMUv3aHk5xLr3w1Yubcp97uC1bnJ4fSqEeZR9kUQKjytPzroK7N6hKMMO3L89MGOqUBxPYAo9zLEbyAxGSoAu0duuGZjVbxrW8YBr%2FG8lVUP40UNkoxNaU8LsmBPddidMnm%2BVoP78cmId%2Bp0V9B7S7wd%2FYGOTf2%2Bm%2BSULdLqfLUNtkltTJVqQMsgVMXy%2BLLmQNMYgfHqyvzMBNAgFZB%2Fhotw8z%2FFxwirTO0mhJtiiFXnciuIXzi%2BecO5wjAPDtHnMqf2zz9K6efA9lIhExundPc0tu2is8I&X-Amz-Signature=1fcfc7b097607d974a068d10fa57c94431c1257cb51e48ca1016fb9e1e4d8f5b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/9b4a3421-e5a1-42f1-9855-371c365828b4/image.png) <!-- notion-hosted, URL expires -->
 			1. **Instructions:**
 				- **Call Out a Line:**<br>The coach will randomly call out one of the tennis court lines (e.g., "Baseline!") and have players race to it.
 				- **Race to the Line:**<br>All players must run as quickly as possible to the line that was called.
@@ -269,7 +276,7 @@ aliases:
 				- Players behind the Non-Volley Line (NVL) can take the ball on the full (volley) if reachable, but the shot must still bounce in the opponent’s kitchen.
 				- This adds an element of quick decision-making and control.
 			<empty-block/>
-			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/3515891f-9482-4803-aa15-9ae27f92ff71/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VY7CBGUG%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001222Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJHMEUCIQDlprg7yyqayOSJM4CEvMmWIBPIUumWAQuIkVbxeL3aWAIgE%2FahYiH2AtvFb1X7gWJg2IEzhLilNjc7mYauj5ZN5nkqiAQI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDIzOayz8bYBug3xHeircAz%2BgMytom1%2F%2B4MdsRmmB1MzT8x%2F5v9yOvwxSdGI5d1oIn%2B5d%2BffIJfoUx3VsY2U4m1SNUS71eAF%2FctpnL6ucWrAeLAhEKsRiKzN8kTxqeOePhjndiUz0egTXsoOfPEXZZGs%2BtA9poA7AtRgH2YtfQgzXFQXWTkL6adkkkgSrnkZoFUOu36iGq0lIl7ZGXtR1EBpfVQaW1Punmw%2FdRav90hSCm0gA9SL5qPFv36mwKN55tT5g1HTkbwe1POyy4lUAU5wN1bLvvKM7BVH64o%2Fea2oFqP15VhdwKmtyK1%2F32iaLFlkd5HecpiANVYhb6ok31X5zQD3AjN40GbkNm4D995C%2FCbXQN2SoCJO%2BBdS1OziTy9iNDYCz%2F7JtAEQhLg9G9zPQKQHIX9Nz9djw2tVXbEsDS49xi41j5s3Iyw3NqsW5%2FxVxQoIXGF0WpgjAPGhac85mDDeVF140apkvszFGzeWKK0SqboIkAiHctdJLefe4I8RHJywrF3tKDU%2B1IchfYOWb2Miug5WoMdUAhM7eP6zmWm0CP6%2FRCDfFKnRPaGS06%2F46JkFi%2F3NuDjfDGUubTic7pHMUv3aHk5xLr3w1Yubcp97uC1bnJ4fSqEeZR9kUQKjytPzroK7N6hKMMO3L89MGOqUBxPYAo9zLEbyAxGSoAu0duuGZjVbxrW8YBr%2FG8lVUP40UNkoxNaU8LsmBPddidMnm%2BVoP78cmId%2Bp0V9B7S7wd%2FYGOTf2%2Bm%2BSULdLqfLUNtkltTJVqQMsgVMXy%2BLLmQNMYgfHqyvzMBNAgFZB%2Fhotw8z%2FFxwirTO0mhJtiiFXnciuIXzi%2BecO5wjAPDtHnMqf2zz9K6efA9lIhExundPc0tu2is8I&X-Amz-Signature=cddca03ca6ee3e39ebd6b8b9e15633c67c33023ac42e1b774dc223fc2a3273b5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/3515891f-9482-4803-aa15-9ae27f92ff71/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 	<empty-block/>

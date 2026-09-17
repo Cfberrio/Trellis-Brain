@@ -12,20 +12,21 @@ sport: All Sports
 status: Draft
 order: 0
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "ARRIVAL"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! What you do from reaching campus until the first rep. Get this right and the rest of practice is easy. Every row below is a page: tap it.
+	Coach! What you do from reaching campus until the first rep. Get this right and the rest of practice is easy. Every **→** below is a door: tap it.
 </callout>
 # ARRIVAL
 <callout icon="⏰" color="gray_bg">
 	**1 · BE ON CAMPUS BY THE ARRIVAL TIME ON YOUR SCHEDULE**
 	The schedule shows **arrival / start–end**, for example 2:45 / 3:15–4:15. Arrival means already on campus. Everything below fits in that window. It does not fit in five minutes.
 	[[YOUR SCHEDULE]]
+	*Where and when. Open the schedule folder from there.*
 </callout>
 <callout icon="🚗" color="gray_bg">
 	**2 · PARK AND CHECK IN**
@@ -53,15 +54,20 @@ aliases:
 </callout>
 <callout icon="✅" color="gray_bg">
 	**6 · TAKE ATTENDANCE AND SET YOUR NUMBER**
-	In the Coach Dashboard, per player, before the first drill. Load the Dashboard before you enter the school. If it shows `offline: true` or you cannot complete attendance, call DR at (407) 614-7454.
+	In the Coach Dashboard, per player, before the first drill. Load the Dashboard and screenshot the roster email before you enter the school: there is no signal inside. If it shows `offline: true`, mark attendance on the screenshot and enter it in the Dashboard once you have signal. Cannot get it in? Call DR at (407) 614-7454.
 	Attendance gives you today's number. Say it to the team: "We have fourteen today." Write it down. That number governs every count for the rest of the session.
 	[[TAKING ATTENDANCE]]
+	*The eight taps, and what to do with no signal.*
 	[[HEAD COUNTS]]
+	*Count at every transition.*
 </callout>
 <callout icon="🔍" color="gray_bg">
 	**7 · RESOLVE ANYONE MISSING BEFORE YOU START**
 	Do not start practice with an unexplained absence. Ask the front office and aftercare. Follow the Missing Player procedure.
 	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	*Late arrivals, missing players, a player not on the list.*
+	[[MISSING PLAYER]]
+	*Ask, send, supervise, call.*
 </callout>
 <callout icon="🚶" color="gray_bg">
 	**8 · WALK TO THE PRACTICE SPACE AS ONE GROUP**

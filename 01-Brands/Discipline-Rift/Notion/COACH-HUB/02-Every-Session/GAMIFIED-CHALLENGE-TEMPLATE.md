@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "GAMIFIED CHALLENGE TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! A Gamified Challenge is a targeted drill that feels like a game. Build one per problem, inside your sport. Every row below is a page: tap it.
+	Coach! A Gamified Challenge is a targeted drill that feels like a game. Build one per problem, inside your sport. Every **→** below is a door: tap it.
 </callout>
 # GAMIFIED CHALLENGE TEMPLATE
 <callout icon="💡" color="gray_bg">
@@ -34,7 +34,7 @@ aliases:
 	[[COACH RULES]]
 	*How you coach it while it runs.*
 </callout>
-# [CHALLENGE NAME]
+# \[CHALLENGE NAME\]
 <table header-row="true">
 <tr>
 <td>Field</td>

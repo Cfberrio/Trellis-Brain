@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 notion_parent: HOW WE COACH
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "PROGRESSION LADDER"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is the engine inside practice. It decides what you teach next and when. Every row below is a page: tap it.
+	Coach! This is the engine inside practice. It decides what you teach next and when. Every **→** below is a door: tap it.
 </callout>
 # PROGRESSION LADDER
 <callout icon="🪜" color="yellow_bg">
@@ -108,7 +108,11 @@ Use this as an optional role-upgrade mechanic, not a random prize.
 </callout>
 ## EXAMPLE — A FINISHED LADDER
 ![Week 1 volleyball — a finished six-to-eight-rung ladder, exactly as it runs in the season](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/e30e24ae-c137-4303-b5e3-d6951402d1bb/ladder-week1-example.png) <!-- notion-hosted, URL expires -->
-*This is [[WEEK 1]] of the volleyball season. Six of these live inside [[VOLLEYBALL CURRICULUM]] — one per week, every challenge a tappable page. You are expected to build your own: same shape, the problems YOUR group actually shows you.*
+*This is Week 1 of the volleyball season. Six of these live inside the volleyball curriculum, one per week, every challenge a tappable page. You are expected to build your own: same shape, the problems YOUR group actually shows you.*
+[[WEEK 1]]
+*The week page this ladder comes from.*
+[[VOLLEYBALL CURRICULUM]]
+*All six volleyball weeks, skills and game banks.*
 ## BLANK LADDER
 ![Blank progression ladder — six empty steps: skill, problem, challenge](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/e38749ef-c61f-4a22-a80e-29134ae4e7ae/ladder-blank.png) <!-- notion-hosted, URL expires -->
 <table header-row="true">

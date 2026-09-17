@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 order: 2
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "EMERGENCIES"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Evacuation, lockdown, a site emergency, anything where the school takes over. The universal DR spine: the same at every campus. Every row below is a page: tap it.
+	Coach! Evacuation, lockdown, a site emergency, anything where the school takes over. The universal DR spine: the same at every campus. Every **→** below is a door: tap it.
 </callout>
 # EMERGENCIES
 <callout icon="🚨" color="gray_bg">

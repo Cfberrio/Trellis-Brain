@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "CFU GAME TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! A CFU Game checks whether learning survives when the situation changes. This is how you know they learned it. Every row below is a page: tap it.
+	Coach! A CFU Game checks whether learning survives when the situation changes. This is how you know they learned it. Every **→** below is a door: tap it.
 </callout>
 # CFU GAME TEMPLATE
 <callout icon="💡" color="gray_bg">
@@ -34,7 +34,7 @@ aliases:
 	[[GAMIFIED CHALLENGE TEMPLATE]]
 	*The targeted challenge this checks.*
 </callout>
-# [CFU GAME NAME]
+# \[CFU GAME NAME\]
 ## SETUP
 <table header-row="true">
 <tr>

@@ -13,7 +13,7 @@ status: Live
 year: 2023
 notion_created: 2024-09-04
 notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "COACH EXPECTATIONS"

@@ -12,27 +12,31 @@ sport: All Sports
 status: Live
 order: 1
 notion_created: 2026-09-11
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "START HERE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Read this once, before your first practice. Ten minutes. It tells you how DR runs, which tool owns what, and what a complete practice day looks like. Every row below is a page: tap it.
+	Coach! Read this once, before your first practice. Ten minutes. It tells you how DR runs, which tool owns what, and what a complete practice day looks like. Every **→** below is a door: tap it.
 </callout>
 # START HERE
 <callout icon="🧭" color="gray_bg">
 	**THE FOUR SYSTEMS YOU USE**
-	**Notion** (this hub): DR procedures, arrival, dismissal, curriculum and coaching method. How DR operates.
-	**Schedule** (linked in Notion): where and when you coach. Address, arrival time, practice start and end.
-	**Coach Dashboard**: current roster, attendance and parent messages. [https://disciplinerift.com/coach/](https://disciplinerift.com/coach/)
-	**WhatsApp**: what changed today. Current announcements and day-of-practice coordination.
-	**Need immediate DR help? Call (407) 614-7454.** This line rings DR leadership so an available leader can assist.
+	**1. Notion** (this hub): DR procedures, arrival, dismissal, curriculum and coaching method. How DR operates. You are in it now.
+	**2. Schedule**: where and when you coach. School, address, arrival time, practice start and end. Format is arrival / start–end. Arrival means already on campus.
+	**→ **[**OPEN THE 26–27 SCHEDULE**](https://drive.google.com/drive/folders/1eRJhyKS8jx-UI_xaUOd8Egb-i5KzZTOG?usp=drive_link)
+	*The only source for where and when you coach. Put every date in your own calendar once, in September.*
 	[[YOUR SCHEDULE]]
-	*The schedule you follow. Format is arrival / start–end. Arrival means already on campus.*
+	*How to read the schedule, dismissal traffic, schedule changes, requesting a day off.*
+	**3. Coach Dashboard**: current roster, attendance and parent messages. Load it before you walk into the school. If it shows a meeting spot, follow it.
+	**→ **[**COACH DASHBOARD**](https://disciplinerift.com/coach/)
+	*The app you use on the court. Email + 6-digit code, no password.*
 	[[COACH DASHBOARD]]
-	*Your primary roster and attendance tool during practice. A PDF roster may also show the live roster; you still operate from the Dashboard. If it shows a meeting spot, follow it. Load it before you walk into the school.*
+	*What the Dashboard does, what it does not, logging in, attendance, messaging, problems.*
+	**4. WhatsApp**: what changed today. Current announcements and day-of-practice coordination. Main DR coach group + one chat per coaching day. DR adds you before the season; if you are ever out of a group, call DR and you will be re-added the same day.
+	**Need immediate DR help? Call (407) 614-7454.** This line rings DR leadership so an available leader can assist.
 </callout>
 <callout icon="💬" color="gray_bg">
 	**HOW DR COMMUNICATES**
@@ -45,21 +49,24 @@ aliases:
 	**YOUR FIRST PRACTICE**
 	1. **Review the curriculum.** Open your sport, find the current week, know the skill focus before you arrive.
 	2. **Check the schedule.** Address, arrival time, practice start and end.
-	3. **Load the Coach Dashboard.** Know your roster. If it shows `offline: true` or you cannot complete attendance, call DR at (407) 614-7454.
+	3. **Load the Coach Dashboard and screenshot your roster.** DR emails a copy of your roster to your Gmail. Before you walk into the school: load the Dashboard, open that email, screenshot the roster. Schools have no signal inside; you cannot do either once you are in. If the Dashboard shows `offline: true`, work from the screenshot and call DR at (407) 614-7454 once you have signal.
 	4. **Read Arrival and Dismissal.** Know how you manage the group from first minute to last.
 	5. **Bring ID.** You check in at the front office.
 	6. **Join Main + your day chats.** Before the season starts, not on day one.
 	7. **Coordinate with your co-coach** if one is assigned: objective, first setup, who brings what.
 	[[CURRICULUM]]
+	*Your sport, your week, the sample ladder. Read before you drive out.*
 	[[ARRIVAL]]
+	*From the car line to the first rep. Front office, meeting point, gather, count.*
 	[[DISMISSAL]]
+	*Head count, host school process, nobody unaccounted for.*
 	[[COACHING TODAY]]
 	*The practice-day page. Schedule → prepare → arrive → account for players → coach → dismiss → parent update.*
 </callout>
 <callout icon="📏" color="gray_bg">
 	**COACH NON-NEGOTIABLES**
 	- Be on campus by the schedule arrival time.
-	- Arrive prepared: week reviewed, equipment in the car, Dashboard loaded.
+	- Arrive prepared: week reviewed, equipment in the car, Dashboard loaded, roster screenshot taken.
 	- Account for every player. Know your number. Count at every transition.
 	- Take attendance in the Coach Dashboard, every practice.
 	- Protect the hour. One hour is already short. Bathroom, water, snack and setup happen before the first rep.
@@ -75,9 +82,16 @@ aliases:
 	**HOW WE COACH**
 	[[HOW WE COACH]]
 	*Practice Design = the shape of practice. Progression Ladder = the path inside it. Coach Rules = how you coach each rep.*
+	[[PROGRESSION LADDER]]
+	*The sample ladder every Week page is built on. Every team is different: start where your players can succeed.*
 	[[TRAINING & CULTURE]]
 	*FUELED, values, who we are. Read when you are not about to coach.*
 </callout>
+<callout icon="🆘" color="gray_bg">
+	**SOMETHING WRONG RIGHT NOW?**
+	[[NEED HELP]]
+	*Weather, missing player, roster issue, injury, behaviour, cancellation, Dashboard problem.*
+</callout>
 <callout icon="🚩" color="gray_bg">
-	Before your first practice: join the chats, load the Dashboard, read your week. Then open COACHING TODAY and follow it top to bottom.
+	Before your first practice: join the chats, load the Dashboard, screenshot the roster email, read your week. Then open COACHING TODAY and follow it top to bottom.
 </callout>

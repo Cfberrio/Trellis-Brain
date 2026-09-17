@@ -5,7 +5,7 @@ area: notion-mirror
 note_type: moc
 source_type: notion_mirror
 notion_workspace: DISCIPLINE RIFT
-mirrored: 2026-09-15
+mirrored: 2026-09-17
 tags:
   - brand/discipline-rift
   - notion-mirror
@@ -23,10 +23,12 @@ level, with content. Notion stays the source of truth; this is the readable, sea
 linkable copy that lives in the vault.
 
 Mirrored 2026-08-12 (Coach Hub redesign day), re-synced 2026-09-10 (139 rows: Coach Operations,
-volleyball game banks, "The Method"), and **re-synced again 2026-09-15** against the live
-"DR | COACH HUB" data source (121 canonical rows, latest edit 2026-09-14) to capture the
-**2026-09-11 navigation rebuild**: a six-hub coach spine, eight pages archived or marked
-internal, and a "ladder is a sample" rule stamped on every Week page. Every file carries its
+volleyball game banks, "The Method"), **re-synced 2026-09-15** against the live "DR | COACH HUB"
+data source to capture the **2026-09-11 navigation rebuild** (six-hub coach spine, eight pages
+archived or marked internal, "ladder is a sample" stamped on every Week page), and **re-synced
+again 2026-09-17** to capture the **2026-09-17 "door rule" rollout** from Luis's walkthrough:
+every link a coach must tap is now `→ page` on its own line with a one-line italic under it,
+plus a roster-email screenshot routine added to the practice-day pages. Every file carries its
 `notion_page_id` and `notion_url` in frontmatter, so any page here can be traced back to the
 live page it came from.
 
@@ -34,7 +36,7 @@ live page it came from.
 
 | Database | Role | Pages | Where |
 |---|---|---|---|
-| DISCIPLINE RIFT \| COACH HUB | The live coach wiki, redesigned 2026-08-12, nav rebuilt 2026-09-11, re-synced 2026-09-15 | 136 files | `COACH-HUB/` |
+| DISCIPLINE RIFT \| COACH HUB | The live coach wiki, redesigned 2026-08-12, nav rebuilt 2026-09-11, door rule 2026-09-17, re-synced 2026-09-17 | 136 files | `COACH-HUB/` |
 | DR VOLLEYBALL | Legacy wiki, identity pages left after the curriculum moved to the hub | 10 | `Sport-Wikis/DR-VOLLEYBALL/` |
 | DR TENNIS | Legacy wiki, identity pages left after the curriculum moved to the hub | 9 | `Sport-Wikis/DR-TENNIS/` |
 | DR PICKLEBALL | Legacy wiki, identity pages left after the curriculum moved to the hub | 10 | `Sport-Wikis/DR-PICKLEBALL/` |
@@ -45,7 +47,37 @@ live page it came from.
 Calendar rows are mirrored as two tables rather than hundreds of one-line files, because each
 row is a date entry, not a document.
 
-## WHAT CHANGED 2026-09-11 → 2026-09-15 (read this first)
+## WHAT CHANGED 2026-09-15 → 2026-09-17 (read this first)
+
+> [!abstract] The one-paragraph version
+> Luis walked the hub on **2026-09-17 (13:36–14:01 UTC)** and applied the **door rule**
+> (design standard §2b, logged in [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|CURRICULUM RESTRUCTURE]] → "NAVIGATION RULE
+> ROLLOUT — DONE"): every page a coach must open is a `→` link on its own line with a one-line
+> italic caption; primary doors on hubs are `### →`; external tools are `→ [NAME](url)`; prose
+> pointers ("linked in Notion", "see X") are gone. In the same pass he added the **roster-email
+> screenshot routine** (load the Dashboard **and** screenshot the roster email DR sent to your
+> Gmail before entering the school — there is no signal inside; `offline: true` → mark on the
+> screenshot, enter later, call DR if it will not go in). A second, property-only sweep at
+> **15:15–15:22 UTC** touched all 121 rows without changing content.
+>
+> **No new pages, no renames, no archive changes.** 121 rows, same as 09-15. 0 unresolved wikilinks.
+
+**Content rewritten (real body changes, 22 pages):**
+- Practice day: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/00-Start-Here/START-HERE|START HERE]] (Four Systems card rebuilt, numbered 1–4, schedule + Dashboard external links inline, WhatsApp re-add rule), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACHING-TODAY|COACHING TODAY]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]] (step 6 + new MISSING PLAYER door), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|COACH DASHBOARD]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|TAKING ATTENDANCE]] (step 1 + connectivity callout rewritten), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|DASHBOARD PROBLEMS]] ("Can I print the roster?" now answers with the roster email) — all carry the screenshot routine.
+- Method: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HOW-WE-COACH|HOW WE COACH]] (PROGRESSION LADDER promoted to first door, caption expanded), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CURRICULUM|CURRICULUM]] (ladder callout moved to the top and given a door), every yellow "ladder is a sample" card on 21 Week pages now carries a **→ PROGRESSION LADDER** door.
+- Training: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/OUR-CULTURE|OUR CULTURE]] (was a 4-line draft; now kids / parents / each other, FUELED + core values wired in), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/READING-SHELF|READING SHELF]] (placeholder → 7 books in three shelves), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/TRAINING-AND-CULTURE|TRAINING & CULTURE]] (take-action copy rewritten, section-name intro).
+- Internal: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/INTERNAL-CURRICULUM-BUILDER|INTERNAL — Curriculum Builder]] now has a real body (door-rule definition) instead of the mirror's placeholder; [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|CURRICULUM RESTRUCTURE]] gained the 17 Sep rollout log entry, which also records what was **not** done by decision: pickleball weeks 4–6, a soccer curriculum, WhatsApp invite links in Notion, an accident-report form in Lovable.
+- Volleyball banks: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-WARM-UP-GAMES|WARM-UP GAMES]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-GAMIFIED-CHALLENGES|GAMIFIED CHALLENGES]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CFU-GAMES|CFU GAMES]] — "how to pick one" is now a door list with the pick-condition as caption.
+
+**Door-rule only (links re-formatted, captions added, body text unchanged, 44 pages):** the six volleyball Week pages (warm-up and CFU lists, `Challenge →` on every ladder step), the six flag / six tennis / three pickleball Week pages (the two header callouts only — verified by full diff on flag 1–6 and pickleball 2; tennis 1–6 and pickleball 1 & 3 were patched header-only on that evidence), the four sport hubs, seven Problems pages, PRACTICE DESIGN, PROGRESSION LADDER, COACH RULES, COACHING DIFFERENT LEVELS, HEAD COUNTS, DISMISSAL, YOUR SCHEDULE, the three conferences, the five builder templates. Pickleball Curriculum's shared links now point at PRACTICE DESIGN instead of the archived PRACTICE STRUCTURE / WARM UPS.
+
+**Verified unchanged (65 pages):** all 7 volleyball Skill pages, all 24 volleyball game / challenge / CFU pages, the 11 flag skills and references, MISSION & VISION, CORE VALUES, BEING A COACH, THE HAND OF A COACH, FUELED, DR FORMULA, COACH EXPECTATIONS, 1% SOLUTIONS, COACHING TERMS, WORKSHOPS, LOGGING IN, MESSAGING PARENTS, ACCIDENT REPORT, DRILLS, VOLLEYBALL BOOKS, ZONES GAME, and all eight ARCHIVE / INTERNAL pages. Their `mirrored` date was bumped to 2026-09-17; nothing else moved. The five trashed pages (TIERS, GROUP DYNAMICS, SEQUENCING, VOLLEYBALL TIERS, old PRACTICE TEMPLATE) are still trashed / 404.
+
+**Mirror hygiene in this sync:** Notion-hosted image URLs are now stored without the signed S3 query string (the signature expired in 5 minutes anyway), so the 24 image links are stable across re-syncs; `<file>` attachments render as the `<!-- attachment: … -->` comment; DB titles guaranteed present in `aliases` so every `[[TITLE]]` door resolves.
+
+**Still open (carried from 09-15, confirmed on 09-17):** ZONES GAME is still tagged Volleyball / My Season while its content is flag football; the 18 property-less legacy "COACH CURRICULUM" rows are still in the live DB (now bulk-touched 09-17 like everything else, still not mirrored — content lives in `05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/`).
+
+## WHAT CHANGED 2026-09-11 → 2026-09-15
 
 > [!abstract] The one-paragraph version
 > Notion now has a **six-hub spine** a coach reads top to bottom: **START HERE** (order 1) →
@@ -289,7 +321,7 @@ Entry: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACHING
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|Dashboard Problems]] <sub>Reference · Live · was "When Something Breaks"</sub>
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/HOW-THE-SCHEDULE-WORKS|ARCHIVE — How The Schedule Works (merged into Your Schedule)]] <sub>Reference · Archived 09-11</sub> — its core claim ("the Select Session list is your schedule") is now **wrong**; YOUR SCHEDULE says the opposite
 
-## LEGACY LINEAGE INSIDE "DR | COACH HUB" — 24 property-less rows (checked 2026-09-15, not mirrored)
+## LEGACY LINEAGE INSIDE "DR | COACH HUB" — 18 property-less rows (checked 2026-09-17, not mirrored)
 
 The live data source contains 24 rows with no Type / Sport / Section / Status: **COACH
 CURRICULUM** (`32c0452885a88052af8ceb4a41bd9cc5`) and its children — WEEK 1 – Passing & Setting
@@ -300,8 +332,9 @@ wiki root, not to any spine hub. This is the pre-redesign DRVC seven-block volle
 HUB" database below. Content already lives in
 `05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/` (Coach-Curriculum.md, Curriculum/Week-*.md,
 Skills/*.md, Coaching-Science.md, Terminology.md). **WEEK 1 – Passing & Setting** carries the
-newest edit in the whole DB (2026-09-14 18:00) — a body of 7 blocks with add-on options; it is
-not referenced by any spine page. ⚠ Flag for Luis: these 24 rows are dead weight in coach search
+newest *content* edit before the 09-17 sweep (2026-09-14 18:00) — a body of 7 blocks with add-on
+options; it is not referenced by any spine page. On 2026-09-17 the live DB counted 18 such rows
+(COACH CURRICULUM, six WEEK rows, seven skill rows, FUNDAMENTALS, DRILLS, TERMINOLOGY, COACHING SCIENCE). ⚠ Flag for Luis: these 24 rows are dead weight in coach search
 results and should be archived or moved out of "DR | COACH HUB".
 
 ## LEGACY DUPLICATE DATABASE — "COACH HUB" (checked 2026-09-10, not mirrored)

@@ -13,7 +13,7 @@ status: Live
 order: 4
 notion_created: 2026-08-11
 notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "ATTACKING"

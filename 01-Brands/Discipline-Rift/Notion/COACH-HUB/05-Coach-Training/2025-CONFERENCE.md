@@ -11,15 +11,13 @@ page_type: Conference
 sport: All Sports
 status: Live
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-11
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "2025 CONFERENCE"
 ---
-
 # 2025 CONFERENCE
-
 > **Relationship-first youth sports.** {color="brown"}
 <callout icon="🤝" color="gray_bg">
 	**Relationships win, and performance follows connection.**
@@ -52,6 +50,7 @@ aliases:
 <callout icon="2️⃣" color="gray_bg">
 	**SESSION 2 — NO 100% SOLUTION, BUT ONE HUNDRED 1% SOLUTIONS** · Luis Torres
 	[[1% SOLUTIONS]]
+	*The topic page. One hundred small improvements, built to the page contract.*
 </callout>
 <callout icon="⚠️" color="gray_bg">
 	**GAP** — two items from this session were never written out:

@@ -12,15 +12,15 @@ sport: All Sports
 status: Live
 order: 3
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "PARTNERING WITH PARENTS"
   - "PARENTS"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Parents are partners. This page is what you say to them, when, and why. The buttons are on the Messaging Parents page. Every row below is a page: tap it.
+	Coach! Parents are partners. This page is what you say to them, when, and why. The buttons are on the Messaging Parents page. Every **→** below is a door: tap it.
 </callout>
 # PARTNERING WITH PARENTS
 <callout icon="💡" color="gray_bg">

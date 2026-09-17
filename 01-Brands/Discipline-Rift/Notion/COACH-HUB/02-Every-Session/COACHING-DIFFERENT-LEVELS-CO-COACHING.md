@@ -12,8 +12,8 @@ sport: All Sports
 status: Live
 notion_parent: HOW WE COACH
 notion_created: 2026-09-11
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "COACHING DIFFERENT LEVELS / CO-COACHING"
@@ -21,7 +21,7 @@ aliases:
   - "CO-COACHING"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Your team is never one level. This is how one Practice Design serves beginners and advanced players in the same hour, and how two coaches share it. Every row below is a page: tap it.
+	Coach! Your team is never one level. This is how one Practice Design serves beginners and advanced players in the same hour, and how two coaches share it. Every **→** below is a door: tap it.
 </callout>
 # COACHING DIFFERENT LEVELS / CO-COACHING
 <callout icon="💡" color="gray_bg">
@@ -47,6 +47,7 @@ aliases:
 	- Do not force every player to finish the same rung.
 	- Do not split into two unrelated curricula. Split lines and constraints, not the objective.
 	[[PROGRESSION LADDER]]
+	*The sample ladder. Same rungs, different dial per line.*
 </callout>
 <callout icon="🤝" color="gray_bg">
 	**TWO COACHES: BEFORE PRACTICE**

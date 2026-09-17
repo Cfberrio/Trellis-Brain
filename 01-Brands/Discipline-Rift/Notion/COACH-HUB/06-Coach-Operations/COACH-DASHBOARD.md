@@ -12,17 +12,21 @@ sport: All Sports
 status: Live
 notion_parent: COACHING TODAY
 notion_created: 2026-08-25
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "COACH DASHBOARD"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is the app you use on the court: log in, take attendance, write to parents. Read it once before your first practice, then keep it on your phone. Load it before you enter the school.
+	Coach! This is the app you use on the court: log in, take attendance, write to parents. Read it once before your first practice, then keep it on your phone. Load it before you enter the school. Every **→** below is a door: tap it.
 </callout>
 <callout icon="💡" color="gray_bg">
-	The **COACH DASHBOARD** is the app at [**disciplinerift.com/coach**](https://disciplinerift.com/coach/). It is not Notion. It is your primary roster and attendance tool during practice, and how you message parents. It is **not your schedule**: where and when you coach lives in [[YOUR SCHEDULE]]. Everything you learn about coaching lives here in the hub.
+	**→ **[**COACH DASHBOARD**](https://disciplinerift.com/coach/)
+	*The app itself. Email + 6-digit code, no password.*
+	The **COACH DASHBOARD** is not Notion. It is your primary roster and attendance tool during practice, and how you message parents. It is **not your schedule**. Everything you learn about coaching lives here in the hub.
+	[[YOUR SCHEDULE]]
+	*Where and when you coach. The Dashboard session list is not the schedule.*
 </callout>
 # COACH DASHBOARD
 ## THE PAGES
@@ -81,7 +85,7 @@ Do not go looking for these. They do not exist yet.
 - Let you change your own name, email or phone. Ask the office.
 ## TAKE ACTION
 <callout icon="🚩" color="gray_bg">
-	Open the dashboard on your phone **before** you enter the school. If today's practice is missing from the session list, that is a Dashboard issue, not a cancellation: follow the schedule and call DR at (407) 614-7454. Only DR communicates cancellations.
+	Open the dashboard on your phone **before** you enter the school, and screenshot the roster email DR sent to your Gmail at the same time. There is no signal inside. If today's practice is missing from the session list, that is a Dashboard issue, not a cancellation: follow the schedule and call DR at (407) 614-7454. Only DR communicates cancellations.
 </callout>
 <callout icon="🚩" color="gray_bg">
 	Take attendance **on the day**. The dashboard only shows today and forward: yesterday's practice is gone by the morning and only the office can fix it.

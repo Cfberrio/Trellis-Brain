@@ -12,8 +12,8 @@ sport: All Sports
 status: Live
 notion_parent: COACH DASHBOARD
 notion_created: 2026-08-25
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "MESSAGING PARENTS"

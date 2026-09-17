@@ -12,14 +12,14 @@ sport: All Sports
 status: Draft
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "CURRICULUM RESTRUCTURE"
 ---
 <callout icon="📢" color="gray_bg">
-	This page is for whoever is rebuilding the Coach Hub, not for a coach on the way to practice. It records what the new structure is and what still has to change. Every row below is a page: tap it.
+	This page is for whoever is rebuilding the Coach Hub, not for a coach on the way to practice. It records what the new structure is and what still has to change. Every **→** below is a door: tap it.
 </callout>
 # CURRICULUM RESTRUCTURE
 <callout icon="💡" color="gray_bg">
@@ -83,12 +83,13 @@ aliases:
 ## DELETE — REPLACED, NOTHING LOST
 <callout icon="🧹" color="gray_bg">
 	**THREE ESSAYS ON THE SAME METHOD**
-	*(Two legacy pages, already trashed by the time of this 2026-09-10 re-sync — no longer fetchable by id: `32c0452885a881c6ad44cc754dfc5807` and `32c0452885a88193975cc753147f612d`.)*
-	All three explain what DR practice is. Practice Design says it once. Three explanations is why coaches stopped reading any of them.
+	<empty-block/>
+	*(Two legacy pages, already trashed by the time of the 2026-09-10 re-sync — no longer fetchable by id: `32c0452885a881c6ad44cc754dfc5807` and `32c0452885a88193975cc753147f612d`.)*
+	*All three explain what DR practice is. Practice Design says it once. Three explanations is why coaches stopped reading any of them.*
 </callout>
 <callout icon="🧹" color="gray_bg">
 	**SUPERSEDED TEMPLATE**
-	[[PRACTICE-DESIGN|PRACTICE DESIGN (old, superseded)]]
+	[[PRACTICE DESIGN (old, superseded)]]
 	*Replaced one-for-one by the Week Page Template. Nothing in it survives that the week page does not do better.*
 </callout>
 <callout icon="🧹" color="gray_bg">
@@ -100,24 +101,24 @@ aliases:
 	**THREE COPIES OF TIERS**
 	[[TIERS]]
 	*The "All Sports" copy contains flag-specific skills. It was never universal.*
-	*(A "TIER SYSTEM" copy, id `32c0452885a8817fba57e6a5cc1238d1`, was already trashed by the time of this re-sync and is not fetchable.)*
-	[[VOLLEYBALL-TIERS|VOLLEYBALL TIERS]]
+	*(A "TIER SYSTEM" copy, id `32c0452885a8817fba57e6a5cc1238d1`, was already trashed by the time of the re-sync and is not fetchable.)*
+	[[VOLLEYBALL TIERS]]
 	*Progress is now observable evidence on the Skill page and position on the ladder. All three copies go.*
 </callout>
 <callout icon="🧹" color="gray_bg">
 	**GLOBAL LIBRARIES — DELETE PER SPORT, NOT ALL AT ONCE**
-	[[GAMES]]
-	[[WARM UPS]]
+	[[ARCHIVE — GAMES (superseded by sport game banks)]]
+	[[ARCHIVE — WARM UPS (use sport warm-up banks)]]
 	*Safe to unlink from volleyball today — its banks exist. Flag, tennis and pickleball still have nothing else. These two stay alive until each sport has its own banks, then go.*
 </callout>
 ## DO NOT DELETE — REAL CONTENT, NO REPLACEMENT
 <callout icon="⚠️" color="yellow_bg">
-	**[[PRACTICE STRUCTURE]] — demote, do not delete.**
+	**[[ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]] — demote, do not delete.**
 	This page is the only place DR's actual learning science is written down: blocked → serial → interleaved → randomized practice, retrieval, spacing, cognitive load, micro-CFU, exit criteria. Practice Design does not carry any of it and was not meant to.
 	Deleting it deletes the reasoning behind the method. Move it under [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Coaching-Science|COACHING SCIENCE]] and take it out of the practice nav. It stops competing as a second "how to run practice" page and survives as the why.
 </callout>
 <callout icon="⚠️" color="yellow_bg">
-	**[[LIFE LESSON]] — move, do not delete.**
+	**[[ARCHIVE — LIFE LESSON (no longer a required block)]] — move, do not delete.**
 	The plan said remove it as a required block on every week page. That is not the same as deleting the page. The Word of the Week season map is a DR culture asset and week pages in every sport point at it.
 	Drop the required Life Lesson section from week pages. Keep the page, move it out of the curriculum method group into coach training.
 </callout>
@@ -226,4 +227,10 @@ aliases:
 	One page per source, referenced from wherever it is needed. Editing a game or a technique changes it everywhere.
 	**New content, flagged:** WEEK 6 gained a conditional Step 6 using FIND THE SPACE and BEAT YOUR BEST CONNECTIONS. Both existed in the bank with no week pointing at them.
 	**Still open:** flag football, tennis and pickleball keep skill-named week titles and have no sport-owned banks. Convert them once their banks exist, not before.
+</callout>
+<callout icon="✅" color="gray_bg">
+	**NAVIGATION RULE ROLLOUT — DONE (17 Sep 2026)**
+	Design standard §2b applied to every page with doors: six hubs, four sport hubs, 21 week pages, seven problem pages, four method pages, three volleyball banks, three conferences, five templates, this log. Every door is now `**→** <mention-page/>` with a one-line italic; primary doors on hubs are `### →`. External tools are `**→ [NAME](url)**`. Prose pointers ("linked in Notion", "see X") removed. `### → mention` inside a callout verified working through the API.
+	**Content changes in the same pass (Luis walkthrough 17 Sep):** START HERE Four Systems card rebuilt with the schedule and Dashboard links in place; roster-email screenshot routine added to START HERE, COACHING TODAY, TAKING ATTENDANCE, ARRIVAL, ROSTER, COACH DASHBOARD and DASHBOARD PROBLEMS; Progression Ladder door added inside every yellow ladder card; TRAINING & CULTURE take-action copy rewritten; READING SHELF built out to seven books; OUR CULTURE expanded to kids / parents / each other.
+	**Not done, by decision:** pickleball weeks 4 to 6 and a soccer curriculum are not being built yet. WhatsApp invite links are not in Notion; START HERE says DR adds you and re-adds you on request. No accident report form exists in Lovable; ACCIDENT REPORT still carries its rebuild flag.
 </callout>

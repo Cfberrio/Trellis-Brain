@@ -12,21 +12,21 @@ sport: All Sports
 status: Live
 notion_parent: COACHING TODAY
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "YOUR SCHEDULE"
   - "SCHEDULE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is the schedule you follow. Where you coach, when you must be on campus, when practice starts and ends. Check it before every practice. Every row below is a page: tap it.
+	Coach! This is the schedule you follow. Where you coach, when you must be on campus, when practice starts and ends. Check it before every practice. Every **→** below is a door: tap it.
 </callout>
 # YOUR SCHEDULE
 <callout icon="🗓️" color="gray_bg">
 	**THE 26–27 SCHEDULE**
-	[Open the 26–27 schedule folder](https://drive.google.com/drive/folders/1eRJhyKS8jx-UI_xaUOd8Egb-i5KzZTOG?usp=drive_link)
-	**Use the schedule linked here. It is the only source for where and when you coach.** It gives you the school, the address, the date, the arrival time and the practice start and end.
+	**→ **[**OPEN THE 26–27 SCHEDULE**](https://drive.google.com/drive/folders/1eRJhyKS8jx-UI_xaUOd8Egb-i5KzZTOG?usp=drive_link)
+	*The only source for where and when you coach.* It gives you the school, the address, the date, the arrival time and the practice start and end.
 </callout>
 <callout icon="💡" color="gray_bg">
 	**HOW TO READ IT** (example only, not a real assignment)

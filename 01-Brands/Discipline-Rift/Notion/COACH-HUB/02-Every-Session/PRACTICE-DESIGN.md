@@ -11,15 +11,15 @@ page_type: Method
 sport: All Sports
 status: Live
 notion_created: 2025-09-19
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "PRACTICE DESIGN"
   - "SEASON DESIGN"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is how every DR practice is built, in any sport. Read it once, then run it every week. Every row below is a page: tap it.
+	Coach! This is how every DR practice is built, in any sport. Read it once, then run it every week. Every **→** below is a door: tap it.
 </callout>
 # PRACTICE DESIGN
 <callout icon="🧠" color="gray_bg">
@@ -63,6 +63,11 @@ Get the group organized, say the learning goal out loud, get players moving fast
 This is the main body of practice. Every rung answers three questions:
 **SKILL + PROBLEM + GAMIFIED CHALLENGE**
 Inside a rung: **show it → run it → coach it → vary it → check it.** Success creates the next problem, which creates the next rung.
+<callout icon="🪜" color="yellow_bg">
+	**THE LADDER ON EVERY WEEK PAGE IS A SAMPLE.** Every team is different. Start where your players can succeed.
+	[[PROGRESSION LADDER]]
+	*The sample ladder. Name it, show it, challenge it, coach reps, vary, check.*
+</callout>
 <callout icon="💡" color="gray_bg">
 	The ladder is not "Passing Week, Serving Week, Attacking Week." A skill can return many times under new conditions. That is how practice becomes serial and how retrieval happens.
 </callout>

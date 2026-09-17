@@ -11,15 +11,13 @@ page_type: Conference
 sport: All Sports
 status: Live
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-11
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "2024 CONFERENCE"
 ---
-
 # 2024 CONFERENCE
-
 > **Here is where this template begins.** {color="brown"}
 <callout icon="📣" color="gray_bg">
 	**THE THEME**
@@ -105,6 +103,7 @@ aliases:
 	Being fueled is contagious. The energy you invest and share determines your quality of life.
 	The boat is not about us. The boat is sacrifice — the more we serve, the bigger it gets, and the more people we can carry.
 	[[FUELED]]
+	*Friendly, Upfront, Enthusiastic, Leader, Efficient, Driven.*
 </callout>
 ### CULTURE & CLOSING
 > “Never throughout history was there a man who lived a life of ease that left a legacy worth remembering.” — Teddy Roosevelt
@@ -113,9 +112,13 @@ aliases:
 ---
 <callout icon="📚" color="gray_bg">
 	<span underline="true">**WHAT WAS TAUGHT**</span>
+	The content lives in the topic pages. This page is the record of the day.
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
+	*Talk 1. Humble, Hungry, Smart.*
 	[[FUELED]]
+	*How we row. The behavioural standard.*
 	[[OUR CULTURE]]
+	*Culture and closing. How we behave around kids, parents and each other.*
 </callout>
 ---
 ### REFERENCE READING — CONSCIOUS COACHING

@@ -12,8 +12,8 @@ sport: All Sports
 status: Live
 order: 1
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "INJURY / INCIDENT"
@@ -21,7 +21,7 @@ aliases:
   - "INCIDENTS"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! A kid is hurt or something happened that has to be reported. What you do in the moment, in order. Every row below is a page: tap it.
+	Coach! A kid is hurt or something happened that has to be reported. What you do in the moment, in order. Every **→** below is a door: tap it.
 </callout>
 # INJURY / INCIDENT
 <callout icon="🚑" color="gray_bg">

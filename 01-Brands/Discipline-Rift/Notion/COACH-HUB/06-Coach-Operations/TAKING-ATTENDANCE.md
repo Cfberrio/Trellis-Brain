@@ -12,21 +12,23 @@ sport: All Sports
 status: Live
 notion_parent: COACH DASHBOARD
 notion_created: 2026-08-25
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "TAKING ATTENDANCE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is the one thing you must do every practice. Team, session, Start Check-in, tap each player. Nothing to save. Load the page before you enter the school.
+	Coach! This is the one thing you must do every practice. Team, session, Start Check-in, tap each player. Nothing to save. Load the page and screenshot your roster email before you enter the school: there is no signal inside.
 </callout>
 # TAKING ATTENDANCE
 <callout icon="💡" color="gray_bg">
-	The Dashboard shows your **current roster**. It is your primary roster and attendance tool during practice. The **Select Session** list exists so you can pick a practice to check in; it is not your schedule. Your schedule is the one linked in [[YOUR SCHEDULE]].
+	The Dashboard shows your **current roster**. It is your primary roster and attendance tool during practice. The **Select Session** list exists so you can pick a practice to check in; it is not your schedule.
+	[[YOUR SCHEDULE]]
+	*Where and when you coach. The Dashboard session list is not the schedule.*
 </callout>
 ## THE EIGHT STEPS
-1. **Before you enter the school**, open the Dashboard and load your team so the page is ready.
+1. **Before you enter the school**, open the Dashboard and load your team so the page is ready. Then open the roster email DR sent to your Gmail and **screenshot it**. Both, every practice, before you walk in.
 2. Log in at [**disciplinerift.com/coach**](http://disciplinerift.com/coach). The page greets you: *"Welcome, \[your name\] • N assigned teams"*.
 3. In **My Teams**, tap your team. It fills in when selected. Many teams? Use the **Search in my teams...** box. The first team is picked for you.
 4. The card **Select Session – \[team\]** appears. Tap today's practice, for example *Monday, July 20, 2026 — 15:00 - Orangewood*.
@@ -80,7 +82,11 @@ aliases:
 - Every tap saves by itself, instantly. The blue box under the list says *"Session Summary: X of Y students present"* and *"Changes are saved automatically in the system"*.
 - **Made a mistake? Tap the other button.** The last tap wins, as many times as you need.
 <callout icon="📶" color="gray_bg">
-	**Connectivity.** Load the Dashboard before entering the school. If the Dashboard shows **`offline: true`**, or you cannot reliably complete check-in, **call DR at (407) 614-7454**. That line rings DR leadership so an available leader can respond. Calling does not mean practice is canceled. Before you leave campus, confirm every player is marked and **Pending: 0**. A screenshot of the roster is an emergency backup only, never the record.
+	**Connectivity. Schools have no signal inside.** Do both before you enter:
+	1. Load the Dashboard with your team selected.
+	2. Open the roster email DR sent to your Gmail and screenshot it.
+	If the Dashboard shows **`offline: true`** or check-in will not complete: mark attendance on the screenshot, run practice, and enter it in the Dashboard the moment you have signal, the same day. Still cannot get it in? **Call DR at (407) 614-7454.** The line rings DR leadership. Calling does not mean practice is canceled.
+	The Dashboard is the record. The screenshot is how you get there when the building has no signal. Before you leave campus, confirm every player is marked and **Pending: 0**.
 </callout>
 <callout icon="📋" color="gray_bg">
 	**Player not on the list?** A player says they are registered but is not on your Dashboard roster: do not let it slide and do not resolve it yourself. **Call DR at (407) 614-7454** with the player's name and team to confirm enrollment. Follow DR's direction.
@@ -95,6 +101,7 @@ aliases:
 - You can open a future practice and mark it early. Be careful not to mark the wrong day.
 - The small date badge on the Attendance List card shows **today's date**, not the date you selected. Trust the date in the **Select Session** list.
 ## TAKE ACTION
+- [ ] Load the Dashboard and screenshot the roster email before you enter the school
 - [ ] Take attendance every practice, on the day itself
 - [ ] Mark every player: finish at **Pending: 0**
 - [ ] Mark at the start of practice, not from memory that night

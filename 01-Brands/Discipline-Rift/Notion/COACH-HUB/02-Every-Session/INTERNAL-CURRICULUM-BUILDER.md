@@ -12,18 +12,23 @@ sport: All Sports
 status: Internal
 order: 99
 notion_created: 2026-09-11
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "INTERNAL — Curriculum Builder"
   - "INTERNAL - Curriculum Builder"
 ---
-<callout icon="🧱" color="gray_bg">
-	**Internal container, not a coach page.** Status `Internal`, order 99. Notion nests the curriculum-builder templates, the restructure change-log and one archived page under here so they stay out of the coach-facing spine (START HERE → COACHING TODAY → CURRICULUM → HOW WE COACH → NEED HELP → TRAINING & CULTURE). The page itself has no body text; it is a folder.
+<callout icon="🛠️" color="gray_bg">
+	**INTERNAL.** Not a coach page. These are the five builder templates and the restructure log used to build sport hubs. Coaches start at START HERE.
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/00-Start-Here/START-HERE|START HERE]]
+	*The coach front door.*
+</callout>
+<callout icon="💡" color="gray_bg">
+	**Door rule for anything built from these templates:** every page a coach must open is `**→** <mention-page/>` on its own line with a one-line italic under it. Primary doors on hubs are `### → <mention-page/>`. External tools are `**→ [NAME](url)**`. No prose pointers, no bare chips.
 </callout>
 # INTERNAL — Curriculum Builder
-## PAGES NESTED HERE
+## SUB-PAGES (nested under this hub in Notion)
 - [[WEEK PAGE TEMPLATE]]
 - [[SPORT CURRICULUM TEMPLATE]]
 - [[GAMIFIED CHALLENGE TEMPLATE]]

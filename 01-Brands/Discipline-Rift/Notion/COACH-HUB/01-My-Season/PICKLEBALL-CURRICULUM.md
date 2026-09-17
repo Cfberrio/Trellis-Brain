@@ -12,21 +12,21 @@ sport: Pickleball
 status: Draft
 order: 3
 notion_created: 2025-11-29
-notion_last_edited: 2026-09-06
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "PICKLEBALL CURRICULUM"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Three of six weeks are written. Every row below is a page: tap it.
+	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Three of six weeks are written. Every **→** below is a door: tap it.
 </callout>
 # PICKLEBALL CURRICULUM
 <callout icon="🏓" color="gray_bg">
 	**THE SEASON**
-	[[WEEK 1 - FOREHANDS-2ba04528|WEEK 1 - FOREHANDS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-FOREHANDS-2ba04528|WEEK 1 - FOREHANDS]]
 	*Forehand strokes and basic paddle grip. Life lesson: Teamwork + Discipline.*
-	[[WEEK 2 - BACKHANDS-2ba04528|WEEK 2 - BACKHANDS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-BACKHANDS-2ba04528|WEEK 2 - BACKHANDS]]
 	*Backhand strokes, forehand review. Consistency + Humility.*
 	[[WEEK 3 - DINKS]]
 	*Dinks, forehand and backhand review. Confidence + Adaptability.*
@@ -36,12 +36,24 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
-	[[PRACTICE STRUCTURE]]
-	[[WARM UPS]]
+	[[PRACTICE DESIGN]]
+	*How every DR practice is built, start to finish. The only live practice structure.*
+	[[PROGRESSION LADDER]]
+	*What you teach next and when. The ladder on every Week page is a sample.*
+	[[COACH RULES]]
+	*What good coaching looks like while players are practicing.*
+	[[ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]]
+	*The 60 minute block clock.*
+	[[ARCHIVE — WARM UPS (use sport warm-up banks)]]
+	*Archived warm-up list.*
 	[[TIERS]]
+	*Tiers: how to split one group by level.*
 	[[GROUP DYNAMICS]]
-	[[GAMES]]
-	[[LIFE LESSON]]
+	*Group dynamics: K to 2 versus 3 to 5.*
+	[[ARCHIVE — GAMES (superseded by sport game banks)]]
+	*Archived game bank.*
+	[[ARCHIVE — LIFE LESSON (no longer a required block)]]
+	*The Word of the Week. Culture, not a required block on every week page.*
 </callout>
 ## THE SEASON MAP
 <table>

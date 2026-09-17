@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 notion_parent: NEED HELP
 notion_created: 2026-09-11
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "MISSING PLAYER"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! A rostered player is not with the team. You find out why. You do not mark absent and move on. Every row below is a page: tap it.
+	Coach! A rostered player is not with the team. You find out why. You do not mark absent and move on. Every **→** below is a door: tap it.
 </callout>
 # MISSING PLAYER
 <callout icon="🔍" color="gray_bg">
@@ -34,12 +34,14 @@ aliases:
 	**MID-PRACTICE, THE COUNT COMES UP SHORT**
 	Stop the drill. Recount. Scan the space, bathroom, water fountain. Ask the players; they usually know. At 60 seconds still short: run the procedure above.
 	[[HEAD COUNTS]]
+	*The counting standard: when, how, and what to do when the number is wrong.*
 </callout>
 <callout icon="✅" color="gray_bg">
 	**ONCE YOU KNOW.** Update attendance in the Dashboard so the record matches reality. Update your number out loud. Tell your co-coach.
 </callout>
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
+	**AROUND A MISSING PLAYER**
 	[[ROSTER & PLAYER ACCOUNTABILITY]]
 	*The roster, late arrivals, a player who is not on the list.*
 	[[ARRIVAL]]

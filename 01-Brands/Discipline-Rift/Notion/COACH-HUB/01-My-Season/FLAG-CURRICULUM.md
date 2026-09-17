@@ -12,14 +12,14 @@ sport: Flag Football
 status: Live
 order: 2
 notion_created: 2024-08-27
-notion_last_edited: 2026-09-06
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "FLAG CURRICULUM"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Six weeks, full session plans: start at SEASON OVERVIEW, then tap your week. Every row below is a page: tap it.
+	Coach! This is your game plan for every practice. Learn it. Practice it. Develop it. Six weeks, full session plans: start at SEASON OVERVIEW, then tap your week. Every **→** below is a door: tap it.
 </callout>
 # FLAG CURRICULUM
 CURRICULUM CULTURE: how we do things, how we connect as coaches.
@@ -45,11 +45,17 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**SKILLS**
+	*One page per skill. Open the one your week names.*
 	[[THROWING]]
+	*Throwing: grip, step, release.*
 	[[CATCHING]]
+	*Catching: hands, eyes, tuck.*
 	[[FLAG PULLING]]
+	*Flag pulling: angle, approach, pull.*
 	[[AGILITY DRILLS]]
+	*Agility drills for footwork and change of direction.*
 	[[CONDITIONING]]
+	*Conditioning inside the practice, not instead of it.*
 </callout>
 <callout icon="🏈" color="gray_bg">
 	**FOR THIS SPORT**
@@ -58,14 +64,22 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches.
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
-	[[PRACTICE STRUCTURE]]
 	[[PRACTICE DESIGN]]
+	*How every DR practice is built, start to finish. The only live practice structure.*
+	[[PROGRESSION LADDER]]
+	*What you teach next and when. The ladder on every Week page is a sample.*
+	[[COACH RULES]]
+	*What good coaching looks like while players are practicing.*
+	[[ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]]
 	*The 60 minute block clock, written for flag.*
-	[[WARM UPS]]
 	[[TIERS]]
-	[[GAMES]]
-	*ZONES GAME lives there now.*
-	[[LIFE LESSON]]
+	*Tiers: how to split one group by level.*
+	[[ARCHIVE — GAMES (superseded by sport game banks)]]
+	*Archived game bank. ZONES GAME lives there.*
+	[[ARCHIVE — WARM UPS (use sport warm-up banks)]]
+	*Archived warm-up list.*
+	[[ARCHIVE — LIFE LESSON (no longer a required block)]]
+	*The Word of the Week. Culture, not a required block on every week page.*
 </callout>
 <callout icon="/icons/gradebook_green.svg" color="gray_bg">
 	**RESOURCES**

@@ -13,14 +13,14 @@ status: Live
 order: 1
 notion_parent: COACHING TODAY
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "HEAD COUNTS"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! You count your team every time you move. This page is the standard: when you count, how you count, and what you do when the number is wrong.
+	Coach! You count your team every time you move. This page is the standard: when you count, how you count, and what you do when the number is wrong. Every **→** below is a door: tap it.
 </callout>
 # HEAD COUNTS
 <callout icon="💡" color="gray_bg">
@@ -79,7 +79,10 @@ Every one of these, every session. No exceptions, and no skipping one because th
 	**First 60 seconds:** recount, scan the space, check the bathroom and the water fountain, ask the players — they usually know.
 	**At 60 seconds, still short:** ask aftercare, the front office or nearby school staff. When appropriate, send one responsible player, or two responsible players together, to check and come straight back. One coach stays with the team and keeps them in one place; if you are coaching alone, the team stays with you. You do not leave a group unattended to search.
 	**Still unconfirmed:** **call DR at (407) 614-7454.** The line rings DR leadership. Do not wait until the end of practice to report it, and do not let the parent be the one who tells us.
+	[[MISSING PLAYER]]
+	*The missing-player procedure: ask, send, supervise, call.*
 	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	*Your roster, late arrivals, a player not on the list.*
 </callout>
 ## 5 · WHILE YOU ARE MOVING
 The walk between two places is the highest-risk part of a session that has no ball in it.

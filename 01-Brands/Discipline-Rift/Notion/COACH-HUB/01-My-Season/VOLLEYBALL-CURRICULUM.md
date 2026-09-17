@@ -12,26 +12,32 @@ sport: Volleyball
 status: Live
 order: 1
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "VOLLEYBALL CURRICULUM"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your bread and water to coach every practice. Learn it. Practice it. Develop it. Six weeks, full session plans. Every row below is a page: tap it.
+	Coach! This is your bread and water to coach every practice. Learn it. Practice it. Develop it. Six weeks, full session plans. Every **→** below is a door: tap it.
 </callout>
 # VOLLEYBALL CURRICULUM
 CURRICULUM CULTURE: how we do things, how we connect as coaches.
 <callout icon="🏐" color="gray_bg">
 	**THE SEASON**
-	[[WEEK 1]]
-	[[WEEK 2]]
-	[[WEEK 3]]
-	[[WEEK 4]]
-	[[WEEK 5]]
-	[[WEEK 6]]
 	*All six weeks rewritten. Each week names the Skill and the Problem; you choose the game from the banks below.*
+	[[WEEK 1]]
+	*Passing and setting. Show them the sport, then teach the first contact.*
+	[[WEEK 2]]
+	*Serving. Getting the ball over on purpose.*
+	[[WEEK 3]]
+	*Attacking. Only when a playable set creates the next problem.*
+	[[WEEK 4]]
+	*Defending. Reading and getting to the ball.*
+	[[WEEK 5]]
+	*Moving. Move early, stop, play.*
+	[[WEEK 6]]
+	*Communicating. Calling the ball, calling names.*
 </callout>
 <callout icon="🎲" color="gray_bg">
 	**GAME BANKS — you pick, we do not pick for you**
@@ -44,13 +50,21 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**SKILLS**
+	*One page per skill: positions by numbers, teaching cues, coach reminders. Open the one your week names.*
 	[[PASSING]]
+	*Passing by numbers, 1 to 4.*
 	[[SETTING]]
+	*Setting by numbers, 1 to 4.*
 	[[SERVING]]
+	*Underhand serve by numbers.*
 	[[ATTACKING]]
+	*Left-right, plant, up, finish.*
 	[[DEFENDING]]
+	*Defense by numbers, 1 to 5.*
 	[[MOVING]]
+	*Move early, stop, push up.*
 	[[COMMUNICATING]]
+	*Coach to team, player to player, names.*
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
@@ -60,7 +74,7 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches.
 	*What you teach next and when.*
 	[[COACH RULES]]
 	*What good coaching looks like while players are practicing.*
-	[[LIFE LESSON]]
+	[[ARCHIVE — LIFE LESSON (no longer a required block)]]
 	*The Word of the Week. Culture, not a required block on every week page.*
 </callout>
 <callout icon="/icons/gradebook_green.svg" color="gray_bg">
@@ -73,3 +87,7 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches.
 <callout icon="🚩" color="gray_bg">
 	Read your week before you drive out, not in the parking lot.
 </callout>
+## SUB-PAGES (nested under this hub in Notion)
+- [[VOLLEYBALL WARM-UP GAMES]]
+- [[VOLLEYBALL GAMIFIED CHALLENGES]]
+- [[VOLLEYBALL CFU GAMES]]

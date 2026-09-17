@@ -12,8 +12,8 @@ sport: Tennis
 status: Live
 order: 1
 notion_created: 2024-09-04
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "WEEK 1 - FOREHANDS-4260d733"
@@ -25,12 +25,19 @@ aliases:
 # WEEK 1 — FOREHANDS
 <callout icon="🪜" color="yellow_bg">
 	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
+	[[PROGRESSION LADDER]]
+	*The sample ladder. Pick your one or two starting rungs from it.*
 </callout>
 <callout icon="🧠" color="gray_bg">
-	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are in COACHING TODAY, not here.
+	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are not here.
 	[[PRACTICE DESIGN]]
+	*The shape of practice.*
 	[[PROGRESSION LADDER]]
+	*What comes next and why.*
 	[[COACH RULES]]
+	*How you coach each rep.*
+	[[COACHING TODAY]]
+	*Arrival, attendance, dismissal, parents: the practice day.*
 </callout>
 # INTRODUCTION (10 MIN)
 > **WELCOME**
@@ -94,7 +101,7 @@ aliases:
 		<details>
 		<summary>**THE LINES GAME**</summary>
 			1. **Court Overview**: <br>Begin by explaining the various lines on the tennis court
-				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/26f66e42-7277-48f5-9190-3813f45ed54c/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UQGHMFR2%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001253Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIDBcyBhEazt43gERezynnxz4B2k%2BzhrO%2BYly24gnLUisAiANrwnl4oBYdYZaMkMUkz4JcsqIldKrGrfpQzN3KPtSOyqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMc09xzIq2oaylKw19KtwDaN7tJRbPlX3TIXKGSZ21Kz8LDchrzULRvmQdSYqQkNHKMCyyZG6IRpynpnp7lOih6BsiThzhaLVbCqKf%2BMQmK8Vd3%2FrztL2EKO2ZJkSPG0cMVqlpolyZT2HfB6838ORGeREKKBABM4bhL4TViCap9ypo%2BIp83j5%2FxobezLn21eRMj9%2FgD8I4mxT1nGbnlyrwwLIhPQ%2FQ4jI1C7ZZREz3uPjo8pAYkHMVfaRpTr9hlZP1dy3YYbGp%2BcJ3%2FBCII2rwQKYMXGxNqw5O0KY9CQLy2POGIz2CuLEFN5w8YyZ%2BJ5A3PgQ6b3tQ0tISxb%2BmiCad1F8V%2B9tIcOyAe7Nh1C0CNWsP8AOYuUDQ2VJwHp7n4pcTl74KikX%2FRL8kBR%2Fz1CxaqKJmAGBsqkxxvkqsZBCBIGpUAFnbVN24HW%2FGlqGh%2Big3%2BXfTcgzquru2DIjGhSO4Dh36AygVc0PXN347w3x%2FoOZzI2FzS67Ve0QTcqo1ta%2B2YE7QpqJygNI1ZIRQc9MYYCldCOPFwhlecgGLsInzQm609cI%2FBvqcIHRfNczMSfLnp0esKf%2B2CmAl1ie85uTo3ypU%2F%2BNBSHStPsOjDufQ%2Br9kAu9aW0zPGNxIy9gRBWgIdKYKUosJ7v6oYOYwks7z0wY6pgEDVltD%2FKsPRmRLQF1pgS6qEmkhwbU0aZ9TGp%2BKJnf0f%2B5giUnIwjHT57NaOzaA%2BkT29aG6D9HuKCx6oPQ5EnhVsCsPQb9f0iDuqQlKLFAkWamtfDnAC%2FGFFzeT6nCfcWpdwAry3CcdJiksadWsKHwWfe1Y7a0mkkwuXfV3peYgh%2BHsoeqKDjqxF3oZSVG%2BcVvYUiXDvjIb8MHYBgA6H9RoU6zFozIM&X-Amz-Signature=dc5bf9db2472b08008867c3a6463957a26f4b0978751e10d44211b7449ea5cba&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/26f66e42-7277-48f5-9190-3813f45ed54c/image.png) <!-- notion-hosted, URL expires -->
 			2. **Instructions:**
 				- **Call Out a Line:**<br>The coach will randomly call out one of the tennis court lines (e.g., "Baseline," "Service Line," or "Sideline").
 				- **Race to the Line:**<br>All players must run as quickly as possible to the line that was called.
@@ -253,7 +260,7 @@ aliases:
 			5. **Winning Condition**:
 				- The first team to reach the **pre-determined point total** wins the challenge. 
 				<empty-block/>
-				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/24d3d9c2-5bab-4ff5-872c-ad2627007450/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UQGHMFR2%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001253Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIDBcyBhEazt43gERezynnxz4B2k%2BzhrO%2BYly24gnLUisAiANrwnl4oBYdYZaMkMUkz4JcsqIldKrGrfpQzN3KPtSOyqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMc09xzIq2oaylKw19KtwDaN7tJRbPlX3TIXKGSZ21Kz8LDchrzULRvmQdSYqQkNHKMCyyZG6IRpynpnp7lOih6BsiThzhaLVbCqKf%2BMQmK8Vd3%2FrztL2EKO2ZJkSPG0cMVqlpolyZT2HfB6838ORGeREKKBABM4bhL4TViCap9ypo%2BIp83j5%2FxobezLn21eRMj9%2FgD8I4mxT1nGbnlyrwwLIhPQ%2FQ4jI1C7ZZREz3uPjo8pAYkHMVfaRpTr9hlZP1dy3YYbGp%2BcJ3%2FBCII2rwQKYMXGxNqw5O0KY9CQLy2POGIz2CuLEFN5w8YyZ%2BJ5A3PgQ6b3tQ0tISxb%2BmiCad1F8V%2B9tIcOyAe7Nh1C0CNWsP8AOYuUDQ2VJwHp7n4pcTl74KikX%2FRL8kBR%2Fz1CxaqKJmAGBsqkxxvkqsZBCBIGpUAFnbVN24HW%2FGlqGh%2Big3%2BXfTcgzquru2DIjGhSO4Dh36AygVc0PXN347w3x%2FoOZzI2FzS67Ve0QTcqo1ta%2B2YE7QpqJygNI1ZIRQc9MYYCldCOPFwhlecgGLsInzQm609cI%2FBvqcIHRfNczMSfLnp0esKf%2B2CmAl1ie85uTo3ypU%2F%2BNBSHStPsOjDufQ%2Br9kAu9aW0zPGNxIy9gRBWgIdKYKUosJ7v6oYOYwks7z0wY6pgEDVltD%2FKsPRmRLQF1pgS6qEmkhwbU0aZ9TGp%2BKJnf0f%2B5giUnIwjHT57NaOzaA%2BkT29aG6D9HuKCx6oPQ5EnhVsCsPQb9f0iDuqQlKLFAkWamtfDnAC%2FGFFzeT6nCfcWpdwAry3CcdJiksadWsKHwWfe1Y7a0mkkwuXfV3peYgh%2BHsoeqKDjqxF3oZSVG%2BcVvYUiXDvjIb8MHYBgA6H9RoU6zFozIM&X-Amz-Signature=0707dfe42ebe9e8b08403914a9332395cf301f525f73a1fbe1a0084a54744c08&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/24d3d9c2-5bab-4ff5-872c-ad2627007450/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 	<callout icon="/icons/baseball_yellow.svg" color="gray_bg">
@@ -275,7 +282,7 @@ aliases:
 				- Adjust the cones to practice **cross-court**, **down-the-line**, and other strategic shots to simulate various match scenarios.
 			6. **Purpose**:
 				- Improve players' ability to **aim** and **hit targets** in different match scenarios, developing their accuracy and strategic thinking.
-				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/cede3906-ac70-49ea-bf26-75afc734685e/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UQGHMFR2%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001253Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIDBcyBhEazt43gERezynnxz4B2k%2BzhrO%2BYly24gnLUisAiANrwnl4oBYdYZaMkMUkz4JcsqIldKrGrfpQzN3KPtSOyqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMc09xzIq2oaylKw19KtwDaN7tJRbPlX3TIXKGSZ21Kz8LDchrzULRvmQdSYqQkNHKMCyyZG6IRpynpnp7lOih6BsiThzhaLVbCqKf%2BMQmK8Vd3%2FrztL2EKO2ZJkSPG0cMVqlpolyZT2HfB6838ORGeREKKBABM4bhL4TViCap9ypo%2BIp83j5%2FxobezLn21eRMj9%2FgD8I4mxT1nGbnlyrwwLIhPQ%2FQ4jI1C7ZZREz3uPjo8pAYkHMVfaRpTr9hlZP1dy3YYbGp%2BcJ3%2FBCII2rwQKYMXGxNqw5O0KY9CQLy2POGIz2CuLEFN5w8YyZ%2BJ5A3PgQ6b3tQ0tISxb%2BmiCad1F8V%2B9tIcOyAe7Nh1C0CNWsP8AOYuUDQ2VJwHp7n4pcTl74KikX%2FRL8kBR%2Fz1CxaqKJmAGBsqkxxvkqsZBCBIGpUAFnbVN24HW%2FGlqGh%2Big3%2BXfTcgzquru2DIjGhSO4Dh36AygVc0PXN347w3x%2FoOZzI2FzS67Ve0QTcqo1ta%2B2YE7QpqJygNI1ZIRQc9MYYCldCOPFwhlecgGLsInzQm609cI%2FBvqcIHRfNczMSfLnp0esKf%2B2CmAl1ie85uTo3ypU%2F%2BNBSHStPsOjDufQ%2Br9kAu9aW0zPGNxIy9gRBWgIdKYKUosJ7v6oYOYwks7z0wY6pgEDVltD%2FKsPRmRLQF1pgS6qEmkhwbU0aZ9TGp%2BKJnf0f%2B5giUnIwjHT57NaOzaA%2BkT29aG6D9HuKCx6oPQ5EnhVsCsPQb9f0iDuqQlKLFAkWamtfDnAC%2FGFFzeT6nCfcWpdwAry3CcdJiksadWsKHwWfe1Y7a0mkkwuXfV3peYgh%2BHsoeqKDjqxF3oZSVG%2BcVvYUiXDvjIb8MHYBgA6H9RoU6zFozIM&X-Amz-Signature=a5a43c8bfb04b770a26d6267d5bc154fc6b11048b37b3ad4327830f60d5a69a5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/cede3906-ac70-49ea-bf26-75afc734685e/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 	<callout icon="/icons/baseball_yellow.svg" color="gray_bg">
@@ -291,7 +298,7 @@ aliases:
 				- The goal is to hit the approach shot toward **targets** (cones or zones) placed on the opposite side of the court.
 			4. **Purpose**:
 				- This drill trains players to use the **forehand approach** effectively by improving **footwork**, **shot placement**, and **court awareness**, while focusing on transitioning to the net to close out points.<br>
-				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/164d4b25-3be5-4af5-a51e-107bbb9f4212/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UQGHMFR2%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001253Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIDBcyBhEazt43gERezynnxz4B2k%2BzhrO%2BYly24gnLUisAiANrwnl4oBYdYZaMkMUkz4JcsqIldKrGrfpQzN3KPtSOyqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMc09xzIq2oaylKw19KtwDaN7tJRbPlX3TIXKGSZ21Kz8LDchrzULRvmQdSYqQkNHKMCyyZG6IRpynpnp7lOih6BsiThzhaLVbCqKf%2BMQmK8Vd3%2FrztL2EKO2ZJkSPG0cMVqlpolyZT2HfB6838ORGeREKKBABM4bhL4TViCap9ypo%2BIp83j5%2FxobezLn21eRMj9%2FgD8I4mxT1nGbnlyrwwLIhPQ%2FQ4jI1C7ZZREz3uPjo8pAYkHMVfaRpTr9hlZP1dy3YYbGp%2BcJ3%2FBCII2rwQKYMXGxNqw5O0KY9CQLy2POGIz2CuLEFN5w8YyZ%2BJ5A3PgQ6b3tQ0tISxb%2BmiCad1F8V%2B9tIcOyAe7Nh1C0CNWsP8AOYuUDQ2VJwHp7n4pcTl74KikX%2FRL8kBR%2Fz1CxaqKJmAGBsqkxxvkqsZBCBIGpUAFnbVN24HW%2FGlqGh%2Big3%2BXfTcgzquru2DIjGhSO4Dh36AygVc0PXN347w3x%2FoOZzI2FzS67Ve0QTcqo1ta%2B2YE7QpqJygNI1ZIRQc9MYYCldCOPFwhlecgGLsInzQm609cI%2FBvqcIHRfNczMSfLnp0esKf%2B2CmAl1ie85uTo3ypU%2F%2BNBSHStPsOjDufQ%2Br9kAu9aW0zPGNxIy9gRBWgIdKYKUosJ7v6oYOYwks7z0wY6pgEDVltD%2FKsPRmRLQF1pgS6qEmkhwbU0aZ9TGp%2BKJnf0f%2B5giUnIwjHT57NaOzaA%2BkT29aG6D9HuKCx6oPQ5EnhVsCsPQb9f0iDuqQlKLFAkWamtfDnAC%2FGFFzeT6nCfcWpdwAry3CcdJiksadWsKHwWfe1Y7a0mkkwuXfV3peYgh%2BHsoeqKDjqxF3oZSVG%2BcVvYUiXDvjIb8MHYBgA6H9RoU6zFozIM&X-Amz-Signature=f1af6cfb0f967b5010e0fbd926967880c4aa1913e6da264c4be4800377fa0a95&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/164d4b25-3be5-4af5-a51e-107bbb9f4212/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 	<callout icon="/icons/baseball_yellow.svg" color="gray_bg">
@@ -307,7 +314,7 @@ aliases:
 				- After hitting, players **shuffle back to the middle**, ready for the next repetition.
 			4. **Repeat**:
 				- Continue this drill, focusing on quick movement, positioning, and recovery.
-				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/85ea03b4-43e0-4a39-b59d-560e60cf11f1/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UQGHMFR2%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001253Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIDBcyBhEazt43gERezynnxz4B2k%2BzhrO%2BYly24gnLUisAiANrwnl4oBYdYZaMkMUkz4JcsqIldKrGrfpQzN3KPtSOyqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMc09xzIq2oaylKw19KtwDaN7tJRbPlX3TIXKGSZ21Kz8LDchrzULRvmQdSYqQkNHKMCyyZG6IRpynpnp7lOih6BsiThzhaLVbCqKf%2BMQmK8Vd3%2FrztL2EKO2ZJkSPG0cMVqlpolyZT2HfB6838ORGeREKKBABM4bhL4TViCap9ypo%2BIp83j5%2FxobezLn21eRMj9%2FgD8I4mxT1nGbnlyrwwLIhPQ%2FQ4jI1C7ZZREz3uPjo8pAYkHMVfaRpTr9hlZP1dy3YYbGp%2BcJ3%2FBCII2rwQKYMXGxNqw5O0KY9CQLy2POGIz2CuLEFN5w8YyZ%2BJ5A3PgQ6b3tQ0tISxb%2BmiCad1F8V%2B9tIcOyAe7Nh1C0CNWsP8AOYuUDQ2VJwHp7n4pcTl74KikX%2FRL8kBR%2Fz1CxaqKJmAGBsqkxxvkqsZBCBIGpUAFnbVN24HW%2FGlqGh%2Big3%2BXfTcgzquru2DIjGhSO4Dh36AygVc0PXN347w3x%2FoOZzI2FzS67Ve0QTcqo1ta%2B2YE7QpqJygNI1ZIRQc9MYYCldCOPFwhlecgGLsInzQm609cI%2FBvqcIHRfNczMSfLnp0esKf%2B2CmAl1ie85uTo3ypU%2F%2BNBSHStPsOjDufQ%2Br9kAu9aW0zPGNxIy9gRBWgIdKYKUosJ7v6oYOYwks7z0wY6pgEDVltD%2FKsPRmRLQF1pgS6qEmkhwbU0aZ9TGp%2BKJnf0f%2B5giUnIwjHT57NaOzaA%2BkT29aG6D9HuKCx6oPQ5EnhVsCsPQb9f0iDuqQlKLFAkWamtfDnAC%2FGFFzeT6nCfcWpdwAry3CcdJiksadWsKHwWfe1Y7a0mkkwuXfV3peYgh%2BHsoeqKDjqxF3oZSVG%2BcVvYUiXDvjIb8MHYBgA6H9RoU6zFozIM&X-Amz-Signature=36ad05e9f993e3c39dc97d330f3d2279f1fff1ca6ab439eeb83f0c19eb2cba37&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/85ea03b4-43e0-4a39-b59d-560e60cf11f1/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 # GAME OF THE DAY (10 MIN)

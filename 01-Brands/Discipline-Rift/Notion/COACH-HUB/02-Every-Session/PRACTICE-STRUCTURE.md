@@ -13,7 +13,7 @@ status: Archived
 order: 1
 notion_created: 2024-09-20
 notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)"

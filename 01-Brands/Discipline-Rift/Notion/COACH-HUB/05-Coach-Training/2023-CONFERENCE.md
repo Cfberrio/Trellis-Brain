@@ -11,15 +11,13 @@ page_type: Conference
 sport: All Sports
 status: Live
 notion_created: 2026-08-11
-notion_last_edited: 2026-08-11
-mirrored: 2026-08-12
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "2023 CONFERENCE"
 ---
-
 # 2023 CONFERENCE
-
 > **DR TEAM FALL TRAINING** — the first full staff training in DR history. {color="brown"}
 <callout icon="📍" color="gray_bg">
 	**2:00 – 5:30 PM** · 735 Herndon Ave, Orlando, FL 32803
@@ -110,10 +108,15 @@ aliases:
 	<span underline="true">**WHAT WAS TAUGHT**</span>
 	The content lives in the topic pages. This page is the record of the day.
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/BEING-A-COACH|BEING A COACH]]
+	*Session 1. Where the word coach comes from, and the moral responsibility in it.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/THE-HAND-OF-A-COACH|THE HAND OF A COACH]]
+	*Session 2. The five fingers of coaching.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/DR-FORMULA|DR FORMULA]]
+	*Session 2. Knowledge + Skill x Attitude squared.*
 	[[COACH EXPECTATIONS]]
+	*Session 3. The ten responsibilities.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
+	*Session 5. Humble, Hungry, Smart.*
 </callout>
 ---
 ### WHO PRESENTED

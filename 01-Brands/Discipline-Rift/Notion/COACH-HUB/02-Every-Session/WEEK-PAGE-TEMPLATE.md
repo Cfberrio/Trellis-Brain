@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "WEEK PAGE TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Copy this page for every week, in every sport. This is your roadmap, not the encyclopedia. Every row below is a page: tap it.
+	Coach! Copy this page for every week, in every sport. This is your roadmap, not the encyclopedia. Every **→** below is a door: tap it.
 </callout>
 # WEEK PAGE TEMPLATE
 <callout icon="💡" color="gray_bg">
@@ -34,7 +34,10 @@ aliases:
 	[[COACH RULES]]
 	*How you coach it.*
 </callout>
-# WEEK [#]
+<callout icon="💡" color="gray_bg">
+	**Door rule:** every page a coach must open goes on its own line as `**→** <mention-page/>` with a one-line italic under it. In the ladder table, write the challenge link the same way. Never "see X" or "linked in Notion".
+</callout>
+# WEEK \[#\]
 SHOW IT · 3 LINES PER COACH · READY PLAYER · COACH EVERY REP · CHECK LEARNING
 ## 1 · WHERE ARE WE?
 <table header-row="true">

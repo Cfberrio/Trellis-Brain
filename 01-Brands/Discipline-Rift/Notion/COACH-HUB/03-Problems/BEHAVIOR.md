@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 notion_parent: NEED HELP
 notion_created: 2026-09-11
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "BEHAVIOR"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! A player will not stop, or the group is losing the plot. What you do, in order. Every row below is a page: tap it.
+	Coach! A player will not stop, or the group is losing the plot. What you do, in order. Every **→** below is a door: tap it.
 </callout>
 # BEHAVIOR
 <callout icon="💡" color="gray_bg">
@@ -29,6 +29,7 @@ aliases:
 	**PREVENT IT FIRST**
 	Most behaviour problems are a practice-design problem. Long lines, long explanations and dead time make kids invent their own game. Protect the hour: multiple lines, high reps, short cues, next setup ready. Clear boundaries named out loud before the first ball.
 	[[COACH RULES]]
+	*The twelve behaviours that keep kids busy enough to behave.*
 </callout>
 <callout icon="2️⃣" color="gray_bg">
 	**THE 3 CALL-OUT RULE** (current DR rule)
@@ -42,6 +43,7 @@ aliases:
 <callout icon="👪" color="gray_bg">
 	**PARENTS ARE THE PARTNERSHIP.** A parent who already hears good things from you will hear a hard thing from you too. DR steps in on serious or repeated cases, and can move a player off a team. That only works if the parent has already heard from you, in the Dashboard and in person. Never let removal be the first thing a family hears.
 	[[PARTNERING WITH PARENTS]]
+	*What to say to the parent and how to start it from a relationship.*
 </callout>
 <callout icon="🚩" color="gray_bg">
 	Fix the drill before you blame the kid. Then: speak, sit out, parent + DR. Safety skips the ladder.

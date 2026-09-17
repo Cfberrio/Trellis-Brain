@@ -12,8 +12,8 @@ sport: Tennis
 status: Live
 order: 4
 notion_created: 2024-10-01
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "WEEK 4 - SERVES"
@@ -24,12 +24,19 @@ aliases:
 # WEEK 4 — SERVES
 <callout icon="🪜" color="yellow_bg">
 	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
+	[[PROGRESSION LADDER]]
+	*The sample ladder. Pick your one or two starting rungs from it.*
 </callout>
 <callout icon="🧠" color="gray_bg">
-	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are in COACHING TODAY, not here.
+	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are not here.
 	[[PRACTICE DESIGN]]
+	*The shape of practice.*
 	[[PROGRESSION LADDER]]
+	*What comes next and why.*
 	[[COACH RULES]]
+	*How you coach each rep.*
+	[[COACHING TODAY]]
+	*Arrival, attendance, dismissal, parents: the practice day.*
 </callout>
 # INTRODUCTION (5 MIN)
 > **WELCOME**
@@ -85,7 +92,7 @@ aliases:
 		<details>
 		<summary>**THE LINES GAME**</summary>
 			1. **Court Overview**: <br>Begin by explaining the various lines on the tennis court
-				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/26f66e42-7277-48f5-9190-3813f45ed54c/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHQHPENC%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001133Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIE6afxv9DizGq%2Br2U0MhhH3zbM7jXE4NyyQUleX9BKrBAiAcSny4xY27PmLWwL2abaleTYrv0Qifs0b2CUBq%2F6tCtiqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIM9ccGPumeC%2BBgZxnLKtwDhA9oGR1qdXN6ef8PLrafVRo67vJvnU9b8Kbygs%2B6z9yy4k%2BIERqGPjk0BGFXaS91yqFJITgwFhfT4i7blfYIc7PLRaf3C4oBdd7zIiyYDHDRsHrKaRg5LYFV3E7ykzUsWsy0ab11n1BvEmCKT50ARn%2B9CiRqWJnR%2F5uVjmZcu1%2F2FRMr3Fpcgtk5libd17jIPr2UDEifITNsgiK9nFRATUltjtqa69QPve5hZvo9YiUeb8HfXu8hW3OjcIE70%2BHsKplp949vGvdehgjASJnPX%2B3RtYpQMOpKJThfvd3YUMbYlyKmlTDVLn6XLtUtetBn%2B2kx4n5h9Ofc%2Bl3vEMpbHawtpSI8thNK545mpVsEvIap%2Bvh8cYPCVV1OQj1nGTB9H7PouVz2iLRAWvXZLbeR9Vy3Rl1u9oh1ajNf9pzE%2FlfHXofYV3oFOd98XcTWRiPexB%2FbR7RsQcf9JKbMCfP5BQfa4DFmt5QxCBtui55ETYBLQs2AjlOFKo211DWLbW0Y7DIlOvmyQ3ajDyq3zve4a0P5wXXXogf5dNS074vDXsfN1KRQbhYGzHTD8dYbYbM0vy6s%2BXLjRlSdC7RUN6Ho1yZi9BqHqmdIMLk7DDigIKPEkTH6gH5AXTGRp00wiszz0wY6pgEj4RABrQSK7oae9dNUpmv%2B9KWeWyPDSbn59W6BmyNKXzlWYYcCZWVJw%2FwB6ModUEyFqjT89j%2FSMYS48aBIcSk0%2Bkp%2FBauY7qjvC48Jz4sIUrhvI2dfBlxSEUWwIwxWazNDA8pD4k%2Bvm%2B7TlC4ZwcLeLhiOr50XKBcwYlaQ8bGgJxL%2F18Sz4pQkasA5xSq3ht00UkEktinHK%2Bsb%2FXmw5SzkevOJ%2BQzP&X-Amz-Signature=1cf73af57ca0f1162a2878ffbac473b541cfa9ea84c622b1ba1d4f78dfdc93ee&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+				![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/26f66e42-7277-48f5-9190-3813f45ed54c/image.png) <!-- notion-hosted, URL expires -->
 			2. **Instructions:**
 				- **Call Out a Line:**<br>The coach will randomly call out one of the tennis court lines (e.g., "Baseline," "Service Line," or "Sideline").
 				- **Race to the Line:**<br>All players must run as quickly as possible to the line that was called.
@@ -299,7 +306,7 @@ aliases:
 				- Provide feedback on aim, footwork, and consistency during serves.
 			7. **Purpose:**
 			- Enhance volley accuracy and consistency while developing strategic targeting in match-like scenarios.
-			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/b261df64-87e4-4340-aaa6-37d70607da0e/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHQHPENC%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001133Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIE6afxv9DizGq%2Br2U0MhhH3zbM7jXE4NyyQUleX9BKrBAiAcSny4xY27PmLWwL2abaleTYrv0Qifs0b2CUBq%2F6tCtiqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIM9ccGPumeC%2BBgZxnLKtwDhA9oGR1qdXN6ef8PLrafVRo67vJvnU9b8Kbygs%2B6z9yy4k%2BIERqGPjk0BGFXaS91yqFJITgwFhfT4i7blfYIc7PLRaf3C4oBdd7zIiyYDHDRsHrKaRg5LYFV3E7ykzUsWsy0ab11n1BvEmCKT50ARn%2B9CiRqWJnR%2F5uVjmZcu1%2F2FRMr3Fpcgtk5libd17jIPr2UDEifITNsgiK9nFRATUltjtqa69QPve5hZvo9YiUeb8HfXu8hW3OjcIE70%2BHsKplp949vGvdehgjASJnPX%2B3RtYpQMOpKJThfvd3YUMbYlyKmlTDVLn6XLtUtetBn%2B2kx4n5h9Ofc%2Bl3vEMpbHawtpSI8thNK545mpVsEvIap%2Bvh8cYPCVV1OQj1nGTB9H7PouVz2iLRAWvXZLbeR9Vy3Rl1u9oh1ajNf9pzE%2FlfHXofYV3oFOd98XcTWRiPexB%2FbR7RsQcf9JKbMCfP5BQfa4DFmt5QxCBtui55ETYBLQs2AjlOFKo211DWLbW0Y7DIlOvmyQ3ajDyq3zve4a0P5wXXXogf5dNS074vDXsfN1KRQbhYGzHTD8dYbYbM0vy6s%2BXLjRlSdC7RUN6Ho1yZi9BqHqmdIMLk7DDigIKPEkTH6gH5AXTGRp00wiszz0wY6pgEj4RABrQSK7oae9dNUpmv%2B9KWeWyPDSbn59W6BmyNKXzlWYYcCZWVJw%2FwB6ModUEyFqjT89j%2FSMYS48aBIcSk0%2Bkp%2FBauY7qjvC48Jz4sIUrhvI2dfBlxSEUWwIwxWazNDA8pD4k%2Bvm%2B7TlC4ZwcLeLhiOr50XKBcwYlaQ8bGgJxL%2F18Sz4pQkasA5xSq3ht00UkEktinHK%2Bsb%2FXmw5SzkevOJ%2BQzP&X-Amz-Signature=4ea75d490061ab2a5e6179832894d0c33e7380064a7969f5a001836cc97645cb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/b261df64-87e4-4340-aaa6-37d70607da0e/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 	<callout icon="/icons/baseball_yellow.svg" color="gray_bg">
@@ -354,7 +361,7 @@ aliases:
 			3. **Target Practice**:
 				- Set targets on the opposite side of the court for players to aim at when hitting their overhead smash.
 			**Objective:** This drill helps players develop accuracy, power, and confidence in executing the overhead smash.
-			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/d396b7af-789f-4cd1-be34-e5f72a442b52/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHQHPENC%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001133Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIE6afxv9DizGq%2Br2U0MhhH3zbM7jXE4NyyQUleX9BKrBAiAcSny4xY27PmLWwL2abaleTYrv0Qifs0b2CUBq%2F6tCtiqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIM9ccGPumeC%2BBgZxnLKtwDhA9oGR1qdXN6ef8PLrafVRo67vJvnU9b8Kbygs%2B6z9yy4k%2BIERqGPjk0BGFXaS91yqFJITgwFhfT4i7blfYIc7PLRaf3C4oBdd7zIiyYDHDRsHrKaRg5LYFV3E7ykzUsWsy0ab11n1BvEmCKT50ARn%2B9CiRqWJnR%2F5uVjmZcu1%2F2FRMr3Fpcgtk5libd17jIPr2UDEifITNsgiK9nFRATUltjtqa69QPve5hZvo9YiUeb8HfXu8hW3OjcIE70%2BHsKplp949vGvdehgjASJnPX%2B3RtYpQMOpKJThfvd3YUMbYlyKmlTDVLn6XLtUtetBn%2B2kx4n5h9Ofc%2Bl3vEMpbHawtpSI8thNK545mpVsEvIap%2Bvh8cYPCVV1OQj1nGTB9H7PouVz2iLRAWvXZLbeR9Vy3Rl1u9oh1ajNf9pzE%2FlfHXofYV3oFOd98XcTWRiPexB%2FbR7RsQcf9JKbMCfP5BQfa4DFmt5QxCBtui55ETYBLQs2AjlOFKo211DWLbW0Y7DIlOvmyQ3ajDyq3zve4a0P5wXXXogf5dNS074vDXsfN1KRQbhYGzHTD8dYbYbM0vy6s%2BXLjRlSdC7RUN6Ho1yZi9BqHqmdIMLk7DDigIKPEkTH6gH5AXTGRp00wiszz0wY6pgEj4RABrQSK7oae9dNUpmv%2B9KWeWyPDSbn59W6BmyNKXzlWYYcCZWVJw%2FwB6ModUEyFqjT89j%2FSMYS48aBIcSk0%2Bkp%2FBauY7qjvC48Jz4sIUrhvI2dfBlxSEUWwIwxWazNDA8pD4k%2Bvm%2B7TlC4ZwcLeLhiOr50XKBcwYlaQ8bGgJxL%2F18Sz4pQkasA5xSq3ht00UkEktinHK%2Bsb%2FXmw5SzkevOJ%2BQzP&X-Amz-Signature=d0306e575be9a6596c45480c02d1fcd4eb51bab6bd56a2bfb9dca865197a2bd4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/d396b7af-789f-4cd1-be34-e5f72a442b52/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 	<callout icon="/icons/baseball_yellow.svg" color="gray_bg">
@@ -371,7 +378,7 @@ aliases:
 			2. **Target Practice**:
 				- Based on their performance, set up targets on the opposite side of the court to challenge their accuracy on each shot, especially the overhead smash.
 			This drill combines multiple volleying techniques with the overhead smash, enhancing players' agility, coordination, and precision during net play.
-			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/0974a45d-9494-4733-9555-8749e94976af/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHQHPENC%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001133Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJGMEQCIE6afxv9DizGq%2Br2U0MhhH3zbM7jXE4NyyQUleX9BKrBAiAcSny4xY27PmLWwL2abaleTYrv0Qifs0b2CUBq%2F6tCtiqIBAjX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIM9ccGPumeC%2BBgZxnLKtwDhA9oGR1qdXN6ef8PLrafVRo67vJvnU9b8Kbygs%2B6z9yy4k%2BIERqGPjk0BGFXaS91yqFJITgwFhfT4i7blfYIc7PLRaf3C4oBdd7zIiyYDHDRsHrKaRg5LYFV3E7ykzUsWsy0ab11n1BvEmCKT50ARn%2B9CiRqWJnR%2F5uVjmZcu1%2F2FRMr3Fpcgtk5libd17jIPr2UDEifITNsgiK9nFRATUltjtqa69QPve5hZvo9YiUeb8HfXu8hW3OjcIE70%2BHsKplp949vGvdehgjASJnPX%2B3RtYpQMOpKJThfvd3YUMbYlyKmlTDVLn6XLtUtetBn%2B2kx4n5h9Ofc%2Bl3vEMpbHawtpSI8thNK545mpVsEvIap%2Bvh8cYPCVV1OQj1nGTB9H7PouVz2iLRAWvXZLbeR9Vy3Rl1u9oh1ajNf9pzE%2FlfHXofYV3oFOd98XcTWRiPexB%2FbR7RsQcf9JKbMCfP5BQfa4DFmt5QxCBtui55ETYBLQs2AjlOFKo211DWLbW0Y7DIlOvmyQ3ajDyq3zve4a0P5wXXXogf5dNS074vDXsfN1KRQbhYGzHTD8dYbYbM0vy6s%2BXLjRlSdC7RUN6Ho1yZi9BqHqmdIMLk7DDigIKPEkTH6gH5AXTGRp00wiszz0wY6pgEj4RABrQSK7oae9dNUpmv%2B9KWeWyPDSbn59W6BmyNKXzlWYYcCZWVJw%2FwB6ModUEyFqjT89j%2FSMYS48aBIcSk0%2Bkp%2FBauY7qjvC48Jz4sIUrhvI2dfBlxSEUWwIwxWazNDA8pD4k%2Bvm%2B7TlC4ZwcLeLhiOr50XKBcwYlaQ8bGgJxL%2F18Sz4pQkasA5xSq3ht00UkEktinHK%2Bsb%2FXmw5SzkevOJ%2BQzP&X-Amz-Signature=1bdbbb82fe9321df1594937d324e158037641ebdb01ad91beb84c9572c02fcdd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/0974a45d-9494-4733-9555-8749e94976af/image.png) <!-- notion-hosted, URL expires -->
 		</details>
 	</callout>
 # GAME OF THE DAY (10 MIN)

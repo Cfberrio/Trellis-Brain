@@ -12,7 +12,7 @@ sport: All Sports
 status: Live
 notion_created: 2026-08-11
 notion_last_edited: 2026-08-11
-mirrored: 2026-08-12
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "FUELED"

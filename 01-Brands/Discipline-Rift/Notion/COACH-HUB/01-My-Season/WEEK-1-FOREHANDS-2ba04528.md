@@ -12,8 +12,8 @@ sport: Pickleball
 status: Live
 order: 1
 notion_created: 2025-11-29
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "WEEK 1 - FOREHANDS-2ba04528"
@@ -25,12 +25,19 @@ aliases:
 # WEEK 1 — FOREHANDS
 <callout icon="🪜" color="yellow_bg">
 	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
+	[[PROGRESSION LADDER]]
+	*The sample ladder. Pick your one or two starting rungs from it.*
 </callout>
 <callout icon="🧠" color="gray_bg">
-	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are in COACHING TODAY, not here.
+	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are not here.
 	[[PRACTICE DESIGN]]
+	*The shape of practice.*
 	[[PROGRESSION LADDER]]
+	*What comes next and why.*
 	[[COACH RULES]]
+	*How you coach each rep.*
+	[[COACHING TODAY]]
+	*Arrival, attendance, dismissal, parents: the practice day.*
 </callout>
 # INTRODUCTION (10 MIN)
 > **WELCOME**
@@ -94,7 +101,7 @@ aliases:
 		<details>
 		<summary>**THE LINES GAME**</summary>
 			1. **Court Overview**: <br>Explain key court lines (kitchen, baseline, sidelines).
-			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/9b4a3421-e5a1-42f1-9855-371c365828b4/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XC3LLZFM%2F20260813%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260813T001159Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLXdlc3QtMiJIMEYCIQDH12%2BKFF4kXMLGcv6GMaFdwOQWg%2F9RscLUCvaHWGbktAIhAIwYNGQRNslDcLAokSWmqZkvoVTcGqqoUa%2BYPj7MjfDoKogECNf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igx8%2BhSY43hXfteZcEcq3ANbamr%2FLUb7HWHtoGBnKeXzqtzggCsLv6iUXL9TldKI82a82e%2FiaqiTFkfJBWNhUnX6NsfHlz3zvUHZW43QDgBQVNguLClZZjgIn9fiN6d6xYC5CRSj0J1AWlXo0dl9CgHHQheSBeqKzmGTPjk3yK%2F3SQ7lI5ZgBSWqwA4RCReO3%2BpxZ7VtM6KmKnFwTLPIKq57X6g82PeeSuINDMV0HkI6I%2FRn2rSxynjOf%2FelTi%2F4LRgHAvhNh%2F04tslVuH9psQs%2BjvIVWVxLiee1voqmWupmRPIMoFRfB8OQ6h4CQcxRmPBtuhrvuFpvcxiRrjexRpRRAyKhGtH0ZD7vtgxrr6f2%2BGCfp78bn4yTBW3JelpoROd97GQD4leBxVG4skge1xgoXAMVPTQVa5%2BsF%2FouEWdaVjfMq2gZ6mx9%2F0tqeVTH0Xb%2B1KA4SAQ9USNVE3r4t35YZwL%2F1jC%2F5wZwtXslvDuiFvmSaitiGUz1qaIe2L%2Fuc1XhxpAlyPjozIwNJHfGWF1r786RI8H18GscL369pqA4A1evhta0RzV2%2B7M8crsCh%2BceGKUps%2B4zl33uzjSfMH8st5AKk%2BAToFsrWdAhkEGnJk08a5JQBut2%2F9xEyP28n%2BBlhWsVboA06tza5TDKzPPTBjqkAY6yGJwnDclFhY5QByzjDh%2Ff%2FW89LhdVyramkNyt%2BWaBQDQpg%2F16t4zYiANavzXh2lCIa%2Fg69WgqLqUUm6AtKstlS5KED%2BwjuAipTWK1gLOhn3fnWjqXhJat9EyZ9pJzJ2QImxvlDMvMPuUCzlr8ixQl2IOnqBxP2ZU6GzG7KGfjQ1%2BJF7Hyo%2F4CAXpY1r%2FASKxcMZGf1s3%2FLzV597EeCFJxl%2Fel&X-Amz-Signature=58433f0b9cd2aa67d67169ffd05f3b5651aa7701d5a3e2297d272957ed00045a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <!-- notion-hosted, URL expires -->
+			![](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/9b4a3421-e5a1-42f1-9855-371c365828b4/image.png) <!-- notion-hosted, URL expires -->
 			1. **Instructions:**
 				- **Call Out a Line:**<br>The coach will randomly call out one of the tennis court lines (e.g., "Baseline!") and have players race to it.
 				- **Race to the Line:**<br>All players must run as quickly as possible to the line that was called.

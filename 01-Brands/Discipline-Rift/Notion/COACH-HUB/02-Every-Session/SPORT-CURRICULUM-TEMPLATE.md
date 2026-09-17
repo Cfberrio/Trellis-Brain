@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "SPORT CURRICULUM TEMPLATE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is the shape every sport hub should have: volleyball, flag, tennis, pickleball. Every row below is a page: tap it.
+	Coach! This is the shape every sport hub should have: volleyball, flag, tennis, pickleball. Every **→** below is a door: tap it.
 </callout>
 # SPORT CURRICULUM TEMPLATE
 <callout icon="💡" color="gray_bg">
@@ -36,6 +36,7 @@ aliases:
 </callout>
 ## THE SEASON
 WEEK 1 · WEEK 2 · WEEK 3 · WEEK 4 · WEEK 5 · WEEK 6
+On the live hub each week is a primary door: `### → <mention-page/>` with a one-line italic under it. Skills, banks and shared pages are `**→** <mention-page/>` doors. No bare chips, no prose pointers.
 <callout icon="💡" color="gray_bg">
 	Do not add skill names to week titles. The season is one connected ladder, not six topics.
 </callout>

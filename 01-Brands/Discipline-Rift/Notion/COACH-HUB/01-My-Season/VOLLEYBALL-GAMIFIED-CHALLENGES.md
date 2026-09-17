@@ -12,14 +12,14 @@ sport: Volleyball
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-10
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "VOLLEYBALL GAMIFIED CHALLENGES"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! This is your challenge bank. You are not told which one to run. You watch your group, name the problem you actually see, and pick the challenge that solves it. Every row below is a page: tap it.
+	Coach! This is your challenge bank. You are not told which one to run. You watch your group, name the problem you actually see, and pick the challenge that solves it. Every **→** below is a door: tap it.
 </callout>
 # VOLLEYBALL GAMIFIED CHALLENGES
 Every challenge follows the same shape: **Skill + Problem + Gamified Challenge**. Each page tells you the setup, how to run it, how a player wins, how to make it easier or harder, what to watch, and when the group is ready for the next problem.
@@ -31,24 +31,41 @@ Every challenge follows the same shape: **Skill + Problem + Gamified Challenge**
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**FIND IT BY PROBLEM**
-	Cannot make a useful contact → [[DELIVER THE PACKAGE]]
-	Reaches instead of moving → [[BEAT THE BALL]]
-	Passes anywhere → [[TARGET HOOPS]]
-	No controlled second contact → [[WINDOW DELIVERY]]
-	Arrives late or drifts → [[MOVE–STOP–SET SQUARES]]
-	Pass and set do not connect → [[BUILD THE BRIDGE]]
-	Cannot start a rally → [[SERVE TO UNLOCK]]
-	Serves land anywhere → [[CLAIM THE SQUARES]]
-	Can pass a toss but not a serve → [[SERVE → READ → CATCH]]
-	Two players hesitate → [[WHOSE BALL?]]
-	Stops after their own touch → [[HOME BASE]]
-	Saves the ball but nobody can play it → [[SAVE AND SHARE]]
-	Swings hard with no control → [[HIGH HAND TARGET]]
-	Cannot match the ball's timing → [[TIMING TICKET]]
-	Sends straight to the opponent → [[FIND THE SPACE]]
-	One miss kills the group's confidence → [[BEAT YOUR BEST CONNECTIONS]]
+	*Read the problem, tap the door under it.*
+	[[DELIVER THE PACKAGE]]
+	*Cannot make a useful contact.*
+	[[BEAT THE BALL]]
+	*Reaches instead of moving.*
+	[[TARGET HOOPS]]
+	*Passes anywhere.*
+	[[WINDOW DELIVERY]]
+	*No controlled second contact.*
+	[[MOVE–STOP–SET SQUARES]]
+	*Arrives late or drifts.*
+	[[BUILD THE BRIDGE]]
+	*Pass and set do not connect.*
+	[[SERVE TO UNLOCK]]
+	*Cannot start a rally.*
+	[[CLAIM THE SQUARES]]
+	*Serves land anywhere.*
+	[[SERVE → READ → CATCH]]
+	*Can pass a toss but not a serve.*
+	[[WHOSE BALL?]]
+	*Two players hesitate.*
+	[[HOME BASE]]
+	*Stops after their own touch.*
+	[[SAVE AND SHARE]]
+	*Saves the ball but nobody can play it.*
+	[[HIGH HAND TARGET]]
+	*Swings hard with no control.*
+	[[TIMING TICKET]]
+	*Cannot match the ball's timing.*
+	[[FIND THE SPACE]]
+	*Sends straight to the opponent.*
+	[[BEAT YOUR BEST CONNECTIONS]]
+	*One miss kills the group's confidence.*
 </callout>
-**THE BANK — tap any challenge below.**
+**THE BANK: the same sixteen, as full rows.**
 [[DELIVER THE PACKAGE]]
 [[BEAT THE BALL]]
 [[TARGET HOOPS]]

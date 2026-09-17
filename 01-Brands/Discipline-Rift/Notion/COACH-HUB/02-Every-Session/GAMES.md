@@ -13,7 +13,7 @@ status: Archived
 order: null
 notion_created: 2026-08-12
 notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "ARCHIVE — GAMES (superseded by sport game banks)"

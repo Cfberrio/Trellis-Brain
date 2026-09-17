@@ -12,14 +12,14 @@ sport: All Sports
 status: Live
 order: 5
 notion_created: 2026-09-11
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "NEED HELP"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Something is wrong right now. Find your situation, open the page, follow the steps. Every row below is a page: tap it.
+	Coach! Something is wrong right now. Find your situation, open the page, follow the steps. Every **→** below is a door: tap it.
 </callout>
 # NEED HELP
 <callout icon="📞" color="gray_bg">
@@ -55,12 +55,14 @@ aliases:
 	**YOU ARE LATE OR CANNOT ATTEND**
 	Call DR now at (407) 614-7454. Do not wait for the start time. Do not arrange cover with another coach on your own unless DR confirms it. Planned days off: two weeks notice by email.
 	[[YOUR SCHEDULE]]
+	*Day-off request rule and the running-late procedure.*
 </callout>
 <callout icon="🛠️" color="gray_bg">
 	**THE DASHBOARD IS WRONG**
 	[[DASHBOARD PROBLEMS]]
 	*Offline, missing session, player not on roster, login trouble. Most fixes take 30 seconds; the rest say call DR.*
 	[[LOGGING IN]]
+	*Email + 6-digit code. If the code does not arrive, this page says why.*
 </callout>
 <callout icon="🚩" color="gray_bg">
 	When in doubt: keep the group supervised, keep your count, call DR. Nobody gets in trouble for asking early.

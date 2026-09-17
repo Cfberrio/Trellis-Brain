@@ -12,15 +12,15 @@ sport: All Sports
 status: Live
 order: 4
 notion_created: 2026-08-12
-notion_last_edited: 2026-09-11
-mirrored: 2026-09-15
+notion_last_edited: 2026-09-17
+mirrored: 2026-09-17
 mirror_complete: true
 aliases:
   - "PRACTICE CANCELLATION"
   - "CANCELLATION"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! Practice is cancelled, or might be. Here is who decides and what you do. Every row below is a page: tap it.
+	Coach! Practice is cancelled, or might be. Here is who decides and what you do. Every **→** below is a door: tap it.
 </callout>
 # PRACTICE CANCELLATION
 <callout icon="⛈️" color="gray_bg">
@@ -38,6 +38,7 @@ aliases:
 <callout icon="⛈️" color="gray_bg">
 	**WEATHER IS NOT CANCELLATION.** Rain: covered space, keep going. Thunder or lightning: indoors, keep going. You adapt; DR cancels.
 	[[WEATHER & HEAT]]
+	*Rain, lightning, heat: what you do in each.*
 </callout>
 <callout icon="⚠️" color="yellow_bg">
 	**ALREADY ON CAMPUS WITH PLAYERS WHEN THE CALL COMES?** Players stay supervised and counted. Follow the school's instruction and DR's. Dismissal rules apply in full: every child handed off through the school's process, nobody unaccounted for. Call DR at (407) 614-7454 if anything is unclear.
