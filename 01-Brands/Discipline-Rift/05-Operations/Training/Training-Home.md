@@ -41,5 +41,7 @@ This folder holds the coach and curriculum knowledge base for Discipline Rift. I
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home|Tennis Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home|Flag Football Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home|Pickleball Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home|Kitchen Library Home]] — external pickleball K-5 curriculum research, 22 sources, full text
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home|DR Coaching Books Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package|Books Excluded From Markdown Package]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded|Pickleball — Recursos NO extraídos]]

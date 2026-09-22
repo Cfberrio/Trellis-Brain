@@ -5,11 +5,13 @@ note_type: package-note
 status: active
 canonical: false
 used_for_ai: true
-last_updated: 2026-08-20
+last_updated: 2026-09-22
 up:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home]]"
 ---
 
 # Books Excluded From Markdown Package
@@ -19,6 +21,8 @@ related:
 
 ## Related
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home|DR Coaching Books Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home|Kitchen Library Home]] — pickleball K-5 research library
+- [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded|Pickleball — Recursos NO extraídos]] — the pickleball counterpart of this note
 
 ## Why this note exists
 The original markdown-only package intentionally excluded the large training books to keep it light, while still extracting all non-book operational PDFs into markdown.
