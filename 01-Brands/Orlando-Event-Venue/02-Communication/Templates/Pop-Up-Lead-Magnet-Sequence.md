@@ -3,13 +3,13 @@ brand: Orlando-Event-Venue
 area: communication
 subarea: templates
 note_type: template
-status: superseded
-canonical: false
-used_for_ai: false
+status: active
+canonical: true
+used_for_ai: true
 source_type: curated
-source_reference: "Restructured 2026-05-28. Lead magnet pop-up + email/SMS sequence. $100 booking credit, code HOST100, 7-day expiry. Founder-led Luis voice across all touches. Touch 4 added at day 6 (24h before expiry) for the loss-aversion final tap. SUPERSEDED 2026-08-04 by the Event Planning Kit / PLAN50 offer."
+source_reference: "Verbatim copy-paste from ClickUp doc 8cqnrff-4977, page 8cqnrff-11737 (LEAD SEQUENCE), fetched 2026-09-21. Replaces the HOST100-era version of this note, superseded 2026-08-04 by the Event Planning Kit / PLAN50 offer."
 owner: Luis
-last_updated: 2026-08-20
+last_updated: 2026-09-21
 sensitivity: internal
 related_systems:
   - ghl
@@ -22,14 +22,10 @@ related:
   - "[[01-Brands/Orlando-Event-Venue/00-Brand-Core/Brand-Home]]"
   - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Tour-Sequence]]"
   - "[[01-Brands/Orlando-Event-Venue/02-Communication/Templates/Post-Booking-Email-Sequence]]"
+  - "[[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Lead-Magnet-Event-Planning-Kit]]"
 ---
 
 # Pop-Up Lead Magnet Sequence
-
-> [!warning] Superseded 2026-08-04
-> The HOST100 offer described here is **no longer live**, and it was broken in production from 29 May to 9 July 2026 (see [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Google-Ads-Post-Mortem-2026-06|Google Ads Post-Mortem — June 2026]]).
-> The current offer is the **Event Planning Kit + PLAN50**: [[01-Brands/Orlando-Event-Venue/01-Systems/Marketing/Lead-Magnet-Event-Planning-Kit|Lead Magnet — Event Planning Kit]].
-> This note is kept for the sequence design principles (reciprocity, loss aversion, BAMFAM, founder voice), which still apply. Do not use its copy or coupon codes.
 
 ## Parent
 - [[../Communication-Home|OEV Communication Home]]
@@ -39,285 +35,359 @@ related:
 - [[../../00-Brand-Core/Brand-Home|OEV Brand Home]]
 - [[Tour-Sequence|Tour Sequence]]
 - [[Post-Booking-Email-Sequence|Post-Booking Email + SMS Sequence]]
+- [[../../01-Systems/Marketing/Lead-Magnet-Event-Planning-Kit|Lead Magnet — Event Planning Kit]]
 
-## Purpose
-Canonical pop-up lead magnet + email/SMS nurture sequence. Captures website leads with a **$100 booking credit (HOST100)** good for 7 days, delivered immediately via email + SMS. Four-touch cadence over the 7-day expiry window converts opt-ins to bookings or tours.
+## Source
+Verbatim copy-paste from ClickUp doc "OEV Lead Magnet System" / "OEV LEAD MAGNET COMMUNICATIONS AND EVENT PLANNING KIT" (`8cqnrff-4977` / page `8cqnrff-11737`), fetched 2026-09-21. This is the **current, active** offer (Event Planning Kit + PLAN50), replacing the old HOST100 sequence this file used to hold. This is the canonical wording — do not reword outside ClickUp.
 
-## Design Principles
-- **Reciprocity** — visitor gives email/phone, receives instant value (the $100 credit) and a clear next step.
-- **Loss Aversion (date-stamped credit)** — 7-day expiry creates real, non-manufactured urgency. Touch 4 at day 6 is the highest-leverage tap (24h before loss).
-- **Identity-first opener** — Email 1 leads with the non-profit identity. Community framing differentiates OEV from corporate-feeling Orlando venues.
-- **Founder-led (Luis voice)** — Emails 2 + 3 + all SMS signed by Luis. Trust lift across the sequence.
-- **BAMFAM** — every touch offers two paths: book the date directly OR book a tour first. Reduces the opt-in → booking gap.
-- **Single-job SMS** — each SMS has one clear action. Touch 4 SMS is intentionally the shortest (final tap, loss-aversion).
-- **Real scarcity only** — calendar references in Email 3 use real OEV booking state, not manufactured urgency. Refresh monthly to avoid stale claims.
-
-## Channel Matrix
-| # | Touch | Time | Channel | Job |
-|---|---|---|---|---|
-| 1 | Welcome + credit delivery | Immediate | Email + SMS | Deliver value, set context |
-| 2 | Founder-led + tour option | 18 hours | Email + SMS | Add proof, offer intermediate step (tour) |
-| 3 | Last scheduled reminder + calendar urgency | 36 hours | Email + SMS | Real scarcity pitch |
-| 4 | Expiry warning *(SMS only)* | Day 6 (~24h before expiry) | SMS | Loss-aversion final tap |
-
-**Volume:** 3 emails + 4 SMS over 7 days.
-
-## Variables Used
-- `{{First Name}}` / `[First Name]`
-- `{{email}}` *(echoed back in popup confirmation screen)*
-
-## Standard References
-- Booking URL: `https://orlandoeventvenue.org/book`
-- Tour booking URL: *(populated from website tour scheduler — see [[Tour-Sequence|Tour Sequence]])*
-- Credit code: `HOST100` ($100 off base rental, 7-day expiry)
-
----
-
-## POPUP
-
-**Headline:** Get $100 Off Your Event at Orlando Event Venue
-**Subheadline:** Apply it when you reserve any open date. We'll text + email your code in 60 seconds.
-
-**Fields:**
-- Name
-- Email
-- Phone (so we can text your code)
-- What kind of event? *(dropdown: Corporate / Workshop / Birthday or Celebration / Non-Profit Gathering / Other)*
-
-**Consent:** [Keep existing compliance language]
-
-**Button:** Send My $100
-
-**Confirmation screen:**
-```
-✅ Your $100 is on its way. Check your email + text in the next 60 seconds.
-
-Already know your date? Book it now — open dates aren't held until 50% is in.
-
-Want to see the space first? Book your tour online.
-
-Questions? Call or text 407-974-5979.
-```
-
----
-
-## EMAIL 1 — Immediate
-
-**Subject:** Your $100 OEV Credit Is Here | Apply It at Booking
-**Preview:** Code HOST100. Good 7 days. Here's what it unlocks.
+> **Developer note carried over from ClickUp:** OEV-LM-S04 and all customer-facing expiration language must remain disabled until PLAN50 can expire separately for each contact and the expiration can be enforced during checkout. Per [[../../01-Systems/Marketing/Lead-Magnet-Event-Planning-Kit|Lead Magnet — Event Planning Kit]], per-contact PLAN50 expiry is **not implemented** — the coupon is currently a shared code with no per-lead expiry window.
 
 ```
-Hi [First Name],
+OEV Lead Magnet System
+PART 3: LEAD COLLECTION FORM
+5. Final Popup Copy
 
-Welcome! Happy you're here.
+6. Form Fields
 
-We're a local non-profit venue on Colonial Drive, built for corporate events, workshops, and gatherings up to 90 guests.
+OEV LEAD MAGNET COMMUNICATIONS AND EVENT PLANNING KIT
+1. Message Timeline
 
-The $100 you just unlocked applies at booking, on top of what's already included.
+Important Developer Note
+OEV-LM-S04 and all customer-facing expiration language must remain disabled until PLAN50 can expire separately for each contact and the expiration can be enforced during checkout.
 
-──────────────────────
-Your Booking Credit Code
-HOST100
-$100 off your base rental
-Good for 7 days — apply at checkout
-──────────────────────
+2. CONFIRMATION SCREEN
+Headline
+Your Event Planning Kit + $50 OFF Are on the Way
+Message
+Check your email and text for your Event Planning Kit and your code for $50 OFF your venue rental.
+Already know your date? Only 50% of total is needed to book.
+Questions or did not receive the kit? Call or text 407 974 5979.
+Confirmation Screen Requirements
+Do not include an "Open My Event Planning Kit" button.
+Do not include an "Open My Email" button.
+Do not add a button that suggests the customer can open an email from the confirmation screen.
+The customer should be told to check their email and text for the kit and $50 OFF.
+A booking button may remain as a separate secondary action.
+A tour button may remain once the final tour-booking URL is confirmed.
+Optional Secondary Actions
 
-Reserve your date here:
-https://orlandoeventvenue.org/book
-
-What's included with every rental
-- Up to 90 guests + 10 tables + 90 chairs
-- Prep kitchen for caterers (zero restrictions — bring any caterer you want)
-- Free parking — 200+ spots in the Colonial Town Center plaza
-- Wall-sized LED stage screen + AV (available via package)
-- Bar service available through us if your event needs it
-
-Heads-up: open dates aren't actually held until 50% lock-in goes through. If you have a date in mind, locking it in this week is the safest move.
-
-Questions? Reply to this email, or call/text 407-974-5979.
-
-Luis with the Orlando Event Venue Team
-407-974-5979
+3. ACTUAL EMAILS AND SMS MESSAGES
+OEV-LM-E01 — IMMEDIATE EMAIL
+Subject: Your Event Planning Kit + $50 OFF
+Preview Text: Your planning checklist and PLAN50 are ready.
+Hi {{contact.first_name}},
+Welcome, and thank you. Your Event Planning Kit is ready.
+We are a local nonprofit venue built for events of up to 90 guests. The kit covers your planning timeline, budget, room layout, and the small things hosts often forget, including serving spoons, ice, and extra trash bags.
+Open your kit here:
+{{kit_url}}
+You will also receive PLAN50:
+Code: PLAN50
+Offer: $50 OFF your venue rental
+Use: Enter the code during checkout
+When you are ready to hold your date, begin here:
+{{booking_url}}
+Your date is held after the first 50 percent is received. Our team will then review the timing, guest count, and setup before sending a separate confirmation.
+Questions? Reply to this email or call or text 407 974 5979.
+Luis and the Orlando Event Venue Team
+407 974 5979
 orlandoeventvenue.org
 orlandoeventvenue@gmail.com
 3847 E Colonial Dr, Orlando, FL 32803
-```
+Email Actions
 
----
+OEV-LM-S01 — IMMEDIATE SMS
+Hi {{contact.first_name}}, Orlando Event Venue here. Your Event Planning Kit is ready on your email. Use PLAN50 for $50 OFF your venue rental. When you are ready, begin your booking here: {{booking_url}}. Questions? Reply or call 407 974 5979.
 
-## SMS 1 — Immediate
-
-```
-Hi {{First Name}} — Orlando Event Venue here. Your $100 credit is ready.
-
-Code: HOST100 (good 7 days, apply at checkout)
-
-Open dates aren't held until 50% is in — reserve here: https://orlandoeventvenue.org/book
-
-Questions? Reply or call 407-974-5979. — Luis & the OEV Team
-```
-
----
-
-## EMAIL 2 — 18h
-
-**Subject:** Quick note from Luis (your $100 still works)
-**Preview:** What past hosts liked. Plus: want to see the venue first?
-
-```
-Hi [First Name],
-
-Quick note from Luis at Orlando Event Venue.
-
-Most planners take a few days at this stage — totally normal. While you're deciding, a few things worth knowing:
-
-What past hosts have told us they liked
-- Catering is wide open. No preferred-vendor list, no restrictions. Bring whoever you want.
-- Free parking, 200+ spots, no garage fees.
-- We're a non-profit, so weekday non-profit bookings get 50% off the base rental (text us if interested).
-
-──────────────────────
-Your Booking Credit Code
-HOST100
-$100 off your base rental — good 7 days
-──────────────────────
-
-Two simple next steps:
-
-1. Want to see the space first? Find a day/time that works and book a quick tour online.
-2. Already know your date? Lock it in here — 50% holds the date: https://orlandoeventvenue.org/book
-
-Luis & the OEV Team
-407-974-5979
+OEV-LM-E02 — 24 hr
+Subject: A Quick Note From Luis, and Your Kit
+Preview Text: A few helpful venue details and a simple way to see the space.
+Hi {{contact.first_name}},
+Luis here. I hope the Event Planning Kit is helping you get organized.
+If you have not opened it yet, you can find it here:
+{{kit_url}}
+Here are a few venue details to keep in mind:
+You may choose your own caterer. Professional caterers must provide proof of insurance. The prep kitchen is for staging and reheating, not cooking.
+Free parking is available in the Colonial Town Center plaza.
+The room holds up to 90 guests and includes 10 tables and 90 chairs.
+Would you like to see the space before deciding?
+Book a tour here:
+{{tour_url}}
+Already know your date? Begin your booking here:
+{{booking_url}}
+Your date is held after the first 50 percent is received. Our team will then review the timing, guest count, and setup before sending a separate confirmation.
+Use PLAN50 for $50 OFF your venue rental.
+Reply any time with questions. We are happy to help.
+Luis and the Orlando Event Venue Team
+407 974 5979
 orlandoeventvenue.org
-```
+Email Actions
 
----
+OEV-LM-S02— 24 hr
 
-## SMS 2 — 18h
+Hi {{contact.first_name}}, Luis at Orlando Event Venue. Want to see the space before deciding? Book a tour here: {{tour_url}}. Already know your date? Begin your booking: {{booking_url}}. Use PLAN50 for $50 OFF your venue rental.
 
-```
-Hi {{First Name}} — Luis at OEV. Want to see the space before you commit? Book the tour for free online. Or lock your date now: https://orlandoeventvenue.org/book
-
-Your $100 (HOST100) still works. — Luis
-```
-
----
-
-## EMAIL 3 — 36h
-
-**Subject:** Last call on your $100 + a real heads-up on the calendar
-**Preview:** Where we are on bookings + the simplest path to lock your date.
-
-```
-Hi [First Name]!
-
-Last reminder I'll send on your $100 credit.
-
-A real calendar note: we're booked through the next month. Open dates in the following month are filling up — if you have a date in mind, this is the right window to lock it in.
-
-──────────────────────
-Your Booking Credit Code
-HOST100
-$100 off your base rental — good for 7 days
-──────────────────────
-
-Two ways forward:
-
-1. Reserve your date directly: https://orlandoeventvenue.org/book — 50% holds the date.
-2. Call or text me at 407-974-5979 and I'll walk you through it.
-
-Luis & the OEV Team
-407-974-5979
+OEV-LM-E03 — 48 hours after
+Subject: Ready to finalize your event?
+Preview Text: Use the kit to plan clearly, then hold your date when you are ready.
+Hi {{contact.first_name}},
+Just checking in.
+The Event Planning Kit covers the details hosts need to understand before the event, including the venue rules, planning timeline, room layout, and what to bring.
+When you are ready, the first 50 of payment holds your date. Our team will then review and send a separate confirmation.
+The remaining balance is due 15 days before the event.
+Begin your booking here:
+{{booking_url}}
+Would you prefer to see the space first?
+Book a tour here:
+{{tour_url}}
+You can also review your Event Planning Kit here:
+{{kit_url}}
+Use PLAN50 for $50 OFF your venue rental.
+Prefer to talk it through? Reply to this email or call or text me at 407 974 5979.
+Luis and the Orlando Event Venue Team
+407 974 5979
 orlandoeventvenue.org
+Email Actions
+
+OEV-LM-S04 — 72 hours after
+
+Hi {{contact.first_name}}, $50 OFF your venue rental expires tonight. When you are ready, the first 50 percent boks the venue: {{booking_url}}. Prefer to see the space first? Book a tour: {{tour_url}}. Questions? Reply or call 407 974 5979.
+
+4. ORLANDO EVENT VENUE EVENT PLANNING KIT
+ORLANDO EVENT VENUE
+Your Event Planning Kit
+Everything you need to plan a smooth event in our space, including the small things people often forget.
+Orlando Event Venue is a local nonprofit venue built for events of up to 90 guests. You get a clean, private room that you can arrange for your event. You bring the plan, food, decorations, and event details. We provide the space and clear information so nothing catches you off guard.
+Keep this kit open on your phone while you plan. You can also print the checklists and worksheets.
+Venue Snapshot
+
+1. What We Provide and What You Bring
+This is the most important part of the kit. Knowing what is already at the venue will help you avoid unnecessary purchases and last-minute problems.
+
+Important Food Information
+You may choose your own caterer.
+Professional caterers must provide proof of insurance.
+There is no cooking at the venue.
+The kitchen is for staging, assembling, and reheating food.
+Food should arrive ready to serve or only need warming.
+Important Alcohol Information
+Alcohol and bartending must be arranged through Orlando Event Venue. Bar packages begin at $18 per guest. Contact the team before purchasing or arranging alcohol.
+The Items Most Often Forgotten
+If you remember nothing else, remember:
+Plates, cups, and utensils
+Serving spoons and tongs
+Serving bowls, trays, and platters
+Tablecloths
+Ice
+Extra trash bags
+2. Your Event Budget
+You do not need a complicated spreadsheet. Estimate the main expenses before buying anything, then update the actual amount as you spend.
+
+Planning tip: Keep approximately 10 percent of the budget available for last-minute items.
+Use PLAN50 for $50 OFF your venue rental.
+3. Your Planning Timeline
+
+Four or More Weeks Before
+Begin your booking.
+Set a rough guest count. The venue holds up to 90 guests.
+Choose your caterer or decide what food you will bring.
+Decide whether you need bar service.
+Decide whether you need the LED wall or audiovisual services.
+Plan for the remaining direct-booking balance, due 15 days before the event.
+Your date is held after the first 50 percent is received. OEV will then review the timing, guest count, and setup before sending a separate confirmation.
+Two Weeks Before
+Confirm the final guest count.
+Confirm the caterer and arrival time.
+Confirm that a professional caterer has supplied proof of insurance.
+Sketch the room and table layout.
+Purchase or reserve tableware, linens, and serving pieces.
+Review the venue rules before finalizing decorations.
+One Week Before
+Confirm the event timeline with the caterer and helpers.
+Complete the Bring List.
+Gather supplies in one location.
+Assign people to help with setup and closing.
+Two or Three Days Before
+Buy ice, drinks, and fresh food.
+Charge speakers, lights, phones, and other equipment.
+Print the run sheet and table layout.
+Pack supplies into labeled boxes or bins.
+Day Before
+Review the access instructions on your Event Page.
+Confirm who will arrive first.
+Load the vehicle or place everything by the door.
+Rest. The planning is complete.
+After the Event
+Restore the tables and chairs.
+Bag all trash and place it on the back patio.
+Turn off the lights.
+Confirm that personal items have been removed.
+Lock the entrance.
+Submit the Guest Report through your Event Page.
+4. Complete Bring List
+Food and Serving
+Serving spoons
+Tongs and ladle
+Platters, serving bowls, and trays
+Cutting board and sharp knife
+Can opener and bottle opener
+Foil and cling wrap
+Containers for leftovers
+Warming trays and approved fuel, if needed
+Ice and coolers
+Paper towels and hand wipes
+Tableware
+Plates and bowls
+Cups for cold drinks
+Cups for hot drinks
+Forks, knives, and spoons
+Napkins
+Tablecloths and linens
+Centerpieces or table decorations
+Drinks
+Water
+Soft drinks
+Juice
+Drink dispensers or pitchers
+Cups and straws
+Extra ice
+Bar service arranged with OEV if alcohol will be served
+Setup and Decorations
+Welcome sign
+Table numbers or directional signs
+Removable hooks that leave no residue
+Approved tape that leaves no residue
+Scissors
+Markers
+Zip ties or twist ties
+Extension cord
+Power strip
+Phone and speaker chargers
+Lighter or matches only when flames have been approved in advance
+Trash and Closing
+OEV handles standard cleaning. You are responsible for bagging the trash, placing it on the back patio, and restoring the tables and chairs.
+Extra trash bags
+Wipes for quick spills
+Containers for leftover food
+Helpers assigned for closing
+Just in Case
+Small first-aid kit
+Phone charger
+Pen and paper
+Safety pins
+Small sewing kit
+Stain-remover pen
+Cash for tips
+Printed run sheet
+Printed table layout
+5. Your Table and Room Plan
+You have 10 tables and 90 chairs available.
+Start by deciding which tables will not be used for guest seating:
+Food and drinks table
+Gift, sign-in, or guest-book table
+Bar or service table, if needed
+Remaining tables for guests
+Common Layouts
+
+If round tables are used, estimate approximately 8 to 10 guests per table. Confirm the final plan using the guest count and actual arrangement.
+Leave Room For
+A clear path to the bathrooms
+A clear path to the exit
+A line around the food table
+An open area for dancing or mingling
+The bar area, if bar service is added
+Guests using wheelchairs or walkers
+Layout Notes
+
+6. Help Every Guest Participate
+Keep clear, wide paths for guests using a wheelchair or walker.
+Confirm accessible parking and entrance information with OEV.
+Do not reserve or block public accessible spaces without authorization.
+Service animals are welcome in accordance with applicable law.
+Ask guests about food allergies and dietary needs.
+Share dietary information with the caterer.
+Create a calm area for anyone who may need a short break.
+7. Food and Drink Plan
+Food
+
+Remember: The kitchen is for staging and reheating. Food should arrive ready to serve or only need warming.
+Drinks
+Place water and nonalcoholic drinks where guests can reach them.
+Plan approximately two drinks per guest during the first hour and one drink per additional hour.
+Bring enough cups, straws, pitchers, or dispensers.
+Purchase more ice than the initial estimate.
+Arrange alcohol and bartending with OEV before the event.
+8. Help Guests Find the Venue
+The entrance can be easy to miss the first time.
+Park in the Colonial Town Center plaza.
+Look for the GLOBAL sign with 3847.
+Face the GLOBAL sign.
+Use the door on the left.
+Guest Arrival Checklist
+Send the address to guests.
+Send the parking instructions on the morning of the event.
+Explain that the entrance is beside the GLOBAL sign.
+Place a welcome sign near the entrance.
+Assign a greeter.
+Give the greeter a list of important telephone numbers.
+Venue address: 3847 E Colonial Dr, Orlando, FL 32803
+OEV telephone number: 407 974 5979
+9. Your Day-of Run Sheet
+Choose helpers before filling in the schedule.
+
+Event Schedule
+
+Before Guests Arrive
+Bathrooms are ready.
+Tables and chairs are arranged.
+Food and drinks are ready.
+Trash bags are installed.
+Music, lighting, and equipment are working.
+Welcome and directional signs are in place.
+Walkways and exits are clear.
+Closing Checklist
+Complete everything before the reservation ends.
+All guests have left.
+All trash is bagged and placed on the back patio.
+Tables and chairs are returned to their original arrangement.
+The prep kitchen is checked.
+Both bathrooms are checked.
+Personal items and equipment are packed.
+Remotes and venue equipment are returned.
+All lights are turned off.
+The entrance is locked.
+The Guest Report is submitted.
+In an emergency, call 911. The venue address is 3847 E Colonial Dr, Orlando, FL 32803.
+10. The Small Things People Forget
+Review this checklist before leaving home.
+
+Also remember:
+First-aid kit
+Stain-remover pen
+Cash for tips
+Accessible parking and entrance information
+Event Page link
+Reservation number
+Contact information for the person arriving first
+11. Venue Rules to Plan Around
+The complete rules will appear on your Event Page after booking.
+
+Cameras and noise sensors help OEV monitor the venue.
+READY TO HOLD YOUR DATE?
+You have the plan. The next step is holding the space.
+Your date is held after the first 50 percent is received. The Orlando Event Venue team will then review the timing, guest count, and setup before sending a separate confirmation.
+For direct bookings, the remaining balance is due 15 days before the event.
+Use PLAN50 for $50 OFF your venue rental.
+Begin your booking:
+
+Questions? Call or text 407 974 5979.
+Luis and the Orlando Event Venue Team
+orlandoeventvenue.org
+
+FINAL DEVELOPER NOTE
+The published Event Planning Kit must not claim that PLAN50 expires in seven days until the expiration can be calculated and enforced separately for each contact.
+Once that functionality has been successfully implemented and tested, the closing section of the kit may include:
+PLAN50 is available through {{offer_expires_at}}. Your Event Planning Kit is yours to keep.
 ```
 
-> **Brand-voice note:** "the next month" / "the following month" is intentionally generic so the email doesn't go stale. If you want sharper real-scarcity language with a real month name, swap to "[Month]" and refresh the value monthly. Vague scarcity is OK; manufactured scarcity is not.
-
----
-
-## SMS 3 — 36h
-
-```
-{{First Name}}, last reminder on your $100 OEV credit. We're booked through the next month; if you have a date in mind here's the link: https://orlandoeventvenue.org/book. Or call/text 407-974-5979. — Luis
-```
-
----
-
-## TOUCH 4 — Day 6 (~24h before expiry) — SMS only
-
-```
-{{First Name}} — your $100 OEV credit (HOST100) expires tomorrow. If you have a date in mind, lock it here: https://orlandoeventvenue.org/book — Luis
-```
-
-> **Trigger:** Day 6 from opt-in (24 hours before the credit expires).
-> **Why SMS only:** inbox volume already at 3 emails by Touch 3. SMS-only keeps the final tap high-signal and personal.
-> **Skip rule:** if a booking is detected before this trigger fires, skip.
-
----
-
-## Operational Rules
-
-### Information delivery rules
-- **Credit code (HOST100)** surfaced in every email + every SMS (except Touch 4, where it's the focus of the message).
-- **Booking URL** (https://orlandoeventvenue.org/book) appears in every touch.
-- **Tour booking option** introduced in Email 2 + SMS 2 (BAMFAM — smaller commitment for visitors not ready to book directly).
-- **Luis voice** carried through Emails 2 + 3 and SMS 2 + 3 + 4. Email 1 + SMS 1 use the team voice for the welcome moment.
-
-### Cadence
-- **Touch 1**: immediate (within 60 seconds of opt-in). Email + SMS together.
-- **Touch 2**: 18 hours after opt-in. Email + SMS together.
-- **Touch 3**: 36 hours after opt-in. Email + SMS together.
-- **Touch 4**: day 6 from opt-in (24h before credit expiry). SMS only.
-
-### Skip rules
-- **All touches after the booking event**: if a booking is detected for the contact (matched by email or phone) at any point in the sequence, skip all remaining touches.
-- **Touch 4**: skip if a booking is detected before the day-6 trigger fires.
-
-### Trigger sequence
-- **Touch 1 (Email + SMS)** fires immediately on popup submission.
-- **Touch 2 (Email + SMS)** fires 18 hours after opt-in.
-- **Touch 3 (Email + SMS)** fires 36 hours after opt-in.
-- **Touch 4 (SMS only)** fires day 6 after opt-in.
-
-### Edge cases
-- **Email-only opt-in (no phone provided)**: all SMS touches skipped automatically; email touches continue as scheduled.
-- **SMS opt-out**: respect immediately. Email touches continue if email opt-in stands.
-- **Touch 4 lands during off-hours**: schedule for daytime delivery (e.g., 9 AM – 7 PM local) to avoid late-night SMS friction.
-
----
-
-## Dev Handoff
-
-### Credit code mechanics
-- Code: `HOST100`
-- Discount: $100 off base rental
-- Expiry: **7 days from opt-in** (date-stamped per contact)
-- Application: at checkout on `/book`
-- One-use per contact (prevent stacking with itself)
-
-### Popup field validation
-- Email and Phone: required
-- Event type dropdown: required for personalization downstream (may drive future event-type-specific email branching)
-- Name: required (used in every touch)
-
-### Tour booking link
-The "Book the tour for free online" CTA in Email 2 + SMS 2 should link to the website tour scheduler. See [[Tour-Sequence|Tour Sequence]] for the full tour flow that kicks off when a visitor books a tour.
-
-### Tracking
-- Popup conversion rate (% of popup views → submissions)
-- Touch open rates (Emails 1–3)
-- SMS click rates (Touches 1–4)
-- Code redemption rate (% of opt-ins who redeem HOST100 at checkout)
-- Time from opt-in to booking
-- Touch attribution: which touch fired immediately before the booking event
-
-### Calendar refresh process (Email 3 + SMS 3)
-- "We're booked through the next month" is intentionally generic.
-- **Option (stronger):** swap to "[Month]" + refresh the value monthly. Requires an ops process to update the live template at the start of each month.
-- Keep generic if the ops process can't be reliably maintained — vague-but-true beats specific-but-stale.
-
-### Future expansions to consider
-- **Referral viral loop**: "Share your $100 with a friend, both get $50" — adds Marketing-Ideas #93 viral mechanics
-- **Waitlist capture for sold-out dates**: if visitor's preferred date is unavailable, capture for a waitlist (Marketing-Ideas #79)
-- **Touch 5 (lapsed re-engagement)**: 30 days after credit expiry, offer a new code at a reduced value (e.g., $50). Optional, only if open-rate data justifies it.
+## Note
+This file used to hold the HOST100 sequence (SAVE100/SAVE50 before that), superseded 2026-08-04. That old copy is gone — the block above is the current, literal ClickUp text for the PLAN50 / Event Planning Kit offer. If the copy needs to change, change it in ClickUp first, then re-paste here. See [[../../01-Systems/Marketing/Lead-Magnet-Event-Planning-Kit|Lead Magnet — Event Planning Kit]] for the offer-history table and implementation status (per-contact PLAN50 expiry is still not built).

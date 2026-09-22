@@ -7,9 +7,9 @@ status: active
 canonical: true
 used_for_ai: true
 source_type: curated
-source_reference: "Restructured 2026-05-28. Remote-guided tour model: visitor self-accesses the venue using a Tour Reservation # on the same /accesscode page used by booking customers; staff joins live on video call to walk them through the space. Two follow-up touches (email + SMS) after the tour."
+source_reference: "Verbatim copy-paste from ClickUp doc 8cqnrff-4977, page 8cqnrff-11917 (TOURS), fetched 2026-09-21. Replaces the 2026-05-28 in-vault version, which described a different (self-access + video call) tour model that ClickUp no longer matches."
 owner: Luis
-last_updated: 2026-05-28
+last_updated: 2026-09-21
 sensitivity: internal
 related_systems:
   - ghl
@@ -35,332 +35,241 @@ related:
 - [[Post-Booking-Email-Sequence|Post-Booking Email + SMS Sequence]]
 - [[../../05-Operations/OEV-GoHighLevel-Automations|GHL Automations]]
 
-## Purpose
-Canonical tour sequence for the remote-guided tour model. Visitor books a tour through the website, receives a **Tour Reservation #** at booking, and uses that # on the same `/accesscode` page that booking customers use to retrieve the door code during their tour window. Staff joins the visitor live on a video call to walk them through the space. Two post-tour follow-ups (email + SMS each) close the loop.
+## Source
+Verbatim copy-paste from ClickUp doc "OEV TOUR COMMUNICATIONS" (`8cqnrff-4977` / page `8cqnrff-11917`). This is the canonical wording — do not reword outside ClickUp.
 
-## Design Principles
-- **One access mechanism for the whole brand** — tour visitors and booking customers both use `/accesscode` with their respective reservation #. Customers learn the page once.
-- **Self-access + live guidance** — no staff travel required, but the visitor still gets a guided walkthrough through the video call. Best of both worlds.
-- **Peak-End Rule** — first touch (Step 01) and last follow-up (Step 06) carry the most memory weight. Both warmth-first.
-- **Cognitive Load (Hick's Law)** — pre-tour reminders are short and single-job. Step 05 follow-up email is recap + CTA; pricing detail trimmed to discounts only (full pricing on the website).
-- **Personal Luis voice on close-in execution + follow-ups** — Steps 02–07 signed with Luis to lift trust during execution and decision moments.
-- **BAMFAM** — every post-tour message offers two clear paths: reserve directly, or reply/call to talk.
-
-## Channel Matrix
-| # | Step | Email | SMS | Trigger |
-|---|---|---|---|---|
-| 01 | Tour Confirmed + Access Instructions | ✅ | — | Tour booking received |
-| 02 | 24-Hour Reminder | ✅ | ✅ | 24 hours before tour |
-| 03 | 1-Hour Reminder | — | ✅ | 1 hour before tour |
-| 04 | Internal Admin Reminder | — | ✅ *(internal)* | 1 hour before tour |
-| 05 | Tour Follow-up #1 — Recap + Pricing | ✅ | ✅ | 2 hours after tour ends |
-| 06 | Tour Follow-up #2 — Check-in | ✅ | ✅ | Day 5 *(skip if booked)* |
-
-**Volume:** 3 emails + 4 SMS external + 1 internal.
-
-## Variables Used
-- `{{first_name}}` / `{{last_name}}` / `{{phone}}` / `{{email}}`
-- `{{tour_reservation_number}}` — assigned at booking, format `TOUR-XXXX` (4-char alphanumeric)
-- `{{tour_date}}` / `{{tour_time}}`
-- `{{tour_video_link}}` — populated from the booking tool / video platform
-
-## Standard References
-- Public access page (door code lookup, dual-use): `https://orlandoeventvenue.org/accesscode`
-- Booking URL: `https://orlandoeventvenue.org/book`
-- Tour booking URL: `https://orlandoeventvenue.org/tour` *(if separate from /book)*
-
-## Signature Block (every external email)
-```
-Luis & the Orlando Event Venue Team
-407-974-5979
-orlandoeventvenue.org
-orlandoeventvenue@gmail.com
-3847 E Colonial Dr, Orlando, FL 32803
-```
-
-## SMS Signoff Convention
-- Steps 02 + 05 SMS: ` — Luis & the OEV Team`
-- Steps 03 + 06 SMS (close-in execution + final follow-up): ` — Luis`
-
----
-
-## 01 — Tour Confirmed + Access Instructions — Email
-
-**Subject:** Tour Confirmed for {{tour_date}} | Orlando Event Venue
-**Preview:** Your remote-guided tour is on the calendar. Here's how it works.
+> **Model change vs. the previous version of this note:** the tour is a guided phone walkthrough. The guest arrives, calls Luis at 407 974 5979, and Luis lets them in and guides them through the space live on a normal phone call. There is no self-access lockbox flow and no video call for tours, and tours do not use a reservation number or a Tour Page (those belong to booked events only). The earlier "remote self-access + video call" version of this file described a different, unbuilt model — see the ClickUp doc's own "Open question: door code" note below.
 
 ```
-Hi {{first_name}},
+OEV TOUR COMMUNICATIONS
 
-Welcome to Orlando Event Venue. Your tour is on the calendar — looking forward to walking you through the space.
+1. Communication Overview
 
-Here's the deal: this is a self-access tour with a live video walkthrough. You'll let yourself into the venue using our access page (same one our booking customers use), and we'll be on a video call with you the whole time to guide you through everything, answer questions, and show you the corners you want to see.
+T01 and T02 send the same SMS. It is written so it reads correctly both a day before and an hour before, and it is set up once and reused in both steps. T01 also sends an email; T02 is SMS only.
 
-Save this email. It's the one place where everything you need lives: tour reservation #, access page, video call link, and entry steps.
+The tour is a guided walkthrough. The guest arrives at the venue and calls Luis at 407 974 5979. Luis lets them in, guides them through the space on a normal phone call, explains the venue details and available options, and answers their questions.
 
-Your Tour
-Tour Reservation #: {{tour_reservation_number}}
-Date: {{tour_date}}
-Time: {{tour_time}}
-Location: Orlando Event Venue — 3847 E Colonial Dr, Orlando, FL 32803
+Tours do not have a reservation number and do not use a Tour Page. Those belong to booked events only.
 
-Your Access Page (same one our booking customers use)
-https://orlandoeventvenue.org/accesscode
+2. TOUR CONFIRMATION
 
-Enter your Tour Reservation # on the page:
-{{tour_reservation_number}}
+After the guest schedules a tour, the confirmation sends immediately.
 
-The page shows your door code during your tour window. We'll text you the access page link again 24 hours before and 1 hour before your tour.
+TC01. SMS Confirmation
 
-Your Video Call Link
-{{tour_video_link}}
+Hi {{contact.first_name}}, your tour of Orlando Event Venue is confirmed.
 
-(Add the tour to your calendar so you don't miss it.)
+When: {{appointment.start_time}}
 
-How It Works
-1. Arrive at the venue at {{tour_time}}.
-2. Pull your door code from the access page above using your Tour Reservation #.
-3. Let yourself in using the entry steps below.
-4. Once you're inside, jump on the video call — we'll take it from there and walk you through the space live (~15–20 min).
+Where: 3847 E Colonial Dr, Orlando, FL 32803. Park in the Colonial Town Center plaza and look for the GLOBAL sign with 3847.
 
-Entry Steps (once you have the code from the access page)
-1. Arrive at Colonial Town Center and look for the GLOBAL sign with 3847 displayed.
-2. Facing the GLOBAL sign, go to the door on the left side of the building.
-3. Find the black lockbox with the touchscreen keypad.
-4. Tap the screen to wake it, then enter the code from the access page.
-5. Open the lockbox and retrieve the magnetic key.
-6. Tap the magnetic key on the sensor on the right side of the door.
-7. Return the key to the lockbox immediately and close it.
-8. Inside, locate the remote labeled "Light" on the left wall — left-side buttons turn lights on.
+This is a guided walkthrough. When you arrive, call Luis at 407 974 5979 and he will let you in and guide you through the venue.
 
-Quick Things to Know
-- We're a local non-profit venue, set up for events up to 90 guests
-- Catering is wide open — bring any caterer you want
-- Free parking on-site (Colonial Town Center plaza, 200+ spots)
-- All alcohol runs through our bar service if your event needs it
+We will send you a reminder the day before and one hour before your tour.
 
-Need to reschedule? Reply to this email or call/text 407-974-5979.
+Need to make a change? Call or text 407 974 5979.
 
-Looking forward to it,
+Orlando Event Venue
 
-Luis with the Orlando Event Venue Team
-407-974-5979
-orlandoeventvenue.org
-orlandoeventvenue@gmail.com
-3847 E Colonial Dr, Orlando, FL 32803
+TC01. Email Confirmation
+
+Subject: Your Orlando Event Venue Tour Is Confirmed
+Preview: How your guided walkthrough works and where to find us.
+
+Hi {{contact.first_name}},
+
+Your tour of Orlando Event Venue is confirmed.
+
+YOUR TOUR
+
+{{appointment.start_time}}
+
+Orlando Event Venue
+3847 E Colonial Dr
+Orlando, FL 32803
+
+HOW YOUR TOUR WORKS
+
+This is a guided walkthrough. When you arrive, call Luis at 407 974 5979. He will let you in, guide you through the space, explain the venue details and available options, and answer your questions.
+
+FINDING US
+
+Free parking is available in the Colonial Town Center plaza. The entrance can be easy to miss the first time: look for the GLOBAL sign with 3847, face the sign, and use the door on the left.
+
+During the tour you will be able to walk through the venue, see the included tables, chairs, prep kitchen, bathrooms, and parking, review the available rental and production options, and ask questions about your event.
+
+We will send you a reminder the day before and one hour before your tour.
+
+If you need to reschedule, call or text 407 974 5979.
+
+Luis and the Orlando Event Venue Team
+
+T01. Tour Reminder, 1 Day Before
+
+Channel: SMS and Email
+Timing: Approximately 24 hours before the tour
+
+SMS: send the shared reminder SMS above.
+
+Email
+
+Subject: Your Tour Is Tomorrow
+Preview: How the tour works and how to find us.
+
+Hi {{contact.first_name}},
+
+Your tour of Orlando Event Venue is tomorrow.
+
+WHEN
+
+{{appointment.start_time}}
+
+WHERE
+
+Orlando Event Venue
+3847 E Colonial Dr
+Orlando, FL 32803
+
+Free parking is available in the Colonial Town Center plaza. Look for the GLOBAL sign with 3847, face the sign, and use the door on the left.
+
+HOW IT WORKS
+
+When you arrive, call Luis at 407 974 5979. He will let you in, guide you through the venue, explain the available features and services, and answer your questions.
+
+Need to reschedule? Call or text 407 974 5979.
+
+Luis and the Orlando Event Venue Team
+
+T02. Tour Reminder, 8 Hours Before
+
+Channel: SMS only
+
+Hi {{contact.first_name}}, reminder about your tour at Orlando Event Venue
+
+When: {{appointment.start_time}}
+
+Please confirm with "YES" to keep your appintment.
+
+Where: 3847 E Colonial Dr, Orlando, FL 32803. Park in the Colonial Town Center plaza and look for the GLOBAL sign with 3847. The entrance is the door on the left.
+
+When you arrive, call Luis at 407 974 5979 and he will let you in and guide you through the venue.
+
+Need to change the time, or help finding us? Let us know asap.
+
+Orlando Event Venue
+
+T03. Post-Tour Booking Follow-Up
+
+Send only if the guest has not completed a booking.
+
+T03. Email
+
+Channel: Email
+Timing: Approximately 1 hour after the tour
+
+Subject: Your Event Planning Kit + A Surprise Inside
+Preview: Your free planning resources and $50 OFF Orlando Event Venue.
+
+Hi {{contact.first_name}},
+
+Thank you again for touring Orlando Event Venue.
+
+As promised, here is your free Event Planning Kit to help you organize your budget, setup, timeline, and other important event details:
+
+https://orlandoeventvenue.org/planning-kit
+
+We also have a surprise for you:
+
+Use discount code PLAN50 to receive $50 OFF your Orlando Event Venue rental.
+
+When you are ready, view the available options and secure your date here:
+
+https://orlandoeventvenue.org/book
+
+If you have any questions before booking, call or text me at 407 974 5979. I'm happy to help.
+
+Luis Torres
+Orlando Event Venue
+
+T03. SMS
+
+Channel: SMS
+Timing: Approximately 3 hours after the tour
+
+Hi {{contact.first_name}}, I sent you an email with your free event planning kit and a special discount code.
+
+Check your inbox for "Your Event Planning Kit + A Surprise Inside."
+
+When you're ready, you can secure your date here:
+
+https://orlandoeventvenue.org/book
+
+Questions? Call or text me at 407 974 5979.
+
+Luis Torres
+
+4. FINAL TOUR SEQUENCE
+
+The guest schedules a tour on the GHL calendar embedded at orlandoeventvenue.org/schedule-tour.
+Send the TC01 confirmation by SMS and email, immediately.
+Approximately one day before the tour, send the shared reminder SMS and the T01 email.
+Approximately one hour before the tour, send the shared reminder SMS again.
+The guest arrives and calls Luis at 407 974 5979.
+Luis lets the guest in and guides them through the venue on a normal phone call.
+Send the T03 email approximately one hour after the tour if no booking has been completed.
+Send the T03 SMS approximately three hours after the tour if no booking has been completed.
+If the guest books after receiving the T03 email but before the T03 SMS is scheduled, do not send the SMS.
+
+5. BUILD NOTES
+
+Date and time merge field
+
+The tour date and time come from the GHL appointment, using a single merge field:
+
+{{appointment.start_time}}
+
+Do not use appointment.date or appointment.time. Those two fields do not exist in GHL. Any message using them sends with the line blank, which is what happened on the confirmation sent to Ricardo Guevara on 2026-08-04. GHL does not raise an error for an unknown merge field, it simply renders nothing.
+
+GHL has no separate merge fields for date and for time, so the messages above put both on a single "When:" line rather than the previous two-line "Date: / Time:" layout.
+
+Two things to confirm inside GHL before sending:
+
+Confirm the exact field name in the merge field picker. Open the message inside the workflow that already has its appointment trigger set, then use the merge field selector. The picker lists only what is actually available in that context, with the exact name for the current GHL version. If a field does not appear there, it does not exist and no spelling of it will work.
+Confirm the message runs in an appointment context. The appointment merge fields are only populated when the automation was triggered by an appointment event, such as Customer Booked Appointment or Appointment Status. If the workflow starts from a tag, from Contact Created, or from any other trigger, there is no appointment attached and the field renders blank even when the name is correct.
+
+Also check how the time renders on the first send: the format and timezone follow the calendar and location settings, not the message.
+
+One reminder SMS, sent twice
+
+T01 and T02 share a single SMS body. Keeping one text instead of two means the reminder wording can never drift apart between the two sends, and it is the reason the message avoids "tomorrow" and "in about an hour": those would be wrong at one of the two send times.
+
+If the copy ever needs to change, change it once and update both workflow steps.
+
+No reservation number and no Tour Page for tours
+
+Tours do not carry a reservation number, and none of the tour messages ask for one.
+
+{{contact.oev_reservation_number}} is a contact custom field populated from a booking snapshot. A tour is not a booking: it exists only in the GHL calendar and never reaches the OEV database. Using that field in a tour message produces one of two wrong results: it renders blank for a guest who has never booked, or it renders the number of an unrelated past booking.
+
+Because the Tour Page was opened by entering that reservation number, the Tour Page is out of the tour flow as well. Access is handled by the guest calling Luis on arrival, which is already how the guided walkthrough works.
+
+Open question: door code
+
+The previous version of this document had the guest opening the venue themselves with a live door code shown on the Tour Page one hour before the appointment. That flow is not built, and without a reservation number there is no way to open such a page.
+
+For now, Luis lets the guest in when they call. If tours should later become self-access, that needs a decision and a separate build: storing tours in the OEV database from a GHL webhook, generating a tour identifier, and building the page with the dynamic code, the same way orlandoeventvenue.org/accesscode works for booked events.
+
+T03 automation notes
+
+T03 contains two communications: one email and one SMS.
+Send the T03 email approximately one hour after the tour.
+Send the T03 SMS approximately three hours after the tour.
+Before sending each communication, confirm that the guest has not completed a booking.
+If the guest has already booked, do not send the remaining T03 communication.
+The Event Planning Kit lives at orlandoeventvenue.org/planning-kit and is live as of 2026-08-04.
+The discount code is PLAN50. The offer must always be written as $50 OFF.
+The T03 SMS does not need to include the kit link or discount code itself. Its purpose is to direct the guest to the email containing the Event Planning Kit and $50 OFF offer.
 ```
 
-> **Dev note:** include an `.ics` calendar attachment so the tour auto-adds to the visitor's calendar. Reduces no-shows materially.
-
----
-
-## 02 — 24-Hour Reminder — Email + SMS
-
-### Email
-**Subject:** Your Tour Is Tomorrow at {{tour_time}} | Orlando Event Venue
-**Preview:** Access page + video link + quick reminder of how it works.
-
-```
-Hi {{first_name}},
-
-Quick reminder — your tour at Orlando Event Venue is tomorrow at {{tour_time}}.
-
-Tour Reservation #: {{tour_reservation_number}}
-Time: {{tour_time}}
-Location: 3847 E Colonial Dr, Orlando, FL 32803
-
-How It Works
-You'll let yourself into the venue using our access page, then hop on the video call so we can walk you through it.
-
-Your Access Page (pull your door code here):
-https://orlandoeventvenue.org/accesscode
-(Enter Tour Reservation #: {{tour_reservation_number}})
-
-Your Video Call Link:
-{{tour_video_link}}
-
-How to Find the Venue
-Park in Colonial Town Center plaza (free, 200+ spots). Look for the GLOBAL sign with 3847 displayed. The venue entrance is the door on the left side of the building.
-
-See you tomorrow,
-
-Luis & the Orlando Event Venue Team
-407-974-5979
-orlandoeventvenue.org
-3847 E Colonial Dr, Orlando, FL 32803
-```
-
-### SMS
-```
-Hi {{first_name}} — your OEV tour is tomorrow at {{tour_time}}. Pull your door code: https://orlandoeventvenue.org/accesscode (Tour Res #{{tour_reservation_number}}). Then join the call: {{tour_video_link}}. — Luis & the OEV Team
-```
-
----
-
-## 03 — 1-Hour Reminder — SMS
-
-```
-Hi {{first_name}} — your OEV tour starts in 1 hour. Door code: https://orlandoeventvenue.org/accesscode (Tour Res #{{tour_reservation_number}}). Once you're in, jump on the call: {{tour_video_link}}. — Luis
-```
-
----
-
-## 04 — Internal Admin Reminder — SMS *(internal)*
-
-```
-OEV remote tour — starts in 1 hour
-
-Name: {{first_name}} {{last_name}}
-Time: {{tour_time}}
-Tour Res #: {{tour_reservation_number}}
-Phone: {{phone}}
-Email: {{email}}
-Video call link: {{tour_video_link}}
-
-Be camera-ready on the call at {{tour_time}}. Guest will let themselves in and join the video call from inside the venue.
-```
-
----
-
-## 05 — Tour Follow-up #1 — Email + SMS (2h after tour ends)
-
-### Email
-**Subject:** Thanks for touring OEV — next steps + full pricing
-**Preview:** Quick recap, all-in pricing, and the simplest path to lock your date.
-
-```
-Hi {{first_name}},
-
-Thanks for touring today! Great walking you through it.
-
-A quick recap of what's available:
-
-What's included with every rental
-- Up to 90 guests + 10 tables + 90 chairs
-- Prep kitchen for caterers (zero restrictions — bring any caterer)
-- Free parking — 200+ spots in Colonial Town Center plaza
-- Wall-sized LED stage screen + AV available via package
-- Bar service available through us if your event needs it
-
-Discounts you may qualify for
-- 2–3 day workshop: 25% off base rental
-- Non-profit weekday booking: 50% off base rental
-- Non-profit weekend booking: cleaning fee waived
-
-Two ways forward:
-
-1. Reserve your date directly: https://orlandoeventvenue.org/book — 50% holds the date.
-2. Call or text me at 407-974-5979 if you want to talk through specifics.
-
-Open dates are being taken — if you have a date in mind, this is the right window to lock it in.
-
-Luis & the Orlando Event Venue Team
-407-974-5979
-orlandoeventvenue.org
-orlandoeventvenue@gmail.com
-3847 E Colonial Dr Orlando, FL 32803
-```
-
-### SMS
-```
-Hi {{first_name}} — Luis at OEV. Thanks for touring today! Just emailed you a quick recap + discounts. If you have a date in mind, lock it here: https://orlandoeventvenue.org/book — Luis
-```
-
-> **Note:** the full pricing list (hourly $139/hr, daily $899, production package per-hour rates, bar service per-guest rates) was intentionally trimmed from this email. Discounts stay; full pricing lives on the website. If you want a one-liner like *"Full pricing: orlandoeventvenue.org/pricing"* added, slot it under "Discounts you may qualify for."
-
----
-
-## 06 — Tour Follow-up #2 — Email + SMS (Day 5, skip if booked)
-
-### Email
-**Subject:** Quick check-in from Luis | Orlando Event Venue
-**Preview:** Any questions after your tour? Calendar update + the simplest path forward.
-
-```
-Hi {{first_name}},
-
-Just checking in — wanted to see if you had any questions after your tour with us earlier this week.
-
-A real calendar note: open dates are filling. If you have a date in mind, this is the right window to lock it in.
-
-Two ways forward:
-
-1. Reserve your date directly: https://orlandoeventvenue.org/book — 50% holds the date.
-2. Reply to this email or call/text 407-974-5979 if you want to talk through anything.
-
-If timing isn't right yet, no pressure — we'll be here when it is.
-
-Luis & the Orlando Event Venue Team
-407-974-5979
-orlandoeventvenue.org
-orlandoeventvenue@gmail.com
-3847 E Colonial Dr Orlando, FL 32803
-```
-
-### SMS
-```
-Hi {{first_name}} — Luis at OEV. Quick check-in: still considering the venue? Happy to answer any questions. If your date's still open, lock it here: https://orlandoeventvenue.org/book — Luis
-```
-
-> **Trigger:** Day 5 after the tour. **Skip both email + SMS if a booking is detected** before this trigger fires.
-
----
-
-## Operational Rules
-
-### Information delivery rules
-- **Tour Reservation #** is the key identifier — surfaced in every external message + every email signature.
-- **Access page link** is introduced in Step 01 email and repeated in Steps 02 (email + SMS) and 03 (SMS).
-- **Entry steps** live in Step 01 email only. SMS reminders never re-walk entry steps.
-- **Video call link** appears in Step 01, 02 (email + SMS), 03 (SMS), and 04 (internal). Not needed in post-tour follow-ups.
-- **Calendar attachment (.ics)** must accompany Step 01 email.
-
-### SMS signoff rules
-- Steps 02 + 05 SMS: `— Luis & the OEV Team`
-- Steps 03 + 06 SMS (close-in execution + final follow-up): `— Luis`
-
-### Trigger sequence
-- **Step 01** fires immediately on tour booking (website event).
-- **Step 02** fires 24 hours before tour (email + SMS together).
-- **Step 03** fires 1 hour before tour (customer SMS).
-- **Step 04** fires 1 hour before tour (staff SMS, internal).
-- **Step 05** fires 2 hours after tour ends (email + SMS together).
-- **Step 06** fires Day 5 after tour, **skip if booking detected** in the meantime.
-
-### Edge cases
-- **No-show:** if the visitor doesn't join the video call within 10 minutes of tour start, staff should manually flag and reach out to reschedule. (Future automation: a "Sorry we missed you — reschedule here" email triggered automatically.)
-- **Tour booking < 24 hours out:** Step 02 still fires immediately; Step 03 fires 1h before normally.
-- **Visitor reschedules:** all upcoming touchpoints regenerate against the new tour datetime.
-- **Visitor books a venue date during the tour itself:** Steps 05 + 06 should still fire — Step 05 as a thank-you/confirmation, Step 06 skipped by the booking-detected rule.
-
-### Rules + fees source
-If asked about venue rules or fees during a tour or in Step 05 follow-up, reconcile to [[../../00-Brand-Core/Rules-and-Fees|OEV Rules and Fees]].
-
----
-
-## Dev Handoff
-
-### `/accesscode` page now supports 3 modes
-Gated by identifier type + timing:
-
-| Identifier | When | Shows |
-|---|---|---|
-| Booking reservation # | current time ≤ event-end | Door code + Wi-Fi |
-| Booking reservation # | current time > event-end | Guest Report + review |
-| **Tour reservation #** | within tour window (±30 min) | **Door code only** *(no Wi-Fi — short visit)* |
-| Tour reservation # | outside window | "Tour not active" message + phone fallback (407-974-5979) |
-
-### Tour Reservation # format
-Suggest `TOUR-XXXX` (4-char alphanumeric) to distinguish from booking reservation #s. Generated at the moment the visitor books a tour.
-
-### Video call platform
-Pick one (Zoom, Google Meet, Whereby — all work). `{{tour_video_link}}` populates from the booking tool.
-
-### Calendar attachment
-Step 01 email must include an `.ics` attachment so the tour auto-adds to the visitor's calendar. Reduces no-shows materially.
-
-### Tour booking source
-Assumes tours are booked from the website's tour scheduler. Each tour booking generates a unique Tour Reservation # at the moment of booking.
-
-### Skip rule for Step 06
-If a venue booking (not tour booking) is detected for the contact between Step 05 and the Day 5 trigger, skip Step 06 entirely (both email + SMS).
+## Note
+The prior in-vault version of this file (2026-05-28) described a self-access lockbox + video-call tour model. That model is not what ClickUp specifies and, per the ClickUp doc's own "Open question: door code" section, was never built. The block above is the literal, current ClickUp text: a phone-guided walkthrough with no reservation number, no Tour Page, and no video call. If the copy or the tour model changes, update ClickUp first, then re-paste here.
