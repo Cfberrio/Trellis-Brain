@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 4
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-07
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "ATTACKING"
@@ -166,6 +166,11 @@ Observable metrics:
 - Keep lines short. High repetition in short time is more valuable than low repetition in long lines.
 - After feedback, replay immediately. Correction sticks better when the athlete gets the next rep right away.
 - For right-handed hitters, source fundamentals support **left-right-left** timing and a **45-degree approach**. For left-handed hitters, reverse the approach cue.
+## Alternate cue: the superhero chain
+Some groups respond better to imagery than to footwork instructions. This is an optional alternate way of saying what the Left-Right / Plant / Up / High Hand / Finish sequence already teaches, not a new required step.
+**Loading up** — arm cocked back, elbow high. **Reaching tall** — arm drives forward and up through full extension. **Drawing the bow** — a quick pull-back of the hitting arm right before contact, like drawing a bow. **Follow through** — firm high-hand contact, full follow-through toward the target.
+Use it as a swap-in for coaches whose group needs a picture instead of a checklist. Same contact, same exit criteria in Block 3.
+**Source:** Volleyball Australia's Spikezone Coaching Resource Guide, "Spiking" key points section.
 ---
 <callout icon="🎲" color="gray_bg">
 	**WHERE THIS SKILL SHOWS UP**

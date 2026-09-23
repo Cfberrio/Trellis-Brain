@@ -12,14 +12,17 @@ sport: Volleyball
 status: Live
 order: 2
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-17
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "WEEK 2"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! Week 2. Focus is **Serving + Passing**. Retrieve before you teach — see what they kept from Week 1 first. You pick the games. Every **→** below is a door.
+</callout>
+<callout icon="📐" color="gray_bg">
+	Non-negotiable: 3 lines of players per coach. Teach 2+ skills per practice.
 </callout>
 # WEEK 2
 <callout icon="🪜" color="yellow_bg">
@@ -33,7 +36,8 @@ aliases:
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
 	**Teach one skill at a time.**
-	**3 lines per coach, if possible.**
+	**3 lines of players per coach. Non-negotiable.**
+	**Teach 3+ skills per practice. Non-negotiable.**
 	**Coach at all times. Don't stop speaking.**
 	**Give specific + actionable feedback.**
 	**Add variation as soon as players begin succeeding.**
@@ -42,6 +46,7 @@ aliases:
 </callout>
 ## 1. INTRO
 **Welcome:** Reconnect by name. "We're here to have fun. We're here to learn."
+**Optional opener (2 min):** pick one from [[BONDING & TEAM CULTURE OPTIONS]].
 **Retrieval — see what they remember:** In triads, show pass - set - catch for a few entries without a technical demo first. Watch movement before platform and the setter's balanced arrival. Ask: Where should the first ball go?
 <callout icon="⚠️" color="yellow_bg">
 	If setting was not reached last week, retrieve passing and resume that ladder **before** adding the serve. The calendar does not prove readiness.
@@ -61,45 +66,20 @@ aliases:
 	*The whole warm-up bank.*
 </callout>
 ## 2. PROGRESSION LADDER
-![Week 2 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/a5d022f9-2a5a-4973-ae8b-e7a40c2e314e/ladder-week2.png) <!-- notion-hosted, URL expires -->
 **Coaching focus:** Serving + Passing. Encounter other skills without adding simultaneous technical lessons.
-Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
+Start at the earliest unresolved problem. Rows are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
 <callout icon="🎲" color="gray_bg">
 	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
-	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
+	*Each row names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
 	[[VOLLEYBALL GAMIFIED CHALLENGES]]
 	*Sixteen challenges, indexed by the problem you can see.*
 </callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 1** — [[PASSING]] + [[SETTING]]
-	*Retrieval: players perform both skills alone but cannot connect them. Check what remains reliable before adding instruction.*
-	**Challenge →** [[BUILD THE BRIDGE]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 2** — [[SERVING]]
-	*Problem: players do not yet make repeatable underhand serve contact.*
-	**Challenge →** [[SERVE TO UNLOCK]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 3** — [[SERVING]]
-	*Problem: players contact the ball but cannot reliably clear the net.*
-	**Challenge →** [[SERVE TO UNLOCK]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 4** — [[SERVING]]
-	*Problem: players serve in but do not adjust to a target cue.*
-	**Challenge →** [[CLAIM THE SQUARES]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 5** — [[SERVING]] + [[PASSING]]
-	*Problem: players pass a toss but struggle receiving a serve.*
-	**Challenge →** [[SERVE → READ → CATCH]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 6** — [[PASSING]] + [[SETTING]]
-	*Problem: the team receives a serve but must retrieve the next pass - set connection from that changed entry.*
-	**Challenge →** [[BUILD THE BRIDGE]]
-</callout>
+| Step | Skill | Problem | Gamified Challenge | Variation | Observable Evidence |
+|---|---|---|---|---|---|
+| 1 | [[SERVING]] | No repeatable underhand contact; doesn't clear the net | [[SERVE TO UNLOCK]] | Once it clears, add distance | Serve clears the net 3 of 4 tries |
+| 2 | [[SERVING]] | Serves in but ignores a target cue | [[CLAIM THE SQUARES]] | Change the target zone | Serve lands in the named zone 2 of 4 |
+| 3 | [[SERVING]] · [[PASSING]] | Passes a coach toss fine but can't receive a live serve | [[SERVE → READ → CATCH]] | Change server position | Receiver plays a live serve to a named teammate |
+| 4 | [[SERVING]] · [[PASSING]] · [[SETTING]] | Receives the serve but the pass–set connection breaks under that changed entry | [[BUILD THE BRIDGE]] | 🏆 **Golden Ticket:** serve–receive–set connects live, 3x in a row → wave the pair to a Week 3 attack-off-a-set rep, same practice | Serve–receive–set connects live, back to back |
 ## 3. CHECK FOR UNDERSTANDING
 <callout icon="🎲" color="gray_bg">
 	**CFU GAME: you pick.**
@@ -123,6 +103,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 	*Consistency + Humility.*
 </callout>
 **Recognition:** Who repeated the routine or used a teammate's feedback?
+**Optional closer (1–2 min):** pick one from [[BONDING & TEAM CULTURE OPTIONS]].
 **What's Next?** We will retrieve serve - receive - set and discover what we can do after a playable set.
 <callout icon="🚩" color="gray_bg">
 	**After practice:** record the last reliable problem solved, one CFU observation, useful scaling and the next retrieval in your practice log.

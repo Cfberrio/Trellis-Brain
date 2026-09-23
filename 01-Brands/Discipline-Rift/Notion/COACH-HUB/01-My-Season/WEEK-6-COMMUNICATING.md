@@ -12,14 +12,17 @@ sport: Volleyball
 status: Live
 order: 6
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-17
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "WEEK 6"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! Week 6. Focus is **Communicating + Integrated Play**. Today is mostly playing — you are watching whether the season survives changed conditions. You pick the games. Every **→** below is a door.
+</callout>
+<callout icon="📐" color="gray_bg">
+	Non-negotiable: 3 lines of players per coach. Teach 2+ skills per practice.
 </callout>
 # WEEK 6
 <callout icon="🪜" color="yellow_bg">
@@ -33,7 +36,8 @@ aliases:
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
 	**Teach one skill at a time.**
-	**3 lines per coach, if possible.**
+	**3 lines of players per coach. Non-negotiable.**
+	**Teach 3+ skills per practice. Non-negotiable.**
 	**Coach at all times. Don't stop speaking.**
 	**Give specific + actionable feedback.**
 	**Add variation as soon as players begin succeeding.**
@@ -42,6 +46,7 @@ aliases:
 </callout>
 ## 1. INTRO
 **Welcome:** Reconnect by name. "We're here to have fun. We're here to learn."
+**Optional opener (2 min):** pick one from [[BONDING & TEAM CULTURE OPTIONS]].
 **Retrieval — see what they remember:** Begin with a short game using scaled serves and known rules. Let players show receive - set - controlled return and recovery before reminders. Observe who calls, who responds and which contacts remain reliable. Resume the relevant earlier challenge for the gap you see.
 **Stretch:** Stretch with the players. Keep it dynamic; coach counts 1, players 2, coach 3, players 4.
 <callout icon="🎲" color="gray_bg">
@@ -58,45 +63,20 @@ aliases:
 	*The whole warm-up bank.*
 </callout>
 ## 2. PROGRESSION LADDER
-![Week 6 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/a8a4b9e4-2263-48d4-91f8-682294bdb9da/ladder-week6.png) <!-- notion-hosted, URL expires -->
 **Coaching focus:** Communicating + Integrated Play. Encounter other skills without adding simultaneous technical lessons.
-Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
+Start at the earliest unresolved problem. Rows are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
 <callout icon="🎲" color="gray_bg">
 	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
-	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
+	*Each row names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
 	[[VOLLEYBALL GAMIFIED CHALLENGES]]
 	*Sixteen challenges, indexed by the problem you can see.*
 </callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 1** — [[COMMUNICATING]] + [[PASSING]] + [[SETTING]]
-	*Problem: players answer the coach but do not address a teammate during play.*
-	**Challenge →** [[WHOSE BALL?]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 2** — [[COMMUNICATING]] + [[PASSING]]
-	*Problem: two players hesitate or both chase a shared ball.*
-	**Challenge →** [[WHOSE BALL?]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 3** — [[SERVING]] + [[PASSING]]
-	*Problem: players pass a toss but struggle receiving a serve.*
-	**Challenge →** [[SERVE → READ → CATCH]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 4** — [[COMMUNICATING]] + [[DEFENDING]] + [[SETTING]]
-	*Problem: players call Mine but teammates do not respond or continue the sequence.*
-	**Challenge →** [[SAVE AND SHARE]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 5** — [[PASSING]] + [[SETTING]] + [[ATTACKING]]
-	*Problem: an attacker can hit a coach toss but cannot connect to a teammate set.*
-	**Challenge →** [[BUILD THE BRIDGE]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 6 — if the group is already connecting**
-	*Problem: the team sends the ball straight back to the opponent, or one miss kills the group's confidence.*
-	**Challenge →** [[FIND THE SPACE]] or [[BEAT YOUR BEST CONNECTIONS]]
-</callout>
+| Step | Skill | Problem | Gamified Challenge | Variation | Observable Evidence |
+|---|---|---|---|---|---|
+| 1 | [[COMMUNICATING]] | Talks to the coach, not a teammate, during play | [[WHOSE BALL?]] | — | Player calls a teammate's name mid-rally |
+| 2 | [[COMMUNICATING]] | Calls "Mine" but teammates don't respond or continue the sequence | [[SAVE AND SHARE]] | — | Team continues the sequence after a call |
+| 3 — if the group is connecting | Live Rally | Team sends the ball straight back, or one miss kills confidence | [[FIND THE SPACE]] or [[BEAT YOUR BEST CONNECTIONS]] | — | Team builds 2+ contacts before returning, recovers from a miss |
+| 4 — top of the ladder, if ready | Live Rally | Team just knocks it straight back, no build-up | [[2+2 BUILD UP]] → [[3v3 KEEP IT ALIVE]] → [[4v4 RALLY]] | 🏆 **Golden Ticket:** group with a clean 3+ contact rally chain → moves straight into Season Close | Rally chain of 3+ contacts; players call and respond without freezing |
 ## 3. CHECK FOR UNDERSTANDING
 <callout icon="🎲" color="gray_bg">
 	**CFU GAME: you pick.**
@@ -124,6 +104,13 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 </callout>
 **Recognition:** Recognize every player with specific evidence of progress, teamwork or willingness to try.
 **What's Next?** Celebrate this season and give each player one personal next step for future play.
+<callout icon="🎉" color="gray_bg">
+	**SEASON CLOSE** — use the last 8 minutes of the ladder block. Do not add time to the hour.
+	1. Sit the group. One sentence per player, by name, one thing they got better at.
+	2. Certificate if the site uses them. Drumroll and clap for each name before it is called.
+	3. One next step for the group: the problem you would coach if there were a Week 7.
+	*From the 2023 DR ceremony (p. 61), trimmed to fit the current session. Full opener/closer list: [[BONDING & TEAM CULTURE OPTIONS]].*
+</callout>
 <callout icon="🚩" color="gray_bg">
 	**After practice:** record the last reliable problem solved, one CFU observation, useful scaling and the next retrieval in your practice log.
 </callout>

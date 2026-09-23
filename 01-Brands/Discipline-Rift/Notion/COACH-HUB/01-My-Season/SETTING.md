@@ -13,7 +13,7 @@ status: Live
 order: 2
 notion_created: 2026-08-11
 notion_last_edited: 2026-09-07
-mirrored: 2026-09-17
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "SETTING"

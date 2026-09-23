@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-23
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "HIGH HAND TARGET"
@@ -32,8 +32,8 @@ aliases:
 3. Collector retrieves once the ball has ended. Rotate after three attempts.
 4. Keep the task standing until contact and spacing are comfortable.
 ## How to progress and win
-One point for a controlled contact into a broad court area. **Power adds no bonus.**
-**Golden Ticket:** three controlled sends unlock a new broad destination, not a harder swing.
+One point when the contact is controlled and lands inside the broad target area. A harder swing does not score extra.
+**Golden Ticket:** three points in a row and the target area moves to a new part of the court. The swing itself does not get harder yet.
 ## Adjust the challenge
 <table header-row="true">
 <tr>
@@ -52,8 +52,11 @@ One point for a controlled contact into a broad court area. **Power adds no bonu
 </callout>
 ## Ready for the next problem when
 The player can send to a broad area without uncontrolled forward travel.
+## Alternate cue: the superhero chain
+Same contact, different words: use this for a group that responds better to imagery than to footwork instructions. Not a new required step, just another way of saying what "high hand, into space" already teaches.
+**Loading up** — arm cocked back, elbow high. **Reaching tall** — arm drives forward and up through full extension. **Drawing the bow** — a quick pull-back of the hitting arm right before contact. **Follow through** — firm high-hand contact, full follow-through toward the target.
 <callout icon="⚠️" color="yellow_bg">
-	**SOURCE NOTE** — DR extension of hit-off-the-toss work; Dearing ch. 5; Dummies beginner offensive drills.
+	**SOURCE NOTE** — DR extension of hit-off-the-toss work; Dearing ch. 5; Dummies beginner offensive drills. Superhero cue chain: Volleyball Australia's Spikezone Coaching Resource Guide, "Spiking" key points section.
 </callout>
 <callout icon="🚩" color="gray_bg">
 	One problem, one challenge. Do not run four of these in a session.

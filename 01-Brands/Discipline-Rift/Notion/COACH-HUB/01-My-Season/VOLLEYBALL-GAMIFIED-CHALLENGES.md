@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-17
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "VOLLEYBALL GAMIFIED CHALLENGES"
@@ -29,9 +29,20 @@ Every challenge follows the same shape: **Skill + Problem + Gamified Challenge**
 	Start from the problem you can see today, not from the week number. Two groups on the same court can be on different challenges.
 	A Golden Ticket unlocks **one** new demand: a new distance, entry, role, or target. It is never permanent status and it never controls who gets the ball.
 </callout>
+<callout icon="💡" color="gray_bg">
+	**MIXED ABILITY IN ONE GROUP**
+	Easier and Harder scale the whole group. When one player in a trio is well ahead of the other two, do not split them into separate challenges: put a condition on the stronger player only and keep the group together — no faking, off-hand only, standing contact only, or a required set instead of a catch. The rest of the group plays the normal version.
+	*Source: Handbook for Coaches and Players (Papageorgiou/Spitzley), ch. 3 — "Differences in Player's Skill Levels."*
+</callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**FIND IT BY PROBLEM**
 	*Read the problem, tap the door under it.*
+	[[PING PONG RALLY]]
+	*Plays one ball, then stands still.*
+	[[JAILBREAK]]
+	*Has the contact in a drill, loses it under a little pressure.*
+	[[RING OF FIRE]]
+	*Gets it over with no idea where it is going.*
 	[[DELIVER THE PACKAGE]]
 	*Cannot make a useful contact.*
 	[[BEAT THE BALL]]
@@ -51,6 +62,8 @@ Every challenge follows the same shape: **Skill + Problem + Gamified Challenge**
 	[[SERVE → READ → CATCH]]
 	*Can pass a toss but not a serve.*
 	[[WHOSE BALL?]]
+	*Players answer the coach but stay silent with a teammate.*
+	[[CALL THE PLAY]]
 	*Two players hesitate.*
 	[[HOME BASE]]
 	*Stops after their own touch.*
@@ -64,8 +77,15 @@ Every challenge follows the same shape: **Skill + Problem + Gamified Challenge**
 	*Sends straight to the opponent.*
 	[[BEAT YOUR BEST CONNECTIONS]]
 	*One miss kills the group's confidence.*
+	[[FOUR SQUARE]]
+	*Team knocks the ball straight back with no build-up.*
+	[[2+2 BUILD UP]] → [[3v3 KEEP IT ALIVE]] → [[4v4 RALLY]]
+	*Only ever aims at one spot, stops scanning after their touch.*
 </callout>
-**THE BANK: the same sixteen, as full rows.**
+**THE BANK: the same twenty, as full rows.**
+[[PING PONG RALLY]]
+[[JAILBREAK]]
+[[RING OF FIRE]]
 [[DELIVER THE PACKAGE]]
 [[BEAT THE BALL]]
 [[TARGET HOOPS]]
@@ -85,3 +105,8 @@ Every challenge follows the same shape: **Skill + Problem + Gamified Challenge**
 <callout icon="🚩" color="gray_bg">
 	Pick your two or three before you get to the gym. Then write down the next problem you saw.
 </callout>
+[[FOUR SQUARE]]
+[[CALL THE PLAY]]
+[[2+2 BUILD UP]]
+[[3v3 KEEP IT ALIVE]]
+[[4v4 RALLY]]

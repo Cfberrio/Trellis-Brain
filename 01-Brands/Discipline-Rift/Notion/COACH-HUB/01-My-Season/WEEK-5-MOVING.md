@@ -12,14 +12,17 @@ sport: Volleyball
 status: Live
 order: 5
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-17
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "WEEK 5"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! Week 5. Focus is **Moving + Setting**. The question all week is: where do you go **after** you touch the ball? You pick the games. Every **→** below is a door.
+</callout>
+<callout icon="📐" color="gray_bg">
+	Non-negotiable: 3 lines of players per coach. Teach 2+ skills per practice.
 </callout>
 # WEEK 5
 <callout icon="🪜" color="yellow_bg">
@@ -33,7 +36,8 @@ aliases:
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
 	**Teach one skill at a time.**
-	**3 lines per coach, if possible.**
+	**3 lines of players per coach. Non-negotiable.**
+	**Teach 3+ skills per practice. Non-negotiable.**
 	**Coach at all times. Don't stop speaking.**
 	**Give specific + actionable feedback.**
 	**Add variation as soon as players begin succeeding.**
@@ -42,6 +46,7 @@ aliases:
 </callout>
 ## 1. INTRO
 **Welcome:** Reconnect by name. "We're here to have fun. We're here to learn."
+**Optional opener (2 min):** pick one from [[BONDING & TEAM CULTURE OPTIONS]].
 **Retrieval — see what they remember:** Use a few controlled defensive entries into dig - set - return. Start each player from a different already-known spot. Watch balanced arrival and what they do after contact.
 <callout icon="⚠️" color="yellow_bg">
 	Show unfamiliar locations before treating them as retrieval. A spot they have never used is new instruction.
@@ -61,45 +66,20 @@ aliases:
 	*The whole warm-up bank.*
 </callout>
 ## 2. PROGRESSION LADDER
-![Week 5 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/09e2cb4a-4c07-4643-9687-b00f1c6db20b/ladder-week5.png) <!-- notion-hosted, URL expires -->
 **Coaching focus:** Moving + Setting. Encounter other skills without adding simultaneous technical lessons.
-Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
+Start at the earliest unresolved problem. Rows are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
 <callout icon="🎲" color="gray_bg">
 	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
-	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
+	*Each row names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
 	[[VOLLEYBALL GAMIFIED CHALLENGES]]
 	*Sixteen challenges, indexed by the problem you can see.*
 </callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 1** — [[DEFENDING]] + [[PASSING]]
-	*Retrieval: players freeze or reach when a ball enters their area. Check what remains reliable before adding instruction.*
-	**Challenge →** [[BEAT THE BALL]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 2** — [[MOVING]]
-	*Problem: players choose too many steps or cannot stop in balance.*
-	**Challenge →** [[MOVE–STOP–SET SQUARES]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 3** — [[MOVING]] + [[SETTING]]
-	*Problem: players set in place but arrive late from different court spots.*
-	**Challenge →** [[MOVE–STOP–SET SQUARES]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 4** — [[MOVING]] + [[DEFENDING]]
-	*Problem: players stay still after their contact instead of preparing to support.*
-	**Challenge →** [[HOME BASE]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 5** — [[PASSING]] + [[SETTING]] + [[ATTACKING]]
-	*Problem: an attacker can hit a coach toss but cannot connect to a teammate set.*
-	**Challenge →** [[TIMING TICKET]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 6** — [[MOVING]] + [[DEFENDING]]
-	*Problem: players know the next support spot but lose it when starting roles change. Repeat with different starting locations.*
-	**Challenge →** [[HOME BASE]] or [[WHOSE BALL?]]
-</callout>
+| Step | Skill | Problem | Gamified Challenge | Variation | Observable Evidence |
+|---|---|---|---|---|---|
+| 1 | [[MOVING]] | Takes too many steps, or can't stop in balance | [[MOVE–STOP–SET SQUARES]] | — | Stops in a balanced base before contact |
+| 2 | [[MOVING]] · [[SETTING]] | Sets in place fine but arrives late from different starting spots | [[MOVE–STOP–SET SQUARES]] | Widen the starting spot | Setter gets under a moving ball, set stays catchable |
+| 3 | [[MOVING]] · [[DEFENDING]] | Stays still after contact instead of resetting to a support spot | [[HOME BASE]] | Change starting role or location | Player moves to a new support spot after contact |
+| 4 | [[MOVING]] · [[DEFENDING]] · [[SETTING]] | Knows the next support spot but loses it once starting roles change | [[HOME BASE]] or [[WHOSE BALL?]] | 🏆 **Golden Ticket:** team that holds support spots across 3 role changes → waved into a live 3-contact rally rep, tying into Week 6 | Team keeps support spots filled as roles change |
 ## 3. CHECK FOR UNDERSTANDING
 <callout icon="🎲" color="gray_bg">
 	**CFU GAME: you pick.**
@@ -123,6 +103,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 	*Focus + Integrity.*
 </callout>
 **Recognition:** Who moved to help or counted a miss honestly?
+**Optional closer (1–2 min):** pick one from [[BONDING & TEAM CULTURE OPTIONS]].
 **What's Next?** We will put the season together and see how clear communication helps us play.
 <callout icon="🚩" color="gray_bg">
 	**After practice:** record the last reliable problem solved, one CFU observation, useful scaling and the next retrieval in your practice log.

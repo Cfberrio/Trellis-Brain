@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-23
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "WHOSE BALL?"
@@ -32,8 +32,8 @@ aliases:
 3. The claiming player catches or passes. The other offers a target or a backup position.
 4. Rotate roles after three feeds.
 ## How to progress and win
-One point for a clear claim with one committed receiver **and** one helpful partner. Add pass quality only when passing is the focus.
-**Golden Ticket:** three clear shared decisions unlock an unpredictable entry.
+One point when one player calls **"mine"** before contact and the other player is already moving to back them up. Add pass quality only when passing is the focus.
+**Golden Ticket:** three points in a row and the tosser stops feeding straight down the middle, mixing the entry angle instead. The two players now have to decide faster.
 ## Adjust the challenge
 <table header-row="true">
 <tr>
@@ -52,8 +52,10 @@ One point for a clear claim with one committed receiver **and** one helpful part
 </callout>
 ## Ready for the next problem when
 Both receivers take responsibility on different balls and support when they are not first.
+## Water Ditch add-on
+Once claiming is solid, mark a roughly 1-meter strip along the net as dead ground ("the ditch"). Any ball landing in it is out, no matter who touched it last. This stops kids from ending a rally by tipping it just over the net instead of committing to a real target.
 <callout icon="⚠️" color="yellow_bg">
-	**SOURCE NOTE** — DR extension of Seam Saver; Dearing ch. 3.
+	**SOURCE NOTE** — DR extension of Seam Saver; Dearing ch. 3. Water Ditch add-on: CEV School Project Teachers Handbook, "Water Ditch," General Conditions section.
 </callout>
 <callout icon="🚩" color="gray_bg">
 	One problem, one challenge. Do not run four of these in a session.

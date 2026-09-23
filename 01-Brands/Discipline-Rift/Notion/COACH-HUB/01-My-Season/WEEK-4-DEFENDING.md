@@ -12,14 +12,17 @@ sport: Volleyball
 status: Live
 order: 4
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-17
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "WEEK 4"
 ---
 <callout icon="📢" color="gray_bg">
 	Coach! Week 4. Focus is **Defending + Communicating**. Defense here is the passing platform they already own, used against a changed entry. You pick the games. Every **→** below is a door.
+</callout>
+<callout icon="📐" color="gray_bg">
+	Non-negotiable: 3 lines of players per coach. Teach 2+ skills per practice.
 </callout>
 # WEEK 4
 <callout icon="🪜" color="yellow_bg">
@@ -33,7 +36,8 @@ aliases:
 	**COACH RULES**
 	**Demonstrate everything. Don't explain.**
 	**Teach one skill at a time.**
-	**3 lines per coach, if possible.**
+	**3 lines of players per coach. Non-negotiable.**
+	**Teach 3+ skills per practice. Non-negotiable.**
 	**Coach at all times. Don't stop speaking.**
 	**Give specific + actionable feedback.**
 	**Add variation as soon as players begin succeeding.**
@@ -42,6 +46,7 @@ aliases:
 </callout>
 ## 1. INTRO
 **Welcome:** Reconnect by name. "We're here to have fun. We're here to learn."
+**Optional opener (2 min):** pick one from [[BONDING & TEAM CULTURE OPTIONS]].
 **Retrieval — see what they remember:** Retrieve a short pass - set - controlled return, beginning one round with a serve. Watch whether first contacts stay playable and players reset. Ask a player to show feet-before-platform. Introduce defense as using that known platform against a changed entry.
 **Stretch:** Stretch with the players. Keep it dynamic; coach counts 1, players 2, coach 3, players 4.
 <callout icon="🎲" color="gray_bg">
@@ -58,45 +63,20 @@ aliases:
 	*The whole warm-up bank.*
 </callout>
 ## 2. PROGRESSION LADDER
-![Week 4 progression ladder — skill on top, problem underneath](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/2a27b8c7-16d3-44ab-8c92-e1c36b64b83f/ladder-week4.png) <!-- notion-hosted, URL expires -->
 **Coaching focus:** Defending + Communicating. Encounter other skills without adding simultaneous technical lessons.
-Start at the earliest unresolved problem. The steps are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
+Start at the earliest unresolved problem. Rows are a route, not a checklist to finish. Demonstrate each new skill immediately before its first challenge. Advance from visible success; protect time for CFU and Close.
 <callout icon="🎲" color="gray_bg">
 	**THE CHALLENGE IS A SUGGESTION, NOT AN ORDER**
-	*Each step names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
+	*Each row names the Skill, the Problem you can see, and the challenge built for that problem. Run it, or pick another for the same Skill + Problem.*
 	[[VOLLEYBALL GAMIFIED CHALLENGES]]
 	*Sixteen challenges, indexed by the problem you can see.*
 </callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 1** — [[PASSING]] + [[SETTING]] + [[ATTACKING]]
-	*Retrieval: an attacker can hit a coach toss but cannot connect to a teammate set. Check what remains reliable before adding instruction.*
-	**Challenge →** [[TIMING TICKET]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 2** — [[DEFENDING]] + [[PASSING]]
-	*Problem: players freeze or reach when a ball enters their area.*
-	**Challenge →** [[BEAT THE BALL]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 3** — [[DEFENDING]] + [[MOVING]]
-	*Problem: players defend one ball but do not reset for the next entry.*
-	**Challenge →** [[HOME BASE]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 4** — [[COMMUNICATING]] + [[PASSING]]
-	*Problem: two players hesitate or both chase a shared ball.*
-	**Challenge →** [[WHOSE BALL?]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 5** — [[DEFENDING]] + [[COMMUNICATING]]
-	*Problem: adjacent defenders do not know who plays first and who supports.*
-	**Challenge →** [[WHOSE BALL?]] or [[HOME BASE]]
-</callout>
-<callout icon="🏐" color="gray_bg">
-	**STEP 6** — [[DEFENDING]] + [[SETTING]] + [[ATTACKING]]
-	*Problem: players keep the first ball up but cannot turn defense into a return.*
-	**Challenge →** [[SAVE AND SHARE]]
-</callout>
+| Step | Skill | Problem | Gamified Challenge | Variation | Observable Evidence |
+|---|---|---|---|---|---|
+| 1 | [[DEFENDING]] | Freezes or reaches when a ball enters their area | [[BEAT THE BALL]] | — | Player moves to the ball before it arrives, plays it in front |
+| 2 | [[DEFENDING]] | Defends one ball fine but doesn't reset for the next entry | [[HOME BASE]] | Repeat with two entries back to back | Recovers to base position after contact |
+| 3 | [[DEFENDING]] · [[COMMUNICATING]] | Two players hesitate, collide, or neither knows who covers | [[WHOSE BALL?]] | Change entry side | One caller, one supporter, no collision |
+| 4 | [[DEFENDING]] · [[SETTING]] · [[ATTACKING]] | Keeps the first ball up but can't turn defense into a return | [[SAVE AND SHARE]] | 🏆 **Golden Ticket:** pair that digs–sets–returns live, 3x in a row → waved to a Week 5 support-movement rep from a new starting spot | Dig–set–return connects live |
 ## 3. CHECK FOR UNDERSTANDING
 <callout icon="🎲" color="gray_bg">
 	**CFU GAME: you pick.**
@@ -120,6 +100,7 @@ Give players a chance to retrieve. If they struggle: **Freeze - Cue - Replay.**
 	*Resilience + Passion.*
 </callout>
 **Recognition:** Who reset after a miss and supported the next play?
+**Optional closer (1–2 min):** pick one from [[BONDING & TEAM CULTURE OPTIONS]].
 **What's Next?** We will move from new starting spots and learn where to go after touching the ball.
 <callout icon="🚩" color="gray_bg">
 	**After practice:** record the last reliable problem solved, one CFU observation, useful scaling and the next retrieval in your practice log.

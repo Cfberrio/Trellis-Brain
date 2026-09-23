@@ -12,8 +12,8 @@ sport: Volleyball
 status: Live
 order: 1
 notion_created: 2026-08-11
-notion_last_edited: 2026-09-17
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-23
 mirror_complete: true
 aliases:
   - "VOLLEYBALL CURRICULUM"
@@ -23,6 +23,15 @@ aliases:
 </callout>
 # VOLLEYBALL CURRICULUM
 CURRICULUM CULTURE: how we do things, how we connect as coaches.
+<callout icon="📐" color="gray_bg">
+	**STANDING RULES — NON-NEGOTIABLE**
+	**3 lines of players per coach.** Structure every drill and game so each coach runs 3 lines, not fewer. Fewer lines means fewer reps and more players standing around.
+	Teach 2+ skills per practice. A practice must cover two or more skills, not one. Narrowing to a single skill leaves players undertrained on the rest of the ladder.
+</callout>
+<callout icon="🔄" color="gray_bg">
+	**WHY THIS CURRICULUM CHANGES**
+	This is a living document, not a fixed manual. In September 2026, Cristian watched Coach Mela and Coach Ronald run live volleyball practices and rewrote parts of this curriculum from what he saw: correction language that wasn't specific enough, skills taught in isolation instead of connected, missing footwork instruction, lines that didn't rotate, equipment and court setup that wasn't ready before players arrived. Updates come from real practice observation and coach feedback, not opinion. If something here doesn't hold up on your court, say so. That's how it gets fixed.
+</callout>
 <callout icon="🏐" color="gray_bg">
 	**THE SEASON**
 	*All six weeks rewritten. Each week names the Skill and the Problem; you choose the game from the banks below.*
@@ -44,7 +53,7 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches.
 	[[VOLLEYBALL WARM-UP GAMES]]
 	*Four warm-ups. Pick one that fits your group and your space.*
 	[[VOLLEYBALL GAMIFIED CHALLENGES]]
-	*Sixteen challenges, indexed by the problem you can actually see. Run two or three in a session.*
+	*Twenty challenges, indexed by the problem you can actually see. Run two or three in a session.*
 	[[VOLLEYBALL CFU GAMES]]
 	*Four Check For Understanding games. Choose the one that shows you whether they can use it.*
 </callout>
@@ -76,16 +85,35 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches.
 	*What good coaching looks like while players are practicing.*
 	[[ARCHIVE — LIFE LESSON (no longer a required block)]]
 	*The Word of the Week. Culture, not a required block on every week page.*
+	[[BONDING & TEAM CULTURE OPTIONS]]
+	*Bonding & team culture options for Intro and Close. Optional, not a required block.*
 </callout>
 <callout icon="/icons/gradebook_green.svg" color="gray_bg">
 	**RESOURCES**
 	[[DRILLS]]
 	*PDF drill collection, four books.*
 	[[VOLLEYBALL BOOKS]]
-	*Two PDFs. Placeholder, needs content.*
+	*Three source books cited (CEV, Spikezone, Volleyball Canada LTD 3.0), two PDFs on file.*
 </callout>
 <callout icon="🚩" color="gray_bg">
 	Read your week before you drive out, not in the parking lot.
+</callout>
+<callout icon="💡" color="gray_bg">
+	**SESSION CLAIM — 2026-09-22:** Auditing and fixing design-standard compliance on the WHOSE BALL?, 2+2 BUILD UP, 3v3 KEEP IT ALIVE, and 4v4 RALLY pages, the HIGH HAND TARGET card enrichment, the ATTACKING skill page superhero-cue addition, the VOLLEYBALL GAMIFIED CHALLENGES index, WEEK 6, and VOLLEYBALL BOOKS. No `INTERNAL — Curriculum Builder` page exists in this workspace; using this hub page for the claim per the playbook's fallback instruction.
+	**CHANGE LEDGER**
+	| Change ID | Page | Before → After | Outcome |
+	|---|---|---|---|
+	| VB-AUDIT-01 | WHOSE BALL? | Em dash aside in Water Ditch add-on → comma/parenthetical | Fixed |
+	| VB-AUDIT-02 | ATTACKING (skill page) | Em dash aside in superhero-cue intro → comma | Fixed |
+	| VB-AUDIT-03 | HIGH HAND TARGET | Em dash aside in superhero-cue intro → colon | Fixed |
+	| VB-AUDIT-04 | 2+2 BUILD UP | 3 em-dash asides (top callout, catching rule) → comma/parenthetical | Fixed |
+	| VB-AUDIT-05 | 4v4 RALLY | 3 em-dash asides (top callout, contacts list, Golden Ticket) → comma/parenthetical | Fixed |
+	| VB-AUDIT-06 | VOLLEYBALL BOOKS status line on this hub | Stale "Placeholder, needs content" after page was enriched → updated status | Fixed |
+	| VB-AUDIT-07 | SOURCE NOTE color (all Gamified Challenge cards) | design-standard.md §3 says gray_bg except gaps; live BEAT THE BALL (untouched, pre-existing) uses yellow_bg | Flagged, not changed — kept yellow_bg to match sibling-skeleton rule |
+	3v3 KEEP IT ALIVE and CALL THE PLAY, the Gamified Challenges index, and WEEK 6 were audited and found already compliant (no changes needed).
+</callout>
+<callout icon="⚠️" color="yellow_bg">
+	**ENCONTRADO EN EL CAMINO (Trellis sync, 2026-09-23):** este mismo pase también dejó un fragmento de transcripción de voz sin relación (una llamada sobre logística de banderines/carpool) pegado al final del contenido de esta página en Notion, después del bloque BONDING & TEAM CULTURE OPTIONS. No se mirrorea aquí — parece contenido pegado por accidente, no curriculum. Revisar y limpiar en Notion.
 </callout>
 ## SUB-PAGES (nested under this hub in Notion)
 - [[VOLLEYBALL WARM-UP GAMES]]
