@@ -68,7 +68,7 @@ aliases:
 </callout>
 <callout icon="🎲" color="gray_bg">
 	**SERVE / RETURN**
-	**→** [[Target Hoops]]
+	**→** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TARGET-HOOPS-TENNIS|Target Hoops]]
 	*Problem: serves land anywhere. Target-zone serving game once the motion is solid.*
 	**→** [[Color Call]]
 	*Problem: return is a guess, not a plan. Builds a return menu players can choose from.*
@@ -113,7 +113,4 @@ aliases:
 	*Volley → Overhead. Volley-rally 5, finish a floated ball with a smash. Used in Week 3.*
 	**→** [[Call It, Play It]]
 	*Serve → Rallying & Scoring. Serve consistency unlocks self-officiated short games. Used in Week 4.*
-</callout>
-<callout icon="⚠️" color="yellow_bg">
-	**PENDING — Trellis sync, 2026-09-23:** the 26 challenge pages above and the 5 Golden Ticket branch pages are linked from here and from every Tennis skill page, but their individual setup/play/progress/adjust detail pages have not been mirrored to this vault yet (same depth as each Volleyball challenge page). Notion page IDs are on file; next incremental sync should pull them the same way [[PING PONG RALLY]] etc. were pulled for volleyball.
 </callout>

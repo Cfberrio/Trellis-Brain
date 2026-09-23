@@ -87,9 +87,6 @@ CURRICULUM CULTURE: how we do things, how we connect as coaches. Built on USTA Q
 <callout icon="🚩" color="gray_bg">
 	Read your week before you drive out, not in the parking lot.
 </callout>
-<callout icon="⚠️" color="yellow_bg">
-	**GAP CLOSED, 2026-09-21/22:** the "no tennis skill pages exist yet" note that used to live here is out of date — 8 skill pages and 3 game banks now exist (see above). Not yet mirrored to this vault as individual pages: the ~31 Gamified Challenge / CFU game detail pages that TENNIS GAMIFIED CHALLENGES and TENNIS CFU GAMES link out to (setup/play/progress/adjust detail per game, same depth as the volleyball challenge bank). Flagged as a follow-up pass — see the sync closing note.
-</callout>
 ## SUB-PAGES (nested under this hub in Notion)
 - [[TENNIS WARM-UP GAMES]]
 - [[TENNIS GAMIFIED CHALLENGES]]

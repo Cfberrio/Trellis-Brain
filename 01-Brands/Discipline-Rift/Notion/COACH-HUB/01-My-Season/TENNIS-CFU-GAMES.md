@@ -40,6 +40,3 @@ aliases:
 	**→** [[Tennis Jailbreak]]
 	*Checks whether a stroke holds up under repeated live attempts with a real miss consequence — team-scored, not last-survivor. Added 2026-09-21.*
 </callout>
-<callout icon="⚠️" color="yellow_bg">
-	**PENDING — Trellis sync, 2026-09-23:** the 8 individual CFU game pages linked above have not been mirrored to this vault yet. Notion page IDs are on file for the next incremental sync.
-</callout>

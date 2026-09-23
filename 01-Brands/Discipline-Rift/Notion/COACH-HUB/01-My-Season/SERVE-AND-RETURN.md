@@ -129,7 +129,7 @@ Beginner: underhand serve, short/scaled box. Intermediate: overhand serve introd
 ---
 <callout icon="🎲" color="gray_bg">
 	**RELATED CHALLENGES**
-	**→** [[Target Hoops]]
+	**→** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TARGET-HOOPS-TENNIS|Target Hoops]]
 	*Target variety once the motion is solid.*
 	**→** [[Color Call]]
 	*Builds the return menu.*
