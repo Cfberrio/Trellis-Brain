@@ -130,6 +130,11 @@ Cada nota de abajo es el **texto completo** de la fuente original, extraído del
 | [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/41_SpecialOlympicsMN_UnifiedNetWall\|41 · Special Olympics MN — Net/Wall]] | Las mejores regresiones de saque publicadas en cualquier deporte (self-drop, 3 intentos, empezar más cerca). |
 | [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/51_ITTFFoundation_TT4ALL\|51 · ITTF Foundation — TT4ALL]] | Los manuales "Tables 4 All" como plantilla para una hoja "Courts 4 All" de tiza y cinta. |
 
+## Formatos
+Cada fuente que venía en PDF vive en esta carpeta en **dos formatos con el mismo nombre de archivo**: el `.md` con el texto completo extraído y el `.pdf` original. 19 pares. Las 8 fuentes que eran página web no tienen PDF porque nunca existió uno; están marcadas con `source_type: web_extract` en su frontmatter.
+
+Los 5 marcados ♻️ son la única copia que queda en el mundo de esos documentos: sus dominios murieron y salieron de Wayback Machine. Vale la pena un respaldo fuera del vault.
+
 ## Lo que NO se pudo traer
 - [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded|Pickleball — Recursos NO extraídos]] — 22 recursos, cada uno con el motivo real verificado: dominios caídos, bloqueos 403 confirmados, contraseñas, o producto de pago.
 

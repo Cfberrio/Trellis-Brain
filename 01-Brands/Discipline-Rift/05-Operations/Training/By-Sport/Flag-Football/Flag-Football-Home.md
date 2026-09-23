@@ -7,9 +7,11 @@ status: active
 canonical: true
 used_for_ai: true
 sensitivity: internal
-last_updated: 2026-08-11
+last_updated: 2026-09-23
 up:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
+down:
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
@@ -37,6 +39,9 @@ The wiki is the working curriculum. Everything else on this page is history.
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Tier-System|Tier System]] — how players move up, by behavior not age
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Terminology|Terminology]] — the shared coaching language
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Curriculum/Week-1-Throwing-and-Catching|Week 1]] · [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Curriculum/Week-2-Catching-and-Communication|2]] · [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Curriculum/Week-3-Ball-Carrying-and-Flag-Pulling|3]] · [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Curriculum/Week-4-Ball-Carrying-and-QB-Handoff|4]] · [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Curriculum/Week-5-Handoffs-and-Running-Lanes|5]] · [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Notion-Wiki/Curriculum/Week-6-Offensive-Strategy-Play-Action-and-4th-Down|6]]
+
+## External research
+→ **[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home|Field Library Home]]** — 51 external sources (federations, PE publishers, adjacent-sport curricula) researched sept. 2026 as raw material for evolving the curriculum above. Structured extraction (not the working curriculum itself) — cross-check before pulling any activity or number into the Notion Wiki.
 
 ## Source-Docs — superseded
 `Source-Docs/` holds 13 OCR'd PDF extracts imported before the Notion pull. The week files there are **older, different documents** than the week plans in the wiki — same topics, different content. Kept as historical record.

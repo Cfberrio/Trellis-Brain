@@ -14,7 +14,7 @@ publisher: "OPEN con SUNY Cortland AMP Lab / Virginia SOL Project"
 source_year: 2020
 language: en
 tier: "Tier 1 — Must Get (fuente de adaptación, no plug-and-play)"
-original_pdf: "04_try_20260101224550.pdf"
+original_pdf: "04_OPEN_MiddleSchool68_FullModule.pdf"
 page_count: 141
 status: active
 canonical: false
@@ -39,6 +39,7 @@ tags:
 - [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home|Kitchen Library Home]]
 
 ## Related
+- [[04_OPEN_MiddleSchool68_FullModule.pdf]] — PDF original de esta misma fuente, pareado por nombre de archivo
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home|DR Pickleball Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded|Pickleball — Recursos NO extraídos]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]

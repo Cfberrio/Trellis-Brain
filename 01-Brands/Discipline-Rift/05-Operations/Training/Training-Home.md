@@ -6,7 +6,7 @@ status: active
 canonical: true
 used_for_ai: true
 sensitivity: internal
-last_updated: 2026-08-20
+last_updated: 2026-09-23
 up:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 down:
@@ -42,6 +42,8 @@ This folder holds the coach and curriculum knowledge base for Discipline Rift. I
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home|Flag Football Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home|Pickleball Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home|Kitchen Library Home]] — external pickleball K-5 curriculum research, 22 sources, full text
+- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home|Field Library Home]] — external flag football K-5 curriculum research, 51 sources, structured extraction
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/Coaching-Books-Home|DR Coaching Books Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package|Books Excluded From Markdown Package]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded|Pickleball — Recursos NO extraídos]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
