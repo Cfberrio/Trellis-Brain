@@ -203,15 +203,15 @@ Fix **one thing at a time**.
 <callout icon="🎲" color="gray_bg">
 	**WHERE THIS SKILL SHOWS UP**
 	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
-	**Weeks:** [[WEEK 1]] · [[WEEK 2]] · [[WEEK 3]] · [[WEEK 4]] · [[WEEK 5]] · [[WEEK 6]]
+	**Weeks:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|WEEK 2]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 	**Challenges, by the problem you can see:**
-	Cannot repeat a controlled contact → [[DELIVER THE PACKAGE]]
-	Reaches instead of moving → [[BEAT THE BALL]]
-	Arrives late or drifts → [[MOVE–STOP–SET SQUARES]]
+	Cannot repeat a controlled contact → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DELIVER-THE-PACKAGE|DELIVER THE PACKAGE]]
+	Reaches instead of moving → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/BEAT-THE-BALL|BEAT THE BALL]]
+	Arrives late or drifts → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVE-STOP-SET-SQUARES|MOVE–STOP–SET SQUARES]]
 	Passes anywhere → [[TARGET HOOPS]]
-	Pass and set do not connect → [[BUILD THE BRIDGE]]
-	Can pass a toss but not a serve → [[SERVE → READ → CATCH]]
-	Two players hesitate → [[WHOSE BALL?]]
-	Saves the ball but nobody can play it → [[SAVE AND SHARE]]
-	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+	Pass and set do not connect → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/BUILD-THE-BRIDGE|BUILD THE BRIDGE]]
+	Can pass a toss but not a serve → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVE-READ-CATCH|SERVE → READ → CATCH]]
+	Two players hesitate → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WHOSE-BALL|WHOSE BALL?]]
+	Saves the ball but nobody can play it → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SAVE-AND-SHARE|SAVE AND SHARE]]
+	*Whole bank: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-GAMIFIED-CHALLENGES|VOLLEYBALL GAMIFIED CHALLENGES]]*
 </callout>

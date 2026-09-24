@@ -19,7 +19,7 @@ aliases:
   - "BEAT YOUR BEST CONNECTIONS"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[PASSING]] **/ connection.** Run this when a group loses confidence because every miss resets a long streak.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]] **/ connection.** Run this when a group loses confidence because every miss resets a long streak.
 </callout>
 # BEAT YOUR BEST CONNECTIONS
 <callout icon="🏐" color="gray_bg">
@@ -59,6 +59,6 @@ The group repeats the connection after a pause. Then test a new condition rather
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[COMMUNICATING]] · [[PASSING]]
-	**Used in:** [[WEEK 6]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/COMMUNICATING|COMMUNICATING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 </callout>

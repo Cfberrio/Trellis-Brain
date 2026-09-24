@@ -24,24 +24,24 @@ aliases:
 # CURRICULUM
 <callout icon="🪜" color="yellow_bg">
 	**THE LADDER ON EVERY WEEK PAGE IS A SAMPLE.** Every team is different. Start where your players can succeed, identify the problem in front of you, build the next challenge from there. Different teams finish on different rungs in the same week.
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The sample ladder. Read it once before your first Week page: name it, show it, challenge it, coach reps, vary, check.*
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**YOUR SPORT**
-	[[VOLLEYBALL CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]]
 	*Six weeks, skill pages, warm-up bank, gamified challenges, CFU games.*
-	[[FLAG CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-CURRICULUM|FLAG CURRICULUM]]
 	*Six weeks, skills, formations, program overview.*
-	[[TENNIS CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-CURRICULUM|TENNIS CURRICULUM]]
 	*Six weeks.*
-	[[PICKLEBALL CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PICKLEBALL-CURRICULUM|PICKLEBALL CURRICULUM]]
 	*Weeks 1 to 3 built. Weeks 4 to 6 not yet.*
 </callout>
 <callout icon="🧠" color="gray_bg">
 	**ONE METHOD, EVERY SPORT**
 	Sport pages give you the skill content, progressions, games and technical references. They do not change how a practice runs. Arrival, attendance, dismissal, parents, Practice Design and Coach Rules are the same for every sport.
-	[[HOW WE COACH]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HOW-WE-COACH|HOW WE COACH]]
 	*Practice Design, Progression Ladder, Coach Rules. The one DR method.*
 </callout>
 <callout icon="🚩" color="gray_bg">

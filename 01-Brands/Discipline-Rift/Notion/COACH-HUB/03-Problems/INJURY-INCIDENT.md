@@ -44,11 +44,11 @@ aliases:
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND INCIDENTS**
-	[[EMERGENCIES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/EMERGENCIES|EMERGENCIES]]
 	*Evacuation, lockdown, site emergency.*
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*Know your number before you need it.*
-	[[PARTNERING WITH PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|PARTNERING WITH PARENTS]]
 	*How to talk to the parent afterwards.*
 </callout>
 <callout icon="🚩" color="gray_bg">

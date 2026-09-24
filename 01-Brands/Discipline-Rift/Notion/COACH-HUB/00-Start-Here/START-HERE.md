@@ -28,12 +28,12 @@ aliases:
 	**2. Schedule**: where and when you coach. School, address, arrival time, practice start and end. Format is arrival / start–end. Arrival means already on campus.
 	**→ **[**OPEN THE 26–27 SCHEDULE**](https://drive.google.com/drive/folders/1eRJhyKS8jx-UI_xaUOd8Egb-i5KzZTOG?usp=drive_link)
 	*The only source for where and when you coach. Put every date in your own calendar once, in September.*
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*How to read the schedule, dismissal traffic, schedule changes, requesting a day off.*
 	**3. Coach Dashboard**: current roster, attendance and parent messages. Load it before you walk into the school. If it shows a meeting spot, follow it.
 	**→ **[**COACH DASHBOARD**](https://disciplinerift.com/coach/)
 	*The app you use on the court. Email + 6-digit code, no password.*
-	[[COACH DASHBOARD]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|COACH DASHBOARD]]
 	*What the Dashboard does, what it does not, logging in, attendance, messaging, problems.*
 	**4. WhatsApp**: what changed today. Current announcements and day-of-practice coordination. Main DR coach group + one chat per coaching day. DR adds you before the season; if you are ever out of a group, call DR and you will be re-added the same day.
 	**Need immediate DR help? Call (407) 614-7454.** This line rings DR leadership so an available leader can assist.
@@ -54,13 +54,13 @@ aliases:
 	5. **Bring ID.** You check in at the front office.
 	6. **Join Main + your day chats.** Before the season starts, not on day one.
 	7. **Coordinate with your co-coach** if one is assigned: objective, first setup, who brings what.
-	[[CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CURRICULUM|CURRICULUM]]
 	*Your sport, your week, the sample ladder. Read before you drive out.*
-	[[ARRIVAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]]
 	*From the car line to the first rep. Front office, meeting point, gather, count.*
-	[[DISMISSAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|DISMISSAL]]
 	*Head count, host school process, nobody unaccounted for.*
-	[[COACHING TODAY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACHING-TODAY|COACHING TODAY]]
 	*The practice-day page. Schedule → prepare → arrive → account for players → coach → dismiss → parent update.*
 </callout>
 <callout icon="📏" color="gray_bg">
@@ -75,21 +75,21 @@ aliases:
 	- Send parents a short update after practice through the Dashboard.
 	- Ask for help early. A problem at 3:20 is easier than a problem at 4:10.
 	- Stay in the WhatsApp groups that match your schedule.
-	[[COACH EXPECTATIONS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-EXPECTATIONS|COACH EXPECTATIONS]]
 	*The full ten responsibilities and the culture behind them.*
 </callout>
 <callout icon="🧠" color="gray_bg">
 	**HOW WE COACH**
-	[[HOW WE COACH]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HOW-WE-COACH|HOW WE COACH]]
 	*Practice Design = the shape of practice. Progression Ladder = the path inside it. Coach Rules = how you coach each rep.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The sample ladder every Week page is built on. Every team is different: start where your players can succeed.*
-	[[TRAINING & CULTURE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/TRAINING-AND-CULTURE|TRAINING & CULTURE]]
 	*FUELED, values, who we are. Read when you are not about to coach.*
 </callout>
 <callout icon="🆘" color="gray_bg">
 	**SOMETHING WRONG RIGHT NOW?**
-	[[NEED HELP]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/NEED-HELP|NEED HELP]]
 	*Weather, missing player, roster issue, injury, behaviour, cancellation, Dashboard problem.*
 </callout>
 <callout icon="🚩" color="gray_bg">

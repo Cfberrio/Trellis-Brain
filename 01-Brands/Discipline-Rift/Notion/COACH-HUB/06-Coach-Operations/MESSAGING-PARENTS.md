@@ -19,7 +19,7 @@ aliases:
   - "MESSAGING PARENTS"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! The buttons. One parent, or Message All. Text, photos and short video. This is an official DR channel. What to say and why is on [[PARTNERING WITH PARENTS]].
+	Coach! The buttons. One parent, or Message All. Text, photos and short video. This is an official DR channel. What to say and why is on [[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|PARTNERING WITH PARENTS]].
 </callout>
 # MESSAGING PARENTS
 <callout icon="💡" color="gray_bg">

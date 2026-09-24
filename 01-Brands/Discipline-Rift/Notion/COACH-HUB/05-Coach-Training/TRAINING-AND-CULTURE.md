@@ -29,11 +29,11 @@ aliases:
 # TRAINING & CULTURE
 <callout icon="⛰️" color="gray_bg">
 	**WHO WE ARE**
-	[[MISSION & VISION]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/MISSION-VISION|MISSION & VISION]]
 	*Why DR exists and where it is going.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
 	*Humility, perseverance, adaptability.*
-	[[OUR CULTURE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/OUR-CULTURE|OUR CULTURE]]
 	*How we behave around kids, parents and each other.*
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
@@ -42,31 +42,31 @@ aliases:
 	*What the role means at DR.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/THE-HAND-OF-A-COACH|THE HAND OF A COACH]]
 	*The five fingers of coaching, created by Coach Luis Torres.*
-	[[FUELED]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/FUELED|FUELED]]
 	*The behavioural standard.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/DR-FORMULA|DR FORMULA]]
 	*The coaching formula.*
-	[[COACH EXPECTATIONS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-EXPECTATIONS|COACH EXPECTATIONS]]
 	*The ten responsibilities. The practical version lives in START HERE as Coach Non-Negotiables.*
 </callout>
 <callout icon="/icons/gradebook_green.svg" color="gray_bg">
 	**HOW YOU GET BETTER**
-	[[1% SOLUTIONS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/1-SOLUTIONS|1% SOLUTIONS]]
 	*One hundred small improvements.*
-	[[COACHING TERMS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACHING-TERMS|COACHING TERMS]]
 	*The one glossary, every DR term.*
-	[[READING SHELF]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/READING-SHELF|READING SHELF]]
 	*The DR reading list. Seven books, one line each on why it matters on our court.*
 </callout>
 <callout icon="🏛️" color="gray_bg">
 	**CONFERENCES**
-	[[2023 CONFERENCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2023-CONFERENCE|2023 CONFERENCE]]
 	*What we taught in 2023.*
-	[[2024 CONFERENCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2024-CONFERENCE|2024 CONFERENCE]]
 	*What we taught in 2024.*
-	[[2025 CONFERENCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/2025-CONFERENCE|2025 CONFERENCE]]
 	*What we taught in 2025.*
-	[[WORKSHOPS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/WORKSHOPS|WORKSHOPS]]
 	*Placeholder: no source material exists yet.*
 </callout>
 ## TAKE ACTION
@@ -77,4 +77,4 @@ aliases:
 	Each week: pick one page from this hub and try one thing from it at your next practice that you have not done before. You cannot take players somewhere you have not gone: be students of leadership.
 </callout>
 ## SUB-PAGES (nested under this hub in Notion)
-- TERMINOLOGY (`2ed0452885a881a78ff7d0e68138c2dc`) — legacy DRVC glossary page nested here; superseded by [[COACHING TERMS]]. Not mirrored separately.
+- TERMINOLOGY (`2ed0452885a881a78ff7d0e68138c2dc`) — legacy DRVC glossary page nested here; superseded by [[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACHING-TERMS|COACHING TERMS]]. Not mirrored separately.

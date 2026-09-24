@@ -24,18 +24,18 @@ aliases:
 # WEEK 2 — CATCHING
 <callout icon="🪜" color="yellow_bg">
 	**THE PLAN BELOW IS A SAMPLE, NOT A REQUIRED PATH.** Start where your players can succeed today, identify the problem you actually see, build the next challenge from there. Different teams finish on different rungs.
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The sample ladder. Pick your one or two starting rungs from it.*
 </callout>
 <callout icon="🧠" color="gray_bg">
 	**RUN IT THROUGH PRACTICE DESIGN.** Open → retrieve/show → build the ladder → test transfer → close. Block timings and intro scripts below are legacy structure: keep the skills, cues, games and differentiation; drop any mandatory warm-up or life-lesson block. Arrival, attendance, dismissal and parents are not here.
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*The shape of practice.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*What comes next and why.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*How you coach each rep.*
-	[[COACHING TODAY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACHING-TODAY|COACHING TODAY]]
 	*Arrival, attendance, dismissal, parents: the practice day.*
 </callout>
 **DR Focus:** one clear catching cue + tons of catches + communication baked into every rep + “out” = quick job (no sitting)

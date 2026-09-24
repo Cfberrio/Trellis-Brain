@@ -28,24 +28,24 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**HOW WE PRACTICE — THE THREE UNIVERSAL PAGES**
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*The umbrella. Rewritten. Live.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*New page. Live.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*New page. Live.*
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**THE TEMPLATES**
-	[[SPORT CURRICULUM TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SPORT-CURRICULUM-TEMPLATE|SPORT CURRICULUM TEMPLATE]]
 	*The shape every sport hub should have.*
-	[[WEEK PAGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WEEK-PAGE-TEMPLATE|WEEK PAGE TEMPLATE]]
 	*Copy for every week, in every sport.*
-	[[SKILL PAGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]]
 	*One reusable page per skill.*
-	[[GAMIFIED CHALLENGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMIFIED-CHALLENGE-TEMPLATE|GAMIFIED CHALLENGE TEMPLATE]]
 	*The targeted drill bank.*
-	[[CFU GAME TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CFU-GAME-TEMPLATE|CFU GAME TEMPLATE]]
 	*The transfer check.*
 </callout>
 ## THE NEW HUB ARCHITECTURE
@@ -77,7 +77,7 @@ aliases:
 </table>
 ## WHAT CHANGED SINCE THE PLAN WAS WRITTEN
 <callout icon="💡" color="gray_bg">
-	**Volleyball is already rebuilt to the new shape.** [[VOLLEYBALL CURRICULUM]] now owns its season, its seven skill pages, and three sport-owned game banks: four warm-ups, sixteen gamified challenges indexed by visible problem, four CFU games. That is the pilot. The delete list below is no longer theory — for volleyball, the replacements exist and are live.
+	**Volleyball is already rebuilt to the new shape.** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]] now owns its season, its seven skill pages, and three sport-owned game banks: four warm-ups, sixteen gamified challenges indexed by visible problem, four CFU games. That is the pilot. The delete list below is no longer theory — for volleyball, the replacements exist and are live.
 	One correction to the plan: volleyball shipped a **sport-owned warm-up bank** and coaches use it. The ban is on the cross-sport WARM UPS page, not on warm-ups. The Sport Curriculum Template has been corrected.
 </callout>
 ## DELETE — REPLACED, NOTHING LOST
@@ -89,36 +89,36 @@ aliases:
 </callout>
 <callout icon="🧹" color="gray_bg">
 	**SUPERSEDED TEMPLATE**
-	[[PRACTICE DESIGN (old, superseded)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARCHIVE-PRACTICE-TEMPLATE-OLD|PRACTICE DESIGN (old, superseded)]]
 	*Replaced one-for-one by the Week Page Template. Nothing in it survives that the week page does not do better.*
 </callout>
 <callout icon="🧹" color="gray_bg">
 	**AGE BUCKETS**
-	[[GROUP DYNAMICS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GROUP-DYNAMICS|GROUP DYNAMICS]]
 	*Two paragraphs of "younger kids like fun, older kids like competition," written in volleyball. It tells a coach to sort players by grade. The ladder tells them to sort by what they can actually do. Delete.*
 </callout>
 <callout icon="🧹" color="gray_bg">
 	**THREE COPIES OF TIERS**
-	[[TIERS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/TIERS|TIERS]]
 	*The "All Sports" copy contains flag-specific skills. It was never universal.*
 	*(A "TIER SYSTEM" copy, id `32c0452885a8817fba57e6a5cc1238d1`, was already trashed by the time of the re-sync and is not fetchable.)*
-	[[VOLLEYBALL TIERS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-TIERS|VOLLEYBALL TIERS]]
 	*Progress is now observable evidence on the Skill page and position on the ladder. All three copies go.*
 </callout>
 <callout icon="🧹" color="gray_bg">
 	**GLOBAL LIBRARIES — DELETE PER SPORT, NOT ALL AT ONCE**
-	[[ARCHIVE — GAMES (superseded by sport game banks)]]
-	[[ARCHIVE — WARM UPS (use sport warm-up banks)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMES|ARCHIVE — GAMES (superseded by sport game banks)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WARM-UPS|ARCHIVE — WARM UPS (use sport warm-up banks)]]
 	*Safe to unlink from volleyball today — its banks exist. Flag, tennis and pickleball still have nothing else. These two stay alive until each sport has its own banks, then go.*
 </callout>
 ## DO NOT DELETE — REAL CONTENT, NO REPLACEMENT
 <callout icon="⚠️" color="yellow_bg">
-	**[[ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]] — demote, do not delete.**
+	**[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-STRUCTURE|ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]] — demote, do not delete.**
 	This page is the only place DR's actual learning science is written down: blocked → serial → interleaved → randomized practice, retrieval, spacing, cognitive load, micro-CFU, exit criteria. Practice Design does not carry any of it and was not meant to.
 	Deleting it deletes the reasoning behind the method. Move it under [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/Coaching-Science|COACHING SCIENCE]] and take it out of the practice nav. It stops competing as a second "how to run practice" page and survives as the why.
 </callout>
 <callout icon="⚠️" color="yellow_bg">
-	**[[ARCHIVE — LIFE LESSON (no longer a required block)]] — move, do not delete.**
+	**[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/LIFE-LESSON|ARCHIVE — LIFE LESSON (no longer a required block)]] — move, do not delete.**
 	The plan said remove it as a required block on every week page. That is not the same as deleting the page. The Word of the Week season map is a DR culture asset and week pages in every sport point at it.
 	Drop the required Life Lesson section from week pages. Keep the page, move it out of the curriculum method group into coach training.
 </callout>
@@ -215,7 +215,7 @@ aliases:
 </callout>
 <callout icon="🗄️" color="gray_bg">
 	**BACKUP**
-	[[ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARCHIVE-PRACTICE-DESIGN-OLD-FLAG|ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)]]
 	*The old PRACTICE DESIGN content, duplicated before the rewrite. Delete once nobody needs the flag six-session plan.*
 </callout>
 <callout icon="✅" color="gray_bg">

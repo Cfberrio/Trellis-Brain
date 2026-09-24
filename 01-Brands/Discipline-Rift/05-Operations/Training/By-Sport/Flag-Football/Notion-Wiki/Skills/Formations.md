@@ -3,7 +3,14 @@ source: Notion — DR FLAG FOOTBALL
 notion_page: 2e504528-85a8-80ea-ac5f-e44ae1c3e91a
 pulled: 2026-08-11
 note: Third-party reference content (NFL Flag 5-on-5 playbook). Source page includes 27 play diagrams hosted on nflstatic.s3.amazonaws.com — diagrams are not reproduced here; open the Notion page to view them.
+canonical: false
+status: superseded
+superseded_on: 2026-09-17
+superseded_by: "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
+
+> [!warning] Historical mirror (pulled 2026-08-11) — not current
+> This page mirrors the old per-sport Notion wiki. The DR-UPS seven-block practice, Tier System and fixed weekly gates it describes were **retired by the 2026-09-11 Coach Hub rebuild**. Current method: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]. Current curriculum: live Notion `DR | COACH HUB` (vault mirror `Notion/COACH-HUB/`, re-synced 2026-09-15). Kept unchanged for history; `canonical: false` since 2026-09-17.
 
 # Formations (5-on-5 Playbook)
 

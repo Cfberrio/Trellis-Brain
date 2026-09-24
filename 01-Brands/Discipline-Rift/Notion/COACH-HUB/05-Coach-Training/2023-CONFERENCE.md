@@ -113,7 +113,7 @@ aliases:
 	*Session 2. The five fingers of coaching.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/DR-FORMULA|DR FORMULA]]
 	*Session 2. Knowledge + Skill x Attitude squared.*
-	[[COACH EXPECTATIONS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/COACH-EXPECTATIONS|COACH EXPECTATIONS]]
 	*Session 3. The ten responsibilities.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
 	*Session 5. Humble, Hungry, Smart.*

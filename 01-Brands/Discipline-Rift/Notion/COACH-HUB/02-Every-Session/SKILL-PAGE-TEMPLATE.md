@@ -27,11 +27,11 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*How the practice is built.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*Where this skill sits in the ladder.*
-	[[GAMIFIED CHALLENGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMIFIED-CHALLENGE-TEMPLATE|GAMIFIED CHALLENGE TEMPLATE]]
 	*The challenges that train it.*
 </callout>
 # \[SKILL NAME\]

@@ -5,7 +5,7 @@ area: notion-mirror
 note_type: moc
 source_type: notion_mirror
 notion_workspace: DISCIPLINE RIFT
-mirrored: 2026-09-17
+mirrored: 2026-09-22
 tags:
   - brand/discipline-rift
   - notion-mirror
@@ -17,6 +17,8 @@ related:
 ---
 
 # DR Notion Mirror
+
+> Design rules for editing the hub: [[01-Brands/Discipline-Rift/Notion/_design/_design-index|DR Notion Design Standards]]. Read before any write to Notion.
 
 Complete mirror of the DISCIPLINE RIFT Notion workspace: every database, every page, every
 level, with content. Notion stays the source of truth; this is the readable, searchable,
@@ -36,7 +38,7 @@ live page it came from.
 
 | Database | Role | Pages | Where |
 |---|---|---|---|
-| DISCIPLINE RIFT \| COACH HUB | The live coach wiki, redesigned 2026-08-12, nav rebuilt 2026-09-11, door rule 2026-09-17, re-synced 2026-09-17 | 136 files | `COACH-HUB/` |
+| DISCIPLINE RIFT \| COACH HUB | The live coach wiki, redesigned 2026-08-12, nav rebuilt 2026-09-11, door rule 2026-09-17, tennis rebuild 2026-09-21, re-synced 2026-09-22 | 186 files | `COACH-HUB/` |
 | DR VOLLEYBALL | Legacy wiki, identity pages left after the curriculum moved to the hub | 10 | `Sport-Wikis/DR-VOLLEYBALL/` |
 | DR TENNIS | Legacy wiki, identity pages left after the curriculum moved to the hub | 9 | `Sport-Wikis/DR-TENNIS/` |
 | DR PICKLEBALL | Legacy wiki, identity pages left after the curriculum moved to the hub | 10 | `Sport-Wikis/DR-PICKLEBALL/` |
@@ -46,6 +48,30 @@ live page it came from.
 
 Calendar rows are mirrored as two tables rather than hundreds of one-line files, because each
 row is a date entry, not a document.
+
+## WHAT CHANGED 2026-09-17 → 2026-09-22 (read this first)
+
+> [!abstract] The one-paragraph version
+> One thing happened since the 09-17 sync: the **tennis curriculum rebuild** (Notion edits dated
+> **2026-09-18** and **2026-09-21**), plus three volleyball pages. Tennis went from a six-line week
+> list with no skill pages to a full sport curriculum matching the volleyball architecture:
+> **8 skill pages, 3 game banks, 40 individual game pages, 6 rewritten Week pages**, all new to the
+> mirror. Nothing was renamed, archived or deleted. COACH-HUB goes from 136 to **186 files**.
+
+**Tennis — rebuilt (7 pages rewritten, edited in Notion 2026-09-21):**
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-CURRICULUM|TENNIS CURRICULUM]] — was a flat week list + shared-pages block; now spiral-structured (retrieve → introduce one thing → interleave → assess), built on USTA QuickStart scaling (scaled courts, low-compression balls, lower nets), with GAME BANKS and SKILLS door blocks that did not exist before.
+- The six Week pages ([[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-FOREHANDS-4260d733|W1 Forehand]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-BACKHANDS-10804528|W2 Backhand]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-VOLLEYS|W3 Volley]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-SERVES|W4 Serve/Return]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-ALL-SKILLS|W5 Overhead/Lob]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-ASSESSMENT|W6 Assessment]]) — each now carries WHERE ARE WE? / OPEN / PROGRESSION LADDER (a real 4-5 row table: Step · Skill · Problem · Challenge · Variation · Observable Evidence) / CFU / CLOSE, replacing the old life-lesson-and-drill-list format. W6 carries the tiered Beginner/Intermediate/Advanced rubric.
+- **Golden Ticket branches** are new: a player who clears an entry condition on the week's main rung gets pulled forward into the *next* skill in the same practice — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CLOSE-IT-AT-THE-NET|Close It At The Net]] (W1–2), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SMASH-THE-LIFT|Smash The Lift]] (W3), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CALL-IT-PLAY-IT|Call It, Play It]] (W4). By W5 chaining is the default, not a branch.
+
+**Tennis — 8 skill pages, all new to the mirror:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FOREHAND-GROUNDSTROKE|Forehand Groundstroke]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/BACKHAND-GROUNDSTROKE|Backhand Groundstroke]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEY|Volley]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVE-AND-RETURN|Serve & Return]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/OVERHEAD-SMASH-AND-LOB|Overhead Smash & Lob]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVEMENT-READY-POSITION-COURT-SENSE|Movement, Ready Position & Court Sense]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/RACKET-AND-BALL-CONTROL|Racket & Ball Control]], [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/RALLYING-AND-SCORING|Rallying & Scoring]]. Same "by numbers" Position 1-4 shape as the volleyball skill pages, each with Coach Cues, Common Developmental Problems, Progression Connections and tiered Observable Evidence. The last three are the *connective* strands — movement and game literacy taught as their own pages rather than assumed.
+
+**Tennis — 3 game banks + 40 game pages, all new:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-WARM-UP-GAMES|WARM-UP GAMES]] (11), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-GAMIFIED-CHALLENGES|GAMIFIED CHALLENGES]] (indexed by the problem you can see, across 7 skill groups + the Golden Ticket block), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-CFU-GAMES|CFU GAMES]] (8). Every game referenced by a bank is now its own file with Setup / Show It / Challenge / Progress-Win / Variations / Coach Watches For / Coach Language — same granularity the volleyball banks already had. Many carry a **source note** naming the book they were adapted from (LTA, USTA NetGen Red Ball, USTA/SHAPE America, Tennis Canada) — several unsourced cards were deliberately swapped out on 09-21 for book-verified drills.
+
+**Volleyball — 3 pages rewritten (edited in Notion 2026-09-18):** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]] (SHARED WITH EVERY SPORT block trimmed to the four live pages — the archived Practice Structure / Warm Ups / Tiers / Group Dynamics / Games doors are gone), [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]] and [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]].
+
+**Mirror hygiene in this sync:** every bare `[[TITLE]]` wikilink across COACH-HUB was resolved to a full vault path (691 links in 105 files), so the graph connects properly — this also fixed pre-existing bare links left by earlier syncs. Notion image URLs are stored without the signed S3 query string, as before.
+
+**Known gaps (unchanged):** ZONES GAME is still tagged Volleyball / My Season while its content is flag football; the 18 property-less legacy "COACH CURRICULUM" rows remain unmirrored (content lives in `05-Operations/Training/By-Sport/Volleyball/Notion-Wiki/`); pickleball weeks 4-6 still do not exist.
 
 ## WHAT CHANGED 2026-09-15 → 2026-09-17 (read this first)
 

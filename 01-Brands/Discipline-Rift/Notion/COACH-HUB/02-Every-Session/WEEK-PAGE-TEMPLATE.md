@@ -27,11 +27,11 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**THE UNIVERSAL METHOD**
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*How the practice is built.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*How the rungs are chosen.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*How you coach it.*
 </callout>
 <callout icon="💡" color="gray_bg">

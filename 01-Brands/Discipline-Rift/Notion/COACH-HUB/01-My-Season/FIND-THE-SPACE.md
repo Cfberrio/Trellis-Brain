@@ -19,7 +19,7 @@ aliases:
   - "FIND THE SPACE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[ATTACKING]] **/ decision.** Run this when players send straight at opponents without noticing an available area.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]] **/ decision.** Run this when players send straight at opponents without noticing an available area.
 </callout>
 # FIND THE SPACE
 <callout icon="🏐" color="gray_bg">
@@ -59,6 +59,6 @@ The player chooses different destinations as the open space changes.
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[ATTACKING]]
-	**Used in:** [[WEEK 6]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 </callout>

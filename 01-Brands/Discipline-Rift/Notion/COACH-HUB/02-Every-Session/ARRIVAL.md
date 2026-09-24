@@ -25,7 +25,7 @@ aliases:
 <callout icon="⏰" color="gray_bg">
 	**1 · BE ON CAMPUS BY THE ARRIVAL TIME ON YOUR SCHEDULE**
 	The schedule shows **arrival / start–end**, for example 2:45 / 3:15–4:15. Arrival means already on campus. Everything below fits in that window. It does not fit in five minutes.
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*Where and when. Open the schedule folder from there.*
 </callout>
 <callout icon="🚗" color="gray_bg">
@@ -56,17 +56,17 @@ aliases:
 	**6 · TAKE ATTENDANCE AND SET YOUR NUMBER**
 	In the Coach Dashboard, per player, before the first drill. Load the Dashboard and screenshot the roster email before you enter the school: there is no signal inside. If it shows `offline: true`, mark attendance on the screenshot and enter it in the Dashboard once you have signal. Cannot get it in? Call DR at (407) 614-7454.
 	Attendance gives you today's number. Say it to the team: "We have fourteen today." Write it down. That number governs every count for the rest of the session.
-	[[TAKING ATTENDANCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|TAKING ATTENDANCE]]
 	*The eight taps, and what to do with no signal.*
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*Count at every transition.*
 </callout>
 <callout icon="🔍" color="gray_bg">
 	**7 · RESOLVE ANYONE MISSING BEFORE YOU START**
 	Do not start practice with an unexplained absence. Ask the front office and aftercare. Follow the Missing Player procedure.
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*Late arrivals, missing players, a player not on the list.*
-	[[MISSING PLAYER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/MISSING-PLAYER|MISSING PLAYER]]
 	*Ask, send, supervise, call.*
 </callout>
 <callout icon="🚶" color="gray_bg">
@@ -91,15 +91,15 @@ These are live promises to schools and parents. Your arrival routine keeps them.
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND ARRIVAL**
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*Your roster, late arrivals, missing players, a player not on the list.*
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*Counting your team, every transition, all session.*
-	[[LOGGING IN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/LOGGING-IN|LOGGING IN]]
 	*Getting into the Coach Dashboard.*
-	[[DISMISSAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|DISMISSAL]]
 	*The other end of the session. Same care, more risk.*
-	[[DASHBOARD PROBLEMS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|DASHBOARD PROBLEMS]]
 	*When the Dashboard is wrong before you even start.*
 </callout>
 <callout icon="🚩" color="gray_bg">

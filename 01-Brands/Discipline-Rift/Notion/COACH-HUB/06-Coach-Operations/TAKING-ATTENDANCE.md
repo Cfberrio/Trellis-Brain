@@ -24,7 +24,7 @@ aliases:
 # TAKING ATTENDANCE
 <callout icon="💡" color="gray_bg">
 	The Dashboard shows your **current roster**. It is your primary roster and attendance tool during practice. The **Select Session** list exists so you can pick a practice to check in; it is not your schedule.
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*Where and when you coach. The Dashboard session list is not the schedule.*
 </callout>
 ## THE EIGHT STEPS

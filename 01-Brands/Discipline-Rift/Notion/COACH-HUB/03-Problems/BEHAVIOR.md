@@ -28,7 +28,7 @@ aliases:
 <callout icon="1️⃣" color="gray_bg">
 	**PREVENT IT FIRST**
 	Most behaviour problems are a practice-design problem. Long lines, long explanations and dead time make kids invent their own game. Protect the hour: multiple lines, high reps, short cues, next setup ready. Clear boundaries named out loud before the first ball.
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*The twelve behaviours that keep kids busy enough to behave.*
 </callout>
 <callout icon="2️⃣" color="gray_bg">
@@ -42,7 +42,7 @@ aliases:
 </callout>
 <callout icon="👪" color="gray_bg">
 	**PARENTS ARE THE PARTNERSHIP.** A parent who already hears good things from you will hear a hard thing from you too. DR steps in on serious or repeated cases, and can move a player off a team. That only works if the parent has already heard from you, in the Dashboard and in person. Never let removal be the first thing a family hears.
-	[[PARTNERING WITH PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|PARTNERING WITH PARENTS]]
 	*What to say to the parent and how to start it from a relationship.*
 </callout>
 <callout icon="🚩" color="gray_bg">

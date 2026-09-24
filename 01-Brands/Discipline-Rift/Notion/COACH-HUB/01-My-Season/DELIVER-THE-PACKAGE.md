@@ -12,29 +12,33 @@ sport: Volleyball
 status: Live
 order: null
 notion_created: 2026-09-07
-notion_last_edited: 2026-09-08
-mirrored: 2026-09-17
+notion_last_edited: 2026-09-22
+mirrored: 2026-09-22
 mirror_complete: true
 aliases:
   - "DELIVER THE PACKAGE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[PASSING]]. Run this when contact happens but the pass does not give a teammate a playable second ball.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]. Run this when contact happens but the pass does not give a teammate a playable second ball.
 </callout>
 # DELIVER THE PACKAGE
 <callout icon="🏐" color="gray_bg">
 	**SETUP**
-	Trios: tosser, passer, target. One light ball and a marked target area per trio. Start about 6 to 8 feet apart and adjust to comfortable reach.
-	**Twenty players:** each coach owns ten. Groups of 3 + 3 + 4 for trio tasks. The extra role rotates every sequence. It is never a permanent waiting job.
+	A cone marks the target — this is the setter's spot. Coach feeds every ball; there is no separate tosser role. One player passes, one player mans the cone, everyone else waits in line.
+	**Twenty players:** run two cones, two coaches, two lines. Rotation still moves one player at a time; nobody waits more than a few reps.
 </callout>
 ## Demonstrate and play
-1. Tosser gives an easy underhand feed to the passer.
-2. Passer moves, forms a platform, and directs the ball up toward the target.
-3. Target catches within one normal step of the marker and calls "delivered."
-4. Rotate tosser → passer → target after three feeds, misses included.
+1. Coach feeds the passer.
+2. Passer moves, forms a platform, and sends the ball toward the cone.
+3. Target moves to the cone, catches within one normal step of it, and calls "delivered."
+4. Repeat with the next feed.
 ## How to progress and win
-One delivery = one catchable pass within one step. Collect three deliveries across attempts. A miss does not erase earlier work.
-**Golden Ticket:** three deliveries unlock a movement feed, or the setter role after you demonstrate setting. Everyone rotates regardless of score.
+Coach sets the goal before the round starts — default three clean deliveries to the target, fewer if the group is struggling, more if they're cruising. When the passer reaches the goal, they earn the Golden Ticket.
+**Golden Ticket:** the passer who hits the goal number of clean deliveries earns the Golden Ticket — a physical token (a paper marked "Golden Ticket," a spare ball, anything on hand) they carry into the target spot.
+- Golden Ticket passer moves into the target position — they're the setter now.
+- The player who'd been at target rotates out to a hitting position. Coach encourages them to hit the balls the new setter sends up.
+- The next player in line becomes the new passer.
+- Coach keeps feeding, and it repeats: every time a passer earns three clean deliveries, they take over as setter, and the player who was setting moves to hit.
 ## Adjust the challenge
 <table header-row="true">
 <tr>
@@ -42,17 +46,19 @@ One delivery = one catchable pass within one step. Collect three deliveries acro
 <td>Make it harder</td>
 </tr>
 <tr>
-<td>Closer target, easier feed. If contact is not possible yet: self-toss → platform pop → catch, then back to the trio.</td>
-<td>Change only the feed direction first. Later replace the target catch with a set to a fourth player.</td>
+<td>Lower the goal to 1–2 clean deliveries. If contact is not possible yet: self-toss → platform pop → catch, then back to the line.</td>
+<td>Raise the goal past 3, or move the cone off-center so the passer has to direct it, not just reach it.</td>
 </tr>
 </table>
 <callout icon="💡" color="gray_bg">
 	**COACH WATCHES FOR**
-	Movement before platform, contact on the forearms, and whether the next player can act. Cue: **"Give your teammate time."**
-	**If it breaks:** ball going over the net → move the target visibly onto the same side. Pass shooting flat → shorten the distance and demonstrate a higher playable path.
+	Movement before platform, contact on the forearms, and whether the target can actually play the ball as it arrives. Cue: **"Give your teammate time."**
+	**If it breaks:** ball going over the net → move the cone visibly onto the same side. Pass shooting flat → shorten the distance and demonstrate a higher playable path.
 </callout>
-## Ready for the next problem when
-Across two short rounds, several passes reach the target from both middle and side feeds. Then test the first-pass version of **Catch → Connect → Send**.
+<callout icon="🏆" color="gray_bg">
+	**WHY THE HITTING STEP MATTERS**
+	The player rotating out of target to hit is the drill's built-in tie-forward: once [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]] is in the curriculum, that coached swing becomes a real hit off the new setter's ball — same drill, same rotation, no rewrite needed.
+</callout>
 <callout icon="⚠️" color="yellow_bg">
 	**SOURCE NOTE** — DR extension of the existing 3-Person Pass-to-Target; Dearing ch. 3; Drill Book ch. 3. Pick one canonical title before this ships; do not keep two sets of rules. The numbers above are starting suggestions, not validated mastery cutoffs.
 </callout>
@@ -60,6 +66,6 @@ Across two short rounds, several passes reach the target from both middle and si
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[PASSING]]
-	**Used in:** [[WEEK 1]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]]
 </callout>

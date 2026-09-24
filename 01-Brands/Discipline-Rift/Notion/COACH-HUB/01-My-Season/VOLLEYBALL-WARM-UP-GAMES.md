@@ -25,21 +25,21 @@ aliases:
 Warm-ups belong in the Intro block, about 10 minutes with the movement prep and the stretch routine. Coach moves too. Demonstrate the game, play one or two quick rounds, then get to the ball.
 <callout icon="💡" color="gray_bg">
 	**HOW TO PICK ONE**
-	[[THE LINES GAME]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/THE-LINES-GAME|THE LINES GAME]]
 	*New group or new space.*
-	[[VOLLEYBALL TAG]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-TAG|VOLLEYBALL TAG]]
 	*Energy is flat.*
-	[[POLICE & ROBBERS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/POLICE-AND-ROBBERS|POLICE & ROBBERS]]
 	*Energy is flat, bigger space.*
-	[[MIRROR & FREEZE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MIRROR-AND-FREEZE|MIRROR & FREEZE]]
 	*Today is about footwork before contact.*
 	Nobody gets eliminated for the rest of a round. A player who is out steps to the reset area and comes straight back.
 </callout>
 **THE BANK: the same four, as full rows.**
-[[THE LINES GAME]]
-[[VOLLEYBALL TAG]]
-[[POLICE & ROBBERS]]
-[[MIRROR & FREEZE]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/THE-LINES-GAME|THE LINES GAME]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-TAG|VOLLEYBALL TAG]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/POLICE-AND-ROBBERS|POLICE & ROBBERS]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MIRROR-AND-FREEZE|MIRROR & FREEZE]]
 <callout icon="🚩" color="gray_bg">
 	Pick your warm-up before you get to the gym, not while twenty kids are waiting.
 </callout>

@@ -30,11 +30,11 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**THE UNIVERSAL METHOD**
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*The umbrella: how the whole practice is built.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*How you coach while the ladder is running.*
-	[[COACHING DIFFERENT LEVELS / CO-COACHING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|COACHING DIFFERENT LEVELS / CO-COACHING]]
 	*Turning one dial per line, and sharing the ladder with a co-coach.*
 </callout>
 ## HOW THE LADDER WORKS
@@ -109,9 +109,9 @@ Use this as an optional role-upgrade mechanic, not a random prize.
 ## EXAMPLE — A FINISHED LADDER
 ![Week 1 volleyball — a finished six-to-eight-rung ladder, exactly as it runs in the season](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/e30e24ae-c137-4303-b5e3-d6951402d1bb/ladder-week1-example.png) <!-- notion-hosted, URL expires -->
 *This is Week 1 of the volleyball season. Six of these live inside the volleyball curriculum, one per week, every challenge a tappable page. You are expected to build your own: same shape, the problems YOUR group actually shows you.*
-[[WEEK 1]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]]
 *The week page this ladder comes from.*
-[[VOLLEYBALL CURRICULUM]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]]
 *All six volleyball weeks, skills and game banks.*
 ## BLANK LADDER
 ![Blank progression ladder — six empty steps: skill, problem, challenge](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f6cfb08-0636-44bc-a088-3627f4d72bee/e38749ef-c61f-4a22-a80e-29134ae4e7ae/ladder-blank.png) <!-- notion-hosted, URL expires -->

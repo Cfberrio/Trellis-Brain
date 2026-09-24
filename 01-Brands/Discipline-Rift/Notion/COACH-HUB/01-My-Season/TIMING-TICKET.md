@@ -19,7 +19,7 @@ aliases:
   - "TIMING TICKET"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[ATTACKING]]. Run this when players begin too soon or too late for a high incoming ball.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]]. Run this when players begin too soon or too late for a high incoming ball.
 </callout>
 # TIMING TICKET
 <callout icon="🏐" color="gray_bg">
@@ -62,6 +62,6 @@ The player adjusts to slightly different toss heights without rushing into the n
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[ATTACKING]] · [[SETTING]]
-	**Used in:** [[WEEK 3]] · [[WEEK 4]] · [[WEEK 5]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]]
 </callout>

@@ -8,7 +8,7 @@ used_for_ai: true
 source_type: curated
 source_reference: "ClickUp Doc 8cqnrff-5297 page 8cqnrff-3797 (STRATEGY / DNA / DR / 7) Fulfillment DNA)"
 owner: Luis
-last_updated: 2026-05-21
+last_updated: 2026-09-17
 sensitivity: internal
 hub_role: leaf
 up:
@@ -20,6 +20,9 @@ related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
   - "[[01-Brands/Discipline-Rift/01-Systems/Coach-Portal-Home]]"
   - "[[01-Brands/Discipline-Rift/01-Systems/Parent-App-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update]]"
 ---
 
 # Delivery
@@ -101,6 +104,9 @@ Email/text includes:
 | 20 min | Guided play / scrimmage | Use the skill |
 | 5 min | "Win moment" + preview next session | Anchor + anticipation |
 
+> [!note] Read the table as a sample allocation, not a clock (2026-09-17)
+> The canonical session shape is [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]: **Open → Retrieve / Show → Build the Ladder → Test Transfer → Close**, budgeted against the real session length. The 60-minute rows above map onto it (arrival ritual = Open; warm-up game = Open/Retrieve; skill ladder = Build the Ladder; guided play = Test Transfer; win moment = Close), but minutes move with player readiness. "Skill ladder" means the [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR method]]: teach → controlled reps → add one layer → connect, and progress players rather than finishing a list. Fixed seven-block clocks and per-block minute quotas were retired by the 2026-09-11 Coach Hub rebuild.
+
 ### Attendance tracking SOP (every session)
 - Mark attendance live
 - **Trigger:** if attendance drops (or they miss session #1) → intervene immediately. Reaching out right when attendance declines can "rescue" the customer.
@@ -108,6 +114,7 @@ Email/text includes:
 ### 2x/week parent touchpoints (fixed schedule)
 - **Touchpoint A:** praise participation ("show rate" recognition)
 - **Touchpoint B:** progress update ("what they improved")
+- **Touchpoint B standard (2026-09-17):** the coach's after-practice Dashboard message follows [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|Coach After-Practice Parent Update]] — what we worked on → what improved → what comes next. "What they improved" alone is half a message.
 
 > Consistent praise + solving little problems is a retention driver.
 
@@ -128,6 +135,11 @@ Weeks 4–6 (or final 2 weeks):
 - Show progress (simple before/after)
 - Present next season or sport swap as the obvious continuation
 - Customers buy more over time, and buying again makes them less likely to churn → **ask them to buy**
+
+### Retention through visible development (added 2026-09-17)
+The strongest reason to re-enroll is that the parent can *see* the child learning more — not discounts, promotions or convenience alone ([[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|Parent Communication Philosophy]] §14). Two consequences for this engine:
+- The "simple before/after" in Weeks 4–6 should name the **next layer** of the same skill the child will work on next season (depth within skills), so the next season reads as continuation, not repetition.
+- Candidate activation point **AP4 (visible progress):** "Every family that receives a specific what-we-worked-on / what-improved / what-comes-next update after ≥ 4 of 6 practices re-enrolls at a higher rate." Measure alongside AP1–AP3.
 
 ## Roles Required
 

@@ -19,7 +19,7 @@ aliases:
   - "HIGH HAND TARGET"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[ATTACKING]]. Run this when players try to hit hard before they can find a controlled contact.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]]. Run this when players try to hit hard before they can find a controlled contact.
 </callout>
 # HIGH HAND TARGET
 <callout icon="🏐" color="gray_bg">
@@ -62,6 +62,6 @@ Same contact, different words: use this for a group that responds better to imag
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[ATTACKING]]
-	**Used in:** [[WEEK 3]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]]
 </callout>

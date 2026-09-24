@@ -44,7 +44,7 @@ aliases:
 	4. **A note, if needed.** Anything parents need to know.
 	*Example, not a script:* "Great practice today. We worked on serving control and the team improved in height and direction. We will keep building consistency next week. Great energy from the group today."
 	Send it with **Message All** in the Coach Dashboard. Every family gets it individually. It is not a group chat.
-	[[MESSAGING PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/MESSAGING-PARENTS|MESSAGING PARENTS]]
 	*The buttons.*
 </callout>
 <callout icon="⚠️" color="yellow_bg">
@@ -53,9 +53,9 @@ aliases:
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND PARENTS**
-	[[DISMISSAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|DISMISSAL]]
 	*Pickup is your face-to-face minute.*
-	[[INJURY / INCIDENT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INJURY-INCIDENT|INJURY / INCIDENT]]
 	*When something has to be reported.*
 </callout>
 <callout icon="🚩" color="gray_bg">

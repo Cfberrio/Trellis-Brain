@@ -4,7 +4,14 @@ notion_page: 2e504528-85a8-8019-8e6f-d42442cc11e7
 notion_page_duplicate: 2e504528-85a8-80fb-b87f-fb1fc5e0db47
 pulled: 2026-08-11
 note: Third-party reference content (NFL Flag). Video — https://www.youtube.com/watch?v=WQHtf2Fa5jc. Two Notion pages ("THROWING" and "HOW TO THROW A FOOTBALL") carry identical content; mirrored once here.
+canonical: false
+status: superseded
+superseded_on: 2026-09-17
+superseded_by: "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
+
+> [!warning] Historical mirror (pulled 2026-08-11) — not current
+> This page mirrors the old per-sport Notion wiki. The DR-UPS seven-block practice, Tier System and fixed weekly gates it describes were **retired by the 2026-09-11 Coach Hub rebuild**. Current method: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]. Current curriculum: live Notion `DR | COACH HUB` (vault mirror `Notion/COACH-HUB/`, re-synced 2026-09-15). Kept unchanged for history; `canonical: false` since 2026-09-17.
 
 # Throwing
 

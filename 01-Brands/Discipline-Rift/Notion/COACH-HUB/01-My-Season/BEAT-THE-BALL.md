@@ -19,7 +19,7 @@ aliases:
   - "BEAT THE BALL"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[MOVING]]. Run this when players reach sideways, or only start moving after the ball is already falling.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVING|MOVING]]. Run this when players reach sideways, or only start moving after the ball is already falling.
 </callout>
 # BEAT THE BALL
 <callout icon="🏐" color="gray_bg">
@@ -60,6 +60,6 @@ The player reaches balls on both sides without you naming the direction. Recheck
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[PASSING]] · [[MOVING]] · [[DEFENDING]]
-	**Used in:** [[WEEK 1]] · [[WEEK 4]] · [[WEEK 5]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVING|MOVING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]]
 </callout>

@@ -27,11 +27,11 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*Where this challenge sits in the ladder.*
-	[[SKILL PAGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]]
 	*The skill it trains.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*How you coach it while it runs.*
 </callout>
 # \[CHALLENGE NAME\]

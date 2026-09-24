@@ -33,7 +33,7 @@ aliases:
 <callout icon="🔢" color="gray_bg">
 	**1 · FINAL WHISTLE. COUNT BEFORE YOU RELEASE ANYONE.**
 	Bring them in, count out loud, twice. Your number has to match today's attendance number before a single child leaves your sight. If it does not match, nobody is released until it does.
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*The counting standard.*
 </callout>
 <callout icon="🗣️" color="gray_bg">
@@ -65,9 +65,9 @@ aliases:
 	- attendance complete in the Coach Dashboard, Pending: 0;
 	- parent update sent with **Message All**;
 	- anything DR needs to know, escalated.
-	[[TAKING ATTENDANCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|TAKING ATTENDANCE]]
 	*Finish at Pending: 0.*
-	[[PARTNERING WITH PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|PARTNERING WITH PARENTS]]
 	*What to say to parents and why.*
 </callout>
 ## PARTNERING WITH PARENTS
@@ -76,7 +76,7 @@ Greet parents at pickup, learn names, set a friendly tone early, so the hard con
 <callout icon="🤝" color="gray_bg">
 	**PLAYERS WHO NEED MORE OF YOU**
 	If a player is taking a lot of your attention, pickup is where you start the partnership. Tell the parent what happened today, specifically and without a verdict on their child. DR steps in on serious or repeated cases. That only works if the parent has already heard from you, in the Dashboard and in person.
-	[[PARTNERING WITH PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|PARTNERING WITH PARENTS]]
 	*The hard conversation, and how to start it from a relationship.*
 </callout>
 <callout icon="⚠️" color="yellow_bg">
@@ -89,15 +89,15 @@ These commitments are live in parent and school communication today. This page m
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND DISMISSAL**
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*The counting standard this page runs on.*
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*Your roster and the Dashboard.*
-	[[ARRIVAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]]
 	*The other end of the session.*
-	[[MESSAGING PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/MESSAGING-PARENTS|MESSAGING PARENTS]]
 	*Message All in the Coach Dashboard.*
-	[[INJURY / INCIDENT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INJURY-INCIDENT|INJURY / INCIDENT]]
 	*When something happens that has to be reported.*
 </callout>
 <callout icon="🚩" color="gray_bg">

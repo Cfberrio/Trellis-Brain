@@ -20,7 +20,7 @@ aliases:
   - "ARCHIVE — COACH PORTAL (see Coach Dashboard)"
 ---
 <callout icon="⚠️" color="yellow_bg">
-	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — COACH PORTAL (see Coach Dashboard)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by [[COACH DASHBOARD]].
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — COACH PORTAL (see Coach Dashboard)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|COACH DASHBOARD]].
 </callout>
 <callout icon="📱" color="gray_bg">
 	The app where attendance, rosters and parent messages live. No Notion page told you this existed until now.

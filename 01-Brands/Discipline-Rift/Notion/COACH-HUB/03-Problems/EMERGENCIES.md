@@ -35,11 +35,11 @@ aliases:
 </callout>
 <callout icon="🧭" color="gray_bg">
 	**THE SPECIFIC SCENARIOS**
-	[[INJURY / INCIDENT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INJURY-INCIDENT|INJURY / INCIDENT]]
 	*A hurt child.*
-	[[MISSING PLAYER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/MISSING-PLAYER|MISSING PLAYER]]
 	*A rostered player is not with the team.*
-	[[WEATHER & HEAT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/WEATHER-AND-HEAT|WEATHER & HEAT]]
 	*Rain, lightning, heat.*
 </callout>
 <callout icon="🚩" color="gray_bg">

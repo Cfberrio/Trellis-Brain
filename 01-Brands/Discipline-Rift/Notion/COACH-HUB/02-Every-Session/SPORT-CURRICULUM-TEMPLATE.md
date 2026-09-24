@@ -27,11 +27,11 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*How every DR practice is built.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*What you teach next and when.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*What good coaching looks like on the court.*
 </callout>
 ## THE SEASON
@@ -80,13 +80,13 @@ On the live hub each week is a primary door: `### → <mention-page/>` with a on
 </table>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**THE TEMPLATES**
-	[[WEEK PAGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WEEK-PAGE-TEMPLATE|WEEK PAGE TEMPLATE]]
 	*Copy this for every week.*
-	[[SKILL PAGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]]
 	*One page per skill. Weeks link here instead of repeating the teaching.*
-	[[GAMIFIED CHALLENGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMIFIED-CHALLENGE-TEMPLATE|GAMIFIED CHALLENGE TEMPLATE]]
 	*The targeted drill bank.*
-	[[CFU GAME TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CFU-GAME-TEMPLATE|CFU GAME TEMPLATE]]
 	*The transfer check.*
 </callout>
 <callout icon="/icons/gradebook_green.svg" color="gray_bg">

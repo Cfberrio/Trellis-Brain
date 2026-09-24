@@ -8,7 +8,7 @@ used_for_ai: true
 source_type: curated
 sensitivity: internal
 hub_role: communication-hub
-last_updated: 2026-09-14
+last_updated: 2026-09-17
 up:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 down:
@@ -23,10 +23,14 @@ down:
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/School-Outreach-Email-Templates]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Guides-Library]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Messages-Reminders/Messages-Reminders-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Conversation-Style]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update]]"
 related:
   - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/School-Outreach-AI-Feedback-Synthesis]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
 
 # Discipline Rift — Communication Home
@@ -45,6 +49,13 @@ related:
 
 > [!warning] Earlier "n8n retired" claim was too broad
 > It applies only to #2/#9/#10. n8n is still live for the reminder + weekly families. Corrected 2026-08-27.
+
+
+## Parent-facing philosophy and coach-to-parent standard (added 2026-09-17)
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|DR Parent Communication Philosophy]] — what DR says to parents about development: depth within skills, bridges between skills, why season two is not a repeat, multi-sport, pathway without pressure. Luis's own text.
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Conversation-Style|DR Parent Conversation Style]] — how a call or text with a parent runs (welcome → clarify → check → guide → own → respond → recap → close). Quotes are tone examples from one call, **not** standing policy.
+- [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|Coach After-Practice Parent Update]] — *proposed* standard for the coach's Dashboard "Message All" after every practice: what we worked on → what improved → what comes next. Pairs with the pre-practice weekly email.
+- Method these serve: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]].
 
 ## Communication Engine (built 2026-08-04, verified in vault 2026-09-07)
 - [[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine|DR Communication Engine]] — master rules, merge syntax, channel philosophy, marketing improvements
@@ -88,5 +99,6 @@ Source of truth by layer (corrected 2026-08-27):
 
 - **Live email copy** → [[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library|DR Operational Email Library]] (#1–#10) and [[01-Brands/Discipline-Rift/02-Communication/Templates/Parent-Communication-Volleyball-Season|Parent Communication — Volleyball Season]] (weekly). Both verified verbatim against ClickUp Doc `8cqnrff-21297` on 2026-08-27.
 - **Render contract / design tokens** → [[01-Brands/Discipline-Rift/02-Communication/DR-Email-Design-Spec|DR Email Design Spec]]
+- **What we tell parents about development** → [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|DR Parent Communication Philosophy]]; the coach's after-practice message follows [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|Coach After-Practice Parent Update]] (proposed 2026-09-17)
 - **Voice, audience segmentation, merge-field conventions, improvement backlog** → [[01-Brands/Discipline-Rift/02-Communication/communication-rules|DR Communication Rules]] — still useful for these, *not* for template copy
 - [[01-Brands/Discipline-Rift/02-Communication/DR-GoHighLevel-Marketing-and-Registration-Automations|DR GoHighLevel Marketing and Registration Automations]]

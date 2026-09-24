@@ -116,7 +116,7 @@ Feet determine success in defense.
 ---
 ### Position 4 — Platform
 **Cue:** "Platform"
-- Same platform as [[PASSING]]
+- Same platform as [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]
 - Arms flat and quiet
 - Built **after movement**
 **Why:**
@@ -223,11 +223,11 @@ Fix **one thing at a time**.
 <callout icon="🎲" color="gray_bg">
 	**WHERE THIS SKILL SHOWS UP**
 	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
-	**Weeks:** [[WEEK 4]] · [[WEEK 5]] · [[WEEK 6]]
+	**Weeks:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 	**Challenges, by the problem you can see:**
-	Reaches instead of moving → [[BEAT THE BALL]]
-	Stops after their own touch → [[HOME BASE]]
-	Two players hesitate → [[WHOSE BALL?]]
-	Saves the ball but nobody can play it → [[SAVE AND SHARE]]
-	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+	Reaches instead of moving → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/BEAT-THE-BALL|BEAT THE BALL]]
+	Stops after their own touch → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/HOME-BASE|HOME BASE]]
+	Two players hesitate → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WHOSE-BALL|WHOSE BALL?]]
+	Saves the ball but nobody can play it → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SAVE-AND-SHARE|SAVE AND SHARE]]
+	*Whole bank: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-GAMIFIED-CHALLENGES|VOLLEYBALL GAMIFIED CHALLENGES]]*
 </callout>

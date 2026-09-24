@@ -29,20 +29,20 @@ aliases:
 	**BEFORE YOU LEAVE**
 	**Check the schedule.** Address, arrival time, practice start and end. Arrival = on campus.
 	**→ **[**OPEN THE 26–27 SCHEDULE**](https://drive.google.com/drive/folders/1eRJhyKS8jx-UI_xaUOd8Egb-i5KzZTOG?usp=drive_link)
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*How to read it, traffic, changes, day off.*
 	**Open the Coach Dashboard and screenshot your roster.** Before entering the school: load the Dashboard with your team selected, open the roster email DR sent to your Gmail, screenshot it. Schools have no signal inside; you cannot do either once you are in. If the Dashboard shows `offline: true`, take attendance on the screenshot, enter it in the Dashboard once you have signal, and call DR at (407) 614-7454 if you cannot.
 	**→ **[**COACH DASHBOARD**](https://disciplinerift.com/coach/)
-	[[COACH DASHBOARD]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|COACH DASHBOARD]]
 	*What it does, logging in, attendance, messaging, problems.*
 	**Review the curriculum.** Current week, primary skill, the first one or two ladder rungs you will start on, which gamified challenges are available.
-	[[CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CURRICULUM|CURRICULUM]]
 	*Your sport, your week, the skill pages.*
 	**Prepare equipment.** Everything the planned practice needs. Cones or markers for boundaries. Phone charged. Your own water. Two coaches: agree who brings what.
 </callout>
 <callout icon="🪜" color="yellow_bg">
 	**THE LADDER RULE.** The ladder on the Week page is a sample. Your team's ladder starts where your players are today. Start where they can succeed, find the problem in front of you, build from there. Different teams finish on different rungs. That is correct.
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The sample ladder. Pick your one or two starting rungs from it.*
 </callout>
 <callout icon="2️⃣" color="gray_bg">
@@ -55,34 +55,34 @@ aliases:
 	6. Bathroom, water, snack before heading out, when possible.
 	7. Take attendance. Know today's number.
 	8. Move as one group to the practice space.
-	[[ARRIVAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]]
 	*The full arrival procedure.*
 </callout>
 <callout icon="3️⃣" color="gray_bg">
 	**ACCOUNT FOR PLAYERS**
 	The Dashboard is your primary roster and attendance tool during practice. Every listed player gets accounted for, not just marked. Today's number is the basis for every head count.
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*Roster and player accountability. Late arrivals, missing players, a player who is not on the list.*
-	[[TAKING ATTENDANCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|TAKING ATTENDANCE]]
 	*How to take attendance in the Dashboard, and what to do with no signal.*
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*Count at every transition. If the number is wrong, stop and resolve before continuing.*
 </callout>
 <callout icon="4️⃣" color="gray_bg">
 	**RUN PRACTICE**
 	Show → identify the problem → challenge it → coach reps → raise difficulty after success → check learning.
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*The shape of practice.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*What comes next and why.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*How you coach each rep. Specific feedback, short cues, high reps.*
 	**Setup and equipment.** Set the playable area with cones, chalk or existing lines. Players should know where the space starts and stops. Have the next setup ready before the current activity ends. Supervise specialised equipment.
 </callout>
 <callout icon="5️⃣" color="gray_bg">
 	**DISMISS**
 	Head count. Keep the group together. Follow the host school's dismissal process and coordinate with school or aftercare staff. Never leave a player unaccounted for.
-	[[DISMISSAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|DISMISSAL]]
 	*The full dismissal procedure.*
 </callout>
 <callout icon="6️⃣" color="gray_bg">
@@ -91,14 +91,14 @@ aliases:
 	- Send parents a short, personable update in the Dashboard: one positive, what you worked on, how the team progressed, what comes next. Select **Message All**: every family gets it individually, it is not a group chat.
 	- Flag anything DR needs to follow up on.
 	- Note one 1% improvement for next practice.
-	[[PARTNERING WITH PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PARTNERING-WITH-PARENTS|PARTNERING WITH PARENTS]]
 	*What to say to parents and why.*
-	[[MESSAGING PARENTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/MESSAGING-PARENTS|MESSAGING PARENTS]]
 	*How to send it in the Dashboard.*
 </callout>
 <callout icon="🆘" color="gray_bg">
 	**SOMETHING WENT WRONG?**
-	[[NEED HELP]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/NEED-HELP|NEED HELP]]
 	*Weather, missing player, roster issue, injury, behaviour, cancellation, Dashboard problem.*
 	**DR line: (407) 614-7454.** Rings DR leadership.
 </callout>
@@ -106,7 +106,7 @@ aliases:
 	Schedule → Dashboard + roster screenshot → week page → equipment → drive. Do those before you leave and the hour is yours.
 </callout>
 ## SUB-PAGES (nested under this hub in Notion)
-- [[YOUR SCHEDULE]]
-- [[COACH DASHBOARD]]
-- [[HEAD COUNTS]]
-- [[ROSTER & PLAYER ACCOUNTABILITY]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|COACH DASHBOARD]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]

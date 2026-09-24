@@ -19,7 +19,7 @@ aliases:
   - "HOME BASE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[MOVING]]. Run this when players watch their own contact and leave useful space uncovered.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVING|MOVING]]. Run this when players watch their own contact and leave useful space uncovered.
 </callout>
 # HOME BASE
 <callout icon="🏐" color="gray_bg">
@@ -59,6 +59,6 @@ The player supports the next contact even when the target moves to a different s
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[MOVING]] · [[DEFENDING]]
-	**Used in:** [[WEEK 4]] · [[WEEK 5]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVING|MOVING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]]
 </callout>

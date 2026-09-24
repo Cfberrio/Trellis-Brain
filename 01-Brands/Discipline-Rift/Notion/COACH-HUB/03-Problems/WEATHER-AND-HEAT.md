@@ -41,7 +41,7 @@ aliases:
 	- Bring your own water.
 	- Ice containers have been useful for cooling players down and work as a small positive tool. Not a medical treatment.
 	- A child who looks unwell in the heat: shade, water, sit them down, get school staff. If it is more than that, it is an injury.
-	[[INJURY / INCIDENT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INJURY-INCIDENT|INJURY / INCIDENT]]
 	*Stop, supervise, school procedure, 911 if needed, call DR.*
 </callout>
 <callout icon="📞" color="gray_bg">
@@ -50,9 +50,9 @@ aliases:
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND WEATHER**
-	[[PRACTICE CANCELLATION]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PRACTICE-CANCELLATION|PRACTICE CANCELLATION]]
 	*How a cancellation actually reaches you.*
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*Count every time you move.*
 </callout>
 <callout icon="🚩" color="gray_bg">

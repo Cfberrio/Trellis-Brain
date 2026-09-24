@@ -20,7 +20,7 @@ aliases:
   - "WARM-UPS"
 ---
 <callout icon="⚠️" color="yellow_bg">
-	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — WARM UPS (use sport warm-up banks)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by the per-sport warm-up banks (e.g. [[VOLLEYBALL WARM-UP GAMES]]).
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — WARM UPS (use sport warm-up banks)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by the per-sport warm-up banks (e.g. [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-WARM-UP-GAMES|VOLLEYBALL WARM-UP GAMES]]).
 </callout>
 # WARM UPS
 

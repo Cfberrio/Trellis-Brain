@@ -17,10 +17,12 @@ down:
   - "[[01-Brands/Discipline-Rift/03-Evidence/Practice-Cancellation-Workflow-Log]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/School-Outreach-AI-Feedback-Synthesis]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Coach-WhatsApp/Coach-WhatsApp-Home]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF]]"
+  - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Dictation-2026-09-16/00-DR-Topic-Index]]"
 related:
   - "[[01-Brands/Discipline-Rift/06-DNA/DNA-Home]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Communication-Home]]"
@@ -38,10 +40,12 @@ related:
 - [[01-Brands/Discipline-Rift/03-Evidence/School-Outreach-AI-Feedback-Synthesis|School Outreach AI Feedback Synthesis]]
 
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Founder-QA-Library-Full|DR Founder Q&A — Full Library]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Coach-WhatsApp/Coach-WhatsApp-Home|Coach WhatsApp Archive (Sep 2025 → Sep 2026)]]
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/email-sent-analysis-2026-06-30|Sent Email Analysis (Founder Voice)]]
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS|Bot Training — Parents]]
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS|Bot Training — Faculty/Schools]]
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF|Bot Training — Coaches/Staff]]
+- [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Dictation-2026-09-16/00-DR-Topic-Index|Dictation 2026-09-16 — Topic Index]] — index of 11 topics from Luis's Sep 15–16 dictation (practice teaching, coach feedback, invitations, parent concerns, behavior, registrations, scheduling, dashboard, marketing files, certificates). Index only; topic bodies not yet in vault. Source of the four Method philosophy MDs.
 
 ## Sub-folders
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Q&A-Weekly-Themes|Founder Voice — Q&A Weekly Themes]]

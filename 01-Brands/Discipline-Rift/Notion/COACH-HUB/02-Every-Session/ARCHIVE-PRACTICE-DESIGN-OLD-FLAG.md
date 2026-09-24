@@ -22,7 +22,7 @@ aliases:
 	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)", status `Archived`. Content below is unchanged since the last mirror; treat it as history only.
 </callout>
 <callout icon="🗄️" color="gray_bg">
-	Backup copy, kept per [[CURRICULUM RESTRUCTURE]]: the old flag football six-session plan, duplicated before Practice Design was rewritten. Delete once nobody needs the flag six-session plan.
+	Backup copy, kept per [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|CURRICULUM RESTRUCTURE]]: the old flag football six-session plan, duplicated before Practice Design was rewritten. Delete once nobody needs the flag six-session plan.
 </callout>
 ## Same every week – 60 min
 **Block 1 (3 min) – Belonging + Routine**

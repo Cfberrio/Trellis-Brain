@@ -20,7 +20,7 @@ aliases:
   - "GAMES"
 ---
 <callout icon="⚠️" color="yellow_bg">
-	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — GAMES (superseded by sport game banks)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by the sport-owned game banks under [[VOLLEYBALL CURRICULUM]] and [[FLAG CURRICULUM]].
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — GAMES (superseded by sport game banks)", status `Archived`. Content below is unchanged since the last mirror; treat it as superseded by the sport-owned game banks under [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]] and [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-CURRICULUM|FLAG CURRICULUM]].
 </callout>
 <callout icon="🎲" color="gray_bg">
 	The game library, any sport. One page per game. Every row below is a page: tap it.
@@ -29,7 +29,7 @@ aliases:
 Games recur across sports. A game that lives inside one week page cannot be found by a coach planning a different week or a different sport. This page is the single home for them.
 <callout icon="🎲" color="gray_bg">
 	**IN THIS LIBRARY**
-	[[ZONES GAME]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ZONES-GAME|ZONES GAME]]
 	*The largest game write-up in the hub, moved here from flag football because games are cross-sport.*
 </callout>
 <callout icon="⚠️" color="yellow_bg">

@@ -3,8 +3,8 @@ brand: Discipline-Rift
 area: training
 sport: Tennis
 note_type: home
-status: active
-canonical: true
+status: superseded
+canonical: false
 used_for_ai: true
 source_type: notion_wiki
 notion_db: DR TENNIS
@@ -13,7 +13,12 @@ notion_url: https://app.notion.com/p/d7a0a9e94ba449b8b1a00cf65df45be1
 last_updated: 2026-08-11
 up:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Tennis-Home]]"
+superseded_on: 2026-09-17
+superseded_by: "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
+
+> [!warning] Historical mirror (pulled 2026-08-11) — not current
+> This page mirrors the old per-sport Notion wiki. The DR-UPS seven-block practice, Tier System and fixed weekly gates it describes were **retired by the 2026-09-11 Coach Hub rebuild**. Current method: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]. Current curriculum: live Notion `DR | COACH HUB` (vault mirror `Notion/COACH-HUB/`, re-synced 2026-09-15). Kept unchanged for history; `canonical: false` since 2026-09-17.
 
 # DR Tennis Notion Wiki
 

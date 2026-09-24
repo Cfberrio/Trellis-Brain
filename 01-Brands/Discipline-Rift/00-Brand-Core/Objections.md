@@ -10,6 +10,8 @@ up:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Avatar]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy]]"
+last_updated: 2026-09-17
 ---
 
 # Objections
@@ -37,6 +39,15 @@ related:
 - “Are there hidden costs?”
 - “Is it worth it if my child is unsure?”
 - “$129 sounds simple, but is it actually low-risk?”
+
+### Segment 4 — returning / progression-minded (added 2026-09-17)
+- “They already did a season of volleyball — won’t this just be the same thing again?”
+- “What did my child actually learn? I never see practice.”
+- “Is it real coaching or just playing games?”
+- “Should we be moving to a club by now?”
+- “Why don’t they play real games every week?”
+
+Answers live in [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|DR Parent Communication Philosophy]]: depth within skills (§2), development before winning (§5), fun as the vehicle (§6), multi-sport and the pathway without pressure (§7–§9), and the coach's after-practice message as the evidence parents cannot see for themselves (§11–§12).
 
 ## School objections
 - “Will this create front-office headaches?”

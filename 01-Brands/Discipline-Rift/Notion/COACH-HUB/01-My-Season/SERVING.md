@@ -188,10 +188,10 @@ Fix **one thing at a time**.
 <callout icon="🎲" color="gray_bg">
 	**WHERE THIS SKILL SHOWS UP**
 	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
-	**Weeks:** [[WEEK 2]] · [[WEEK 3]] · [[WEEK 6]]
+	**Weeks:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|WEEK 2]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 	**Challenges, by the problem you can see:**
-	Cannot start a rally → [[SERVE TO UNLOCK]]
-	Serves land anywhere → [[CLAIM THE SQUARES]]
-	Can pass a toss but not a serve → [[SERVE → READ → CATCH]]
-	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+	Cannot start a rally → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVE-TO-UNLOCK|SERVE TO UNLOCK]]
+	Serves land anywhere → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CLAIM-THE-SQUARES|CLAIM THE SQUARES]]
+	Can pass a toss but not a serve → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVE-READ-CATCH|SERVE → READ → CATCH]]
+	*Whole bank: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-GAMIFIED-CHALLENGES|VOLLEYBALL GAMIFIED CHALLENGES]]*
 </callout>

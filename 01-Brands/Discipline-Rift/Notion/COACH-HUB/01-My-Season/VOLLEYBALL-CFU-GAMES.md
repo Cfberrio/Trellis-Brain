@@ -25,21 +25,21 @@ aliases:
 CFU is the last 15 minutes. It is not a reward and it is not free play. You change one condition, then you watch before you talk. If the behaviour breaks: **Freeze → Cue → Replay**, then observe again with no cue.
 <callout icon="💡" color="gray_bg">
 	**HOW TO PICK ONE**
-	[[CATCH → CONNECT → SEND]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CATCH-CONNECT-SEND|CATCH → CONNECT → SEND]]
 	*Beginners, twenty players, two courts.*
-	[[MINI VOLLEYBALL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MINI-VOLLEYBALL|MINI VOLLEYBALL]]
 	*You want more contacts per child and you can see both games.*
-	[[TEAM RALLY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TEAM-RALLY|TEAM RALLY]]
 	*Connection matters more than winning today.*
-	[[SPACE & SUPPORT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SPACE-AND-SUPPORT|SPACE & SUPPORT]]
 	*You are checking decisions and covering space.*
 	Different courts can run different versions. Record which version you used next to the score, or the score means nothing next week.
 </callout>
 **THE BANK: the same four, as full rows.**
-[[CATCH → CONNECT → SEND]]
-[[MINI VOLLEYBALL]]
-[[TEAM RALLY]]
-[[SPACE & SUPPORT]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CATCH-CONNECT-SEND|CATCH → CONNECT → SEND]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MINI-VOLLEYBALL|MINI VOLLEYBALL]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TEAM-RALLY|TEAM RALLY]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SPACE-AND-SUPPORT|SPACE & SUPPORT]]
 <callout icon="🚩" color="gray_bg">
 	Watch before you talk. Record the version you ran and one next problem.
 </callout>

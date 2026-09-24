@@ -66,11 +66,11 @@ aliases:
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**BEFORE AND AFTER THE SCHEDULE**
-	[[ARRIVAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]]
 	*What you do once you are on campus.*
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*Your roster, attendance and player accountability.*
-	[[PRACTICE CANCELLATION]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/PRACTICE-CANCELLATION|PRACTICE CANCELLATION]]
 	*What happens when a practice is called off. DR sends those messages, not you.*
 </callout>
 <callout icon="🚩" color="gray_bg">

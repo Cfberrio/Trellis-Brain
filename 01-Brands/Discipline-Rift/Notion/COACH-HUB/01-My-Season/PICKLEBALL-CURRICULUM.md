@@ -28,7 +28,7 @@ aliases:
 	*Forehand strokes and basic paddle grip. Life lesson: Teamwork + Discipline.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-BACKHANDS-2ba04528|WEEK 2 - BACKHANDS]]
 	*Backhand strokes, forehand review. Consistency + Humility.*
-	[[WEEK 3 - DINKS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-DINKS|WEEK 3 - DINKS]]
 	*Dinks, forehand and backhand review. Confidence + Adaptability.*
 </callout>
 <callout icon="⚠️" color="yellow_bg">
@@ -36,23 +36,23 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*How every DR practice is built, start to finish. The only live practice structure.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*What you teach next and when. The ladder on every Week page is a sample.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*What good coaching looks like while players are practicing.*
-	[[ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-STRUCTURE|ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]]
 	*The 60 minute block clock.*
-	[[ARCHIVE — WARM UPS (use sport warm-up banks)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WARM-UPS|ARCHIVE — WARM UPS (use sport warm-up banks)]]
 	*Archived warm-up list.*
-	[[TIERS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/TIERS|TIERS]]
 	*Tiers: how to split one group by level.*
-	[[GROUP DYNAMICS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GROUP-DYNAMICS|GROUP DYNAMICS]]
 	*Group dynamics: K to 2 versus 3 to 5.*
-	[[ARCHIVE — GAMES (superseded by sport game banks)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMES|ARCHIVE — GAMES (superseded by sport game banks)]]
 	*Archived game bank.*
-	[[ARCHIVE — LIFE LESSON (no longer a required block)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/LIFE-LESSON|ARCHIVE — LIFE LESSON (no longer a required block)]]
 	*The Word of the Week. Culture, not a required block on every week page.*
 </callout>
 ## THE SEASON MAP

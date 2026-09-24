@@ -29,10 +29,10 @@ aliases:
 </callout>
 # INTERNAL — Curriculum Builder
 ## SUB-PAGES (nested under this hub in Notion)
-- [[WEEK PAGE TEMPLATE]]
-- [[SPORT CURRICULUM TEMPLATE]]
-- [[GAMIFIED CHALLENGE TEMPLATE]]
-- [[CFU GAME TEMPLATE]]
-- [[SKILL PAGE TEMPLATE]]
-- [[CURRICULUM RESTRUCTURE]]
-- [[ARCHIVE — HOW THE SCHEDULE WORKS (merged into Your Schedule)]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WEEK-PAGE-TEMPLATE|WEEK PAGE TEMPLATE]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SPORT-CURRICULUM-TEMPLATE|SPORT CURRICULUM TEMPLATE]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMIFIED-CHALLENGE-TEMPLATE|GAMIFIED CHALLENGE TEMPLATE]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CFU-GAME-TEMPLATE|CFU GAME TEMPLATE]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|CURRICULUM RESTRUCTURE]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/HOW-THE-SCHEDULE-WORKS|ARCHIVE — HOW THE SCHEDULE WORKS (merged into Your Schedule)]]

@@ -37,7 +37,7 @@ aliases:
 </callout>
 <callout icon="⛈️" color="gray_bg">
 	**WEATHER IS NOT CANCELLATION.** Rain: covered space, keep going. Thunder or lightning: indoors, keep going. You adapt; DR cancels.
-	[[WEATHER & HEAT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/WEATHER-AND-HEAT|WEATHER & HEAT]]
 	*Rain, lightning, heat: what you do in each.*
 </callout>
 <callout icon="⚠️" color="yellow_bg">
@@ -46,11 +46,11 @@ aliases:
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND A CANCELLATION**
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*Your dates, and how to request a day off in advance.*
-	[[DISMISSAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|DISMISSAL]]
 	*If players are already with you, dismissal rules still apply.*
-	[[DASHBOARD PROBLEMS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|DASHBOARD PROBLEMS]]
 	*Session missing from the Dashboard? That is here, not a cancellation.*
 </callout>
 <callout icon="🚩" color="gray_bg">

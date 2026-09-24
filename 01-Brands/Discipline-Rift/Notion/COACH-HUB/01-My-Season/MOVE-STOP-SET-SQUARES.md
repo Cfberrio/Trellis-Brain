@@ -19,7 +19,7 @@ aliases:
   - "MOVE–STOP–SET SQUARES"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[SETTING]]. Run this when players know the hand shape but arrive late or drift through the contact.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]. Run this when players know the hand shape but arrive late or drift through the contact.
 </callout>
 # MOVE–STOP–SET SQUARES
 <callout icon="🏐" color="gray_bg">
@@ -60,6 +60,6 @@ The player gets underneath feeds from two starts and adjusts without a spoken di
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[SETTING]] · [[MOVING]] · [[PASSING]]
-	**Used in:** [[WEEK 1]] · [[WEEK 5]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVING|MOVING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]]
 </callout>

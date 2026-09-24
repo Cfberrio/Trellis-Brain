@@ -71,6 +71,6 @@ Do not add a new contact skill and a new tactical rule at the same time.
 	Write down the version you used and one specific next problem. Next week starts there.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**CHECKS THESE SKILLS** — [[DEFENDING]] · [[MOVING]] · [[COMMUNICATING]]
-	**Used in:** [[WEEK 4]] · [[WEEK 5]]
+	**CHECKS THESE SKILLS** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVING|MOVING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/COMMUNICATING|COMMUNICATING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]]
 </callout>

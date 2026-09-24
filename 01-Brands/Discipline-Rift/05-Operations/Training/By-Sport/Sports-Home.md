@@ -16,6 +16,7 @@ down:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
 
 # Sports Home
@@ -33,3 +34,6 @@ related:
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
 This is the entry point for sport-specific curriculum and coaching resources.
+
+> [!note] 2026-09-17
+> Coaching method for every sport: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]. Current per-sport curriculum lives in the live Notion `DR | COACH HUB` (vault mirror `Notion/COACH-HUB/01-My-Season/`), not in the `Notion-Wiki/` folders under each sport — those are the 2026-08-11 mirrors, kept for history.

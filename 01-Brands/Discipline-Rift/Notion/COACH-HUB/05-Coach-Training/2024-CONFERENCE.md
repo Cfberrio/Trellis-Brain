@@ -102,7 +102,7 @@ aliases:
 <callout icon="⛽" color="gray_bg">
 	Being fueled is contagious. The energy you invest and share determines your quality of life.
 	The boat is not about us. The boat is sacrifice — the more we serve, the bigger it gets, and the more people we can carry.
-	[[FUELED]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/FUELED|FUELED]]
 	*Friendly, Upfront, Enthusiastic, Leader, Efficient, Driven.*
 </callout>
 ### CULTURE & CLOSING
@@ -115,9 +115,9 @@ aliases:
 	The content lives in the topic pages. This page is the record of the day.
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
 	*Talk 1. Humble, Hungry, Smart.*
-	[[FUELED]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/FUELED|FUELED]]
 	*How we row. The behavioural standard.*
-	[[OUR CULTURE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/OUR-CULTURE|OUR CULTURE]]
 	*Culture and closing. How we behave around kids, parents and each other.*
 </callout>
 ---

@@ -25,69 +25,69 @@ aliases:
 CURRICULUM CULTURE: how we do things, how we connect as coaches.
 <callout icon="🏈" color="gray_bg">
 	**START HERE**
-	[[SEASON OVERVIEW]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SEASON-OVERVIEW|SEASON OVERVIEW]]
 	*The season at a glance, before you open a week.*
 </callout>
 <callout icon="🏈" color="gray_bg">
 	**THE SEASON**
-	[[WEEK 1 - THROWING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-THROWING|WEEK 1 - THROWING]]
 	*Throwing and catching.*
-	[[WEEK 2 - CATCHING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-CATCHING|WEEK 2 - CATCHING]]
 	*Catching and communication.*
-	[[WEEK 3 - FLAG PULLING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-FLAG-PULLING|WEEK 3 - FLAG PULLING]]
 	*Ball carrying and flag pulling.*
-	[[WEEK 4 - QB HANDOFF]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-QB-HANDOFF|WEEK 4 - QB HANDOFF]]
 	*Ball carrying and QB handoffs.*
-	[[WEEK 5 - RUNNING LANES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-RUNNING-LANES|WEEK 5 - RUNNING LANES]]
 	*Handoffs and running lanes.*
-	[[WEEK 6 - PLAY ACTION]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-PLAY-ACTION|WEEK 6 - PLAY ACTION]]
 	*Offensive strategy: play action and 4th down.*
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**SKILLS**
 	*One page per skill. Open the one your week names.*
-	[[THROWING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/THROWING|THROWING]]
 	*Throwing: grip, step, release.*
-	[[CATCHING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CATCHING|CATCHING]]
 	*Catching: hands, eyes, tuck.*
-	[[FLAG PULLING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-PULLING|FLAG PULLING]]
 	*Flag pulling: angle, approach, pull.*
-	[[AGILITY DRILLS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/AGILITY-DRILLS|AGILITY DRILLS]]
 	*Agility drills for footwork and change of direction.*
-	[[CONDITIONING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CONDITIONING|CONDITIONING]]
 	*Conditioning inside the practice, not instead of it.*
 </callout>
 <callout icon="🏈" color="gray_bg">
 	**FOR THIS SPORT**
-	[[FORMATIONS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FORMATIONS|FORMATIONS]]
 	*Offensive formations and how to set them up.*
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**SHARED WITH EVERY SPORT**
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*How every DR practice is built, start to finish. The only live practice structure.*
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*What you teach next and when. The ladder on every Week page is a sample.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*What good coaching looks like while players are practicing.*
-	[[ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-STRUCTURE|ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)]]
 	*The 60 minute block clock, written for flag.*
-	[[TIERS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/TIERS|TIERS]]
 	*Tiers: how to split one group by level.*
-	[[ARCHIVE — GAMES (superseded by sport game banks)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMES|ARCHIVE — GAMES (superseded by sport game banks)]]
 	*Archived game bank. ZONES GAME lives there.*
-	[[ARCHIVE — WARM UPS (use sport warm-up banks)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WARM-UPS|ARCHIVE — WARM UPS (use sport warm-up banks)]]
 	*Archived warm-up list.*
-	[[ARCHIVE — LIFE LESSON (no longer a required block)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/LIFE-LESSON|ARCHIVE — LIFE LESSON (no longer a required block)]]
 	*The Word of the Week. Culture, not a required block on every week page.*
 </callout>
 <callout icon="/icons/gradebook_green.svg" color="gray_bg">
 	**RESOURCES**
-	[[FLAG PROGRAM OVERVIEW]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-PROGRAM-OVERVIEW|FLAG PROGRAM OVERVIEW]]
 	*The full program design: pillars, age groups, skill domains, practice structure, quality systems.*
-	[[NFL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/NFL|NFL]]
 	*One PDF. Placeholder, needs content.*
-	[[NUGGETS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/NUGGETS|NUGGETS]]
 	*One PDF. Placeholder, needs content.*
 </callout>
 <callout icon="🚩" color="gray_bg">

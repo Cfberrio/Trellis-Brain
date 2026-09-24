@@ -19,7 +19,7 @@ aliases:
   - "SAVE AND SHARE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[DEFENDING]]. Run this when players keep the ball off the floor but send it somewhere no teammate can reach.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]]. Run this when players keep the ball off the floor but send it somewhere no teammate can reach.
 </callout>
 # SAVE AND SHARE
 <callout icon="🏐" color="gray_bg">
@@ -59,6 +59,6 @@ The defender produces playable second contacts from two starting positions.
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[DEFENDING]] · [[SETTING]] · [[COMMUNICATING]]
-	**Used in:** [[WEEK 4]] · [[WEEK 6]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/COMMUNICATING|COMMUNICATING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 </callout>

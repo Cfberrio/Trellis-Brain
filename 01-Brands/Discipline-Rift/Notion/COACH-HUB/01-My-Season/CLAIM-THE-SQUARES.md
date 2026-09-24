@@ -19,7 +19,7 @@ aliases:
   - "CLAIM THE SQUARES"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[SERVING]]. Run this when serves clear the net but land wherever chance takes them.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVING|SERVING]]. Run this when serves clear the net but land wherever chance takes them.
 </callout>
 # CLAIM THE SQUARES
 <callout icon="🏐" color="gray_bg">
@@ -60,6 +60,6 @@ The player names two different destinations and reaches both across a short samp
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[SERVING]]
-	**Used in:** [[WEEK 2]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVING|SERVING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|WEEK 2]]
 </callout>

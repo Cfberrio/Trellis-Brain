@@ -41,27 +41,27 @@ aliases:
 <td>Observable evidence</td>
 </tr>
 <tr>
-<td>[[PASSING]]</td>
+<td>[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]</td>
 <td>Bonus for a first pass a teammate can play.</td>
 <td>First contact creates another action.</td>
 </tr>
 <tr>
-<td>[[SETTING]]</td>
+<td>[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]</td>
 <td>Catch first, set second, send third.</td>
 <td>Setter gets under it and directs upward.</td>
 </tr>
 <tr>
-<td>[[SERVING]]</td>
+<td>[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVING|SERVING]]</td>
 <td>Start from each player's successful distance.</td>
 <td>Serve starts play without a coach feed.</td>
 </tr>
 <tr>
-<td>[[ATTACKING]]</td>
+<td>[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]]</td>
 <td>Allow support catches before a controlled final strike.</td>
 <td>Player chooses broad space and stays balanced.</td>
 </tr>
 <tr>
-<td>[[MOVING]]</td>
+<td>[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVING|MOVING]]</td>
 <td>Change starting positions between rounds.</td>
 <td>Players recover and cover new space.</td>
 </tr>
@@ -81,6 +81,6 @@ aliases:
 	Write down the version you used and one specific next problem. Next week starts there.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**CHECKS THESE SKILLS** — [[PASSING]] · [[SETTING]] · [[ATTACKING]] · [[COMMUNICATING]]
-	**Used in:** [[WEEK 3]] · [[WEEK 6]]
+	**CHECKS THESE SKILLS** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/COMMUNICATING|COMMUNICATING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 </callout>

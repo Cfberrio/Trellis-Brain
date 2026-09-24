@@ -20,10 +20,10 @@ aliases:
   - "PRACTICE STRUCTURE"
 ---
 <callout icon="⚠️" color="yellow_bg">
-	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)", status `Archived`. Content below is unchanged since the last mirror; treat it as the reasoning behind [[PRACTICE DESIGN]], not the instruction.
+	**ARCHIVED IN NOTION on 2026-09-11.** Title is now "ARCHIVE — PRACTICE STRUCTURE (merged into Practice Design)", status `Archived`. Content below is unchanged since the last mirror; treat it as the reasoning behind [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]], not the instruction.
 </callout>
 <callout icon="💡" color="gray_bg">
-	**This is the reasoning, not the instruction.** Do not run practice from this page. Run it from [[PRACTICE DESIGN]] and [[PROGRESSION LADDER]].
+	**This is the reasoning, not the instruction.** Do not run practice from this page. Run it from [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]] and [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]].
 	This page is why the method works: blocked, serial, interleaved and randomized practice, retrieval, spacing, cognitive load, CFU and exit criteria. Read it when you are not about to coach.
 	The seven-block clock below is the old delivery. It is kept for the learning science inside it, not as the practice format.
 </callout>

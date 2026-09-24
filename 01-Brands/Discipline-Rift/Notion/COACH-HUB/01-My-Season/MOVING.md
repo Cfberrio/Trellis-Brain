@@ -22,10 +22,10 @@ This module defines **how we teach movement to beginners**.
 The focus is **not speed or conditioning**.
 The focus is teaching players **how to move efficiently**, **stay balanced**, and **arrive ready to play the ball**.
 Movement is the **foundation skill** that connects:
-- [[PASSING]]
-- [[SETTING]]
-- [[DEFENDING]]
-- [[ATTACKING]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]]
 If players cannot move well, they cannot execute skills well.
 Every coach teaches movement using the **same language**, so players move with confidence instead of guessing.
 ---
@@ -114,10 +114,10 @@ By moving repeatedly from the same spot, players learn:
 This is why movement is practiced **from positions**, not randomly.
 ---
 ## HOW MOVEMENT SHOWS UP IN OTHER SKILLS
-- [[PASSING]]: Step / Step–Shuffle before platform
-- [[SETTING]]: Move early → Stop → Push up
-- [[DEFENDING]]: Step / Shuffle within area
-- [[ATTACKING]]: Approach creates timing
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]: Step / Step–Shuffle before platform
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]: Move early → Stop → Push up
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]]: Step / Shuffle within area
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING|ATTACKING]]: Approach creates timing
 Movement language stays the **same across all skills**.
 ---
 ## HOW MOVEMENT PROGRESSES OVER TIME
@@ -171,10 +171,10 @@ Fix **movement before technique**.
 <callout icon="🎲" color="gray_bg">
 	**WHERE THIS SKILL SHOWS UP**
 	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
-	**Weeks:** [[WEEK 1]] · [[WEEK 4]] · [[WEEK 5]]
+	**Weeks:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]]
 	**Challenges, by the problem you can see:**
-	Reaches instead of moving → [[BEAT THE BALL]]
-	Arrives late or drifts → [[MOVE–STOP–SET SQUARES]]
-	Stops after their own touch → [[HOME BASE]]
-	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+	Reaches instead of moving → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/BEAT-THE-BALL|BEAT THE BALL]]
+	Arrives late or drifts → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/MOVE-STOP-SET-SQUARES|MOVE–STOP–SET SQUARES]]
+	Stops after their own touch → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/HOME-BASE|HOME BASE]]
+	*Whole bank: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-GAMIFIED-CHALLENGES|VOLLEYBALL GAMIFIED CHALLENGES]]*
 </callout>

@@ -7,11 +7,12 @@ status: active
 canonical: true
 used_for_ai: true
 sensitivity: internal
-last_updated: 2026-08-11
+last_updated: 2026-09-17
 up:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
 
 # Tennis Home
@@ -22,10 +23,13 @@ related:
 ## Related
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]
 
+> [!important] Source of truth changed — 2026-09-17
+> **Method:** [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]] (teach before test; serial, not block; depth within skills + bridges). **Current curriculum:** the live Notion `DR | COACH HUB` → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-CURRICULUM|TENNIS CURRICULUM hub (vault mirror 2026-09-15)]], reached from [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/CURRICULUM|CURRICULUM]]. The `Notion-Wiki/` folder below is the **2026-08-11** mirror of the old per-sport wiki: its DR-UPS seven-block practice, Tier System and fixed weekly gates were retired by the 2026-09-11 Coach Hub rebuild. It stays for history (doctrine pages, drill wording, defect lists) with `canonical: false`. Tennis weeks in the live hub still carry the long legacy plans under a sample-plan banner; migration is proposal change C23.
+
 ## Strategic role
 Tennis is an active DR sport that fills. As of the 2026-08-11 Notion pull it is no longer the thin library it used to be — the full DR TENNIS coach wiki is now mirrored here, including the doctrine layer (mission, core values, DR Formula, FUELED, the 10 coach responsibilities) and clean weekly sessions with every named drill and game intact.
 
-## Canonical source
+## Canonical source (until 2026-09-11 — now historical, see banner above)
 [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home|Notion Wiki Home]] — start there. It mirrors the DR TENNIS Notion database and is the current source of truth for tennis coaching material. The mirror is complete as of 2026-08-11: doctrine, all six weekly sessions, and the season calendar ([[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Tennis-Calendar|DR Tennis Calendar]]).
 
 Tennis runs **four seasons a year**, not two — Fall, Late Fall, Late Winter, Spring. Late Fall is gated to teams that finished Fall, so it is a re-enrollment season rather than an acquisition one. See [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/DR-Tennis-Calendar|DR Tennis Calendar]] for the dated map.

@@ -29,27 +29,27 @@ aliases:
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**THE METHOD**
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*Skill → problem → gamified challenge. Name it, show it, challenge it, coach reps, vary, check. The path every Week page is built on.*
-	[[PRACTICE DESIGN]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]]
 	*How a DR practice flows, start to finish. The only live practice structure.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*Specific feedback, short cues, numbered positions, high reps, fast transitions.*
 </callout>
 <callout icon="🪜" color="yellow_bg">
 	**THE LADDER IS A SAMPLE.** Every team is different. Start where your players can succeed. Beginners may stay longer on an early rung; advanced players move faster through the same design. Same practice, same objective, different rung or constraint when needed.
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The sample ladder itself. Pick one or two realistic starting rungs from it before you arrive.*
 </callout>
 <callout icon="🎚️" color="gray_bg">
 	**REAL GROUPS**
-	[[COACHING DIFFERENT LEVELS / CO-COACHING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|COACHING DIFFERENT LEVELS / CO-COACHING]]
 	*Same design, same objective, different dial per line. And how two coaches share one practice.*
 </callout>
 <callout icon="🚩" color="gray_bg">
 	Plan one or two realistic starting rungs before you arrive. Do not try to predict the whole ladder before you have seen the players.
 </callout>
 ## SUB-PAGES (nested under this hub in Notion)
-- [[PROGRESSION LADDER]]
-- [[COACH RULES]]
-- [[COACHING DIFFERENT LEVELS / CO-COACHING]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|COACHING DIFFERENT LEVELS / CO-COACHING]]

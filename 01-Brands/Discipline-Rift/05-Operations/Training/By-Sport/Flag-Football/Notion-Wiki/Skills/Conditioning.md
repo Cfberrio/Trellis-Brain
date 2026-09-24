@@ -3,7 +3,14 @@ source: Notion — DR FLAG FOOTBALL
 notion_page: 2e504528-85a8-808d-aedd-cfdbf236e28c
 pulled: 2026-08-11
 note: Third-party reference content (NFL Flag). Video — youtube.com/watch?v=763pUAkLfWU
+canonical: false
+status: superseded
+superseded_on: 2026-09-17
+superseded_by: "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
+
+> [!warning] Historical mirror (pulled 2026-08-11) — not current
+> This page mirrors the old per-sport Notion wiki. The DR-UPS seven-block practice, Tier System and fixed weekly gates it describes were **retired by the 2026-09-11 Coach Hub rebuild**. Current method: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]. Current curriculum: live Notion `DR | COACH HUB` (vault mirror `Notion/COACH-HUB/`, re-synced 2026-09-15). Kept unchanged for history; `canonical: false` since 2026-09-17.
 
 # Conditioning
 

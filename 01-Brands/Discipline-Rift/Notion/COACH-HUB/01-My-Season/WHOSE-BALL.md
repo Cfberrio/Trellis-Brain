@@ -19,7 +19,7 @@ aliases:
   - "WHOSE BALL?"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[COMMUNICATING]]. Run this when two players hesitate, collide, or both expect the other to act.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/COMMUNICATING|COMMUNICATING]]. Run this when two players hesitate, collide, or both expect the other to act.
 </callout>
 # WHOSE BALL?
 <callout icon="🏐" color="gray_bg">
@@ -61,6 +61,6 @@ Once claiming is solid, mark a roughly 1-meter strip along the net as dead groun
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[COMMUNICATING]] · [[DEFENDING]] · [[PASSING]]
-	**Used in:** [[WEEK 4]] · [[WEEK 5]] · [[WEEK 6]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/COMMUNICATING|COMMUNICATING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/DEFENDING|DEFENDING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 </callout>

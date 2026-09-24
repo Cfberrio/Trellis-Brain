@@ -33,9 +33,9 @@ aliases:
 	DR also emails a copy of your roster to your Gmail. Before you walk in, open that email and **screenshot it**: schools have no signal inside, and the screenshot is how you take attendance when the Dashboard cannot load. Enter it in the Dashboard once you have signal, same day.
 	If the Dashboard shows a **meeting spot** or another team-specific detail, follow what it shows.
 	The schedule, not the roster, owns your address and arrival / start–end times.
-	[[COACH DASHBOARD]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/COACH-DASHBOARD|COACH DASHBOARD]]
 	*What the Dashboard does and does not do.*
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*Where and when you coach.*
 </callout>
 <callout icon="✅" color="gray_bg">
@@ -44,9 +44,9 @@ aliases:
 	- An unexplained absence gets actively checked, not marked and forgotten.
 	- Today's number is the basis for every head count until dismissal.
 	- Attendance is recorded per player in the Dashboard before the first drill, and complete before you leave campus.
-	[[TAKING ATTENDANCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|TAKING ATTENDANCE]]
 	*The button-by-button steps.*
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*Counting at every transition.*
 </callout>
 <callout icon="⏰" color="gray_bg">
@@ -61,7 +61,7 @@ aliases:
 	3. When appropriate, send one responsible player, or two responsible players together, to check and come straight back.
 	4. Keep supervising the rest of the team the whole time.
 	5. Status still unconfirmed: **call DR at (407) 614-7454**.
-	[[MISSING PLAYER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/MISSING-PLAYER|MISSING PLAYER]]
 	*The full missing-player procedure.*
 </callout>
 <callout icon="📋" color="gray_bg">
@@ -71,15 +71,15 @@ aliases:
 <callout icon="📶" color="gray_bg">
 	**DASHBOARD CONNECTIVITY**
 	Schools have no signal inside. Before you enter: load the Dashboard, and screenshot the roster email. If it shows **`offline: true`**, mark attendance on the screenshot, run practice, enter it in the Dashboard once you have signal. Still cannot get it in? **Call DR at (407) 614-7454.** That line rings DR leadership. Calling does not mean practice is canceled.
-	[[DASHBOARD PROBLEMS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|DASHBOARD PROBLEMS]]
 	*Every error message, and the fix.*
 </callout>
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND THE ROSTER**
-	[[ARRIVAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]]
 	*Meeting point, first count.*
-	[[DISMISSAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|DISMISSAL]]
 	*Handing every player off at the end.*
 </callout>
 <callout icon="🚩" color="gray_bg">

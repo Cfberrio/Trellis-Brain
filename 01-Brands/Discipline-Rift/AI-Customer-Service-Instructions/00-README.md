@@ -30,6 +30,9 @@ related:
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/01-PARENTS]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/02-FACULTY-SCHOOLS]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/bot-training/03-COACHES-STAFF]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Conversation-Style]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Feedback-Standard]]"
 ---
 
 # AI Customer Service Instructions — Discipline Rift
@@ -73,6 +76,12 @@ Claude should load, per incoming email:
 3. [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/05-program-info-scope|05-program-info-scope.md]] — what facts Claude may state
 4. [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/06-escalation-rules|06-escalation-rules.md]] — when to flag for a human instead of answering
 5. The matching examples file — [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/09-examples-parent-emails|09]] / [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/10-examples-faculty-emails|10]] / [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/11-examples-coach-emails|11]]
+
+## Philosophy references (added 2026-09-17)
+Load when the email is about *what the child is learning*, *why another season*, *practice quality*, or a coach's practice performance — not for pure logistics:
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|DR Parent Communication Philosophy]] — development language for parents (depth within skills, bridges, multi-sport, pathway without promises)
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Conversation-Style|DR Parent Conversation Style]] — the call/text flow; its quotes are tone examples, not policy
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Feedback-Standard|DR Coach Feedback Standard]] — the practice-correction register for coach messages (draft-and-flag; see [[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/04-coach-communication|04]])
 
 ## File map
 

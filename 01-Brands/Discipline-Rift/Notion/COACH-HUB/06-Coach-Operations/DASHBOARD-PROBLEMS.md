@@ -28,7 +28,7 @@ aliases:
 </callout>
 <callout icon="📶" color="gray_bg">
 	**Offline on screen, or attendance will not complete.** Schools have no signal inside: load the Dashboard and screenshot the roster email before you enter. If it shows `offline: true`, mark attendance on the screenshot, keep coaching, and enter it in the Dashboard once you have signal, same day. Still cannot? **Call DR at (407) 614-7454.** Do not treat it as a schedule change.
-	[[TAKING ATTENDANCE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|TAKING ATTENDANCE]]
 	*The eight taps, the badges, the no-signal routine.*
 </callout>
 ## LOGGING IN
@@ -64,7 +64,7 @@ aliases:
 <details>
 <summary>**Today's practice is not in the list**</summary>
 	That is a Dashboard issue, not a cancellation. Check the schedule; if the practice is there, it is on. **Call DR at (407) 614-7454** to fix the missing session. Only DR communicates cancellations, never a missing row.
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*The schedule folder, and how to read it.*
 </details>
 <details>
@@ -117,7 +117,7 @@ aliases:
 <details>
 <summary>**Why 15:00 and not 3:00 PM?**</summary>
 	The Dashboard session list uses the 24-hour clock: 15:00 is 3 PM. Your actual schedule (arrival / start–end) is the schedule folder, not this list.
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*Where and when you coach.*
 </details>
 <details>

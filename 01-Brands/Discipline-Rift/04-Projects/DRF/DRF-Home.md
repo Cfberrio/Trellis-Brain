@@ -8,7 +8,7 @@ canonical: true
 used_for_ai: true
 source_type: curated
 owner: Luis
-last_updated: 2026-05-21
+last_updated: 2026-08-27
 sensitivity: internal
 related_systems: []
 related_notes:
@@ -39,6 +39,7 @@ related:
 - [[Funnel-DRF|DRF Licensee Acquisition Funnel]]
 - [[Improvement-Log-DRF-Phase-1|Phase 1 Improvement Log (Knight Shadow Day)]]
 - [[RSO-Project-Play-UCF|Project Play UCF — RSO coach pipeline]]
+- [[Task-Sponsorships-Yassine|Task — Sponsorships (Donuts/Publix + AdventHealth/Nemours)]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/00-Brand-Core/Brand-Home|DR Brand Home]]

@@ -19,7 +19,7 @@ aliases:
   - "SERVE → READ → CATCH"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[SERVING]] **into Receiving.** Run this when players can serve or catch in isolation but cannot read a real ball coming across the net.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVING|SERVING]] **into Receiving.** Run this when players can serve or catch in isolation but cannot read a real ball coming across the net.
 </callout>
 # SERVE → READ → CATCH
 <callout icon="🏐" color="gray_bg">
@@ -59,6 +59,6 @@ The receiver adjusts to more than one serve location and sends a playable ball o
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[SERVING]] · [[PASSING]]
-	**Used in:** [[WEEK 2]] · [[WEEK 3]] · [[WEEK 6]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVING|SERVING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|WEEK 2]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 </callout>

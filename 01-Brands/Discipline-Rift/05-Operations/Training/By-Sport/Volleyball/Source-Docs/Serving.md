@@ -3,7 +3,7 @@ brand: Discipline-Rift
 area: training
 sport: Volleyball
 note_type: source-extract
-status: active
+status: superseded
 canonical: false
 used_for_ai: true
 source_type: pdf_extract
@@ -14,7 +14,12 @@ up:
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Sports-Home]]"
+superseded_on: 2026-09-17
+superseded_by: "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
+
+> [!warning] OCR extraction — superseded twice
+> Historical record of the original PDFs. Superseded by the 2026-08-11 Notion wiki mirror, and that in turn by the 2026-09-11 Coach Hub rebuild. Current method: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]; current curriculum: live Notion `DR | COACH HUB` (vault mirror `Notion/COACH-HUB/`). `canonical: false` since 2026-09-17.
 
 # Serving
 

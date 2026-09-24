@@ -33,7 +33,7 @@ aliases:
 <callout icon="⏱️" color="gray_bg">
 	**MID-PRACTICE, THE COUNT COMES UP SHORT**
 	Stop the drill. Recount. Scan the space, bathroom, water fountain. Ask the players; they usually know. At 60 seconds still short: run the procedure above.
-	[[HEAD COUNTS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/HEAD-COUNTS|HEAD COUNTS]]
 	*The counting standard: when, how, and what to do when the number is wrong.*
 </callout>
 <callout icon="✅" color="gray_bg">
@@ -42,9 +42,9 @@ aliases:
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**AROUND A MISSING PLAYER**
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*The roster, late arrivals, a player who is not on the list.*
-	[[ARRIVAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]]
 	*Resolve anyone missing before you start.*
 </callout>
 <callout icon="🚩" color="gray_bg">

@@ -14,6 +14,9 @@ related:
   - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
   - "[[01-Brands/Discipline-Rift/06-DNA/Message]]"
   - "[[01-Brands/Discipline-Rift/00-Brand-Core/Offers]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
+last_updated: 2026-09-17
 ---
 
 # Positioning
@@ -49,3 +52,8 @@ For schools, DR is a low-lift sports participation partner. The offer is parent-
 
 ## Parent-facing positioning
 For parents, DR is the easiest credible sports yes after school: no driving, no tournament lifestyle, no elite pressure, and no confusing commitment structure.
+
+## Place in the development pathway (added 2026-09-17)
+"Not a club program" does not mean anti-club. DR is the **accessible first and continuing step** in a child's sports pathway: school-based DR season → more DR seasons → clinics / camps / open gyms → middle-school team → club → higher levels, *for the smaller group of players who want it*. Most will not, and that is fine. DR's job is that every child genuinely learns and enjoys the sport, and that the family can answer "does my child actually like this enough to keep going?" before any club-level money or weekend commitment. Source: [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|DR Parent Communication Philosophy]] §7–§9.
+
+Positioning consequence: the "weak skill progression" DR is *not* has a written standard now — [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]] (depth within skills + bridges between skills). "Beginner-safe progression" in the statement above is that method.

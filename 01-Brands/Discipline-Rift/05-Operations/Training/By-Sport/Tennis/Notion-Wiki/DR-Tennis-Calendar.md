@@ -3,8 +3,8 @@ brand: Discipline-Rift
 area: training
 sport: Tennis
 note_type: reference
-status: stale-source
-canonical: true
+status: superseded
+canonical: false
 used_for_ai: true
 sensitivity: internal
 source_type: notion_wiki
@@ -15,7 +15,12 @@ season_coverage: 2024-25
 last_updated: 2026-08-11
 up:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Tennis/Notion-Wiki/Notion-Wiki-Home]]"
+superseded_on: 2026-09-17
+superseded_by: "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
+
+> [!info] Historical mirror (pulled 2026-08-11)
+> The content is still part of DR culture, but this copy is frozen. The maintained version lives in the live Notion `DR | COACH HUB` (vault mirror `Notion/COACH-HUB/05-Coach-Training/` for doctrine pages, `04-The-Paperwork/` for the accident report, `Notion/Calendars/` for the tennis calendar). Method: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]. `canonical: false` since 2026-09-17.
 
 # DR Tennis Calendar
 

@@ -19,7 +19,7 @@ aliases:
   - "BUILD THE BRIDGE"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[PASSING]] into [[SETTING]]. Run this when players can pass and set separately but the contacts do not connect.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]] into [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]. Run this when players can pass and set separately but the contacts do not connect.
 </callout>
 # BUILD THE BRIDGE
 <callout icon="🏐" color="gray_bg">
@@ -60,6 +60,6 @@ The group connects from more than one feed location. Test it in CFU with opponen
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[PASSING]] · [[SETTING]]
-	**Used in:** [[WEEK 1]] · [[WEEK 2]] · [[WEEK 3]] · [[WEEK 6]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|WEEK 2]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 </callout>

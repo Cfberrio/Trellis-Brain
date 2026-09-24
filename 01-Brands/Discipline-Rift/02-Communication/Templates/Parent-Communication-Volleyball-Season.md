@@ -23,6 +23,9 @@ related:
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Operational-Email-Library]]"
   - "[[01-Brands/Discipline-Rift/06-DNA/Delivery]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/SOPs/Mass-SMS-Via-GHL-SOP]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
 ---
 
 # DR Weekly Parent Emails — Weeks 1–6
@@ -308,6 +311,23 @@ Bracket style, matching this doc's existing convention (not n8n's `{{ $json.x }}
 | 6 | Bringing It Together | Play, celebrate, season wrap-up |
 
 This progression is genuinely sport-agnostic (foundation → recall → precision → awareness → independence → celebration is true of learning any physical skill), which is what lets one sequence cover every DR sport without needing a per-sport skill lookup the way the previous draft did.
+
+## How this sequence fits the DR method and the after-practice message (added 2026-09-17)
+
+The six stages are the parent-facing shape of the coaching method written down in [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]]:
+
+| Week | Stage | Method it describes |
+|---|---|---|
+| 1 | Getting Started | **Teach** before test — demonstrate, controlled reps, see where the skill lives in the game |
+| 2 | Recall & Rebuild | **Retrieve / Show** a taught skill, then **add one layer** — "Before introducing the next layer…" |
+| 3 | Advancement | **Variability + Connection** — precision, combining skills, less predictable situations; "one adjustment away" |
+| 4 | Awareness | **Application / decisions** — when, where, why; team mindset |
+| 5 | Making It Stick | **Independence** — the independent check; players act before the coach prompts |
+| 6 | Bringing It Together | **Play, celebrate**, and the next layer to come |
+
+Two rules the copy already honors and must keep: every week says what happens *for players who are ready for more* (progress capable players — [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Training-Philosophy|Training Philosophy]] §8), and no week promises that every child reaches the same point.
+
+**This email is the expectation; the coach's message is the evidence.** It goes out the day before. After practice the coach sends the team update through the Dashboard — *what we worked on → what improved → what comes next* — per [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|Coach After-Practice Parent Update]]. Together they are how a parent who never sees practice can see development ([[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|Parent Communication Philosophy]] §11–§14). Keep the two consistent: if this email says "Coach will add variations for those ready", the after-practice message should say which variation actually happened.
 
 ## Voice anchors
 

@@ -8,7 +8,7 @@ canonical: true
 used_for_ai: true
 source_type: curated
 owner: Luis
-last_updated: 2026-04-23
+last_updated: 2026-09-17
 sensitivity: internal
 hub_role: brand-hub
 up:
@@ -32,6 +32,8 @@ down:
   - "[[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home]]"
   - "[[01-Brands/Discipline-Rift/AI-Customer-Service-Instructions/00-README]]"
   - "[[01-Brands/Discipline-Rift/Notion/_index]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
+  - "[[01-Brands/Discipline-Rift/04-Projects/Coach-Hub-Rebuild/Coach-Hub-Rebuild-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/06-DNA/Market]]"
   - "[[01-Brands/Discipline-Rift/06-DNA/Problem]]"
@@ -64,6 +66,8 @@ related:
 - [[01-Brands/Discipline-Rift/01-Systems/Sales/Sales-Home|DR Sales Home]]
 - [[01-Brands/Discipline-Rift/06-DNA/DNA-Home|DR DNA Home]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]] — the coaching method (added 2026-09-17)
+- [[01-Brands/Discipline-Rift/04-Projects/Coach-Hub-Rebuild/Coach-Hub-Rebuild-Home|Coach Hub Rebuild (project)]] — reconciling live Notion to the method; proposal stage
 - [[01-Brands/Discipline-Rift/02-Communication/Communication-Home|DR Communication Home]]
 - [[01-Brands/Discipline-Rift/04-Projects/DRF/DRF-Home|DRF Home (franchise/licensee)]]
 
@@ -96,6 +100,11 @@ These systems are planned for DR but notes do not yet exist. Do not link from ac
 - [[01-Brands/Discipline-Rift/04-Projects/DRF/RSO-Project-Play-UCF|Project Play UCF RSO]] — UCF coach pipeline + community service for DRF feeder
 - [[01-Brands/Discipline-Rift/06-DNA/Money-Model|Money Model]], [[01-Brands/Discipline-Rift/06-DNA/Lead|Lead]], [[01-Brands/Discipline-Rift/06-DNA/Conversion|Conversion]], [[01-Brands/Discipline-Rift/06-DNA/Offer|Offer (extended)]], [[01-Brands/Discipline-Rift/06-DNA/Delivery|Delivery (full Fulfillment SOP)]]
 - [[01-Brands/Discipline-Rift/01-Systems/Marketing/Ad-Scripting-Playbook|Ad Scripting Playbook]] — 6 non-negotiable rules + Rebekah workflow + 35s beat structure
+
+## Recently Activated (2026-09-17)
+- [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|Method Home]] — Luis's written coaching method: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Training-Philosophy|Training Philosophy]], [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Philosophy-Methodology|Coach Philosophy & Methodology]], [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Feedback-Standard|Coach Feedback Standard]]
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|Parent Communication Philosophy]] and [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Conversation-Style|Parent Conversation Style]] — the parent-facing side of the method; [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|Coach After-Practice Parent Update]] standard (proposed)
+- [[01-Brands/Discipline-Rift/04-Projects/Coach-Hub-Rebuild/Coach-Hub-Rebuild-Home|Coach Hub Rebuild]] — 27-change Notion proposal, no edits authorized yet
 
 ## One-line models
 **For parents:** Discipline Rift helps parents of kids 6–12 get their child active, confident, and connected through fun-first, on-campus after-school sports seasons led by trained coaches and designed for beginner-friendly development.
@@ -132,11 +141,14 @@ DR now contains a structured training library under [[Training-Home]]. That libr
 - by-sport folders,
 - imported PDFs and books,
 - one hub note per sport so the graph stays connected.
+- The method behind the library is now written down: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|Method Home]] (2026-09-17). Depth within skills + bridges between skills; teach before test; serial, not block. Live Notion `DR | COACH HUB` is the coach-facing surface being reconciled to it.
 
 ## Open decisions not yet canonized
 - Whether DR will use a public guarantee and, if so, what kind.
 - Whether continuity offers like Home Club will be active canon or remain backlog concepts.
 - Whether pickleball needs its own formal curriculum import beyond the current structural placeholder.
+- Which change IDs of the [[01-Brands/Discipline-Rift/04-Projects/Coach-Hub-Rebuild/DR-Notion-Curriculum-Change-Proposal-2026-09-17|Coach Hub change proposal]] Luis authorizes, and in what order.
+- Behavior sit-out procedure, invitation/flyer routine, and registration-transfer criteria — dictated Sep 2026, bodies not yet in the vault (see [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Dictation-2026-09-16/00-DR-Topic-Index|topic index]]).
 
 
 ## Current Sport Reality

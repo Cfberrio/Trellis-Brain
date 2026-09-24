@@ -70,6 +70,6 @@ Collect five returns across attempts before trying for a streak. Then let the gr
 	Write down the version you used and one specific next problem. Next week starts there.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**CHECKS THESE SKILLS** — [[PASSING]] · [[SETTING]] · [[SERVING]]
-	**Used in:** [[WEEK 2]]
+	**CHECKS THESE SKILLS** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SERVING|SERVING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-2-SERVING|WEEK 2]]
 </callout>

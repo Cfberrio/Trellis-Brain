@@ -19,7 +19,7 @@ aliases:
   - "WINDOW DELIVERY"
 ---
 <callout icon="📢" color="gray_bg">
-	Coach! **Skill:** [[SETTING]]. Run this when players contact above the face but cannot control height and direction.
+	Coach! **Skill:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]. Run this when players contact above the face but cannot control height and direction.
 </callout>
 # WINDOW DELIVERY
 <callout icon="🏐" color="gray_bg">
@@ -60,6 +60,6 @@ Several playable sets from a stable start, then from one small side movement.
 	One problem, one challenge. Do not run four of these in a session.
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
-	**THE TECHNIQUE LIVES HERE** — [[SETTING]]
-	**Used in:** [[WEEK 1]]
+	**THE TECHNIQUE LIVES HERE** — [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/SETTING|SETTING]]
+	**Used in:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-1-PASSING-SETTING|WEEK 1]]
 </callout>

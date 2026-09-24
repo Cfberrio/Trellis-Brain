@@ -32,11 +32,11 @@ aliases:
 </callout>
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**THE UNIVERSAL METHOD**
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The engine inside practice: Skill + Problem + Gamified Challenge.*
-	[[COACH RULES]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACH-RULES|COACH RULES]]
 	*What good coaching looks like while players are practicing.*
-	[[COACHING DIFFERENT LEVELS / CO-COACHING]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|COACHING DIFFERENT LEVELS / CO-COACHING]]
 	*One design, different levels, two coaches.*
 </callout>
 <callout icon="🎯" color="gray_bg">
@@ -65,7 +65,7 @@ This is the main body of practice. Every rung answers three questions:
 Inside a rung: **show it → run it → coach it → vary it → check it.** Success creates the next problem, which creates the next rung.
 <callout icon="🪜" color="yellow_bg">
 	**THE LADDER ON EVERY WEEK PAGE IS A SAMPLE.** Every team is different. Start where your players can succeed.
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The sample ladder. Name it, show it, challenge it, coach reps, vary, check.*
 </callout>
 <callout icon="💡" color="gray_bg">

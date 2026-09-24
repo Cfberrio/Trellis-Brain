@@ -79,9 +79,9 @@ Every one of these, every session. No exceptions, and no skipping one because th
 	**First 60 seconds:** recount, scan the space, check the bathroom and the water fountain, ask the players — they usually know.
 	**At 60 seconds, still short:** ask aftercare, the front office or nearby school staff. When appropriate, send one responsible player, or two responsible players together, to check and come straight back. One coach stays with the team and keeps them in one place; if you are coaching alone, the team stays with you. You do not leave a group unattended to search.
 	**Still unconfirmed:** **call DR at (407) 614-7454.** The line rings DR leadership. Do not wait until the end of practice to report it, and do not let the parent be the one who tells us.
-	[[MISSING PLAYER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/MISSING-PLAYER|MISSING PLAYER]]
 	*The missing-player procedure: ask, send, supervise, call.*
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*Your roster, late arrivals, a player not on the list.*
 </callout>
 ## 5 · WHILE YOU ARE MOVING
@@ -137,13 +137,13 @@ The walk between two places is the highest-risk part of a session that has no ba
 ## RELATED
 <callout icon="/icons/flag-pennant_green.svg" color="gray_bg">
 	**WHERE COUNTING HAPPENS**
-	[[ARRIVAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARRIVAL|ARRIVAL]]
 	*Your first count of the session.*
-	[[DISMISSAL]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/DISMISSAL|DISMISSAL]]
 	*Your last one, and the one that matters most.*
-	[[INJURY / INCIDENT]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/03-Problems/INJURY-INCIDENT|INJURY / INCIDENT]]
 	*When a count does not resolve, or anyone is hurt.*
-	[[ROSTER & PLAYER ACCOUNTABILITY]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ROSTER-AND-PLAYER-ACCOUNTABILITY|ROSTER & PLAYER ACCOUNTABILITY]]
 	*Where your number comes from, late arrivals, the missing-player procedure.*
 </callout>
 <callout icon="🚩" color="gray_bg">

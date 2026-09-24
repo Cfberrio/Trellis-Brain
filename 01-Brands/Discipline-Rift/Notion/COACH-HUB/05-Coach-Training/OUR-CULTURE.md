@@ -57,13 +57,13 @@ aliases:
 </callout>
 <callout icon="⛰️" color="gray_bg">
 	**WHERE THIS COMES FROM**
-	[[FUELED]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/FUELED|FUELED]]
 	*Friendly, Upfront, Enthusiastic, Leader, Efficient, Driven. The behavioural standard.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/CORE-VALUES|CORE VALUES]]
 	*Humble, Hungry, Smart. How we connect.*
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/BEING-A-COACH|BEING A COACH]]
 	*Where the word coach comes from, and the moral responsibility in it.*
-	[[MISSION & VISION]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/MISSION-VISION|MISSION & VISION]]
 	*Why DR exists and where it is going.*
 </callout>
 <callout icon="🚩" color="gray_bg">

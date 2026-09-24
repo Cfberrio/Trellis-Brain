@@ -49,7 +49,7 @@ aliases:
 ---
 <callout icon="2️⃣" color="gray_bg">
 	**SESSION 2 — NO 100% SOLUTION, BUT ONE HUNDRED 1% SOLUTIONS** · Luis Torres
-	[[1% SOLUTIONS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/1-SOLUTIONS|1% SOLUTIONS]]
 	*The topic page. One hundred small improvements, built to the page contract.*
 </callout>
 <callout icon="⚠️" color="gray_bg">

@@ -25,18 +25,18 @@ aliases:
 	**→ **[**COACH DASHBOARD**](https://disciplinerift.com/coach/)
 	*The app itself. Email + 6-digit code, no password.*
 	The **COACH DASHBOARD** is not Notion. It is your primary roster and attendance tool during practice, and how you message parents. It is **not your schedule**. Everything you learn about coaching lives here in the hub.
-	[[YOUR SCHEDULE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/YOUR-SCHEDULE|YOUR SCHEDULE]]
 	*Where and when you coach. The Dashboard session list is not the schedule.*
 </callout>
 # COACH DASHBOARD
 ## THE PAGES
-[[LOGGING IN]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/LOGGING-IN|LOGGING IN]]
 *Your email, a 6-digit code, and you are in. Sixty seconds.*
-[[TAKING ATTENDANCE]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/TAKING-ATTENDANCE|TAKING ATTENDANCE]]
 *The flow you run every practice, and what each badge means.*
-[[MESSAGING PARENTS]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/MESSAGING-PARENTS|MESSAGING PARENTS]]
 *One parent, or Message All, from the same screen.*
-[[DASHBOARD PROBLEMS]]
+[[01-Brands/Discipline-Rift/Notion/COACH-HUB/06-Coach-Operations/DASHBOARD-PROBLEMS|DASHBOARD PROBLEMS]]
 *Every error message, and the fix.*
 ## THE SHORT VERSION
 <table fit-page-width="true" header-row="true">

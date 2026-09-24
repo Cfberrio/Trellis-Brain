@@ -46,7 +46,7 @@ aliases:
 	- Beginners may stay longer on an early rung. That is fine.
 	- Do not force every player to finish the same rung.
 	- Do not split into two unrelated curricula. Split lines and constraints, not the objective.
-	[[PROGRESSION LADDER]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]]
 	*The sample ladder. Same rungs, different dial per line.*
 </callout>
 <callout icon="🤝" color="gray_bg">

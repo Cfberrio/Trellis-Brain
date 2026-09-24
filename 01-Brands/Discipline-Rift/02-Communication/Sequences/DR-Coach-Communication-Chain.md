@@ -7,7 +7,7 @@ status: ready
 used_for_ai: true
 sensitivity: internal
 owner: Luis
-last_updated: 2026-08-04
+last_updated: 2026-09-17
 sequence: coach-lifecycle
 audience: coach
 channel: [email, whatsapp]
@@ -20,6 +20,9 @@ up:
 related:
   - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Engine]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/DR-Communication-Chains-Index]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Feedback-Standard]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home]]"
+  - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update]]"
 ---
 
 # DR Coach Communication Chain
@@ -415,3 +418,5 @@ Founder, Discipline Rift
 - **C9 replies go to a monitored inbox**, not a no-reply. If nobody reads them, do not send it — an ignored "what do you need?" is worse than no question.
 - **WhatsApp stays manual.** This chain is the email backbone; the daily WhatsApp directives layer on top and are written by operations. Build the 6-message-per-season bank there too so voice stays consistent across coaches (per [[../communication-rules]] §10).
 - **Roster and director data** must exist in the coach record before C4 can fire. `[CONFIRM — owner: dev]`
+- **Method alignment (2026-09-17).** C6's "one cue, say it every rep" matches [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Philosophy-Methodology|Coach Philosophy]] §6 (one or two cues, not a lecture). Two things C6 should carry once the Notion week pages are reconciled: (a) the plan link must point at a week page whose ladder is a *sample* — the coach prepares a starting rung, an easier version, the next layer and the bridge before arriving ([[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Training-Philosophy|Training Philosophy]] §6); (b) "Log the session" is the [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|after-practice parent update]] source — what we worked on → what improved → what comes next, not just the skill name.
+- **WhatsApp practice-quality directives** follow the [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Feedback-Standard|Coach Feedback Standard]]: observable behavior → why it matters → what the method requires → what to do next practice. No "switch it up"; name the next layer. Method reference for all coach-facing copy: [[01-Brands/Discipline-Rift/05-Operations/Training/Method/Method-Home|DR Method Home]].

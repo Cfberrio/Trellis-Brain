@@ -175,10 +175,10 @@ Use it as a swap-in for coaches whose group needs a picture instead of a checkli
 <callout icon="🎲" color="gray_bg">
 	**WHERE THIS SKILL SHOWS UP**
 	*This page is the source. It is taught in these weeks and practiced through these challenges. Edit the technique here and it changes everywhere.*
-	**Weeks:** [[WEEK 3]] · [[WEEK 4]] · [[WEEK 5]] · [[WEEK 6]]
+	**Weeks:** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-3-ATTACKING|WEEK 3]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-4-DEFENDING|WEEK 4]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-5-MOVING|WEEK 5]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/WEEK-6-COMMUNICATING|WEEK 6]]
 	**Challenges, by the problem you can see:**
-	Swings hard with no control → [[HIGH HAND TARGET]]
-	Cannot match the ball's timing → [[TIMING TICKET]]
-	Sends straight to the opponent → [[FIND THE SPACE]]
-	*Whole bank: [[VOLLEYBALL GAMIFIED CHALLENGES]]*
+	Swings hard with no control → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/HIGH-HAND-TARGET|HIGH HAND TARGET]]
+	Cannot match the ball's timing → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TIMING-TICKET|TIMING TICKET]]
+	Sends straight to the opponent → [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FIND-THE-SPACE|FIND THE SPACE]]
+	*Whole bank: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-GAMIFIED-CHALLENGES|VOLLEYBALL GAMIFIED CHALLENGES]]*
 </callout>

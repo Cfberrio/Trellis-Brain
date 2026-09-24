@@ -19,7 +19,7 @@ aliases:
   - "PRACTICE DESIGN (old, superseded)"
 ---
 <callout icon="⚠️" color="yellow_bg">
-	**ARCHIVED IN NOTION as of the 2026-09-10 re-sync, and RENAMED before archiving.** This page's live Notion title as of last edit is "PRACTICE TEMPLATE," and Notion's own fetch marks it `deleted` — it is no longer a row in "DR | COACH HUB." A DIFFERENT, currently-live page is now titled "PRACTICE DESIGN" (formerly "SEASON DESIGN") — see [[PRACTICE DESIGN]] in this same folder. Do not confuse the two. Content below is unchanged from the 2026-08-12 mirror and kept for history only.
+	**ARCHIVED IN NOTION as of the 2026-09-10 re-sync, and RENAMED before archiving.** This page's live Notion title as of last edit is "PRACTICE TEMPLATE," and Notion's own fetch marks it `deleted` — it is no longer a row in "DR | COACH HUB." A DIFFERENT, currently-live page is now titled "PRACTICE DESIGN" (formerly "SEASON DESIGN") — see [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PRACTICE-DESIGN|PRACTICE DESIGN]] in this same folder. Do not confuse the two. Content below is unchanged from the 2026-08-12 mirror and kept for history only.
 </callout>
 # PRACTICE DESIGN (old, superseded — live title is now "PRACTICE TEMPLATE," archived)
 
