@@ -9,7 +9,7 @@ used_for_ai: true
 sensitivity: internal
 last_updated: 2026-09-23
 up:
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
@@ -23,7 +23,7 @@ tags:
 # Flag Football (Field Library) — Recursos NO extraídos o parciales
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home|Field Library Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home|Field Library Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package|Books Excluded From Markdown Package]] — el equivalente cross-sport
@@ -43,17 +43,17 @@ Nota de método: el informe original tenía 51 recursos numerados. Solo 15 traí
 
 ## Gateados, de pago o con acceso restringido (nota individual sí existe, con metadatos reales)
 
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/15_Bailey_UltimateSportLeadUpGameBook|#15 · Bailey — The Ultimate Sport Lead-Up Game Book]] — préstamo con DRM en Internet Archive (`inlibrary`/`printdisabled`). Metadatos confirmados; el capítulo de football no es extraíble.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/21_Laughlin_FlagFootball_YouthSportsSeries|#21 · Laughlin — Flag Football (Youth Sports series)]] — mismo caso: préstamo DRM en Internet Archive, item `flagfootball0000laug`.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/22_Mitchell_TeachingSportConcepts_TacticalGames|#22 · Mitchell/Oslin/Griffin — Teaching Sport Concepts and Skills, 4th ed.]] — libro de pago, Human Kinetics, $94, 720pp. Copia en Internet Archive es préstamo controlado (CDL), no descarga libre.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/33_USAFootball_AdvancedFlagCourse|#33 · USA Football — Advanced Flag Course]] — $24.50 + cuenta con login. Curso de certificación, no documento.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/37_Flores_FlagFootballForDummies|#37 · Flores — Flag Football For Dummies (Wiley, 2025)]] — solo TOC + capítulo 1 libres; los capítulos de drills (11-14) siguen de pago.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/38_HumanKinetics_CoachingFlagFootball|#38 · Human Kinetics — Coaching Flag Football]] — confirmado aún no publicado, salida 16-nov-2026, preventa ya agotada ("Sold out").
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/39_Ward_WinningYouthFlagFootball|#39 · Ward — Winning Youth Flag Football]] — autopublicado, sin vista previa gratuita legítima encontrada.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/40_Chamness_CoachingKidsFlagFootball|#40 · Chamness — Coaching Kids Flag Football]] — verificado vía metadata API de archive.org: colección `printdisabled` solamente, `access-restricted-item: true`, sin tag `inlibrary` → confirmado no prestable al público.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/41_RichardsonGrilli_CoachingFlagFootball_ParentVolunteer|#41 · Richardson & Grilli — Coaching Flag Football: Parent Volunteer]] — ebook autopublicado de pago, sin extracto gratuito encontrado.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/48_WorldRugby_Passport_CoachingChildren|#48 · World Rugby Passport — Coaching Children]] — actividades detrás de login; solo nombres de etapa y algunas actividades son públicos.
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/49_PEHub_TagRugbyUnits|#49 · The PE Hub — Tag Rugby units]] — parcial: el set de 24 lecciones KS2 está detrás de suscripción; la **Tag Protocol card** sí es gratis y sí se extrajo completa en la misma nota.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/15_Bailey_UltimateSportLeadUpGameBook|#15 · Bailey — The Ultimate Sport Lead-Up Game Book]] — préstamo con DRM en Internet Archive (`inlibrary`/`printdisabled`). Metadatos confirmados; el capítulo de football no es extraíble.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/21_Laughlin_FlagFootball_YouthSportsSeries|#21 · Laughlin — Flag Football (Youth Sports series)]] — mismo caso: préstamo DRM en Internet Archive, item `flagfootball0000laug`.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/22_Mitchell_TeachingSportConcepts_TacticalGames|#22 · Mitchell/Oslin/Griffin — Teaching Sport Concepts and Skills, 4th ed.]] — libro de pago, Human Kinetics, $94, 720pp. Copia en Internet Archive es préstamo controlado (CDL), no descarga libre.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/33_USAFootball_AdvancedFlagCourse|#33 · USA Football — Advanced Flag Course]] — $24.50 + cuenta con login. Curso de certificación, no documento.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/37_Flores_FlagFootballForDummies|#37 · Flores — Flag Football For Dummies (Wiley, 2025)]] — solo TOC + capítulo 1 libres; los capítulos de drills (11-14) siguen de pago.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/38_HumanKinetics_CoachingFlagFootball|#38 · Human Kinetics — Coaching Flag Football]] — confirmado aún no publicado, salida 16-nov-2026, preventa ya agotada ("Sold out").
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/39_Ward_WinningYouthFlagFootball|#39 · Ward — Winning Youth Flag Football]] — autopublicado, sin vista previa gratuita legítima encontrada.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/40_Chamness_CoachingKidsFlagFootball|#40 · Chamness — Coaching Kids Flag Football]] — verificado vía metadata API de archive.org: colección `printdisabled` solamente, `access-restricted-item: true`, sin tag `inlibrary` → confirmado no prestable al público.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/41_RichardsonGrilli_CoachingFlagFootball_ParentVolunteer|#41 · Richardson & Grilli — Coaching Flag Football: Parent Volunteer]] — ebook autopublicado de pago, sin extracto gratuito encontrado.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/48_WorldRugby_Passport_CoachingChildren|#48 · World Rugby Passport — Coaching Children]] — actividades detrás de login; solo nombres de etapa y algunas actividades son públicos.
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/49_PEHub_TagRugbyUnits|#49 · The PE Hub — Tag Rugby units]] — parcial: el set de 24 lecciones KS2 está detrás de suscripción; la **Tag Protocol card** sí es gratis y sí se extrajo completa en la misma nota.
 
 ## Nota metodológica
 Cada intento fue real cuando había URL o cuando la búsqueda encontró una candidata verificable: se comprobó que el título/autor/editor coincidiera con lo descrito antes de aceptar la fuente. Los códigos HTTP, estados de Wayback y bloqueos de acceso citados arriba son reales, capturados en el momento de la extracción (23-sep-2026). Si alguno de estos vuelve a estar disponible o se consigue licencia, hay que reintentar manualmente.

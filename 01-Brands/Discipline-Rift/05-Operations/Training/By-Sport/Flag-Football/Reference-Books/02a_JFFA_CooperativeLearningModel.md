@@ -17,12 +17,12 @@ used_for_ai: true
 sensitivity: internal
 last_updated: 2026-09-23
 up:
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/02_JFFA_StartBook]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/02_JFFA_StartBook]]"
 tags:
   - flag-football
   - field-library
@@ -31,13 +31,13 @@ tags:
 # 「協同学習モデル」より豊かな仲間づくり
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home|Field Library Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home|Field Library Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home|DR Flag Football Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/02_JFFA_StartBook|02 · JFFA Start Book]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/02_JFFA_StartBook|02 · JFFA Start Book]]
 
 ## Qué es esta fuente
 Tier 1 (complemento del Start Book). Ficha de una página del hub de recursos de la JFFA (`japanflag.org/education`) que explica el marco pedagógico detrás de la mecánica de "crear estrategia en equipo": el Modelo de Aprendizaje Cooperativo (Cooperative Learning Model, CL). No es un plan de lección sino la justificación teórica de por qué flag football funciona como vehículo de inclusión — de dónde salen los roles de equipo (líder, moderador de jugadas, anotador, porrista, encargado de material) que aparecen repetidos en el resto del kit. Importa para DR porque es la pieza que explica el "por qué" detrás del diseño de actividades del Start Book, no solo el "qué."

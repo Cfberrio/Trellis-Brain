@@ -17,12 +17,12 @@ used_for_ai: true
 sensitivity: internal
 last_updated: 2026-09-23
 up:
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/02a_JFFA_CooperativeLearningModel]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/02a_JFFA_CooperativeLearningModel]]"
 tags:
   - flag-football
   - field-library
@@ -31,13 +31,13 @@ tags:
 # フラッグフットボール スタートブック
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home|Field Library Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home|Field Library Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home|DR Flag Football Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/02a_JFFA_CooperativeLearningModel|02a · JFFA — Modelo de Aprendizaje Cooperativo]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/02a_JFFA_CooperativeLearningModel|02a · JFFA — Modelo de Aprendizaje Cooperativo]]
 
 ## Qué es esta fuente
 Tier 1. Kit de aula gratuito de la Japan Flag Football Association (JFFA), federación nacional que reporta haber implementado flag football en 6,700 de las ~20,000 primarias de Japón (33.5%). El "Start Book" (36 págs., 4 capítulos) es la guía para el profesor: contexto curricular oficial, por qué el deporte entró al plan de estudios del MEXT, cómo montar equipos, y 3 actividades progresivas con nivel de dificultad, material y tiempo. El kit completo (descargable en japanflag.org/education) incluye además tarjetas de aprendizaje del alumno, libro de texto en formato manga, cuaderno de estrategia, certificados, y planes de lección por banda de grado (bajo/medio/alto) — varios de estos se referencian abajo. Importa para DR porque es la evidencia más fuerte de adopción masiva en un sistema escolar público, con un modelo pedagógico explícito ("crear estrategia en equipo" como mecanismo central de inclusión) documentado con cifras reales de implementación.
@@ -85,4 +85,4 @@ Cómo llenar la tarjeta de aprendizaje: el profesor fija el objetivo (めあて)
 - ¿Ajustes para 4 contra 3? Recomienda ~5 metros de ancho por jugador agregado; probar 4 contra 4 cuando el grupo ya domina la base.
 
 ### Otros documentos del kit descargados y verificados (referenciados desde la web de educación de JFFA)
-Además del Start Book, el hub `japanflag.org/education` aloja fichas individuales de lección por banda de grado, cada una centrada en un único movimiento técnico con muy poco texto corrido (son fichas visuales/diagramadas, no documentos de prosa): ficha de grado bajo (movimiento para evadir sin bandera, cooperación en montaje/recogida de material), ficha de grado medio (hand-off y fake/ocultar balón, huddle de 30 segundos por posesión), ficha de grado alto (bloqueo con "muro" de brazos para proteger al portador). El documento más sustancial del hub además del Start Book es el modelo de aprendizaje cooperativo — ver nota separada [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/02a_JFFA_CooperativeLearningModel|02a]].
+Además del Start Book, el hub `japanflag.org/education` aloja fichas individuales de lección por banda de grado, cada una centrada en un único movimiento técnico con muy poco texto corrido (son fichas visuales/diagramadas, no documentos de prosa): ficha de grado bajo (movimiento para evadir sin bandera, cooperación en montaje/recogida de material), ficha de grado medio (hand-off y fake/ocultar balón, huddle de 30 segundos por posesión), ficha de grado alto (bloqueo con "muro" de brazos para proteger al portador). El documento más sustancial del hub además del Start Book es el modelo de aprendizaje cooperativo — ver nota separada [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/02a_JFFA_CooperativeLearningModel|02a]].

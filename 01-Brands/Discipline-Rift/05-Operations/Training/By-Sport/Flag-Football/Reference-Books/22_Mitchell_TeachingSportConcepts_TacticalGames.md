@@ -17,10 +17,10 @@ used_for_ai: true
 sensitivity: internal
 last_updated: 2026-09-23
 up:
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
 tags:
   - flag-football
@@ -31,11 +31,11 @@ tags:
 # Teaching Sport Concepts and Skills, 4th Edition — Mitchell, Oslin & Griffin
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home|Field Library Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home|Field Library Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home|DR Flag Football Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
 
 ## Qué es esta fuente

@@ -9,7 +9,7 @@ used_for_ai: true
 sensitivity: internal
 last_updated: 2026-09-22
 up:
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/Kitchen-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home]]"
@@ -23,7 +23,7 @@ tags:
 # Pickleball (Kitchen Library) — Recursos NO extraídos
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home|Kitchen Library Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/Kitchen-Library-Home|Kitchen Library Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Books-Excluded-From-Markdown-Package|Books Excluded From Markdown Package]] — el equivalente cross-sport
@@ -35,7 +35,7 @@ Fuente: "The Kitchen Library" — investigación de currículo de pickleball ele
 Este archivo lista cada recurso del informe original que NO se pudo bajar como texto completo, con el motivo real verificado (no supuesto). Los recursos sí extraídos están en esta misma carpeta, numerados igual que en el informe.
 
 > [!success] Cinco se recuperaron por Wayback Machine
-> Los dominios de OPEN murieron, pero Internet Archive los tenía. Ya están en el vault como texto completo, marcados con `wayback-recovered`: [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/02_OPEN_K2_VolleyingStriking|OPEN K-2]] (67 pp.), [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/03_OPEN_Pickleminton35_FullModule|Pickleminton 3-5 módulo completo]] (81 pp., más de lo que el informe original llegó a ver), [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/03a_OPEN_Pickleminton35_Activities|sus fichas de actividad]], [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/03b_OPEN_Pickleminton35_StationCards|sus fichas de estación]] y [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/04_OPEN_MiddleSchool68_FullModule|OPEN 6-8]] (141 pp.).
+> Los dominios de OPEN murieron, pero Internet Archive los tenía. Ya están en el vault como texto completo, marcados con `wayback-recovered`: [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/02_OPEN_K2_VolleyingStriking|OPEN K-2]] (67 pp.), [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/03_OPEN_Pickleminton35_FullModule|Pickleminton 3-5 módulo completo]] (81 pp., más de lo que el informe original llegó a ver), [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/03a_OPEN_Pickleminton35_Activities|sus fichas de actividad]], [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/03b_OPEN_Pickleminton35_StationCards|sus fichas de estación]] y [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/04_OPEN_MiddleSchool68_FullModule|OPEN 6-8]] (141 pp.).
 > **Estos snapshots son ahora la única copia que existe.** Si el material importa a largo plazo, guarda los PDFs fuera del vault.
 
 ## Confirmados muertos o bloqueados, sin copia recuperable (verificado con curl y Wayback CDX, 22-sep-2026)

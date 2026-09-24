@@ -17,12 +17,12 @@ used_for_ai: true
 sensitivity: internal
 last_updated: 2026-09-23
 up:
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/42_WorldRugby_T1RugbyGames]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/42_WorldRugby_T1RugbyGames]]"
 tags:
   - flag-football
   - field-library
@@ -31,13 +31,13 @@ tags:
 # T1 Rugby Lesson Plans
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/Field-Library-Home|Field Library Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/Field-Library-Home|Field Library Home]]
 
 ## Related
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Flag-Football-Home|DR Flag Football Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/00_FlagFootball-Books-Excluded|Flag Football — Recursos NO extraídos]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/FLAG/42_WorldRugby_T1RugbyGames|42 — T1 Rugby Games (documento complementario)]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Flag-Football/Reference-Books/42_WorldRugby_T1RugbyGames|42 — T1 Rugby Games (documento complementario)]]
 
 ## Qué es esta fuente
 Documento complementario de "T1 Rugby Games" (nota 42): 6 planes de lección de World Rugby para introducir T1 Rugby de forma progresiva. Confirma la cifra de "6 lecciones" indicada en el research original. Descarga directa, sin login, alojado en el mismo dominio passport.world.rugby.

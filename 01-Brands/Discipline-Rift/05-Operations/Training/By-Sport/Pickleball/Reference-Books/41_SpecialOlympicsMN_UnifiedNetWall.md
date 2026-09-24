@@ -20,10 +20,10 @@ used_for_ai: true
 sensitivity: internal
 last_updated: 2026-09-22
 up:
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/Kitchen-Library-Home]]"
 related:
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home]]"
-  - "[[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded]]"
+  - "[[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/00_Pickleball-Books-Excluded]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home]]"
 tags:
   - pickleball
@@ -33,12 +33,12 @@ tags:
 # Unified Net/Wall — plan de unidad
 
 ## Parent
-- [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/Kitchen-Library-Home|Kitchen Library Home]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/Kitchen-Library-Home|Kitchen Library Home]]
 
 ## Related
 - [[41_SpecialOlympicsMN_UnifiedNetWall.pdf]] — PDF original de esta misma fuente, pareado por nombre de archivo
 - [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Pickleball-Home|DR Pickleball Home]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/PICKLEBALL/00_Pickleball-Books-Excluded|Pickleball — Recursos NO extraídos]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Pickleball/Reference-Books/00_Pickleball-Books-Excluded|Pickleball — Recursos NO extraídos]]
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Training-Home|DR Training Home]]
 
 ## Qué es esta fuente

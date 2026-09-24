@@ -69,8 +69,8 @@ The full **DR VOLLEYBALL** Notion wiki was mirrored into `Notion-Wiki/` on 2026-
 - [[The_Volleyball_Drill_Book.pdf]]
 - [[The_Volleyball_Coaching_Bible_Volume_II.pdf]]
 - [[Volleyball_Drills.pdf]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Books/Volleyball-Drill-Book-Individual-Skills|Volleyball Drill Book: Individual Skills (Bertucci, 1992)]]
-- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Books/Volleyball-Skills-and-Drills|Volleyball Skills & Drills (AVCA, 2006)]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Reference-Books/Volleyball-Drill-Book-Individual-Skills|Volleyball Drill Book: Individual Skills (Bertucci, 1992)]]
+- [[01-Brands/Discipline-Rift/05-Operations/Training/By-Sport/Volleyball/Reference-Books/Volleyball-Skills-and-Drills|Volleyball Skills & Drills (AVCA, 2006)]]
 
 ## How to use this library
 Start with Start Here, Core Values, Terminology, and Tier System. Then use the weekly curriculum as the season spine, the skill modules as drill banks, and the books as depth material for coaches and curriculum development.
