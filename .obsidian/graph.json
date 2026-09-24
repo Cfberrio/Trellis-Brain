@@ -8,112 +8,112 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Trellis-Brain/00-Trellis-Core\"",
+      "query": "path:\"00-Trellis-Core\"",
       "color": {
         "a": 1,
         "rgb": 7041664
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/00-Brand-Core\"",
+      "query": "path:\"01-Brands/Discipline-Rift/00-Brand-Core\"",
       "color": {
         "a": 1,
         "rgb": 15087942
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/01-Systems\"",
+      "query": "path:\"01-Brands/Discipline-Rift/01-Systems\"",
       "color": {
         "a": 1,
         "rgb": 16032353
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/02-Communication\"",
+      "query": "path:\"01-Brands/Discipline-Rift/02-Communication\"",
       "color": {
         "a": 1,
         "rgb": 15167313
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/03-Evidence\"",
+      "query": "path:\"01-Brands/Discipline-Rift/03-Evidence\"",
       "color": {
         "a": 1,
         "rgb": 2792847
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/04-Projects\"",
+      "query": "path:\"01-Brands/Discipline-Rift/04-Projects\"",
       "color": {
         "a": 1,
         "rgb": 15320170
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/05-Operations\"",
+      "query": "path:\"01-Brands/Discipline-Rift/05-Operations\"",
       "color": {
         "a": 1,
         "rgb": 2508371
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/06-DNA\"",
+      "query": "path:\"01-Brands/Discipline-Rift/06-DNA\"",
       "color": {
         "a": 1,
         "rgb": 10309341
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/AI-Customer-Service-Instructions\"",
+      "query": "path:\"01-Brands/Discipline-Rift/AI-Customer-Service-Instructions\"",
       "color": {
         "a": 1,
         "rgb": 12653087
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Discipline-Rift/Notion\"",
+      "query": "path:\"01-Brands/Discipline-Rift/Notion\"",
       "color": {
         "a": 1,
         "rgb": 4553629
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Cheese-To-Share\"",
+      "query": "path:\"01-Brands/Cheese-To-Share\"",
       "color": {
         "a": 1,
         "rgb": 16758531
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Orlando-Event-Venue\"",
+      "query": "path:\"01-Brands/Orlando-Event-Venue\"",
       "color": {
         "a": 1,
         "rgb": 448160
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Reliable-Venues\"",
+      "query": "path:\"01-Brands/Reliable-Venues\"",
       "color": {
         "a": 1,
         "rgb": 1149618
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Trellis-Fields\"",
+      "query": "path:\"01-Brands/Trellis-Fields\"",
       "color": {
         "a": 1,
         "rgb": 473932
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Cross-Brand\"",
+      "query": "path:\"01-Brands/Cross-Brand\"",
       "color": {
         "a": 1,
         "rgb": 9279918
       }
     },
     {
-      "query": "path:\"Trellis-Brain/01-Brands/Luis-Torres\"",
+      "query": "path:\"01-Brands/Luis-Torres\"",
       "color": {
         "a": 1,
         "rgb": 11384253
@@ -130,6 +130,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16129272786433455,
+  "scale": 0.15084488426888756,
   "close": false
 }
