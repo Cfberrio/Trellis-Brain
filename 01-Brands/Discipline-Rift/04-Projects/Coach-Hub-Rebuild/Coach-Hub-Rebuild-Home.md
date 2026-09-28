@@ -21,7 +21,7 @@ related:
   - "[[01-Brands/Discipline-Rift/Notion/_index]]"
   - "[[01-Brands/Discipline-Rift/Notion/_design/_design-index]]"
   - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/00-Start-Here/START-HERE]]"
-  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/INTERNAL-CURRICULUM-BUILDER]]"
+  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/INTERNAL-CURRICULUM-BUILDER]]"
   - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE]]"
   - "[[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Dictation-2026-09-16/00-DR-Topic-Index]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update]]"
@@ -43,7 +43,7 @@ related:
 - [[01-Brands/Discipline-Rift/Notion/_index|DR Notion mirror index]] — vault copy of the live workspace, re-synced 2026-09-15; read its "WHAT CHANGED 2026-09-11 → 2026-09-15" first
 - [[01-Brands/Discipline-Rift/Notion/_design/_design-index|DR Notion Design Standards]] — read before any write to Notion
 - [[01-Brands/Discipline-Rift/Notion/COACH-HUB/00-Start-Here/START-HERE|START HERE]] — order 1 of the six-hub spine
-- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/INTERNAL-CURRICULUM-BUILDER|INTERNAL — Curriculum Builder]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|CURRICULUM RESTRUCTURE]] — where the ledger and decisions should live in Notion (C25)
+- [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/INTERNAL-CURRICULUM-BUILDER|INTERNAL — Curriculum Builder]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CURRICULUM-RESTRUCTURE|CURRICULUM RESTRUCTURE]] — where the ledger and decisions should live in Notion (C25)
 - [[01-Brands/Discipline-Rift/03-Evidence/Founder-Voice/Dictation-2026-09-16/00-DR-Topic-Index|Dictation 2026-09-16 topic index]] — source of the philosophy MDs and of the open-decision list
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|Coach After-Practice Parent Update]] — vault-side spec for change C18
 

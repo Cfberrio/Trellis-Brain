@@ -18,7 +18,7 @@ up:
 related:
   - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/05-Coach-Training/FUELED]]"
   - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER]]"
-  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/ATTACKING]]"
+  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Volleyball/Skills/ATTACKING]]"
 ---
 
 # WEDNESDAYS — Day Chat (WhatsApp)

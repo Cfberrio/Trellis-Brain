@@ -29,13 +29,13 @@ aliases:
 </callout>
 <callout icon="🏐" color="gray_bg">
 	**YOUR SPORT**
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Volleyball/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]]
 	*Six weeks, skill pages, warm-up bank, gamified challenges, CFU games.*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/FLAG-CURRICULUM|FLAG CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Flag-Football/FLAG-CURRICULUM|FLAG CURRICULUM]]
 	*Six weeks, skills, formations, program overview.*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/TENNIS-CURRICULUM|TENNIS CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Tennis/TENNIS-CURRICULUM|TENNIS CURRICULUM]]
 	*Six weeks.*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PICKLEBALL-CURRICULUM|PICKLEBALL CURRICULUM]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Pickleball/PICKLEBALL-CURRICULUM|PICKLEBALL CURRICULUM]]
 	*Weeks 1 to 3 built. Weeks 4 to 6 not yet.*
 </callout>
 <callout icon="🧠" color="gray_bg">

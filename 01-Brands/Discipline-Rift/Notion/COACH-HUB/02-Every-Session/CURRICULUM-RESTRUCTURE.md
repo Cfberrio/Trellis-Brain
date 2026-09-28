@@ -37,15 +37,15 @@ aliases:
 </callout>
 <callout icon="/icons/brain_green.svg" color="gray_bg">
 	**THE TEMPLATES**
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SPORT-CURRICULUM-TEMPLATE|SPORT CURRICULUM TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/SPORT-CURRICULUM-TEMPLATE|SPORT CURRICULUM TEMPLATE]]
 	*The shape every sport hub should have.*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/WEEK-PAGE-TEMPLATE|WEEK PAGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/WEEK-PAGE-TEMPLATE|WEEK PAGE TEMPLATE]]
 	*Copy for every week, in every sport.*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]]
 	*One reusable page per skill.*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/GAMIFIED-CHALLENGE-TEMPLATE|GAMIFIED CHALLENGE TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/GAMIFIED-CHALLENGE-TEMPLATE|GAMIFIED CHALLENGE TEMPLATE]]
 	*The targeted drill bank.*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/CFU-GAME-TEMPLATE|CFU GAME TEMPLATE]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/CFU-GAME-TEMPLATE|CFU GAME TEMPLATE]]
 	*The transfer check.*
 </callout>
 ## THE NEW HUB ARCHITECTURE
@@ -77,7 +77,7 @@ aliases:
 </table>
 ## WHAT CHANGED SINCE THE PLAN WAS WRITTEN
 <callout icon="💡" color="gray_bg">
-	**Volleyball is already rebuilt to the new shape.** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]] now owns its season, its seven skill pages, and three sport-owned game banks: four warm-ups, sixteen gamified challenges indexed by visible problem, four CFU games. That is the pilot. The delete list below is no longer theory — for volleyball, the replacements exist and are live.
+	**Volleyball is already rebuilt to the new shape.** [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Volleyball/VOLLEYBALL-CURRICULUM|VOLLEYBALL CURRICULUM]] now owns its season, its seven skill pages, and three sport-owned game banks: four warm-ups, sixteen gamified challenges indexed by visible problem, four CFU games. That is the pilot. The delete list below is no longer theory — for volleyball, the replacements exist and are live.
 	One correction to the plan: volleyball shipped a **sport-owned warm-up bank** and coaches use it. The ban is on the cross-sport WARM UPS page, not on warm-ups. The Sport Curriculum Template has been corrected.
 </callout>
 ## DELETE — REPLACED, NOTHING LOST
@@ -89,7 +89,7 @@ aliases:
 </callout>
 <callout icon="🧹" color="gray_bg">
 	**SUPERSEDED TEMPLATE**
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARCHIVE-PRACTICE-TEMPLATE-OLD|PRACTICE DESIGN (old, superseded)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Archive/ARCHIVE-PRACTICE-TEMPLATE-OLD|PRACTICE DESIGN (old, superseded)]]
 	*Replaced one-for-one by the Week Page Template. Nothing in it survives that the week page does not do better.*
 </callout>
 <callout icon="🧹" color="gray_bg">
@@ -102,7 +102,7 @@ aliases:
 	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/TIERS|TIERS]]
 	*The "All Sports" copy contains flag-specific skills. It was never universal.*
 	*(A "TIER SYSTEM" copy, id `32c0452885a8817fba57e6a5cc1238d1`, was already trashed by the time of the re-sync and is not fetchable.)*
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/VOLLEYBALL-TIERS|VOLLEYBALL TIERS]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Volleyball/Games-and-Resources/VOLLEYBALL-TIERS|VOLLEYBALL TIERS]]
 	*Progress is now observable evidence on the Skill page and position on the ladder. All three copies go.*
 </callout>
 <callout icon="🧹" color="gray_bg">
@@ -215,7 +215,7 @@ aliases:
 </callout>
 <callout icon="🗄️" color="gray_bg">
 	**BACKUP**
-	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/ARCHIVE-PRACTICE-DESIGN-OLD-FLAG|ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)]]
+	[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Archive/ARCHIVE-PRACTICE-DESIGN-OLD-FLAG|ARCHIVE — PRACTICE DESIGN (old flag 6-session plan)]]
 	*The old PRACTICE DESIGN content, duplicated before the rewrite. Delete once nobody needs the flag six-session plan.*
 </callout>
 <callout icon="✅" color="gray_bg">

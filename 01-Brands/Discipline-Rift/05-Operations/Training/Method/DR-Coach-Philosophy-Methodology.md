@@ -20,9 +20,9 @@ related:
   - "[[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy]]"
   - "[[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update]]"
   - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER]]"
-  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE]]"
+  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/SKILL-PAGE-TEMPLATE]]"
   - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING]]"
-  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING]]"
+  - "[[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Volleyball/Skills/PASSING]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/The-Coachs-Guide-to-Teaching]]"
   - "[[01-Brands/Discipline-Rift/05-Operations/Training/Movement-Motor-Skills/Play_Practice_2nd_Edition_Launder_Piltz]]"
 ---
@@ -37,7 +37,7 @@ related:
 - [[01-Brands/Discipline-Rift/05-Operations/Training/Method/DR-Coach-Feedback-Standard|DR Coach Feedback Standard]] — how leadership corrects drift from this method
 - [[01-Brands/Discipline-Rift/02-Communication/DR-Parent-Communication-Philosophy|DR Parent Communication Philosophy]] — the parent-facing mirror of §21–§22
 - [[01-Brands/Discipline-Rift/02-Communication/Templates/Coach-After-Practice-Parent-Update|Coach After-Practice Parent Update]] — the operational form of §21
-- Live Coach Hub pages that carry this: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|COACHING DIFFERENT LEVELS / CO-COACHING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/PASSING|PASSING]] (§3–§4 angles vs seams are the correction queued for it)
+- Live Coach Hub pages that carry this: [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/PROGRESSION-LADDER|PROGRESSION LADDER]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/Templates/SKILL-PAGE-TEMPLATE|SKILL PAGE TEMPLATE]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/02-Every-Session/COACHING-DIFFERENT-LEVELS-CO-COACHING|COACHING DIFFERENT LEVELS / CO-COACHING]] · [[01-Brands/Discipline-Rift/Notion/COACH-HUB/01-My-Season/Volleyball/Skills/PASSING|PASSING]] (§3–§4 angles vs seams are the correction queued for it)
 - Depth: [[01-Brands/Discipline-Rift/05-Operations/Training/Shared-Coaching-Resources/Books/The-Coachs-Guide-to-Teaching|The Coach's Guide to Teaching]], [[01-Brands/Discipline-Rift/05-Operations/Training/Movement-Motor-Skills/Play_Practice_2nd_Edition_Launder_Piltz|Play Practice (Launder & Piltz)]]
 
 > [!info] How this note is used
