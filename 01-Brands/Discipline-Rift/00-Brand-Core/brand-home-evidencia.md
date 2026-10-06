@@ -1,0 +1,65 @@
+---
+brain_note_id: "note:dbc5b4f7-0489-409f-8fb5-ba5e0fcb0de0"
+canonical_key: "00-brand-core-brand-home-evidencia"
+brand_id: "discipline_rift"
+---
+# Brand Home — Evidencia
+
+## Canonical Statement
+
+- **fact**: A UCF RSO provides a student-led community story that is preferred by hospital and food brand sponsors over standard business pitches.
+- **fact**: UCF Student Government can fund RSO events with up to $3,700 from one fund and $4,500 from a second fund.
+- **rule**: UCF RSO names cannot start with 'UCF'; however, the format 'X @ UCF' (e.g., 'Free Play Coaches @ UCF') is permitted.
+- **fact**: General student organizations at UCF receive no university insurance unless sponsored by a department like Kinesiology or Health Sciences.
+
+## Evidence Log
+
+- 2026-09-30T20:33:06.408Z — `clickup:86e3g3mwu`
+  - `e1` (source_body): A UCF RSO gives sponsors a student-led community story (hospitals and food brands prefer this over a business pitch). Student Government can fund RSO events (up to $3,700 + $4,500 from a second fund). ... RSO name can't start with "UCF"; "X @UCF" is allowed.
+
+- 2026-09-30T21:43:40.300Z — `clickup_chat_thread:8cqnrff-9037/80170048785580` (validation `83f60cff-8ca5-46e4-8ffa-faecc4fde52e`)
+  - `e1` (source_child): “Project Play” was validated as a viable name for the new UCF RSO... Orlando Health framing leaned toward the Health & Safety category; a $5,000 request at ~$42 cost per child equated to ~119 students
+- **fact**: The UCF RSO initiative is officially named 'Project Play' and focuses on outreach, RSO setup, and mentorship via Blackstone LaunchPad.
+- **fact**: For grant applications (e.g., Orlando Health), the program models a cost of approximately $42 per child, equating to 119 students for a $5,000 request.
+
+- 2026-10-01T03:09:34.700Z — `clickup:86e3addfh` (validation `ebdbc86b-dd47-4140-962a-e3999d975ba3`)
+  - `e1` (source_child): Done — Coach Hub re-mirrored to the 2026-09-17 state... Luis's 17 Sep walkthrough applied the door rule to the whole hub + added the roster-screenshot routine. 22 pages with real content changes, 44 link-format only.
+- **process**: The Notion Coach Hub was re-mirrored to Obsidian on 2026-09-17, incorporating a 'door rule' for the hub and a new roster-screenshot routine.
+- **fact**: The 2026-09-17 Coach Hub sync involved 22 pages with content changes and 44 with link-format updates, with a full diff maintained in the _index.md file.
+
+- 2026-10-01T03:17:29.901Z — `clickup_chat_thread:8cqnrff-9037/80170047488264` (validation `6c477628-e3f9-40c4-bddd-c122d090f2f9`)
+  - `e1` (source_body): Poder agarrar un niño y ponerlo en cualquier equipo de cualquier season y ya después manualmente le mandas el invoice al padre ?
+- **process**: Discipline Rift operations allow for manual student placement into any team or season with subsequent manual invoicing to the parent.
+
+- 2026-10-01T17:50:13.762Z — `clickup:86e3dhrze` (validation `5ea8ef81-fbfc-4729-8bec-ad9b083bc398`)
+  - `e1` (source_child): 51 fuentes del informe "The Field Library" extraídas y organizadas en Obsidian (Training/FLAG/), mismo formato que la biblioteca hermana de pickleball (Kitchen Library) — metadatos completos, actividades/reglas/números desglosados por fuente, hub note con los 6 tiers y guía de uso.
+  - `e2` (source_body): No PDFs or book references to find: the HTML IS the curriculum content. Just extract the HTML content and organize it cleanly. Follow the same organizational structure used for Pickleball curriculum.
+- **fact**: The Flag Football curriculum (The Field Library) consists of 51 sources organized into a 6-tier structure within the training system, following the same format as the Pickleball library.
+- **process**: Flag Football curriculum content was extracted directly from HTML sources as it lacked external PDF or book references, unlike the Pickleball curriculum.
+
+- 2026-10-02T17:09:28.461Z — `clickup_doc_page:8cqnrff-10957/8cqnrff-19157` (validation `f021cbe7-9410-4756-888e-9167885fc20a`)
+  - `e1` (source_body): If we could only keep one sport… Volleyball. No debate. Not because it’s our biggest season. But because volleyball teaches one thing really fast: You can’t do it alone.
+  - `e2` (source_body): Scholarships are not a plan for a young player. What we can control is what happens while your player is with us. The practices. The habits. The discipline.
+  - `e3` (source_body): Mixing every age together isn’t coaching. It’s crowd control. A 6-year-old and a 12-year-old don’t learn the same way... That’s why we separate by stage on purpose.
+  - `e4` (source_body): Three missed practices is not a little oops. Your player misses three practices in a row... Skill is only part of what they lose. The bigger thing is the moment.
+- **fact**: Discipline Rift uses volleyball as its primary 'spearhead' sport because it emphasizes teamwork and communication ('You can't do it alone').
+- **preference**: The brand explicitly avoids selling 'college scholarship' fantasies, focusing instead on tangible habits, discipline, and character development during the season.
+- **rule**: Coaching sessions must separate players by age/stage to ensure developmentally appropriate instruction rather than 'crowd control'.
+- **fact**: Consistency is framed as a core value; missing practices results in losing social connection and 'the moment it clicks' rather than just skill drills.
+
+- 2026-10-02T17:12:56.685Z — `clickup_doc_page:8cqnrff-10957/8cqnrff-21797` (validation `026baf7f-86ea-4915-9538-1bc495401fbf`)
+  - `e1` (source_body): If we could only keep one sport… Volleyball. No debate. Not because it’s our biggest season. But because volleyball teaches one thing really fast: You can’t do it alone.
+  - `e2` (source_body): Scholarships are not a plan for a young player. What we can control is what happens while your player is with us. The practices. The habits. The discipline.
+  - `e3` (source_body): A 6-year-old and a 12-year-old don’t learn the same way... That’s why we separate by stage on purpose. Not to make practice easier. To make practice make sense.
+- **fact**: Discipline Rift positions volleyball as its primary spearhead sport because it emphasizes communication, adjustment, and teamwork ('you can't do it alone').
+- **preference**: The brand prioritizes teaching discipline and habits over selling the 'fantasy' of college scholarships or elite status.
+- **process**: DR utilizes 'developmentally appropriate coaching' by separating players by stage/age to ensure practice makes sense for different learning needs.
+
+## Provenance
+
+- Source: `clickup` `86e3g3mwu`
+- Source hash: `194811215d475a262a828f363ecbc7d6c4b66a74645b14d22dc99423aacd3fc4`
+- Observed at: 2026-09-30T20:33:06.408Z
+- Decision: `f4120fa9-c994-43f4-b34f-a04978993bd9`
+- Upstream agent run: `cc827221-51bc-4eff-9035-c71854ce56a8`
+- Validation run: `d343c13c-5159-493d-89bb-323fb234ffcb`
