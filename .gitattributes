@@ -1,0 +1,10 @@
+# Force LF on every checkout (Windows gateway host included).
+# Brain compares note versions by sha256 of raw bytes; CRLF checkouts make every
+# git-synced note look edited and fail writes with STALE_NOTE_VERSION.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.webp binary
