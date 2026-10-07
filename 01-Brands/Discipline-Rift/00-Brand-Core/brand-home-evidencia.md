@@ -55,6 +55,10 @@ brand_id: "discipline_rift"
 - **preference**: The brand prioritizes teaching discipline and habits over selling the 'fantasy' of college scholarships or elite status.
 - **process**: DR utilizes 'developmentally appropriate coaching' by separating players by stage/age to ensure practice makes sense for different learning needs.
 
+- 2026-10-07T15:25:08.787Z — `clickup_chat_thread:8cqnrff-9037/80170025709532` (validation `d215c192-a075-45d5-8196-c1ff51496bc9`)
+  - `e1` (source_body): DRF space is now under a folder of DR
+- **fact**: The DRF (Discipline Rift Franchise) workspace in ClickUp is organized as a folder under the main Discipline Rift (DR) space.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
