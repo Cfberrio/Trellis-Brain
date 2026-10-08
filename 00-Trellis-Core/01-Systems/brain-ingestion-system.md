@@ -20,6 +20,24 @@ brand_id: "trellis_core"
   - `e2` (source_child): Phase 2D: pure deterministic brand resolver (TASK → LIST → FOLDER → SPACE → WORKSPACE, fail-closed on conflict). No LLM in routing.
   - `e3` (source_child): Se diseñó el nuevo sistema de Destination Routing para que cada fuente termine en un destino claro: una marca, 02-Meetings/, 90-Unknown/, excluida o sin contenido.
 
+- 2026-10-08T18:56:52.680Z — `clickup:86e38nqdd` (validation `d37e0b08-fd15-459e-8697-207d7e179454`)
+  - `e1` (source_body): Architecture (3 systems): ClickUp = source of operational signals (webhooks) Lovable Cloud = control plane (webhook intake, dedup, brand routing, AI reasoning, validation, audit) Vault Gateway = local Mac service that executes reads/writes against Obsidian via Local REST API
+  - `e2` (source_child): Phase 2D: pure deterministic brand resolver (TASK → LIST → FOLDER → SPACE → WORKSPACE, fail-closed on conflict). ... Phase 3A: clickup-webhook Edge Function deployed. ... 120 s debounce + 600 s max hold coalescing.
+  - `e3` (source_child): Se diseñó el nuevo sistema de Destination Routing para que cada fuente termine en un destino claro: una marca, 02-Meetings/, 90-Unknown/, excluida o sin contenido.
+  - `e4` (source_child): Se construyeron los writers para Meetings, Transcripts y Unknown, con protecciones de idempotencia, límites de tamaño, reintentos y rutas determinísticas para evitar notas duplicadas.
+- **process**: The Brain Ingestion System architecture consists of ClickUp (operational signals), Lovable Cloud (control plane for reasoning/validation), and Vault Gateway (local Mac service for Obsidian REST API writes).
+- **rule**: Brand resolution is strictly deterministic following the hierarchy: TASK → LIST → FOLDER → SPACE → WORKSPACE, failing closed on conflict to ensure brand isolation without LLM inference.
+- **process**: Destination Routing ensures every source is routed to a specific brand, 02-Meetings, Transcripts, or 90-Unknown (fallback), with built-in idempotency and size limit protections.
+- **fact**: The system implements a 120s debounce and 600s max hold coalescing window for ClickUp webhooks to optimize processing and ensure data consistency.
+
+- 2026-10-08T18:59:46.931Z — `clickup:86e38nqdd` (validation `c97d4b65-7fc8-4ab4-9298-f6a5eb487646`)
+  - `e1` (source_child): Trellis Brain ya está funcionando de punta a punta. El sistema ahora recoge automáticamente conocimiento de ClickUp — tareas, comentarios, documentos, meeting notes y chats... corre automáticamente dos veces al día. Cuando una decisión queda validada, puede escribir directamente en Obsidian.
+  - `e2` (source_child): Se diseñó el nuevo sistema de Destination Routing para que cada fuente termine en un destino claro: una marca, 02-Meetings/, 90-Unknown/, excluida o sin contenido. Unknown queda como último recurso.
+- **fact**: The Brain Ingestion System is fully operational end-to-end, automatically extracting knowledge from ClickUp tasks, comments, documents, meeting notes, and chats.
+- **process**: The system runs automatically twice daily, prioritizing new information over historical backlogs, which are processed in the background.
+- **rule**: Destination Routing directs sources to specific brand folders, 02-Meetings, Transcripts, or 90-Unknown (fallback) for unidentifiable content.
+- **process**: The pipeline includes extraction, classification, deduplication, validation, and a human review queue for contradictions or low-confidence decisions.
+
 ## Provenance
 
 - Source: `clickup` `86e38nqdd`

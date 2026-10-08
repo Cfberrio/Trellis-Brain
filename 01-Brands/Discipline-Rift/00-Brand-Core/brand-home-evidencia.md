@@ -59,6 +59,18 @@ brand_id: "discipline_rift"
   - `e1` (source_body): DRF space is now under a folder of DR
 - **fact**: The DRF (Discipline Rift Franchise) workspace in ClickUp is organized as a folder under the main Discipline Rift (DR) space.
 
+- 2026-10-07T20:01:53.730Z — `clickup_chat_thread:8cqnrff-9037/80170025932247` (validation `38d5d521-1b81-4e53-b51d-cfa43bb8927b`)
+  - `e1` (source_child): drfranchise
+  - `e2` (source_child): franchisedr.lovable.app
+  - `e3` (source_child): The team decided to manually reorganize the feedback form questions and responses to improve the accuracy of data interpretation. The team agreed to update social media account login credentials
+- **fact**: The Discipline Rift Franchise (DRF) uses the Instagram handle 'drfranchise' and the application URL franchisedr.lovable.app.
+- **decision**: The team decided to manually reorganize feedback form questions and update social media credentials to improve data accuracy for the franchise marketing process.
+
+- 2026-10-07T20:02:27.186Z — `clickup_chat_thread:8cqnrff-9037/80170020422748` (validation `13a185ad-9955-4b9d-89fd-45aa715111a0`)
+  - `e1` (source_body): Sales engine is ready, please scheudle a time to be trained by Cristian Berrío
+- **fact**: The Discipline Rift sales engine is ready for implementation as of January 2026.
+- **fact**: Cristian Berrío is the designated trainer for the sales engine.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

@@ -56,6 +56,18 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Protect the experience. Protect the child’s confidence. Protect the quality of the group. That requires commitment to timing. ... Hi {{FirstName}}, just checking in. Our upcoming season is filling and we finalize rosters soon.
 - **fact**: The 40-hour follow-up sequence uses a posture of 'Calm Confidence' and 'Scarcity', emphasizing that protecting the child's experience and confidence requires a commitment to timing before rosters are finalized.
 
+- 2026-10-07T19:56:27.998Z — `clickup_chat_thread:8cqnrff-9037/80170044405025` (validation `ad2fe630-3770-48dc-9e71-95ffa59bd286`)
+  - `e1` (source_body): place parents in GHL with tag TFA please. make sure we have the childs name in there a the secondary email
+- **preference**: Parents should be placed in GHL with the tag 'TFA', ensuring the child's name is included as the secondary email.
+
+- 2026-10-07T19:58:08.622Z — `clickup_chat_thread:8cqnrff-9037/80170041104125` (validation `0e86a288-0b88-4dc3-b6e7-026306399f87`)
+  - `e1` (source_body): The only change you can make is putting the schools back to high priority that never responded to us
+- **rule**: Schools that have never responded to outreach must be maintained at or returned to high priority within the GHL pipelines.
+
+- 2026-10-07T19:59:43.171Z — `clickup_chat_thread:8cqnrff-9037/80170035575112` (validation `8efb3923-8a64-4f35-ac52-98a1c9e12198`)
+  - `e1` (source_body): As we coordinate and finalize the schedule with schools, let's ask our current schools: who is the point of contact that handles facilitron and flyers this year. Once verified, click the checkbox that says Facilitron. If there's another person handling flyers, I will create another column.
+- **fact**: School coordination requires identifying specific points of contact for Facilitron (facility scheduling) and flyer distribution to ensure operational efficiency.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

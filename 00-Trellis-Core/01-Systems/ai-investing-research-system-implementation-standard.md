@@ -7,10 +7,10 @@ brand_id: "trellis_core"
 
 ## Canonical Statement
 
-- **decision**: The AI Investing Research System is approved for implementation, focusing on a two-track Claude-assisted research architecture: Track 1 for Funds (ETFs first) and Track 2 for US-listed stocks (2A short-term, 2B long-term).
-- **rule**: The system is strictly for research and is not a trading bot; it lacks broker connections. Permission follows a ladder: research only -> read-only -> monitoring -> paper -> human-approved live. Only step 1 is authorized.
-- **rule**: Data integrity rules: Every number requires a source and as-of date. Claude must not perform arithmetic (deterministic code only). Bear cases must be produced independently of bull cases.
-- **fact**: The ETF pilot deliverable includes 8–12 plain, unlevered ETFs in 3 peer bins: US broad equity, international equity, and US high-quality bonds.
+- **decision**: The implementation proposal for the AI Investing Research System has been formally approved by Luis, authorizing the move from planning to build phase.
+- **process**: The system uses CUSIP identifiers from official sources (e.g., Schwab) to accurately compare holdings across different issuers, avoiding reliance on inconsistent naming conventions.
+- **process**: Automated evidence capture is performed using Playwright to scrape and validate source data, ensuring information matches original files exactly before comparison.
+- **fact**: Initial testing successfully verified the comparison method using SPTM and SCHB ETFs, confirming that the database protection and secure source storage are functional.
 
 ## Evidence Log
 

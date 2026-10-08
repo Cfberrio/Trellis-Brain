@@ -18,6 +18,13 @@ brand_id: "discipline_rift"
   - `e2` (source_child): Para Gmail son el mismo correo: todo le llega a la misma bandeja. Para nuestro sistema son dos personas distintas. Lydia quedó conectada a la cuenta con puntos.
   - `e3` (source_child): Decidí: renombrar la cuenta suelta (reversible, 0 datos) y pasar la cuenta ligada al correo sin puntos (= parent.email = GHL). Verificado con su sesión simulada: 1 hija, 4 mensajes visibles.
 
+- 2026-10-08T18:55:51.010Z — `clickup:86e3k6nhw` (validation `728a301c-c3aa-4bd3-93dc-2ca3bea2a89a`)
+  - `e1` (source_child): 2 cuentas de login (gmail con y sin puntos), solo una ligada a su fila de padre. Entraba con la otra y el aviso "another session" la mandaba a salir y volver a entrar con el mismo correo, en bucle. Decidí: renombrar la cuenta suelta... y pasar la cuenta ligada al correo sin puntos (= parent.email).
+  - `e2` (source_child): Código f13e9ff: el aviso de /parent y /coach ahora dice con qué correo está la sesión.
+- **fact**: The 'another active session' login loop occurs when a parent has two accounts (e.g., one with dots and one without) but only one is linked to the student record; the system incorrectly routes the unlinked session into a loop.
+- **process**: To resolve the login loop: identify the unlinked account, rename it to prevent further use, and ensure the linked account matches the email address stored in GHL.
+- **rule**: The parent and coach portal login screens now explicitly display the email address of the current active session to prevent account confusion.
+
 ## Provenance
 
 - Source: `clickup` `86e3k6nhw`
