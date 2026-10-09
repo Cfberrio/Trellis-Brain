@@ -18,6 +18,12 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Build a Coach Hub section inside the DR Coach App that fully replaces Notion. All active coaches must have access. The goal is to eliminate the Notion subscription and bring all curriculum/training content into our own platform.
   - `e2` (source_child): App nativa: bienvenida + un solo login (email + código) que manda a coach o a padre. ... Push de mensajes: coach escribe → le llega al padre; padre escribe → le llega a los coaches del equipo.
 
+- 2026-10-09T00:29:54.014Z — `clickup:86e3dhu94` (validation `3f0dafae-17d6-4d79-8847-65a723abbba8`)
+  - `e1` (source_child): App nativa: bienvenida + un solo login (email + código) que manda a coach o a padre. ... Push de mensajes: coach escribe → le llega al padre; padre escribe → le llega a los coaches del equipo. Tocar la notificación abre Messages. ... Arreglado: los badges de no leídos no se actualizaban en vivo.
+- **decision**: The DR Coach App uses a single login (email + code) that routes users to either the coach or parent interface based on their profile.
+- **fact**: Native iOS push notifications are functional: messages sent by coaches reach parents, and parent replies reach all coaches assigned to the team.
+- **fact**: The app supports real-time unread message badges and notification-to-message deep linking on iOS.
+
 ## Provenance
 
 - Source: `clickup` `86e3dhu94`

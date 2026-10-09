@@ -18,6 +18,15 @@ brand_id: "trellis_core"
   - `e1` (source_child): Desplegado: worker + /brain con clasificador de marca v2... incluye: clasificador v2 (perfiles por marca, St. Joseph, NO_CONTENT, filtro de chats triviales)
   - `e2` (source_child): Las corridas pasan a cada 2 horas... Windows queda guardando en el mismo formato del repo... Si una nota cambió por fuera, el Brain la vuelve a leer y reintenta... Antes de crear una nota nueva, el Brain mira si esa misma fuente ya tiene una, y la actualiza.
 
+- 2026-10-09T00:36:12.220Z — `clickup:86e3kcwj2` (validation `58c2525a-6460-4bed-b960-5718e4b98fb3`)
+  - `e2` (source_child): Antes de crear una nota nueva, el Brain mira si esa misma fuente ya tiene una, y la actualiza.
+  - `e3` (source_child): si el contenido no cambió, el Brain ya no gasta IA ni vuelve a escribir; las revisiones se resuelven solas en cada ciclo... la marca que se pone a mano en ClickUp siempre gana sobre la IA... quedó activo el respaldo automático del vault a GitHub cada 30 minutos
+- **process**: The Brain now detects if content has changed before processing; if no changes are found, it skips AI execution and writing to Obsidian to save costs and prevent unnecessary updates.
+- **process**: Manual reviews in the Brain system are now automatically resolved in each cycle if the underlying content is stable.
+- **rule**: Manual brand classification in ClickUp takes precedence over AI-generated brand classification.
+- **process**: Automatic vault backups to GitHub are performed every 30 minutes.
+- **process**: To prevent duplicates, the Brain checks if a source already has an existing note and updates it instead of creating a new one.
+
 ## Provenance
 
 - Source: `clickup` `86e3kcwj2`
