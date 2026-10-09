@@ -71,6 +71,27 @@ brand_id: "discipline_rift"
 - **fact**: The Discipline Rift sales engine is ready for implementation as of January 2026.
 - **fact**: Cristian Berrío is the designated trainer for the sales engine.
 
+- 2026-10-09T09:21:51.687Z — `clickup_doc_page:8cqnrff-10897/8cqnrff-24297` (validation `b49371a9-5ee9-4f4f-95dc-bf562a3bdc7f`)
+  - `e1` (source_body): DR debe convertir su coaching en conocimiento premium visible... cosas que otros padres no ven, otros programas no explican y otros coaches no nombran.
+  - `e2` (source_body): DR debe usar más verdad contraria para diferenciarse... son los que se atreven a contradecir una lógica común del deporte infantil.
+  - `e3` (source_body): Serie “Volleyball Proof”, 4 reels, uno por semana, amarrando volleyball con el formato que ya funciona.
+  - `e4` (source_body): Reel semanal de precio. Uno por semana. Qué incluye, sin costos ocultos, cómo funciona, qué pasa si falta.
+  - `e5` (source_body): El ajuste no es quitar humor. Es estructurarlo mejor: humor abre, prueba sostiene, CTA recoge.
+- **preference**: DR content strategy must prioritize 'Insider Knowledge' (explaining what other programs miss) and 'Contrarian Truths' to differentiate from generic youth sports programs.
+- **decision**: Volleyball must be visible in weekly content as the primary proof of the program's effectiveness and demand.
+- **rule**: Marketing must include a weekly 'Price Reel' explaining the $129 cost and what it includes to convert sympathy into enrollment intention.
+- **preference**: Humor and trends should be used as discovery 'doors' but must always connect to program proof or a clear call to action.
+
+- 2026-10-09T09:24:16.954Z — `clickup_doc_page:8cqnrff-10957/8cqnrff-10797` (validation `4307d5d7-dd97-4c39-a2f3-eed64976940d`)
+  - `e1` (source_body): we coach our coaches. Not to control them — to protect the standard. Because one week of random drills can set development back. We look for structure. We look for teaching. We look for connection.
+  - `e2` (source_body): Quick coach fix: train learning, not vibes. Most programs teach skills. We design practice for learning... improvement becomes consistent. Not random. Not emotional. Not based on motivation. Based on method.
+  - `e3` (source_body): That’s why we built direct communication: updates, photos, progress notes, feedback. So parents don’t have to guess. And kids don’t carry the gap alone. When parents know what’s happening in practice, home becomes part of the system.
+  - `e4` (source_body): Rule #1: Don’t lose team connection. Rule #2: Don’t “just run drills.” Rule #3: Don’t avoid explaining. Rule #4: Don’t skip talking to players. Rule #5: Don’t ignore who’s falling behind.
+- **rule**: Coaching standards are maintained through a systematic 'coach the coaches' approach to ensure consistency and protect the development standard.
+- **preference**: Practice design prioritizes scientific learning methods over 'vibes' or random drills to ensure consistent improvement.
+- **fact**: The Parent Dashboard/direct communication system (updates, photos, progress notes) is a core value driver that aligns home and field development.
+- **rule**: Week 1 culture is defined by five non-negotiable rules: prioritize team connection, avoid purposeless drills, explain the 'why', maintain individual presence, and support those falling behind.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
