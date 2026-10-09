@@ -7,10 +7,10 @@ brand_id: "trellis_core"
 
 ## Canonical Statement
 
-- **decision**: Luis formally approved the implementation proposal for the AI Investing Research System, authorizing the transition from planning to the build phase.
-- **process**: The system uses official CUSIP identifiers (e.g., from Schwab) to resolve naming inconsistencies across different issuers for accurate ETF holdings comparison.
+- **decision**: Luis formally approved the implementation proposal, authorizing the transition from planning to the build phase.
 - **fact**: The initial index census successfully identified over 1,700 market indices with 96% precision, confirming the system's ability to discover candidates without manual lists.
-- **rule**: The system operates on a permission ladder: research only -> read-only -> monitoring -> paper -> human-approved live. Currently, only the research phase is authorized.
+- **process**: The system uses official CUSIP identifiers (e.g., from Schwab) to resolve naming inconsistencies across different issuers for accurate ETF holdings comparison.
+- **next_step**: The next phase involves mapping indices to specific investment products (ETFs, mutual funds) and validating fund identity before comparing performance, costs, and risk.
 
 ## Evidence Log
 

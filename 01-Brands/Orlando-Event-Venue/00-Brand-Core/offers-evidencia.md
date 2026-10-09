@@ -38,6 +38,13 @@ brand_id: "orlando_event_venue"
 - **fact**: OEV requires a 50% deposit to secure a booking, and the status must reach 'fully_paid' before the event is considered 'in_progress'.
 - **rule**: In the OEV booking system, leads do not block the calendar; only reservations with confirmed payment (deposit, paid, or invoiced) block dates.
 
+- 2026-10-09T18:30:48.478Z — `clickup:86e32c6h7` (validation `bf9370bb-05b4-46e8-8083-0f3545a44cf6`)
+  - `e1` (source_child): estoy pensando en cambiar el flujo a que hagan el booking con $100 non refundable + un step donde escanean su licencia al final (proteccion legal)
+  - `e2` (source_child): For $899 you get 24hr access to our venue included with 90 chairs, 10 tables... Hourly rentals are also available for $140/hour... Book online with 50% of total amount and the balance is due 15 days before your event
+- **decision**: The booking flow is being updated to include a $100 non-refundable deposit option for leads with budget constraints, followed by a legal protection step requiring a license scan.
+- **fact**: Standard booking terms require a 50% deposit of the total amount at the time of booking, with the remaining balance due 15 days before the event.
+- **fact**: The 24-hour venue access package is priced at $899 and includes 90 chairs, 10 tables, prep kitchen, and parking. Hourly rentals are available at $140/hour.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`
