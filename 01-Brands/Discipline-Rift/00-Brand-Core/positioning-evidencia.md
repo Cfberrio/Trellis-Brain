@@ -54,6 +54,15 @@ brand_id: "discipline_rift"
 - **fact**: Developmentally appropriate coaching at DR requires separating players by age/stage to ensure practice makes sense for different learning needs.
 - **fact**: Volleyball is prioritized as a core sport because it uniquely teaches communication, adjustment, and the necessity of teamwork ('you can't do it alone').
 
+- 2026-10-14T22:06:02.535Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13957` (validation `332626ac-915d-4788-9b02-01715619d2bc`)
+  - `e1` (source_body): First Student: It was all straightforward with no confusion. Yes, I wanted to continue the application.
+  - `e2` (source_body): Second Student: I think the opportunity to valuable for the right person, but you do not convey that value enough or in a short enough timespan.
+  - `e3` (source_body): Second Student: I would have stopped immediately before sign up because I would not want to give that information away. Have a landing page with the videos, then move on to application.
+  - `e4` (source_body): First Student: I would change the color scheme to be a bit more pleasing to the eye and easier to read.
+- **fact**: Prospective applicants generally find the DR opportunity straightforward and interesting, though some feel the value proposition could be conveyed more quickly.
+- **fact**: Data privacy concerns at the start of the application process can cause immediate drop-off for some users; providing video content before requesting personal information is a suggested improvement.
+- **fact**: Visual design preferences for the landing page include a more pleasing color scheme to improve readability.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3p9m`

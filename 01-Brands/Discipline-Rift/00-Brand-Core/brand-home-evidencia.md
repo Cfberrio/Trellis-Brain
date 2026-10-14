@@ -105,6 +105,15 @@ brand_id: "discipline_rift"
 - **fact**: Discipline Rift operations include a defined BAR vendor workflow and a standardized content inventory system used for strategic planning.
 - **fact**: The brand utilizes a structured set of guides and briefs to maintain alignment across content execution and brand storytelling.
 
+- 2026-10-14T22:01:46.542Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13917` (validation `0d138247-ed28-420f-bc14-458f600966d0`)
+  - `e1` (source_body): It does not feel completely trustworthy. The ads are lacking further details in the video, captions, and bio. This could lead to someone feeling as if the ads could be a scam
+  - `e2` (source_body): debería haber consistencia en las fuentes utilizadas, para que los anuncios coincidan visualmente con la página de destino de la marca. Actualmente, usamos dos tipos de fuentes diferentes
+  - `e3` (source_body): mencionaron que era importante evitar repeticiones en el B-roll... el contenido que mostraba prácticas reales, con jugadores realizando actividades específicas del deporte, les pareció mucho más atractivo.
+  - `e4` (source_body): You should also add how we want to have three different videos after they fill out the application: 1. For the philosophy and mission 2. For the commitment 3. For the financials
+- **fact**: Prospective coach/licensee candidates find ads untrustworthy when they lack specific organizational details, clear sport distinctions, and consistent branding between the ad and the landing page.
+- **fact**: Ad creative for recruitment is more effective when it shows 'real' practice footage with coaches leading specific drills rather than repetitive B-roll of kids playing.
+- **proposal**: Recruitment funnels should include a post-application video sequence covering mission, commitment, and financials to build trust and filter candidates.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

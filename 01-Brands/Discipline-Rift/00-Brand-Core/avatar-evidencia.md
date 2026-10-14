@@ -84,6 +84,30 @@ brand_id: "discipline_rift"
 - **rule**: Creating brand-specific content is a requirement for licensees/franchisees to ensure a strong brand identity; coaches who are willing should be featured in 'day in the life' style content.
 - **preference**: Marketing videos should be approximately 60-90 seconds, utilizing bullet points for key information to maintain engagement while providing enough detail for interested applicants.
 
+- 2026-10-14T22:01:10.503Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-14237` (validation `f669e732-5736-41ca-8cbc-aef2c0963249`)
+  - `e1` (source_body): What if your college experience could be something real… not just a stack of internships? ... Comment "INFO" and we’ll text you the next step.
+  - `e2` (source_body): We’re a sports organization that has coached thousands of players and worked with 100+ coaches over the years. ... Now this is an opportunity for you to do the same using the same system.
+  - `e3` (source_body): The first step is just a quick comment. No pressure. No long commitment. We text you the details after.
+- **preference**: Recruitment messaging for local program leaders (DRF Operators) emphasizes real-world leadership, income, and impact over traditional internships, targeting college students with sports backgrounds.
+- **process**: The standard call-to-action for operator recruitment ads is a comment-based trigger ('Comment ME' or 'Comment INFO') followed by a text message with next steps.
+- **fact**: Discipline Rift uses its track record of coaching thousands of players and working with over 100 coaches as the primary authority claim in recruitment advertising.
+
+- 2026-10-14T22:05:11.037Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13937` (validation `29e6ddf7-0dd2-4c14-8da7-e24d82b1c834`)
+  - `e1` (source_body): Any more than 2 or 3 reminders is too much. ... I am okay with one or two reminders but after it becomes to many it feels like spam and I begin to ignore it
+  - `e2` (source_body): What would make a reminder feel helpful instead of annoying? Clear link to finish Short message Knowing what happens next Clear time commitment
+  - `e3` (source_body): How many reminder messages would feel reasonable if you have not finished the application yet? ... Two max. ... 1 a day ... 2 ... 2 at most ... 2 reminder emails would be enough.
+  - `e4` (source_body): Add insight, not just hey, your form is not finished.
+  - `e5` (source_body): For an email, I would say being addressed by my name because I feel like im being address properly.
+- **preference**: Leads generally prefer a maximum of 2-3 reminder messages before perceiving them as spam; exceeding this frequency leads to disengagement.
+- **preference**: Reminders are perceived as helpful rather than annoying when they include a clear link to the next step, a short message, and personalized addressing (e.g., using the lead's name).
+- **fact**: Lead preferences for communication channels are split between email and text, with a slight lean toward email for those sensitive to organizational 'bombardment'.
+
+- 2026-10-14T22:06:48.554Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13337` (validation `25b7de14-2b8a-4f00-a677-9f9a1ca25b47`)
+  - `e1` (source_body): Over the years, we have coached more than 10,000 youth players through 100+ coaches.
+  - `e2` (source_body): We are selecting a limited number of young adults to own a DR license and use our playbook, operations, curriculums, and methods to lead programming in their local communities.
+- **fact**: Discipline Rift has coached more than 10,000 youth players through a network of over 100 coaches.
+- **decision**: The DR license opportunity is specifically designed for young adults to own a license and use the brand's playbook, operations, curriculums, and methods to lead programming in local communities.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

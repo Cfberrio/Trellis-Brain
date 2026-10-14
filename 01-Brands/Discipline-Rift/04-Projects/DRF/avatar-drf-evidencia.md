@@ -31,6 +31,13 @@ brand_id: "discipline_rift"
 - **fact**: Key disqualifiers for licensees include ghosting, making excuses, attempting 'custom pricing', skipping reporting, and creating risk for children or the brand.
 - **decision**: The application process prioritizes identifying traits that are hard to train—consistency, communication, ownership, and resilience—over skills that can be trained in 2-4 weeks.
 
+- 2026-10-14T21:59:40.818Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13277` (validation `56a271a9-3ad1-434f-bfca-9d86524e0b35`)
+  - `e1` (source_body): Primary avatar: ENFJ... DRF needs a builder who also coaches, not a coach who tolerates building... DRF ideal formula: People-first + ownership-minded + system-friendly + action-oriented... Best zone = ENFJ / ENTJ / ESTJ
+- **definition**: The ideal DRF Operator is a 'builder who also coaches' rather than a 'coach who tolerates building'; they must prioritize ownership, outreach, and growth over just direct coaching.
+- **preference**: The primary MBTI archetype for a DRF Operator is ENFJ (mission-driven leader), with ENTJ and ESTJ as strong secondary fits due to their focus on growth, metrics, and operational standards.
+- **rule**: The DRF ideal formula for selection is: People-first + ownership-minded + system-friendly + action-oriented (Extraverted + Judging tendencies).
+- **process**: Filter applicants using questions that expose ownership vs. coaching-only mindsets, specifically testing for consistency, outreach comfort, and a builder mindset.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11737/8cqnrff-12697`
