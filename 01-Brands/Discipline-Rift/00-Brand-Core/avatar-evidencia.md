@@ -68,6 +68,22 @@ brand_id: "discipline_rift"
   - `e1` (source_body): As we coordinate and finalize the schedule with schools, let's ask our current schools: who is the point of contact that handles facilitron and flyers this year. Once verified, click the checkbox that says Facilitron. If there's another person handling flyers, I will create another column.
 - **fact**: School coordination requires identifying specific points of contact for Facilitron (facility scheduling) and flyer distribution to ensure operational efficiency.
 
+- 2026-10-13T23:57:25.441Z — `clickup_doc_page:8cqnrff-11737/8cqnrff-11477` (validation `ee1cc41e-4373-4054-abb5-dab28f17d37a`)
+  - `e1` (source_body): Just like you, there are a lot of young adults with talent, drive, sports experience, and leadership potential... This is for someone who is driven, coachable and responsible.
+  - `e2` (source_body): At the core, you would be using our playbook to lead youth sports programming in your area. That means planning seasons, running practices, and creating value for players and families.
+  - `e3` (source_body): The biggest value here is not just money. It is who you become through the process... You build skills in business structures, communication, organization, leadership, and decision-making
+- **fact**: The DRF operator opportunity is designed for driven, coachable, and responsible young adults with sports experience who seek ownership and leadership development.
+- **fact**: DRF operators use a pre-existing playbook and structure to lead youth sports programming, including planning seasons and running practices.
+- **fact**: The primary value for DRF operators is personal growth and leadership skills (business structures, communication, decision-making) rather than just financial compensation.
+
+- 2026-10-14T00:01:04.866Z — `clickup_doc_page:8cqnrff-11737/8cqnrff-13857` (validation `810e63da-5567-4853-8293-f092ab1ea8fc`)
+  - `e1` (source_body): I think what if we do a chain of video, like a little sequence of videos: 1. Philosophy and mission 2. Commitment 3. Financials... Put that with the commitment; you can connect well, but that is more like operation-based, maybe. Here's the kind of things that you're doing
+  - `e2` (source_body): That would be something we can incorporate here locally, and I think it almost should be a requirement for licenses, because we have to have a strong brand identity behind the program that they're launching.
+  - `e3` (source_body): What would you say would be the max amount of time for that video? It was about a minute and six seconds... Would it be okay with staying for 30 more seconds, a few bullet points?
+- **decision**: The application funnel (Whispr Flow) will use a video sequence consisting of: 1. Philosophy and mission, 2. Commitment (including 'day in the life' operational context), and 3. Financials.
+- **rule**: Creating brand-specific content is a requirement for licensees/franchisees to ensure a strong brand identity; coaches who are willing should be featured in 'day in the life' style content.
+- **preference**: Marketing videos should be approximately 60-90 seconds, utilizing bullet points for key information to maintain engagement while providing enough detail for interested applicants.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

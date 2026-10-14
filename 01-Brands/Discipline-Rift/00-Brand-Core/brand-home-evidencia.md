@@ -92,6 +92,12 @@ brand_id: "discipline_rift"
 - **fact**: The Parent Dashboard/direct communication system (updates, photos, progress notes) is a core value driver that aligns home and field development.
 - **rule**: Week 1 culture is defined by five non-negotiable rules: prioritize team connection, avoid purposeless drills, explain the 'why', maintain individual presence, and support those falling behind.
 
+- 2026-10-13T23:57:01.919Z — `clickup_doc_page:8cqnrff-11737/8cqnrff-11457` (validation `b87d720a-aa03-42e4-b958-774e58712855`)
+  - `e1` (source_body): Over the years, we have coached more than 10,000 youth players through 100+ coaches.
+  - `e2` (source_body): We are selecting a limited number of young adults to own a DR license and use our playbook, operations, curriculums, and methods to lead programming in their local communities.
+- **fact**: Discipline Rift has coached more than 10,000 youth players through a network of over 100 coaches.
+- **decision**: The DR license allows selected young adults to own and lead programming in their local communities using the brand's established playbook, operations, curriculums, and methods.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
