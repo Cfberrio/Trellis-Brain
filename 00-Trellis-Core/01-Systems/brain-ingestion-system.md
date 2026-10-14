@@ -7,11 +7,10 @@ brand_id: "trellis_core"
 
 ## Canonical Statement
 
-- **rule**: The Trellis Brain follows five core principles: Brand isolation (deterministic routing), Canonical before evidence (search existing knowledge first), Home-first retrieval, Deterministic before agentic (rules handle routing/metadata, AI handles meaning), and Fail closed (unresolved brands or low confidence trigger human review).
-- **process**: The ingestion pipeline consists of three systems: ClickUp (operational signals), Lovable Cloud (control plane for reasoning and validation), and Vault Gateway (local service for Obsidian REST API writes).
-- **rule**: The Brain Agent is restricted to four permitted actions: IGNORE (no durable knowledge), ADD_EVIDENCE (supports existing knowledge), UPDATE_CANONICAL (modifies existing knowledge via section patch), and CREATE_KNOWLEDGE (new reusable concepts).
-- **fact**: The system uses a deterministic brand resolver (Task -> List -> Folder -> Space -> Workspace) to ensure brand isolation without relying on LLM inference for routing.
-- **process**: Destination Routing ensures every source ends in a clear destination: a specific brand, 02-Meetings, Transcripts, 90-Unknown (fallback), or excluded.
+- **fact**: The Brain Ingestion System is fully operational end-to-end, automatically extracting knowledge from ClickUp tasks, comments, documents, meeting notes, and chats.
+- **process**: The system runs automatically twice daily, prioritizing new information while recovering historical backlogs in the background.
+- **process**: Destination Routing ensures every source is routed to a specific brand, 02-Meetings, Transcripts, or 90-Unknown (fallback), with built-in idempotency and size limit protections.
+- **rule**: The ingestion pipeline follows a structured flow: extraction, classification, deduplication, validation, and a human review queue for contradictions or low-confidence decisions.
 
 ## Evidence Log
 

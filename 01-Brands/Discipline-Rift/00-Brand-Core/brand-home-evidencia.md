@@ -98,6 +98,13 @@ brand_id: "discipline_rift"
 - **fact**: Discipline Rift has coached more than 10,000 youth players through a network of over 100 coaches.
 - **decision**: The DR license allows selected young adults to own and lead programming in their local communities using the brand's established playbook, operations, curriculums, and methods.
 
+- 2026-10-14T21:54:41.234Z — `clickup_doc_page:8cqnrff-12377/8cqnrff-19617` (validation `a7836c74-be17-4edf-ab47-199395a6ee87`)
+  - `e1` (source_body): defined the BAR vendor workflow in implementation-ready detail in #86e14efd2.
+  - `e2` (source_body): Built the next wave of CTS and Trellis briefs, including... #30/04 Content Inventory DR
+  - `e3` (source_body): Advanced Trellis and client positioning through... the new DR guide set.
+- **fact**: Discipline Rift operations include a defined BAR vendor workflow and a standardized content inventory system used for strategic planning.
+- **fact**: The brand utilizes a structured set of guides and briefs to maintain alignment across content execution and brand storytelling.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
