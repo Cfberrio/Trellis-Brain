@@ -7,11 +7,10 @@ brand_id: "st_joseph"
 
 ## Canonical Statement
 
-- **fact**: The St. Joseph system includes an 'Outreach' board (/admin/outreach) designed to track individuals contacting the parish for sacraments or formation.
-- **process**: The Outreach board uses a Kanban-style workflow with columns: Pending, Replied, Follow-up, Pending reply follow-up, and Placed.
-- **rule**: Access to the Outreach board is restricted to administrators and office staff; catechists and leaders do not have access.
-- **decision**: Administrators have the authority to customize the board by renaming, reordering, or modifying columns and colors.
-- **decision**: The system must allow moving or assigning individuals to specific groups (e.g., Adult Sacraments) once they are processed through the outreach board.
+- **process**: In the Sacraments list, individuals can be managed using 'Move' and 'Archive' buttons located under their name or in their profile.
+- **rule**: Use 'Move' when a person remains active but changes groups (e.g., from Adult Sacraments to Adult Faith Formation). A mandatory 'Why' reason must be provided.
+- **rule**: Use 'Archive' only when a person confirms they are no longer attending; lack of response or missed classes does not justify archiving.
+- **fact**: Moving a person automatically updates their group enrollment, removes them from the previous list counts, and adds a staff note to their profile documenting the change.
 
 ## Evidence Log
 

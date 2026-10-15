@@ -18,6 +18,13 @@ brand_id: "st_joseph"
   - `e1` (source_body): Review withdrawal replies in both mailboxes... Match each confirmed withdrawal to the correct database profile and document the reply/date before removing them as Luis requested. A missed class or no reply is not confirmation of withdrawal.
   - `e2` (source_child): Lo que cada persona escribió o marcó quedó como nota de staff en su perfil (solo la ve el staff)... Los que pusieron solo el primer nombre ("Keaton", "Ethan", "Alejandra", "DEMI") se identificaron por su email.
 
+- 2026-10-15T21:33:04.652Z — `clickup:86e3pxguj` (validation `e3bb8f5e-06f7-4f2e-b32a-37b8a2f539dc`)
+  - `e3` (source_child): Move: la persona sigue con nosotros, pero en otro grupo... Archive: la persona confirmó que ya no viene. Faltar a clase o no contestar no cuenta... En "Why" escribes el motivo (es obligatorio) y confirmas... En su perfil queda una nota de staff: "Moved from A..."
+- **process**: Use the 'Move' button to transfer a participant to a different parish group (e.g., Adult Faith Formation, Marriage, Bible Study) while they remain active in the parish.
+- **rule**: When moving a participant to another group, providing a reason in the 'Why' field is mandatory.
+- **process**: Use the 'Archive' button only when a participant has explicitly confirmed they are no longer attending; this action removes them from active lists and counts.
+- **fact**: Moving a participant automatically generates a staff note in their profile documenting the transfer (e.g., 'Moved from Adult Sacraments to...').
+
 ## Provenance
 
 - Source: `clickup` `86e3pxguj`

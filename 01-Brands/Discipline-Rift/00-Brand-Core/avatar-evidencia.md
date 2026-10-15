@@ -136,6 +136,12 @@ brand_id: "discipline_rift"
 - **fact**: Potential DRF licensees (student avatar) prioritize clarity on day-to-day responsibilities, the specific training/onboarding process, and financial compensation (pay/license costs) when evaluating the opportunity.
 - **fact**: Applicants value transparency regarding job requirements and mission statements before the application process to ensure alignment with the role's demands.
 
+- 2026-10-15T21:47:50.355Z — `clickup_doc_page:8cqnrff-16057/8cqnrff-18577` (validation `1e62531a-6dab-45b1-b963-11095646e7b3`)
+  - `e1` (source_body): Are players grouped by age, not just availability? Or are 8-year-olds and 13-year-olds in the same drill because that's who showed up? ... The skill can be the same — the drill format, time, and complexity should shift.
+  - `e2` (source_body): Under-8s should leave practice tired and smiling. Bored or stressed = practice is built for older kids. ... Over-10s need to be pushed. If they're phoning it in because the drill is too simple, you'll lose them by week 4.
+- **fact**: Parents evaluate program quality based on age-appropriate grouping, language, and drill complexity rather than just availability or convenience.
+- **fact**: Effective youth sports programs for ages 6-12 distinguish between a 'fun-first' floor for younger players (under-8s) and a 'challenge ceiling' for older players (over-10s).
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

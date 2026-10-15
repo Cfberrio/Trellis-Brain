@@ -63,6 +63,10 @@ brand_id: "discipline_rift"
 - **fact**: Data privacy concerns at the start of the application process can cause immediate drop-off for some users; providing video content before requesting personal information is a suggested improvement.
 - **fact**: Visual design preferences for the landing page include a more pleasing color scheme to improve readability.
 
+- 2026-10-15T21:45:41.365Z — `clickup_doc_page:8cqnrff-16057/8cqnrff-18517` (validation `2412a8f1-1031-4678-9c4a-328d86ba9d58`)
+  - `ev1` (source_body): 5 Questions Every Parent Should Ask Before Signing Up for Any Youth Sports Program... What's the method behind your practice? How do you separate players by age and stage? Who supervises your coaches? What does week 1 look like vs week 12? How will I know my player is actually growing?
+- **preference**: Discipline Rift encourages parents to evaluate youth sports programs based on five criteria: the specific coaching method, stage-based (not just age-based) player separation, coach supervision standards, clear week-to-week skill progression, and visible growth markers shared with parents.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3p9m`
