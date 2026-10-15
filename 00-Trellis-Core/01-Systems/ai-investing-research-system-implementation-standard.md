@@ -7,10 +7,10 @@ brand_id: "trellis_core"
 
 ## Canonical Statement
 
-- **decision**: Luis formally approved the implementation proposal, authorizing the transition from planning to the build phase.
-- **fact**: The initial index census successfully identified over 1,700 market indices with 96% precision, confirming the system's ability to discover candidates without manual lists.
-- **process**: The system uses official CUSIP identifiers (e.g., from Schwab) to resolve naming inconsistencies across different issuers for accurate ETF holdings comparison.
-- **next_step**: The next phase involves mapping indices to specific investment products (ETFs, mutual funds) and validating fund identity before comparing performance, costs, and risk.
+- **fact**: The system successfully completed a census of over 1,700 market indices with 96% precision, identifying candidates without manual lists.
+- **process**: To resolve identity conflicts where different issuers use different names for the same holdings, the system uses official CUSIP identifiers (e.g., from Schwab) to ensure accurate comparisons.
+- **rule**: When official data sources (like SEC XBRL filings) contain internal contradictions regarding share class performance, the system marks the data as a conflict and excludes it from comparisons to prevent contamination.
+- **decision**: The system architecture now enforces a strict sequence: index identity -> product mapping -> share class validation -> cost/performance comparison -> risk/category design.
 
 ## Evidence Log
 
