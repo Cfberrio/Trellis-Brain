@@ -108,6 +108,34 @@ brand_id: "discipline_rift"
 - **fact**: Discipline Rift has coached more than 10,000 youth players through a network of over 100 coaches.
 - **decision**: The DR license opportunity is specifically designed for young adults to own a license and use the brand's playbook, operations, curriculums, and methods to lead programming in local communities.
 
+- 2026-10-15T00:35:58.922Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13977` (validation `847fae1d-e454-4521-ad83-6931394e0290`)
+  - `e1` (source_body): Use DR playbook in your own community, on your own... The day to day duties of the job were unclear... Maybe graduating college students looking for job oportunites that have a background in sports.
+  - `e2` (source_body): It felt unclear of exactly what we would be doing day by day in this job... What if I have a background in sports but not the ones listed in the form? What are the job requirements?
+  - `e3` (source_body): The opportunity feels real, but having you give your information before this makes it seem untrustworthy. I would edit the video adding text and graphics in front of Luis and not have Luis reach for the camera at the end.
+- **fact**: Potential DRF operators (college students) identify the opportunity as using the DR playbook in their own community or teaching sports to children, but frequently find the specific day-to-day duties and job requirements unclear.
+- **fact**: Trust in the DRF opportunity is increased by providing more information, but can be undermined by unprofessional video elements (e.g., reaching for the camera) or asking for information before delivering value.
+
+- 2026-10-15T00:42:41.223Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13997` (validation `edd11526-677f-4ee8-a709-4764eda5f26e`)
+  - `e1` (source_body): What experience I have working, what goals motivate me to be successful, and the type of person I am in a work setting.
+  - `e2` (source_body): It was very character driven which is a good thing, but it also has to go with what special skills that each person has
+  - `e3` (source_body): I would make the swipe questions a likelihood scale from 1-5, saying never to most like me time of situation
+  - `e4` (source_body): Maybe add an optional place to add a resume
+- **fact**: Applicants perceive the DR application as a tool to determine cultural fit, character, and situational handling rather than just technical sports skills.
+- **preference**: Some applicants find 'swipe' style questions awkward or unclear and prefer traditional resume uploads or likelihood scales (1-5) for better accuracy.
+
+- 2026-10-15T00:43:17.456Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-13357` (validation `194e1fa8-5e94-4808-8fc7-76d0c0b8ae9f`)
+  - `e1` (source_body): This is for someone who is driven, coachable and responsible. Someone who wants to use their time wisely. Someone who cares about sports and making an impact. Someone who is hungry to grow. You gain real experience and real responsibility in business, entrepreneurship, and management.
+  - `e2` (source_body): At the core, you would be using our playbook to lead youth sports programming in your area. That means planning seasons, running practices, and creating value for players and families.
+- **fact**: The DRF operator role is designed for driven, coachable, and responsible young adults with sports experience who seek leadership development and business ownership opportunities.
+- **process**: DRF operators use the brand's playbook to lead youth sports programming, which includes planning seasons, running practices, and creating value for families.
+
+- 2026-10-15T00:43:55.354Z — `clickup_doc_page:8cqnrff-12617/8cqnrff-14017` (validation `93ac07b2-3e73-4e4e-98e7-2aaa8f9905d1`)
+  - `e1` (source_body): How would I be started/get trained to be in this position? How much does this role pay?
+  - `e2` (source_body): What am I going to be doing in the day to day. Where am I going to be doing this opportunity and why should it apply for me. Is it locally where I am or do I have to leave and move.
+  - `e3` (source_body): I would make sure that the information in the last video is accessible to anyone even before they apply so that the job is transparent and the applicant knows exactly what they are applying for
+- **fact**: Potential DRF licensees (student avatar) prioritize clarity on day-to-day responsibilities, the specific training/onboarding process, and financial compensation (pay/license costs) when evaluating the opportunity.
+- **fact**: Applicants value transparency regarding job requirements and mission statements before the application process to ensure alignment with the role's demands.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

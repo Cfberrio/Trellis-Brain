@@ -21,6 +21,10 @@ brand_id: "discipline_rift"
   - `e2` (source_child): Done ya actualice los signatures
 - **fact**: Email signatures for Luis Torres (Founder) and Yassine have been updated to use the new blue DR mark (#0497F7) while maintaining the original layout and contact information.
 
+- 2026-10-15T00:37:06.727Z — `clickup:86e3jryeg` (validation `c67b7800-6e95-4c00-a4b4-2e5cea9ba1db`)
+  - `e1` (source_child): @Brain create a subtask to make the logo smaller and put it here
+- **preference**: The new blue DR logo mark in email signatures should be sized smaller to fit the signature layout appropriately.
+
 ## Provenance
 
 - Source: `clickup` `86e3jryeg`

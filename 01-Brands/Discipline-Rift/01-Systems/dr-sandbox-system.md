@@ -18,6 +18,12 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Build a Discipline Rift sandbox: one link that opens a demo hub where anyone we're presenting to can jump into every DR dashboard we've built, logged in as a demo user for each role. It must run on the same live code as production
   - `e2` (source_child): Discipline Rift sandbox is live at https://disciplinerift.com/demo... one link, five tiles: Admin dashboard, Coach dashboard, Parent portal, Registration, Public website. One click logs in as the demo user for that role.
 
+- 2026-10-15T00:40:50.315Z — `clickup:86e3m8qbh` (validation `fb239864-6e6f-4aa6-9b61-4290ecdc6610`)
+  - `e1` (source_child): Discipline Rift sandbox is live at https://disciplinerift.com/demo... one link, five tiles: Admin dashboard, Coach dashboard, Parent portal, Registration, Public website. One click logs in as the demo user for that role. No password. Same live code as production. Only the data is sample.
+- **fact**: The Discipline Rift sandbox is live at https://disciplinerift.com/demo and includes five demo roles: Admin dashboard, Coach dashboard, Parent portal, Registration, and Public website.
+- **rule**: Sandbox data is walled off using 'sample' tags; demo actions are simulated and never trigger real emails, SMS, GHL updates, push notifications, or Stripe charges.
+- **fact**: The sandbox environment resets itself every night at 4 AM to ensure a clean demo state.
+
 ## Provenance
 
 - Source: `clickup` `86e3m8qbh`
