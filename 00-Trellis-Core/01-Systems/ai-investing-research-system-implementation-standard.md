@@ -7,10 +7,10 @@ brand_id: "trellis_core"
 
 ## Canonical Statement
 
+- **decision**: The system resolves two distinct decisions: 1. Vehicle Selection (comparing products following the exact same index using Cost, Performance, Risk, Access, Scale, and Evidence Quality) and 2. Exposure Selection (organizing other indices into Exposure Families within a Market Map).
+- **rule**: When SEC XBRL filings contain internal contradictions (e.g., returns attributed to the wrong share class), the system must mark the data as a conflict and exclude it from comparisons to prevent contamination.
+- **process**: To ensure accurate comparisons across different issuers, the system uses official CUSIP identifiers to validate holdings and identity rather than relying on inconsistent naming conventions.
 - **fact**: The system successfully completed a census of over 1,700 market indices with 96% precision, identifying candidates without manual lists.
-- **process**: To resolve identity conflicts where different issuers use different names for the same holdings, the system uses official CUSIP identifiers (e.g., from Schwab) to ensure accurate comparisons.
-- **rule**: When official data sources (like SEC XBRL filings) contain internal contradictions regarding share class performance, the system marks the data as a conflict and excludes it from comparisons to prevent contamination.
-- **decision**: The system architecture now enforces a strict sequence: index identity -> product mapping -> share class validation -> cost/performance comparison -> risk/category design.
 
 ## Evidence Log
 

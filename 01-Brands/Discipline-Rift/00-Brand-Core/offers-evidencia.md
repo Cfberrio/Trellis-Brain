@@ -41,6 +41,11 @@ brand_id: "discipline_rift"
 - **fact**: Discipline Rift's Fall 2026 marketing focuses on four primary sports: volleyball, flag football, tennis, and pickleball, delivered as 6-week on-campus seasons.
 - **rule**: Coach recruitment messaging emphasizes a structured teaching system and method over individual personality, aligning with the brand's 'Method Home' standards.
 
+- 2026-10-15T17:09:34.203Z — `clickup:86e3qxuru` (validation `f420f052-561c-4710-bc4e-5514af5c7250`)
+  - `e1` (source_child): Regla aplicada: "session" = una práctica. Precio = "per season". Cada línea pagada (niño × equipo de una season) = "registration". /register: "per session" → "per season" (lista y detalle), "Training Sessions (6)" → "Training Sessions Included (6)"
+- **rule**: Terminology standard: 'session' refers to a single practice/training event; 'season' refers to the full multi-week program; 'registration' refers to a paid enrollment line item (child x team).
+- **fact**: The $129 price point is defined as 'per season' (covering approximately 6 training sessions) to avoid parent confusion that the price applies to a single practice.
+
 ## Provenance
 
 - Source: `clickup` `86e3fen3x`
