@@ -142,6 +142,24 @@ brand_id: "discipline_rift"
 - **fact**: Parents evaluate program quality based on age-appropriate grouping, language, and drill complexity rather than just availability or convenience.
 - **fact**: Effective youth sports programs for ages 6-12 distinguish between a 'fun-first' floor for younger players (under-8s) and a 'challenge ceiling' for older players (over-10s).
 
+- 2026-10-16T00:42:30.773Z — `clickup_doc_page:8cqnrff-16717/8cqnrff-19717` (validation `c249c8b3-33e8-4ff2-8248-deac07d4ecb7`)
+  - `e1` (source_body): We can make volleyball accessible for families by bringing equipment and skilled coaches directly to campus. Practices are 6 consecutive weeks per season... We need space for one hour after dismissal, would one day per week be to much to ask?
+- **fact**: Discipline Rift uses a specific cold outreach script for schools that emphasizes facility availability for 6-week seasons, one hour after dismissal, one day per week.
+- **fact**: The school outreach messaging highlights that DR brings all equipment and skilled coaches directly to campus to make sports accessible for families.
+
+- 2026-10-16T00:43:29.114Z — `clickup_doc_page:8cqnrff-16717/8cqnrff-20337` (validation `82ee9d2a-911b-463a-99e7-aec020560b7e`)
+  - `e1` (source_body): We have already submitted our Facilitron reservations and are preparing logistics... Fall Season Start Date: We are currently scheduled to start the week of August 31st... We’re looking forward to joining you for the Meet the Teacher event.
+- **fact**: Discipline Rift manages facility logistics through Facilitron and participates in school events like 'Meet the Teacher' to connect with families and reduce school staff workload.
+- **decision**: The Fall 2026 season is scheduled to start the week of August 31st.
+
+- 2026-10-16T00:44:04.956Z — `clickup_doc_page:8cqnrff-16717/8cqnrff-22337` (validation `a037b575-b164-456c-bc11-ac2bb89a6214`)
+  - `e1` (source_body): We can make volleyball accessible for families by bringing equipment and skilled coaches directly to campus. Practices are 6 consecutive weeks per season, with multiple developmentally appropriate seasons per school year. We actually teach and welcome for first time students.
+  - `e2` (source_body): We need space for one hour after dismissal, would one day per week be to much to ask? Are you the right person to coordinate this, or should I connect with another faculty directly?
+  - `e3` (source_body): Schools like The First Academy, Central Florida Prep, and The Christ School have been hosting our program for the past few years, and we have seen an increased participation of lower-grade students in sports.
+- **fact**: School outreach messaging emphasizes accessibility, on-campus delivery, and developmental appropriateness for lower school students.
+- **fact**: Outreach to schools highlights that programs are parent-funded and require only one hour of space after dismissal, minimizing school operational burden.
+- **fact**: Social proof used in school outreach includes participation from Orange County schools like The First Academy, Central Florida Prep, and The Christ School.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
