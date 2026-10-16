@@ -160,6 +160,30 @@ brand_id: "discipline_rift"
 - **fact**: Outreach to schools highlights that programs are parent-funded and require only one hour of space after dismissal, minimizing school operational burden.
 - **fact**: Social proof used in school outreach includes participation from Orange County schools like The First Academy, Central Florida Prep, and The Christ School.
 
+- 2026-10-16T07:24:54.175Z — `clickup_doc_page:8cqnrff-16717/8cqnrff-19697` (validation `b04d75fb-2a9c-4332-bfc8-fdc856a537b3`)
+  - `e1` (source_body): Schools are not mainly buying volleyball, tennis, pickleball, or flag football. They are buying a low-risk, low-lift enrichment partner. That needs to become the center of every email.
+  - `e2` (source_body): Use one sport as the “spearhead,” not every sport at once... Schools respond better when the ask is simple: “Can we run volleyball after school on Tuesdays?”
+  - `e3` (source_body): Create a School Approval Packet and mention it in every email... This will make schools feel like: “Okay, they’ve done this before. They know how schools work. This will not be messy.”
+- **preference**: Schools are primarily buying a low-risk, low-lift enrichment partner rather than specific sports; outreach should lead with the reduction of staff workload and operational cleanliness.
+- **rule**: School outreach should use a 'spearhead' sport (e.g., volleyball) to make the request concrete, rather than offering multiple sports at once which increases decision friction.
+- **decision**: The 'School Trust Kit' (or Approval Packet) must include a dismissal flow one-pager, safety standards, coach credibility, and communication boundaries to address school risk fears.
+
+- 2026-10-16T07:25:30.832Z — `clickup_doc_page:8cqnrff-16717/8cqnrff-19737` (validation `9b6dc781-7a10-4d63-b64a-f550a6d8232e`)
+  - `e1` (source_body): The email clearly offered volleyball, tennis, and pickleball aftercare sports programs for K–5 students... It reduced the school’s workload: “We’ll also provide all the equipment.”... The facility ask was low-friction: one hour right after school and “any kind of facility space.”
+  - `e2` (source_body): The strongest positioning is: “We make after-school enrichment easy for your school.” Not just: “We offer sports programs.”
+  - `e3` (source_body): Optimized version of the initial email... Programs available: volleyball, tennis, and pickleball. Age group: K–5 students. Season length: 6 weeks. Facility need: one space for one hour after dismissal. Equipment: provided by Discipline Rift.
+- **preference**: School outreach is most effective when it emphasizes low-friction facility needs (one hour after school), provides all equipment, and uses social proof from other local schools.
+- **rule**: School-facing communication should prioritize the 'Anti-Headache' angle: making after-school enrichment easy for the school rather than just offering sports.
+- **preference**: Effective school outreach emails should include specific details: K-5 age group, 6-week season length, and a clear call to action regarding facility availability.
+
+- 2026-10-16T07:26:33.301Z — `clickup_doc_page:8cqnrff-16717/8cqnrff-19677` (validation `2baf88e0-84a0-4476-b5da-b12ab2c64c71`)
+  - `e1` (source_body): Social Proof (Bandwagon Effect) ... 'We currently partner with most schools in the county' ... Low-Lift Framing ... 'we need any kind of facility space for one hour right after school' ... Inclusive Positioning ... 'make it accessible to all students'
+  - `e2` (source_body): Priority 1: The Response After 'We're Interested' Is a Conversion Error ... The response should have closed the next concrete action immediately. ... Propose a specific call to walk through logistics in 10 minutes ... Offer 2–3 specific time options
+  - `e3` (source_body): Priority 3: Email 2 Adds No New Value ... 'Just reaching out to see if there was any update...' ... This is a check-in, not a follow-up. ... Fix — add a social proof hook or a time-bound frame
+- **preference**: School outreach is most effective when it uses social proof (quantifying the number of partner schools), low-lift framing (emphasizing zero operational burden), and inclusive positioning to disarm exclusivity concerns.
+- **rule**: When a school gatekeeper expresses interest, the response must immediately close on a specific next step (e.g., a 10-minute call with 2-3 time options) rather than asking open-ended questions that create friction or 'homework' for the prospect.
+- **rule**: Follow-up emails to schools should add new value (social proof hooks or time-bound scarcity) rather than just 'checking in', which puts the burden of response on the reader.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
