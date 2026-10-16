@@ -45,6 +45,32 @@ brand_id: "orlando_event_venue"
 - **fact**: Standard booking terms require a 50% deposit of the total amount at the time of booking, with the remaining balance due 15 days before the event.
 - **fact**: The 24-hour venue access package is priced at $899 and includes 90 chairs, 10 tables, prep kitchen, and parking. Hourly rentals are available at $140/hour.
 
+- 2026-10-16T16:58:54.664Z — `clickup_doc_page:8cqnrff-18077/8cqnrff-22497` (validation `59a87dd5-dc01-4390-a58a-013dd269db19`)
+  - `e1` (source_body): The team decided to enforce venue policies rigorously, including a strict no‐alcohol rule unless managed by approved vendors... requiring use of approved vendors for beer and wine due to nonprofit constraints.
+  - `e2` (source_body): Discount code setup was illustrated through the creation of codes (e.g., GRAD20) and adjustments to percentages or fixed amounts to attract and manage customer reservations.
+  - `e3` (source_body): demonstrating how bookings are differentiated by type (hourly vs. all-day)... syncing internal events with customer bookings, and ensuring updates appear in both systems.
+- **rule**: OEV enforces a strict no-alcohol policy unless managed by approved vendors for beer and wine, primarily due to non-profit constraints.
+- **fact**: Discount codes (e.g., GRAD20) are used to manage customer reservations, with adjustments possible for percentages or fixed amounts.
+- **process**: Venue bookings are differentiated by type (hourly vs. all-day) and managed via a centralized calendar that syncs internal events with customer bookings.
+
+- 2026-10-16T16:59:31.876Z — `clickup_doc_page:8cqnrff-18077/8cqnrff-22537` (validation `89abfb5e-7a98-4b76-ad8f-3e7216779c06`)
+  - `e1` (source_body): Hourly rental: $139/hour. Minimum booking: 4 hours. Full-day special: $899. Included: 90 chairs and tables, prep kitchen, two bathrooms, main venue space.
+  - `e2` (source_body): Outside alcohol should not be allowed unless managed through the approved vendor/staff process. The transcript explains that beer/wine must be served through the approved vendor because of venue/nonprofit rules.
+  - `e3` (source_body): Basic offer can be around $100 off. Multi-day or larger bookings may receive up to 20% off. Do not exceed 20%.
+- **rule**: Standard venue rental pricing is $139/hour with a 4-hour minimum booking requirement.
+- **rule**: A full-day venue rental special is available for $899.
+- **rule**: Outside alcohol is strictly prohibited; beer and wine must be served through the approved vendor/staff process due to venue and nonprofit compliance rules.
+- **rule**: Standard closing incentives are typically $100 off; multi-day or large bookings may receive up to 20% off, but discounts should not exceed 20% without escalation.
+- **fact**: Base rental includes 90 chairs and tables, a prep kitchen, two bathrooms, and the main venue space.
+
+- 2026-10-16T17:00:16.747Z — `clickup_doc_page:8cqnrff-18077/8cqnrff-22557` (validation `a861aff9-742d-4111-8bb0-5e39fced1618`)
+  - `e1` (source_body): Hourly: $139/hour. Minimum: 4 hours. Full day: $899.
+  - `e2` (source_body): Beer/wine can only be served through the approved vendor/staff process. Outside alcohol is not allowed. Non-alcoholic drinks like water and soda are okay.
+  - `e3` (source_body): Simple discount: around $100 off. Larger/multi-day bookings: up to 20%. Do not go above 20% without Luis.
+- **rule**: Hourly rental is $139/hour with a 4-hour minimum booking requirement.
+- **rule**: Outside alcohol is prohibited; beer and wine may only be served through OEV's approved vendor/staff process.
+- **rule**: Standard discounts include approximately $100 off as a closing incentive, with larger or multi-day bookings eligible for up to 20% off (management approval required above 20%).
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`

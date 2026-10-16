@@ -32,6 +32,17 @@ brand_id: "cheese_to_share"
 - **process**: Operational flow begins before shifts with family-style team alignment and equipment preparation to ensure timely service.
 - **fact**: Canvas Cheese is a specific catering offering that uses edible compositions (cheese, salmon dip, herbs) to resemble watercolor art.
 
+- 2026-10-16T16:52:31.137Z — `clickup_doc_page:8cqnrff-17537/8cqnrff-21477` (validation `206f6c12-30d4-4554-bcbe-cf9d10effb3e`)
+  - `e1` (source_body): Pillar 1 — Grazing Tables (min 20 guests) ... Island Graze $19 guest | Amazing Graze $29 guest | Grand Graze $39 guest
+  - `e2` (source_body): FREE Basque Cheesecake Experience (free across all grazing tiers) ... Island: 2 of 4 · Amazing: 3 of 4 · Grand: 4 of 4
+  - `e3` (source_body): The Signature Moment. Server-led, plated for guests, a "show" inside the event.
+  - `e4` (source_body): Pillar 3 — Lunch & Dinner Catering ... Per-guest base: $16 / guest ... Plating + presentation (we don't drop trays — we plate at the venue)
+  - `e5` (source_body): The board-loop mechanic. The board acts as a re-order trigger. Buyer keeps the board, sees it in their kitchen, orders again to swap it.
+- **decision**: Catering grazing tables are structured into three tiers: Island Graze ($19/guest), Amazing Graze ($29/guest), and Grand Graze ($39/guest), with a 20-guest minimum.
+- **decision**: The 'Basque Cheesecake Experience' is a signature live dessert station included for free with all grazing table and dinner catering orders, featuring 4 flavors and varying topping counts by tier.
+- **decision**: Lunch and dinner catering is priced at a $16/guest base, including plating/presentation on-site, servers, and take-home boxes.
+- **rule**: Cheeseboards (drop-off) follow a 3x3 matrix: Basic, Bella, and Bulla styles across sizes for 10, 15, or 20 guests, with a 'board-loop' mechanic where customers keep the wooden board and return it for a swap on their next order.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11017/8cqnrff-16497`
