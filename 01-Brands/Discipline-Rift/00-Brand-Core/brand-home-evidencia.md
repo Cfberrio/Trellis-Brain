@@ -114,6 +114,10 @@ brand_id: "discipline_rift"
 - **fact**: Ad creative for recruitment is more effective when it shows 'real' practice footage with coaches leading specific drills rather than repetitive B-roll of kids playing.
 - **proposal**: Recruitment funnels should include a post-application video sequence covering mission, commitment, and financials to build trust and filter candidates.
 
+- 2026-10-16T07:34:46.831Z — `clickup_doc_page:8cqnrff-12377/8cqnrff-20737#brand=discipline_rift` (validation `096ba2de-8be2-4869-83d0-29583ca9b5b3`)
+  - `e1` (source_body): Cristian closed Conectar Notion y Claude para curriculums y contenido educativo ([https://app.clickup.com/t/86e17uqe8](https://app.clickup.com/t/86e17uqe8)) ... while also leaving reusable documentation in Claude Code + Notion
+- **fact**: The integration between Notion and Claude for curriculum and educational content development was completed and documented as of May 2026.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
