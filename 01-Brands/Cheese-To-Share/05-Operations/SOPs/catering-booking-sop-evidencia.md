@@ -18,6 +18,13 @@ brand_id: "cheese_to_share"
 - 2026-10-16T16:57:59.758Z — `clickup_doc_page:8cqnrff-17917/8cqnrff-22177`
   - `e1` (source_body): Booking Deposit — 50% to Confirm... Cancellation Policy Cancel 14+ days before your event for a FREE full refund. Cancel 7–14 days before: 10% fee... Event Address ✅ (calculate price for delivery) $2.50 /mile desde 3801 avalon park blvd despues de mile 7
 
+- 2026-10-17T00:38:55.156Z — `clickup_doc_page:8cqnrff-19037/8cqnrff-24557` (validation `45b7be9b-0359-41d7-834c-ef8e2f4541b7`)
+  - `e1` (source_body): Cheese to Share — Post-Booking Communication Sequence. Every email and SMS in this sequence closes with this exact contact info... 14 days before your event — Remaining balance is due... 7 days before your event — Final guest count locks.
+- **process**: The catering post-booking sequence consists of six touchpoints: 01 Booking Confirmed (Email), 02 Balance Due (Email/SMS at 14 days out), 03 Balance Paid (Email), 04 Event Week Details (Email at 7 days out), 05 Day Before (SMS), and 06 Review Request (Email/SMS post-event).
+- **rule**: All catering communications must use the canonical contact block: Cheese To Share, (407) 494-4263, info@cheesetoshare.us, https://www.cheesetoshare.us/. Email sign-offs use 'Warm regards' with the brand block; SMS sign-offs use 'Luis, Cheese To Share'.
+- **rule**: Catering guest counts lock 7 days before the event. Increases are permitted if inventory allows, but decreases after this date do not reduce the total price.
+- **rule**: The remaining catering balance is due 14 days before the event date.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-17917/8cqnrff-22177`

@@ -43,6 +43,14 @@ brand_id: "cheese_to_share"
 - **decision**: Lunch and dinner catering is priced at a $16/guest base, including plating/presentation on-site, servers, and take-home boxes.
 - **rule**: Cheeseboards (drop-off) follow a 3x3 matrix: Basic, Bella, and Bulla styles across sizes for 10, 15, or 20 guests, with a 'board-loop' mechanic where customers keep the wooden board and return it for a swap on their next order.
 
+- 2026-10-17T00:47:27.088Z — `clickup_doc_page:8cqnrff-14577/8cqnrff-16357#brand=cheese_to_share` (validation `794c3219-e722-4f2c-ab80-c68430fa97df`)
+  - `e1` (source_body): FLYER | NEW BREAD BOWLS (NAPOLITANO + MAC & CHEESE)... FLYER | LUNCH SPECIAL FLATBREAD
+  - `e2` (source_body): Reel | WE LOVE TO SHARE (ORIGIN STORY)... CTS “A full event experience” análisis
+  - `e3` (source_body): CTS — AI MENU IMAGE UPGRADE... Cheese To Share Hero Images Website... SANDWICHES STORY PACK
+- **fact**: Cheese To Share expanded its menu in early 2026 to include Bread Bowls (Napolitano and Mac & Cheese) and Lunch Special Flatbreads.
+- **fact**: The brand utilizes specific marketing hooks and content pillars such as 'We Love To Share' (Origin Story) and 'Experience Stations' for catering promotion.
+- **fact**: Operational assets for CTS include AI-upgraded menu images and a robust pipeline of social media content (Reels/Stories) focused on product visual appeal.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11017/8cqnrff-16497`
