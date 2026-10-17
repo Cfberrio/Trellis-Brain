@@ -118,6 +118,14 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Cristian closed Conectar Notion y Claude para curriculums y contenido educativo ([https://app.clickup.com/t/86e17uqe8](https://app.clickup.com/t/86e17uqe8)) ... while also leaving reusable documentation in Claude Code + Notion
 - **fact**: The integration between Notion and Claude for curriculum and educational content development was completed and documented as of May 2026.
 
+- 2026-10-17T07:05:27.045Z — `clickup_doc_page:8cqnrff-15277/8cqnrff-17397#brand=discipline_rift` (validation `76d45ba4-58b3-4f36-a657-44abf0701e94`)
+  - `e1` (source_body): Discipline Rift is built around three main values: - Humble - Hungry - Smart... Humble = recognizing mistakes and staying teachable; Hungry = having the desire to grow; Smart = applying learning, awareness, and good judgment.
+  - `e2` (source_body): Discipline Rift’s main colors are: - blue - white. These colors are part of the brand identity and should be kept in mind when building content.
+  - `e3` (source_body): The communication is primarily directed toward parents. This is important because parents are the ones investing in their children’s development, education, growth, and extracurricular experience.
+- **fact**: Discipline Rift's core values are Humble (recognizing mistakes/teachable), Hungry (desire to grow/improve), and Smart (applying learning/judgment).
+- **fact**: The brand's primary visual identity colors are blue and white.
+- **fact**: Communication is primarily directed toward parents as the decision-makers and investors in their children's development.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
