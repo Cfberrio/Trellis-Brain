@@ -46,6 +46,24 @@ brand_id: "discipline_rift"
 - **rule**: Terminology standard: 'session' refers to a single practice/training event; 'season' refers to the full multi-week program; 'registration' refers to a paid enrollment line item (child x team).
 - **fact**: The $129 price point is defined as 'per season' (covering approximately 6 training sessions) to avoid parent confusion that the price applies to a single practice.
 
+- 2026-10-17T18:43:08.800Z — `clickup_doc_page:8cqnrff-21297/8cqnrff-30777` (validation `dbdf05cf-fba9-478a-b881-61e4c3af1884`)
+  - `e1` (source_body): The team meets at LOCATION at 3:15 PM, and practice runs from 3:30 to 4:30 PM. The program provides all necessary gear and equipment... build key skills such as dinks, volleys, drives, drops, and serves, while also teaching sport-centered life lessons like teamwork, discipline...
+- **fact**: Pickleball practices are held daily after school from 3:30 to 4:30 PM, with teams meeting at 3:15 PM.
+- **fact**: The program provides all necessary pickleball gear, including paddles, balls, portable nets, and cones.
+- **fact**: The pickleball curriculum focuses on developing skills such as dinks, volleys, drives, drops, and serves, alongside life lessons like teamwork and discipline.
+
+- 2026-10-17T18:44:29.333Z — `clickup_doc_page:8cqnrff-21297/8cqnrff-30697` (validation `5b354ddc-8ccb-4fa0-b2dd-0ee4a9a38739`)
+  - `e1` (source_body): The team meets at LOCATION at 2:45 PM, and practice runs from 3:15 to 4:15 PM. The program provides all necessary gear and equipment, including volleyball nets, volleyballs, cones, and drill components. To inspire students to develop a passion for volleyball by building key skills...
+- **fact**: Volleyball practices typically run from 3:15 to 4:15 PM, with teams meeting at 2:45 PM.
+- **fact**: The program provides all necessary gear, including nets, volleyballs, cones, and drill components.
+- **fact**: The volleyball program aims to develop technical skills (passing, setting, hitting, serving) alongside life lessons like teamwork and leadership.
+
+- 2026-10-17T18:45:24.735Z — `clickup_doc_page:8cqnrff-21297/8cqnrff-30717` (validation `6c790ecf-a27f-4c7f-a0a1-63875f09f33d`)
+  - `e1` (source_body): The program provides all necessary gear and equipment, including tennis racquets, tennis balls, portable nets, cones, and drill components. ... The team meets at LOCATION at 3:15 PM, and practice runs from 3:30 to 4:30 PM.
+- **fact**: The Tennis program provides all necessary gear, including racquets, balls, portable nets, and cones.
+- **fact**: Tennis practice typically runs daily from 3:30 to 4:30 PM, with team meetings starting at 3:15 PM.
+- **fact**: The Tennis curriculum focuses on technical skills (forehands, backhands, volleys, serves) alongside life lessons like teamwork and leadership.
+
 ## Provenance
 
 - Source: `clickup` `86e3fen3x`
