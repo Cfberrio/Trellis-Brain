@@ -8,9 +8,10 @@ brand_id: "trellis_core"
 ## Canonical Statement
 
 - **decision**: The system distinguishes between Vehicle Selection (comparing products following the exact same index) and Exposure Selection (organizing different indices into Exposure Families within a Market Map).
-- **process**: Candidate generation is determined by evaluating cost, performance, risk, access, and quality of evidence, avoiding arbitrary scores or relying solely on the highest return.
 - **rule**: Economic categories must be classified by resolving semantic ambiguities (e.g., 'USD Hedged' or 'primarily includes financial companies') to ensure peer groups are truly comparable.
-- **fact**: The system validated identity, exposure, costs, and performance metrics across 264 investment classes, ensuring data is reproducible and audited before generating recommendations.
+- **fact**: Phase 1 validated identity, exposure, costs, and performance metrics across 264 investment classes, ensuring data is reproducible and audited before generating recommendations.
+- **rule**: Data that cannot be verified against official filings (e.g., conflicting SEC XBRL data or unverified monthly returns from MassMutual/TIAA) must be excluded rather than estimated.
+- **process**: Candidate generation is determined by evaluating cost, performance, risk, access, and quality of evidence, avoiding arbitrary scores or relying solely on the highest return.
 
 ## Evidence Log
 
