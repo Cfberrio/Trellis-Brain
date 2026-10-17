@@ -81,6 +81,15 @@ brand_id: "orlando_event_venue"
 - **rule**: Alcohol must be served by a licensed/vetted vendor (Chara Mobile Bar). External bartenders require a $250 vetting fee due to the venue's non-profit ownership.
 - **fact**: Standard bar packages include Essential ($25.63/pp), Signature ($32.13/pp), Bespoke ($39.63/pp), and Beer & Wine ($16.86/pp).
 
+- 2026-10-17T22:44:44.628Z — `clickup_doc_page:8cqnrff-22077/8cqnrff-30397` (validation `dd7d59d8-c3ad-4db4-8385-1a44b2cae5ae`)
+  - `e1` (source_body): Total cost would be $700 ($140/hr × 5 hours) + $199 cleaning fee. ... Pricing is $140/hour (4-hour minimum) or $899 for full-day 24-hour access.
+  - `e2` (source_body): we can host up to 90 guests with 10 tables, 90 chairs, a prep kitchen, and two bathrooms included.
+  - `e3` (source_body): 2,000 sq feet. Since you mentioned 45 people, we definitely have room for you guys.
+  - `e4` (source_body): The LED Package includes: ✓ AV System ✓ Microphones ✓ Speakers ✓ Projectors ✓ Tech Assistant ✓ Stage LED Wall Screen. The technician attending the event will essentially be the DJ.
+- **fact**: OEV pricing is structured as $140/hour (4-hour minimum) or $899 for full-day access, plus a $199 cleaning fee.
+- **fact**: The venue capacity is 2,000 square feet, accommodating up to 90 guests with 10 tables and 90 chairs included.
+- **definition**: The LED Package includes a 6-hour block of production featuring an LED wall screen, AV system, microphones, speakers, and a tech assistant who can manage music/playlists.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`
