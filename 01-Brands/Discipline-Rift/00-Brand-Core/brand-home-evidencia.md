@@ -126,6 +126,14 @@ brand_id: "discipline_rift"
 - **fact**: The brand's primary visual identity colors are blue and white.
 - **fact**: Communication is primarily directed toward parents as the decision-makers and investors in their children's development.
 
+- 2026-10-17T07:15:15.138Z — `clickup_doc_page:8cqnrff-20197/8cqnrff-27277` (validation `cd73297b-1cd8-40ab-a80d-530434f45c0d`)
+  - `e1` (source_body): Veredicto: marca piloto. Es la que tiene la mejor voz documentada y data real de IG. Empezamos aquí.
+  - `e2` (source_body): Cobertura de las 12 preguntas: ~8/12. Lo que falta (8–11) no lo puedo inventar — necesita a Luis. 🔴 (Retention, Metrics, Scale, Referral)
+  - `e3` (source_body): Founder-Voice | DR/03-Evidence/Founder-Voice/Founder-QA-Library-Full.md | ⭐ 55 preguntas respondidas en la voz directa de Luis, en español. El activo más valioso de DR.
+- **fact**: Discipline Rift is designated as the pilot brand for the content engine due to having the best-documented voice and real Instagram data.
+- **fact**: The brand's business context coverage is approximately 8/12 based on the Hormozi questionnaire, with gaps identified in Retention, Metrics, Scale, and Referral.
+- **fact**: The 'Founder-QA-Library-Full' containing 55 Spanish-language responses is the brand's most valuable asset for content scripting and ad voiceover.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
