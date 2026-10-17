@@ -57,6 +57,14 @@ brand_id: "cheese_to_share"
 - **fact**: The brand's Basque-style cheesecake is a key differentiator, featuring a 'burnt' top and a fusion of cheeses designed for a balanced, non-oversweet profile.
 - **fact**: Internal culture includes pre-shift team meetings to ensure alignment and service quality, viewing the team as a 'family'.
 
+- 2026-10-17T15:47:26.927Z — `clickup_doc_page:8cqnrff-16297/8cqnrff-19197#brand=cheese_to_share` (validation `27399600-4241-497f-b9fb-34d390070f59`)
+  - `e1` (source_body): He started at 18. Now he is 24. “I didn’t know everything,” he said. “I had to figure most of it out as I went.”
+  - `e2` (source_body): But once you actually see it being made, you realize it is not just food. It is art. Every piece has a place. Colors are balanced. Textures are considered. Nothing is random, even though it might look effortless. And the goal is not just to make something that looks good. It is to create something
+  - `e3` (source_body): “It’s doing what you said you were going to do, even when you don’t feel like it.” It is simple enough to understand, but difficult to truly follow.
+- **fact**: Cheese to Share was founded by Luis Torres when he was 18 years old.
+- **fact**: The brand's product philosophy treats charcuterie not just as food, but as art where every piece has a place and colors/textures are balanced to create something people gather around.
+- **decision**: The founder defines discipline as 'doing what you said you were going to do, even when you don’t feel like it,' a principle that guides the brand's consistency.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11017/8cqnrff-10757`

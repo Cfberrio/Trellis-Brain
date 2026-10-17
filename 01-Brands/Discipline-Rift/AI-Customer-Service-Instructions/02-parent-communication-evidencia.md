@@ -23,6 +23,23 @@ brand_id: "discipline_rift"
 - **preference**: EOS email templates should use a direct, neutral tone, emphasizing limited spots and registration priority to encourage re-enrollment.
 - **preference**: EOS text messages should be concise, stating the season has ended, the start date for the new season, and providing the registration URL.
 
+- 2026-10-17T15:57:26.811Z — `clickup_doc_page:8cqnrff-21297/8cqnrff-6597` (validation `66b494d5-8f5c-4b1f-a7e3-aee496fe0788`)
+  - `e1` (source_body): 1-Day Reminder for {{ $[json.name] }}
+Hi {{ $json.firstname }},
+There is one day left until the start of {{ $[json.name] }}.
+Make sure to remind your child about the practices! Here’s the complete schedule:
+SCHEDULE
+{{ $json.scheduleHtml }}
+See your child on the court!
+- **decision**: Discipline Rift uses a standardized 1-day reminder email for parents before a season starts, including the child's name, the program name, and the complete schedule.
+- **fact**: The 1-day reminder template includes contact information (info@disciplinerift.com, (407) 614-7454) and emphasizes volleyball, tennis, and pickleball as the core sports.
+
+- 2026-10-17T15:59:51.487Z — `clickup_doc_page:8cqnrff-21297/8cqnrff-8077` (validation `81d66c69-ad8d-4e8c-afb5-3a3e1ce97649`)
+  - `e1` (source_body): Week 1 Focus: Passing & Setting. This week, players will learn the foundations of ball control and teamwork. We will focus on passing to a target and setting up the next play... What to bring: Water bottle, Athletic shoes, Comfortable clothes, Knee pads optional.
+- **fact**: Week 1 of the Discipline Rift Volleyball season focuses on the foundations of ball control and teamwork, specifically passing to a target and setting up the next play.
+- **rule**: The Week 1 parent reminder email must include the practice focus, required gear (water, shoes, clothes, optional knee pads), and specific logistics (date, time, location).
+- **preference**: Parent communication should emphasize the goal of helping players learn the game, grow in confidence, and enjoy being part of a team, while directing questions to the Parent Dashboard.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11657/8cqnrff-10997`

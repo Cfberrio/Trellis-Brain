@@ -51,6 +51,20 @@ brand_id: "cheese_to_share"
 - **fact**: The brand utilizes specific marketing hooks and content pillars such as 'We Love To Share' (Origin Story) and 'Experience Stations' for catering promotion.
 - **fact**: Operational assets for CTS include AI-upgraded menu images and a robust pipeline of social media content (Reels/Stories) focused on product visual appeal.
 
+- 2026-10-17T15:44:21.956Z — `clickup_doc_page:8cqnrff-20797/8cqnrff-27937` (validation `520de5db-79e5-4513-9212-7299ca7af5ac`)
+  - `e1` (source_body): Para confirmar el tema de Pascua, al final va a ser eso, el precio, 80 dólares, ¿cierto? Yo creo que sí, 80 dólares, sí. Ok, ¿y si va a ser cualquier tipo de cheesecake? Eso es lo que estoy viendo, yo lo que estaba pensando, el cheesecake y elige tu toffee, 80 dólares eligiendo tu toffee.
+  - `e2` (source_body): Porque el Dubai es el topping más caro. Sí. Entonces, yo pienso que si ponen 80, eligiendo el topping, ¿entiendes? Ok, listo.
+- **decision**: The Easter (Pascua) cheesecake offer is priced at $80, allowing the customer to choose any topping.
+- **fact**: The 'Dubai' topping is identified as the most expensive topping option in the cheesecake offer.
+
+- 2026-10-17T15:45:20.792Z — `clickup_doc_page:8cqnrff-20837/8cqnrff-27977` (validation `2fbc9927-f488-44f0-a4ba-c480b130a61f`)
+  - `e1` (source_body): va a ser un flatbread de tu preferencia y una soda por $9.99. Ok. ¿Ese es para cuándo? ... Eso ya, bueno, ya, sí, para promocionar los flyers de ese horario que tienes que te puso ya en.
+  - `e2` (source_body): como es Semana Santa y la gente no come carne, los católicos, podemos promocionar el Salmon Toast. Salmón toast, ok. O la tostada de salmón que hay por ahí, porque es con pescado, puede ser.
+  - `e3` (source_body): nosotros deberíamos montar las historias con las fotos que tenemos, por lo menos darle un, darle una vez por día, Mochi, un sándwich. La focaccia hay que promocionarla full
+- **decision**: A new 'Lunch Special' offer is established: a flatbread of choice plus a soda for $9.99, available Monday through Friday from 11:00 AM to 3:00 PM.
+- **decision**: For the Easter/Lent season, the brand will promote the Salmon Toast as a meatless option for Catholic customers.
+- **rule**: Social media strategy requires posting at least one sandwich-related story per day to maintain engagement and showcase menu variety.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11017/8cqnrff-16497`
