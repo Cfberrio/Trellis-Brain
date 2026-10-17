@@ -184,6 +184,16 @@ brand_id: "discipline_rift"
 - **rule**: When a school gatekeeper expresses interest, the response must immediately close on a specific next step (e.g., a 10-minute call with 2-3 time options) rather than asking open-ended questions that create friction or 'homework' for the prospect.
 - **rule**: Follow-up emails to schools should add new value (social proof hooks or time-bound scarcity) rather than just 'checking in', which puts the burden of response on the reader.
 
+- 2026-10-17T22:34:50.529Z — `clickup_doc_page:8cqnrff-21877/8cqnrff-29977` (validation `6448292c-ba24-467a-8089-347d2f20a4e0`)
+  - `e1` (source_body): School (Ms. Alvarez, Potter's House Academy): ...Could you please provide details regarding: Do you rent the facility space? [insurance, screening, ratios, cost...] DR reply: ...Facility Use... Insurance... Screening... Ratios... Supervision/Dismissal...
+  - `e2` (source_body): DR reply: Hey Denise, Soccer is now Wednesdays? We used to be on Thursdays. If we can keep it Thursday it would be better; if not it's ok. We can do Wednesday.
+  - `e3` (source_body): DR reply: Hello Ms. Powell, Usually around 20–24 students per session to ensure a quality experience for everyone.
+  - `e4` (source_body): DR reply: Hi Mrs. Bennett, Welcome back! Congrats on your baby. Wishing blessings upon your whole family. We're here for it!
+  - `e5` (source_body): DR reply: Hi Ms. Permenter! Sorry for the misunderstanding... Please let me know if your Luminary families would be interested in volleyball... we focus in the developmental phase of the sport by bringing the program to schools like Sun Blaze, Village, Laureate and Moss Park.
+- **fact**: School administrators prioritize logistics, safety, and low operational burden when vetting sports programs, specifically requesting details on facility use, insurance, background screenings, and dismissal supervision.
+- **preference**: Discipline Rift maintains a flexible and warm school-facing communication style, conceding on scheduling details (like specific days) to preserve partnerships while maintaining clear boundaries on capacity (20–24 students).
+- **fact**: When facing rejection or 'soft nos' from schools, the brand responds with grace, social proof of nearby partner schools, and an open door for future seasons rather than high-pressure sales tactics.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

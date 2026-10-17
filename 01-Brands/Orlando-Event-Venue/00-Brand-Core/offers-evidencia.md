@@ -71,6 +71,16 @@ brand_id: "orlando_event_venue"
 - **rule**: Outside alcohol is prohibited; beer and wine may only be served through OEV's approved vendor/staff process.
 - **rule**: Standard discounts include approximately $100 off as a closing incentive, with larger or multi-day bookings eligible for up to 20% off (management approval required above 20%).
 
+- 2026-10-17T22:37:46.421Z — `clickup_doc_page:8cqnrff-21937/8cqnrff-30177` (validation `dde7c1d8-1774-4ff5-8444-47e7ba9f9d07`)
+  - `e1` (source_body): Tamaño: ~1,830 sq ft (espacio principal recién ampliado... Capacidad: hasta 90 invitados.
+  - `e2` (source_body): Yes, you have a up until three days before the event to make any changes with guest count. Anything after we cannot provide refunds for as by then, our inventory has been purchased
+  - `e3` (source_body): Chara is our Vetted vendor. If you would like to go with somebody else, you would have to pay $250 in admin fees for us to vet them / This is because the venue is owned by a non-profit
+  - `e4` (source_body): Essential Bar $25.63 per guest... Signature Bar $32.13/pp... Bespoke Bar $39.63/pp... Beer & wine + draft (vía vendor) $16.86/pp
+- **fact**: OEV venue capacity is up to 90 guests with approximately 1,830 sq ft of space.
+- **rule**: Guest count changes are permitted up to 3 days before the event; no refunds are provided after this window as inventory is already purchased.
+- **rule**: Alcohol must be served by a licensed/vetted vendor (Chara Mobile Bar). External bartenders require a $250 vetting fee due to the venue's non-profit ownership.
+- **fact**: Standard bar packages include Essential ($25.63/pp), Signature ($32.13/pp), Bespoke ($39.63/pp), and Beer & Wine ($16.86/pp).
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`
