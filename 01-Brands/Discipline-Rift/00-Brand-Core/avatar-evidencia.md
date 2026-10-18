@@ -194,6 +194,12 @@ brand_id: "discipline_rift"
 - **preference**: Discipline Rift maintains a flexible and warm school-facing communication style, conceding on scheduling details (like specific days) to preserve partnerships while maintaining clear boundaries on capacity (20–24 students).
 - **fact**: When facing rejection or 'soft nos' from schools, the brand responds with grace, social proof of nearby partner schools, and an open door for future seasons rather than high-pressure sales tactics.
 
+- 2026-10-18T16:14:52.948Z — `clickup_doc_page:8cqnrff-22957/8cqnrff-32757` (validation `f480c078-10e3-4bc0-878e-350fc2a62cc9`)
+  - `e1` (source_body): Method: 'Neuroscience: memory patterns, learning/recall, maximizing transfer' | Scale/Proof: '55+ teams in Central Florida, over 2,000 players per year'
+  - `e2` (source_body): Adaptation framework: Her diagnose → slow → ask → switch sequence is exactly what DR wants. This is the ideal answer template for the 'drill isn't working' question.
+- **fact**: Discipline Rift's pitch to stakeholders emphasizes a neuroscience-based method focused on memory patterns and maximizing transfer, alongside a scale of 55+ teams and 2,000+ players annually.
+- **process**: The standard adaptation framework for drills that are failing is a four-step sequence: diagnose the issue, slow the pace, ask players for feedback on what is difficult, and switch the drill if necessary.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

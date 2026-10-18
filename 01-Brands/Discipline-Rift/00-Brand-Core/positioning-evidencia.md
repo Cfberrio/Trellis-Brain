@@ -67,6 +67,14 @@ brand_id: "discipline_rift"
   - `ev1` (source_body): 5 Questions Every Parent Should Ask Before Signing Up for Any Youth Sports Program... What's the method behind your practice? How do you separate players by age and stage? Who supervises your coaches? What does week 1 look like vs week 12? How will I know my player is actually growing?
 - **preference**: Discipline Rift encourages parents to evaluate youth sports programs based on five criteria: the specific coaching method, stage-based (not just age-based) player separation, coach supervision standards, clear week-to-week skill progression, and visible growth markers shared with parents.
 
+- 2026-10-18T16:15:18.082Z — `clickup_doc_page:8cqnrff-22957/8cqnrff-32877` (validation `11efef96-6a56-42ab-b70a-845140242369`)
+  - `e1` (source_body): Champions is primarily ensuring safety and free play, while Discipline Rift taught sports intentionally... This is a persuasion move: reframe her current job as less meaningful to make DR irresistible.
+  - `e2` (source_body): The 'level 20' retention story: First appearance of this narrative device — players who started in K and stayed through 5th grade. Communicates continuity and impact.
+  - `e3` (source_body): Compensation — $70 head, $50 assistant, 3% kickback ($200-$1000 range)
+- **fact**: Discipline Rift differentiates itself from competitors like Champions by focusing on intentional teaching and curriculum rather than just safety and free play.
+- **fact**: The 'level 20' narrative is used to communicate long-term player retention, referring to students who stay in the program from Kindergarten through 5th grade.
+- **decision**: Coach compensation includes a base rate ($70 head / $50 assistant) plus a 3% incentive kickback based on revenue/player count.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3p9m`

@@ -144,6 +144,22 @@ brand_id: "discipline_rift"
 - **decision**: Assistant coaches are paid $50/hour and head coaches $70/hour, with a 3% kickback on team revenue.
 - **process**: The coaching methodology is driven by neuroscience principles (retrieval, retention, transfer) and utilizes a 10-step ladder method for skill progression.
 
+- 2026-10-18T16:15:52.650Z — `clickup_doc_page:8cqnrff-22957/8cqnrff-33017` (validation `02862855-dfae-4bf8-89a2-5b5be3c3f0e7`)
+  - `e1` (source_body): Compensation — $70 head, $54 assistant, 3% revenue share... Assistant pay | $54/hour | Interviewer stated (discrepancy with other interviews: $50)
+  - `e2` (source_body): Values — Humble, Hungry, Smart (EQ emphasis)
+  - `e3` (source_body): Origin Story | ✓ | Shorter — "I found Discipline Rift in 2021... growing for five years"... "55 locations... thousands of students annually"
+- **fact**: Discipline Rift compensation for coaches is set at $70/hour for Head Coaches and $54/hour for Assistants, with a 3% revenue share for lead roles.
+- **fact**: The brand evaluates candidates using the 'Humble, Hungry, Smart' value framework with a specific emphasis on Emotional Intelligence (EQ).
+- **fact**: The founder's origin story for Discipline Rift dates the brand's start to 2021, scaling to 55 locations and thousands of students annually by 2026.
+
+- 2026-10-18T16:16:29.305Z — `clickup_doc_page:8cqnrff-22957/8cqnrff-33137` (validation `a6e30e21-5ed4-41c0-a080-f190c2e7e684`)
+  - `e1` (source_body): Internal systems: Proprietary dashboards, coach-parent communication platform... social media app for messaging
+  - `e2` (source_body): Compensation — $70 head, $50 assistant, 3% kickback ($300-$1000)
+  - `e3` (source_body): Season structure — 6-week cycles, same coach/same teams, schedule released yearly
+- **fact**: Discipline Rift utilizes proprietary internal systems including coach dashboards and a social media-style app for coach-parent messaging.
+- **fact**: The compensation structure for coaches includes $70 for head coaches, $50 for assistants, and a 3% kickback ranging from $300 to $1000 depending on the number of teams.
+- **fact**: The Discipline Rift season structure consists of 6-week cycles with fixed schedules released yearly, maintaining the same coach and teams throughout.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
