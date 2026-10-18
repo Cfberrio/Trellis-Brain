@@ -200,6 +200,20 @@ brand_id: "discipline_rift"
 - **fact**: Discipline Rift's pitch to stakeholders emphasizes a neuroscience-based method focused on memory patterns and maximizing transfer, alongside a scale of 55+ teams and 2,000+ players annually.
 - **process**: The standard adaptation framework for drills that are failing is a four-step sequence: diagnose the issue, slow the pace, ask players for feedback on what is difficult, and switch the drill if necessary.
 
+- 2026-10-18T18:42:45.047Z — `clickup_doc_page:8cqnrff-22957/8cqnrff-33317` (validation `51b58440-36e2-4d24-8ef9-1a2ada0f7d5a`)
+  - `e1` (source_body): Luis suggests other local clubs with later evening slots (Winter Park, Nona, Fever, etc.)... By suggesting specific clubs and maintaining respect, the candidate leaves with a positive impression of DR even without a job. This is reputation management during rejection.
+  - `e2` (source_body): Early disqualification handling: Luis doesn't drag out a doomed interview. Once 9-6 schedule is confirmed, he pivots to helpful guidance... Pattern: identify dealbreaker early → acknowledge candidate quality → redirect gracefully → leave door open.
+- **process**: When a high-quality coach candidate has a schedule conflict, the recruitment process pivots to a 'helpful redirect' by suggesting other local clubs (e.g., Winter Park, Nona, Fever), maintaining brand reputation even during rejection.
+- **rule**: Recruitment interviews should identify dealbreakers (like schedule mismatches) early to avoid dragging out doomed interviews, followed by conditional re-engagement if availability changes.
+
+- 2026-10-18T18:43:11.443Z — `clickup_doc_page:8cqnrff-22957/8cqnrff-34197` (validation `ed9b89bb-f786-4b5c-9cf7-003c8e211728`)
+  - `e1` (source_body): Ratio info — 1:10 coach-to-student; assistant added above 10
+  - `e2` (source_body): Rift = breakthrough moments (spiker anecdote) ... Spiker who struggled all practice then succeeded — emotional celebration
+  - `e3` (source_body): Schedule structure — 6-week cycles, M/Tu/Th/Fri 3:15-4:15, Wed 2:15-3:15
+- **rule**: Discipline Rift maintains a strict coach-to-student ratio of 1:10; if a group exceeds 10 students, an assistant coach is added to the session.
+- **fact**: The brand pitch includes a 'breakthrough moment' anecdote (e.g., a struggling volleyball spiker finally succeeding) to illustrate the 'Rift' in the brand name as an emotional celebration of progress.
+- **fact**: Standard practice times for the 6-week cycles are Monday, Tuesday, Thursday, and Friday from 3:15-4:15 PM, with Wednesday early dismissal sessions from 2:15-3:15 PM.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
