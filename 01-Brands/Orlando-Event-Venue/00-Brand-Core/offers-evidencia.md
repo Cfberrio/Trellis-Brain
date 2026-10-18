@@ -90,6 +90,14 @@ brand_id: "orlando_event_venue"
 - **fact**: The venue capacity is 2,000 square feet, accommodating up to 90 guests with 10 tables and 90 chairs included.
 - **definition**: The LED Package includes a 6-hour block of production featuring an LED wall screen, AV system, microphones, speakers, and a tech assistant who can manage music/playlists.
 
+- 2026-10-18T04:44:23.769Z — `clickup_doc_page:8cqnrff-22077/8cqnrff-30417` (validation `05b38d46-6024-4548-a80a-70b9df0bbf62`)
+  - `e1` (source_body): Essential Bar $25.63 per guest — Signature Bar $32.13 per guest — Bespoke Bar $39.63 per guest (incluye 4h de servicio + montaje de bar + 1 bartender)
+  - `e2` (source_body): Chara is our Vetted vendor. If you would like to go with somebody else, you would have to pay $250 in admin fees for us to vet them / This is because the venue is owned by a non-profit
+  - `e3` (source_body): The code to apply during checkout is SAVE100
+- **fact**: OEV offers three tiered bar packages: Essential Bar at $25.63/guest, Signature Bar at $32.13/guest, and Bespoke Bar at $39.63/guest, including 4 hours of service and a bartender.
+- **rule**: Clients using an outside mobile bartender instead of the vetted vendor (Chara) must pay a $250 admin fee because the venue is owned by a non-profit.
+- **fact**: The standard closing incentive discount code is SAVE100, providing a $100 credit at checkout.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`
