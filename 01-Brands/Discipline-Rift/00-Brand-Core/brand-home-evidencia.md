@@ -134,6 +134,16 @@ brand_id: "discipline_rift"
 - **fact**: The brand's business context coverage is approximately 8/12 based on the Hormozi questionnaire, with gaps identified in Retention, Metrics, Scale, and Referral.
 - **fact**: The 'Founder-QA-Library-Full' containing 55 Spanish-language responses is the brand's most valuable asset for content scripting and ad voiceover.
 
+- 2026-10-18T16:14:15.209Z — `clickup_doc_page:8cqnrff-22957/8cqnrff-32677` (validation `a69d5dd3-a8bb-4c7a-af61-62c63e96c937`)
+  - `e1` (source_body): Scale module — 55+ teams, 2000 players, Central Florida
+  - `e2` (source_body): Access model — After-school 3-4pm, removing barriers, 10:1 ratio, max 20 players
+  - `e3` (source_body): Compensation — $50 assistant, $70 head, 3% kickback on team revenue
+  - `e4` (source_body): Method pitch — Neuroscience, retrieval, retention, transfer, 10-step ladder
+- **fact**: Discipline Rift operates with a scale of 55+ teams and approximately 2000 players per year in Central Florida.
+- **rule**: The standard coach-to-player ratio is 10:1, with a maximum of 20 players per team.
+- **decision**: Assistant coaches are paid $50/hour and head coaches $70/hour, with a 3% kickback on team revenue.
+- **process**: The coaching methodology is driven by neuroscience principles (retrieval, retention, transfer) and utilizes a 10-step ladder method for skill progression.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

@@ -1,0 +1,14 @@
+---
+brain_note_id: "dest:meetings:3997dc270092af7ca9b193af951aa77c"
+canonical_key: "meetings/3997dc270092af7ca9b193af951aa77c"
+brand_id: "meetings"
+---
+# Transcript — 2026-07-29 SyncUp DR Executives (22677)
+
+## Transcript
+
+- Reunión: [[02-Meetings/2026-07-29 SyncUp DR Executives (22677)]]
+
+**Luis Torres**: Amor, did you reschedule your Personal training appointment. We'll be going to a ceremony We will be going to the ceremony at five PM Hey, Miles. Good morning. This is Nick speaking. How can I help you? Good morning, sir. This is Fred. Hi, Fred. How's it going? Great. Great. I got a question for you. Sure. I remember when I did when I did the application, everything they had they charged me. It was a hundred and ninety dollars, two hundred dollars. For to set up the tables and break them down. Right. But they didn't they didn't do none of that. Had to do everything ourselves. I see. I see. I see. I see. That's okay. I'll send you a refund right now, and I'll figure out why they didn't set it up. But they were supposed to it was on the checklist. Because I pulled back I told them I told the girls, no. They should be set up. And she told me, no. They're not. So I went over there with my pastor and a couple of guys, and we set them up for them. You know? Gotcha. Gotcha. Gotcha. Okay. That's fine. Let me go But everything. Alright. That that's but how was everything? What's everything? Okay? Everything was awesome. Thank you. Beautiful. Honestly, better than what I thought it was gonna look. Really? Yeah. And yeah. Because I I was kinda fixed on, a little iffy because I thought it was small, but it turned out to be perfect. And the DJ was awesome. Love that. Love that. Love that. It's perfect. That's awesome. Yeah. I think and we also renovated the venue, it looks better. I think when we first when you first toured it, it was a little bit different. We renovated the floor and the walls, So better place. Great. It looked great. Beautiful. Beautiful. So it's good, brother, man. I'll send you a refund now. Okay? Thank you. And the reason I like that DJ so much is because we had problem with uploading some pictures and stuff we do it right. And when we got there, he didn't know where about it. He took care of it for us. Oh, beautiful. Beautiful. Yeah. He's very savvy. That guy is that guy is awesome. Yeah. And doy tremenda persona. Sí, sí, cien por ciento, cien por ciento, bueno, cien por ciento. Ok. Bueno bless. Awesome. God bless you, friend. Take care, brother. Have a good one. Goodbye. Buenos días, Álvaro. Añadí subtasks basado en lo que hablamos ayer, creo que la mayoría ya están atacados dos han de ahí, por si acaso. Que no se nos olvide nada. Treinta y cuatro créditos en Dovo, que se expiran hoy. Me metí en la experiencia de padres para registración de Dior,
+
+_Sincronizado por Brain: 2026-10-18T16:07:53.593Z_
