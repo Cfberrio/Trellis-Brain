@@ -214,6 +214,11 @@ brand_id: "discipline_rift"
 - **fact**: The brand pitch includes a 'breakthrough moment' anecdote (e.g., a struggling volleyball spiker finally succeeding) to illustrate the 'Rift' in the brand name as an emotional celebration of progress.
 - **fact**: Standard practice times for the 6-week cycles are Monday, Tuesday, Thursday, and Friday from 3:15-4:15 PM, with Wednesday early dismissal sessions from 2:15-3:15 PM.
 
+- 2026-10-19T16:59:11.064Z — `clickup_doc_page:8cqnrff-22977/8cqnrff-34077` (validation `e9f8b75a-4f2f-48f9-a12d-48cb782af5c7`)
+  - `e1` (source_body): Head coaches $70 an hour. Assistants $50. Per hour of practice... Coaches are also paid... 3% of the revenue that's generated through players... Say there is no athletic trainer at practices. School nursing staff are on site, and that is it.
+- **fact**: Discipline Rift does not provide athletic trainers at practices; school nursing staff are the only medical support on site.
+- **fact**: Coach compensation is $70/hr for head coaches and $50/hr for assistants, plus a 3% revenue share based on player enrollment.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
