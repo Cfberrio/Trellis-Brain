@@ -223,6 +223,10 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Where the desired event fires too rarely, gate the signup flow with qualifying questions and fire the optimization event only for users whose answers qualify them.
 - **decision**: To address low conversion event volume in ad campaigns, Discipline Rift will implement a qualification gate in the signup flow, firing the conversion event only for users who meet specific criteria (e.g., age band, school/geography).
 
+- 2026-10-20T18:03:03.815Z — `clickup:86e3tk045` (validation `38e3feeb-0393-44ea-ab87-666bfff2c51a`)
+  - `e1` (source_body): Add a Grade field to the waitlist signup form so every waitlist entry captures the child's grade... Use the same grade options as the main registration form... Carry the grade over when a waitlisted family is invited and registers
+- **process**: The waitlist signup form must capture the child's grade (using the same options as the registration form) to allow admin to qualify families before inviting them. This grade data must persist through the invitation and registration process.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

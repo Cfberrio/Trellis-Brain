@@ -170,6 +170,24 @@ brand_id: "discipline_rift"
   - `e1` (source_body): The conventional 50-results-per-week-per-ad-set guidance can be lowered where the customer journey justifies it, and failing to reach it is not grounds for restructuring.
 - **fact**: The 50-conversions-per-week threshold for ad sets is a guideline, not a hard requirement for account stability; it can be managed based on the customer journey, especially for niche or high-ticket businesses.
 
+- 2026-10-20T18:09:59.077Z — `clickup_doc_page:8cqnrff-23377/8cqnrff-35317` (validation `37e6f62a-9291-4c75-81b0-8abaf57041e6`)
+  - `e1` (source_body): Meta's native creative testing feature prevents the delivery system from optimizing budget toward particular ads during the test, so each test ad receives similar spend and can be compared
+- **process**: Use Meta's native creative testing feature to equalize spend across test ads, allowing for comparable performance evaluation without Meta's optimized budget distribution skewing the results.
+
+- 2026-10-20T18:14:49.429Z — `clickup_doc_page:8cqnrff-23517/8cqnrff-35437` (validation `964899e3-e5ea-4b38-8bab-9223e06efd3b`)
+  - `e1` (source_body): SOUTH-EAST is the only ad set healthy from end to end: cheap CPM, best click→LPV rate (23.5%), and the only one that converts. CPA $19.78 per purchase. ... The funnel bottleneck is not in the ad, it is between the click and the page. 8 out of 10 paid clicks never register as a landing page view.
+- **fact**: The Fall 2026 registration campaign shows that specific geo-targeted ad sets (SOUTH-EAST) and creatives (SPIDER) significantly outperform others, with a 26.96x ROAS at the creative level.
+- **fact**: The primary funnel bottleneck is the conversion from click to landing page view (20% rate), indicating a need for technical diagnosis of tracking or page load performance.
+- **fact**: Attribution for paid registrations is based on the 'last click' principle, using UTM parameters and fbclid to link payments to specific ad sets, regardless of the school or sport selected by the parent.
+
+- 2026-10-20T18:15:11.970Z — `clickup_doc_page:8cqnrff-23517/8cqnrff-35537` (validation `aa1fb9b3-ce05-45ac-8b0e-71f7f635b35f`)
+  - `e1` (source_body): SPIDER tiene el peor CTR del ad set (0.82%) y es el único que vende. GREEN FLYER trae más clicks y más LPV (8) que SPIDER (4) y cierra 0. El CTR está midiendo curiosidad, no intención de compra.
+  - `e2` (source_body): El cuello de botella no está en el anuncio, está entre el click y la página. 8 de cada 10 clicks pagados nunca se registran como landing page view.
+  - `e3` (source_body): La regla de oro: el anuncio que pagó el click se lleva la venta. No la escuela que eligió el padre. No el deporte. El click.
+- **fact**: Ad performance is driven by specific creative assets (e.g., 'SPIDER' static) and geographic targeting; CTR is not a reliable proxy for conversion intent.
+- **fact**: The primary funnel bottleneck is the drop-off between link clicks and landing page views (approx. 80% loss), requiring technical investigation of tracking and page load performance.
+- **fact**: Attribution follows a 'last-click' model where the ad set that paid for the click is credited with the sale, regardless of the school selected by the parent.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
