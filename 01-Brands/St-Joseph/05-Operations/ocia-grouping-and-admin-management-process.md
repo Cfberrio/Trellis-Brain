@@ -17,6 +17,12 @@ brand_id: "st_joseph"
 - 2026-10-17T22:27:54.383Z — `clickup:86e3rgkv1`
   - `e1` (source_body): Groups of ~10 per leader, same people over time, matched by season of life so trust builds faster. Groups live outside OCIA Sundays... No assigned seating on Sundays. Leaders just invite their people to come 10 to 15 min early for breakfast and sit together. Never announce fixed groups.
 
+- 2026-10-20T01:54:25.908Z — `clickup:86e3rgkv1` (validation `cfc3f7b0-fd12-4776-bc99-baf2a7b9d58a`)
+  - `e1` (source_body): New left-nav section: Leaders... Its own section, not inside People... Group page: members with phone/email... Privacy: leaders see contact info and "needs" chips, never Sacraments case notes
+  - `e2` (source_body): These are leaders, not catechists. Their job is relationships, not teaching... Leaders just invite their people to come 10 to 15 min early for breakfast and sit together.
+- **process**: The St. Joseph Admin dashboard includes a 'Leaders' section separate from 'People', featuring a groups board with drag-and-drop functionality, member contact info, and leader-specific checklists, while maintaining privacy by excluding sacramental case notes.
+- **rule**: OCIA leaders are responsible for relationship-building and inviting their group members to sit together 10-15 minutes early for breakfast; they do not have system logins and do not perform teaching duties.
+
 ## Provenance
 
 - Source: `clickup` `86e3rgkv1`

@@ -160,6 +160,16 @@ brand_id: "discipline_rift"
 - **fact**: The compensation structure for coaches includes $70 for head coaches, $50 for assistants, and a 3% kickback ranging from $300 to $1000 depending on the number of teams.
 - **fact**: The Discipline Rift season structure consists of 6-week cycles with fixed schedules released yearly, maintaining the same coach and teams throughout.
 
+- 2026-10-20T02:06:32.911Z — `clickup_doc_page:8cqnrff-23377/8cqnrff-35017` (validation `4d58cae4-09c4-4580-a7e9-f0c3a0b9db3f`)
+  - `e1` (source_body): Convergencias fuertes (clusters independientes): Umbral de matar un creativo ≈ 2–3× el CPA objetivo sin conversión... Una campaña / un ad set por debajo del piso de volumen... No reaccionar a fluctuaciones de mercado
+- **rule**: For Meta Ads, the threshold to kill a creative is 2–3× the target CPA without a conversion. This is a strong, independent consensus across multiple expert clusters.
+- **rule**: Maintain a minimum volume of one campaign/ad set per volume floor to avoid fragmentation.
+- **rule**: Do not react to short-term market fluctuations in ad performance.
+
+- 2026-10-20T02:08:18.247Z — `clickup_doc_page:8cqnrff-23377/8cqnrff-35077` (validation `d85b6d16-cb80-4657-aabb-2950e146e828`)
+  - `e1` (source_body): The conventional 50-results-per-week-per-ad-set guidance can be lowered where the customer journey justifies it, and failing to reach it is not grounds for restructuring.
+- **fact**: The 50-conversions-per-week threshold for ad sets is a guideline, not a hard requirement for account stability; it can be managed based on the customer journey, especially for niche or high-ticket businesses.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

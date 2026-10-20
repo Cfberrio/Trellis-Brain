@@ -64,6 +64,11 @@ brand_id: "discipline_rift"
 - **fact**: Tennis practice typically runs daily from 3:30 to 4:30 PM, with team meetings starting at 3:15 PM.
 - **fact**: The Tennis curriculum focuses on technical skills (forehands, backhands, volleys, serves) alongside life lessons like teamwork and leadership.
 
+- 2026-10-20T02:05:56.041Z — `clickup_doc_page:8cqnrff-23377/8cqnrff-34777` (validation `16eb34d3-0cab-4fca-9c43-a713cb0e76e4`)
+  - `e1` (source_body): 1 campaign → 3 geographic Ad Sets → 5 creative concepts per Ad Set... The 3-Ad-Set hybrid structure exists because the business wants deliberate geographic budget control... The campaign is not being built for retargeting.
+- **fact**: The Fall 2026 Volleyball registration campaign uses a 1-campaign, 3-geographic-Ad-Set, 5-creative-concept structure to maintain regional budget control while optimizing for paid registrations.
+- **fact**: The campaign targeting strategy relies on geographic school-radius control and Lookalike audiences rather than interest-based stacking, with a focus on the 'Purchase' conversion event.
+
 ## Provenance
 
 - Source: `clickup` `86e3fen3x`

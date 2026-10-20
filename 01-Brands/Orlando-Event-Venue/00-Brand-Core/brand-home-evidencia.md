@@ -25,6 +25,10 @@ brand_id: "orlando_event_venue"
   - `e1` (source_body): También tenemos pendiente el tema de los ads de Google de OEV. Estan pausados actualmente
 - **fact**: As of June 2026, Orlando Event Venue Google Ads are currently paused.
 
+- 2026-10-20T02:00:51.400Z — `clickup_doc_page:8cqnrff-25577/8cqnrff-39237#brand=orlando_event_venue` (validation `938adc0a-7b71-43fd-8bba-8b1ed3d6d033`)
+  - `e1` (source_body): Se decidió no editar el listing viejo y, en su lugar, abrir un listing nuevo en la cuenta nueva.
+- **decision**: For PeerSpace, the strategy is to avoid editing the existing listing and instead create a new listing under a new account.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

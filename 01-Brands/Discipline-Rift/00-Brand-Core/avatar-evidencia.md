@@ -219,6 +219,10 @@ brand_id: "discipline_rift"
 - **fact**: Discipline Rift does not provide athletic trainers at practices; school nursing staff are the only medical support on site.
 - **fact**: Coach compensation is $70/hr for head coaches and $50/hr for assistants, plus a 3% revenue share based on player enrollment.
 
+- 2026-10-20T02:07:48.290Z — `clickup_doc_page:8cqnrff-23377/8cqnrff-35057` (validation `a40ea9b7-2d34-4448-9a39-f036b1f2b842`)
+  - `e1` (source_body): Where the desired event fires too rarely, gate the signup flow with qualifying questions and fire the optimization event only for users whose answers qualify them.
+- **decision**: To address low conversion event volume in ad campaigns, Discipline Rift will implement a qualification gate in the signup flow, firing the conversion event only for users who meet specific criteria (e.g., age band, school/geography).
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
