@@ -69,6 +69,10 @@ brand_id: "discipline_rift"
 - **fact**: The Fall 2026 Volleyball registration campaign uses a 1-campaign, 3-geographic-Ad-Set, 5-creative-concept structure to maintain regional budget control while optimizing for paid registrations.
 - **fact**: The campaign targeting strategy relies on geographic school-radius control and Lookalike audiences rather than interest-based stacking, with a focus on the 'Purchase' conversion event.
 
+- 2026-10-21T01:49:50.640Z — `clickup_doc_page:8cqnrff-24217/8cqnrff-36497` (validation `b0b4e74b-6c0b-4ac8-8853-eeeea28451ac`)
+  - `e1` (source_body): It was only $129 for a six-week season, with practice once a week. Click the link so you can search for your child's school and register.
+- **fact**: Discipline Rift uses specific marketing content to drive registration, emphasizing convenience (on-campus), beginner-friendliness, and a fixed $129 seasonal price.
+
 ## Provenance
 
 - Source: `clickup` `86e3fen3x`

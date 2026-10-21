@@ -29,6 +29,10 @@ brand_id: "orlando_event_venue"
   - `e1` (source_body): Se decidió no editar el listing viejo y, en su lugar, abrir un listing nuevo en la cuenta nueva.
 - **decision**: For PeerSpace, the strategy is to avoid editing the existing listing and instead create a new listing under a new account.
 
+- 2026-10-21T01:42:26.015Z — `clickup:86e3twwk8` (validation `aa6c4234-14d2-4d2d-b5bf-4969a5c593ac`)
+  - `e1` (source_body): Decisión: estrategia multicanal, no migración total. ... Ejecutar el piloto multicanal de 60 días: mantener Peerspace, lanzar Giggster + Tagvenue + Eventective, reforzar Google Business Profile y la web propia, y medir reservas netas por origen.
+- **decision**: OEV is adopting a multi-channel marketing strategy, maintaining Peerspace while expanding to Giggster and Tagvenue to increase lead volume, while keeping all bookings and payments within the existing CRM and booking systems.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

@@ -98,6 +98,10 @@ brand_id: "orlando_event_venue"
 - **rule**: Clients using an outside mobile bartender instead of the vetted vendor (Chara) must pay a $250 admin fee because the venue is owned by a non-profit.
 - **fact**: The standard closing incentive discount code is SAVE100, providing a $100 credit at checkout.
 
+- 2026-10-21T01:40:44.363Z — `clickup:86e3tcb5n` (validation `4efa6538-feb2-4e45-9414-0874b3fb129c`)
+  - `e1` (source_child): Precios: $79/h lun–jue, $139/h vie–dom, mínimo 3h. Descuento de 19% desde 8h: 8h de fin de semana = $900 (el daily rate de $899). Cleaning fee $99, Instant Book activado, capacidad 90. ... Decidí: bar solo a través de OEV (igual que la web) y usar las multas del borrador de Luis ($100–$250).
+- **fact**: OEV Peerspace listing is active for Events and Meetings with a capacity of 90, featuring dynamic hourly pricing ($79/h weekdays, $139/h weekends), a $99 cleaning fee, and enforced policies including OEV-managed bar service and specific penalty fines ($100–$250).
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`

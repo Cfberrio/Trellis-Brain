@@ -188,6 +188,34 @@ brand_id: "discipline_rift"
 - **fact**: The primary funnel bottleneck is the drop-off between link clicks and landing page views (approx. 80% loss), requiring technical investigation of tracking and page load performance.
 - **fact**: Attribution follows a 'last-click' model where the ad set that paid for the click is credited with the sale, regardless of the school selected by the parent.
 
+- 2026-10-21T01:41:14.162Z — `clickup:86e3trjzp` (validation `0de0de63-8ae6-4edb-811e-121f83518dcb`)
+  - `e1` (source_body): {name} per contact: each faculty member gets their own email ("Morning Ms. Carmen!"), with "there" as the fallback when no name is saved. Own flyer per school, uploaded with drag-and-drop. It replaces the sport flyers in the email, and the Flyers list shows an "Own flyer" badge.
+- **process**: The flyer email template now supports a {name} dynamic field for personalized greetings, pulling from School Contacts, with 'Hi there,' as the fallback.
+- **process**: The system now supports per-school flyer overrides (PDF/PNG) for schools with complex schedules, replacing standard per-sport flyers in emails.
+
+- 2026-10-21T01:44:18.458Z — `clickup_doc_page:8cqnrff-23517/8cqnrff-36217` (validation `68301a7c-8f84-4b91-85b4-2d53d3d9fa7d`)
+  - `e1` (source_body): No vamos a tocar los Lookalikes en este momento... El primer paso ahora será verificar el funnel... el segundo ajuste será a nivel de creatives... Pausar Raw Practice Video en West original. Pausar Spider en South-East. No crear nuevos Ad Sets y evitar seguir fragmentando el presupuesto.
+- **decision**: Discipline Rift will maintain current audience targeting (Lookalikes) and avoid creating new Ad Sets to prevent budget fragmentation, while pausing specific underperforming creatives (Raw Practice Video in West, Spider in South-East) to improve conversion efficiency.
+
+- 2026-10-21T01:47:55.116Z — `clickup_doc_page:8cqnrff-24017/8cqnrff-36177` (validation `7c298a10-8a66-48b7-8447-a1788b22a2b3`)
+  - `e1` (source_body): La meta debería ser que nuestros SMS tengan máximo 1–2 segmentos, nunca 10, 15 o 19. ... La estructura ideal sería: Email: toda la información detallada. SMS: recordatorio corto para que la persona revise el email o abra el link.
+- **rule**: To optimize GHL costs, SMS must be limited to 1-2 segments. Extensive information must be moved to email or links. SMS should serve as a short reminder to check the email/link.
+- **process**: Before sending mass communications, the segment count of SMS must be reviewed to prevent excessive billing from long messages.
+- **fact**: Inbound Webhooks in GHL workflows generate costs; these must be audited to identify unnecessary executions or duplications before considering premium upgrades.
+
+- 2026-10-21T01:54:28.688Z — `clickup_doc_page:8cqnrff-24417/8cqnrff-36837` (validation `0e71368c-a637-455b-9675-de82ab3ca352`)
+  - `e1` (source_body): Equipos activos | 41
+Inscripciones activas | 488
+Estudiantes únicos | 474
+Revenue acumulado | $65,082.45
+... volleyball | 33 | 378 | $49953.52
+- **fact**: As of September 2026, Discipline Rift has 41 active teams and 488 active enrollments across 474 unique students, generating $65,082.45 in revenue for the Fall 2026 season.
+- **fact**: Volleyball remains the primary spearhead sport with 33 teams and 378 students, while tennis, flag football, and pickleball are also active.
+
+- 2026-10-21T01:54:55.339Z — `clickup_doc_page:8cqnrff-24437/8cqnrff-36857` (validation `73020b5d-fd41-4408-ad7d-fa7de07f0504`)
+  - `e1` (source_body): El error sería reaccionar haciendo otra cirugía de Lookalikes cuando la data no muestra un problema de delivery. [...] consolidar suele ser más lógico que seguir creando celdas.
+- **fact**: Meta Ads performance for Discipline Rift is optimized by consolidating structures and focusing on creative/message freshness rather than audience fragmentation.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
