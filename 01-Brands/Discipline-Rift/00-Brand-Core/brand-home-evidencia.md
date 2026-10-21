@@ -216,6 +216,10 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): El error sería reaccionar haciendo otra cirugía de Lookalikes cuando la data no muestra un problema de delivery. [...] consolidar suele ser más lógico que seguir creando celdas.
 - **fact**: Meta Ads performance for Discipline Rift is optimized by consolidating structures and focusing on creative/message freshness rather than audience fragmentation.
 
+- 2026-10-21T01:57:20.385Z — `clickup_doc_page:8cqnrff-22037/8cqnrff-30277#brand=discipline_rift` (validation `3421adda-3961-48af-8323-00243d1bfa54`)
+  - `e1` (source_body): Decisión: inyectar CURRENT_DATETIME... en TODAS las llamadas... Regla general: una política de seguridad que depende de que el modelo se auto-limite no es una política — es una sugerencia. El enforcement va en código; el prompt solo calibra el score honesto.
+- **decision**: AI bot architecture for Discipline Rift must use dynamic grounding from the database for operational data, inject CURRENT_DATETIME as mandatory context, and enforce safety gates (e.g., confidence scores) in code rather than relying on prompt instructions.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
