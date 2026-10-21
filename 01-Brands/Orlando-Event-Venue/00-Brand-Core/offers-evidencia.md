@@ -102,6 +102,11 @@ brand_id: "orlando_event_venue"
   - `e1` (source_child): Precios: $79/h lun–jue, $139/h vie–dom, mínimo 3h. Descuento de 19% desde 8h: 8h de fin de semana = $900 (el daily rate de $899). Cleaning fee $99, Instant Book activado, capacidad 90. ... Decidí: bar solo a través de OEV (igual que la web) y usar las multas del borrador de Luis ($100–$250).
 - **fact**: OEV Peerspace listing is active for Events and Meetings with a capacity of 90, featuring dynamic hourly pricing ($79/h weekdays, $139/h weekends), a $99 cleaning fee, and enforced policies including OEV-managed bar service and specific penalty fines ($100–$250).
 
+- 2026-10-21T18:08:54.251Z — `clickup:86e3tcb5n` (validation `fc587679-d9e4-49d0-ba9d-d307bd16fe8d`)
+  - `e1` (source_child): Precios: $79/h lun–jue, $139/h vie–dom, mínimo 3h. Descuento de 19% desde 8h: 8h de fin de semana = $900 (el daily rate de $899). Cleaning fee $99, Instant Book activado, capacidad 90. ... Decidí: bar solo a través de OEV (igual que la web) y usar las multas del borrador de Luis ($100–$250).
+- **fact**: OEV Peerspace listing pricing is set at $79/h (Mon–Thu) and $139/h (Fri–Sun) with a 3-hour minimum, a $99 cleaning fee, and a 19% discount for 8-hour bookings ($900 daily rate).
+- **rule**: OEV enforces a strict alcohol policy on Peerspace: bar service is only available through OEV, and standard penalty fees ($100–$250) apply for policy violations.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`
