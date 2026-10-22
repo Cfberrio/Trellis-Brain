@@ -75,6 +75,10 @@ brand_id: "discipline_rift"
 - **fact**: The 'level 20' narrative is used to communicate long-term player retention, referring to students who stay in the program from Kindergarten through 5th grade.
 - **decision**: Coach compensation includes a base rate ($70 head / $50 assistant) plus a 3% incentive kickback based on revenue/player count.
 
+- 2026-10-22T18:05:22.212Z — `clickup_doc_page:8cqnrff-5297/8cqnrff-3617` (validation `b3b69faa-89e1-450a-828e-ac21e9a494c9`)
+  - `e1` (source_body): Short: We help parents of kids 6–12 get their child active and confident through fun-first, on-campus after school sports seasons led by specialized coaches. ... We help schools boost youth sports participation with a fun-first on-campus program led by trained coaches that is parent-funded.
+- **fact**: Discipline Rift uses specific, concise messaging for parents and schools to communicate its value as a fun-first, on-campus, beginner-friendly sports program.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3p9m`

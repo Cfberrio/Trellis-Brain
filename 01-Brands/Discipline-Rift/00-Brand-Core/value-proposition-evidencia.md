@@ -19,6 +19,12 @@ brand_id: "discipline_rift"
   - `e4` (source_body): Communication is non-negotiable. You have to call the ball. Out loud. Every time. Quiet players get exposed fast — and grow fast — in volleyball.
   - `e5` (source_body): Mistakes belong to the team, not the individual. A missed point isn't "your fault." The team owns it. That's the closest a sport gets to teaching emotional fairness.
 
+- 2026-10-22T18:09:43.574Z — `clickup_doc_page:8cqnrff-5297/8cqnrff-5797` (validation `fe8a138e-02e1-46e2-aab8-fe8868166a24`)
+  - `e1` (source_body): Define “win conditions” you can control: sessions guaranteed (if you cancel, you make it up); “Beginner-to-game” progression (clear milestones); “Confidence moments” tracked (simple rubric). This increases Perceived Likelihood with structure and proof.
+  - `e2` (source_body): Force “wins” inside 48 hours of purchase... Instant “Welcome + what to expect” page; Same-day coach intro (short video); Gear checklist + “first practice success” script; Day-1 “your kid’s first win” text template.
+- **fact**: To increase Perceived Likelihood, the offer should define clear 'win conditions' such as guaranteed sessions, 'beginner-to-game' progression milestones, and tracked 'confidence moments'.
+- **fact**: Forcing early wins within 48 hours of purchase (e.g., welcome page, same-day coach intro, gear checklist) reduces perceived time delay and increases trust.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-16057/8cqnrff-18597`

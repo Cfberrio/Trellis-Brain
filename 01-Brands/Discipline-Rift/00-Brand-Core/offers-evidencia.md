@@ -73,6 +73,10 @@ brand_id: "discipline_rift"
   - `e1` (source_body): It was only $129 for a six-week season, with practice once a week. Click the link so you can search for your child's school and register.
 - **fact**: Discipline Rift uses specific marketing content to drive registration, emphasizing convenience (on-campus), beginner-friendliness, and a fixed $129 seasonal price.
 
+- 2026-10-22T18:06:57.406Z — `clickup_doc_page:8cqnrff-5297/8cqnrff-3717` (validation `2a37235a-d1fd-41ca-8a8f-512fb19de377`)
+  - `e1` (source_body): Customer journey ladder (sequence of offers): 1) Entry / acquisition offer (First-Practice Pass), 2) Core offer (Discipline Rift Developmental Season), 3) Upsell(s) (DR Home Playbook, Season Progress Pack), 4) Continuity (DR Home Club), 5) Downsell(s) (Payment plan, Digital-only).
+- **fact**: The DR money model consists of a structured ladder: 1) Entry (First-Practice Pass), 2) Core (Developmental Season), 3) Upsells (Home Playbook, Progress Pack), 4) Continuity (Home Club), and 5) Downsells (Payment plans, Digital-only).
+
 ## Provenance
 
 - Source: `clickup` `86e3fen3x`

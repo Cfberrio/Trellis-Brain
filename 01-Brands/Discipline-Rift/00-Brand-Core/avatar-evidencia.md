@@ -227,6 +227,11 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Add a Grade field to the waitlist signup form so every waitlist entry captures the child's grade... Use the same grade options as the main registration form... Carry the grade over when a waitlisted family is invited and registers
 - **process**: The waitlist signup form must capture the child's grade (using the same options as the registration form) to allow admin to qualify families before inviting them. This grade data must persist through the invitation and registration process.
 
+- 2026-10-22T18:07:58.216Z — `clickup_doc_page:8cqnrff-5297/8cqnrff-3757` (validation `58f22770-85ec-406a-8ce5-00b4d1486176`)
+  - `e1` (source_body): Use the cadence Hormozi lays out for the first 7 days (front-load while intent is hot): Day 0: immediate email + (if you collect phone) call/text fast; Days 1–2: 2 touches/day; Days 3–7: 1 touch/day; After Day 7: weekly touches through Day 30 or until they convert.
+- **process**: The conversion system for parents follows a 7-day front-loaded sprint (Day 0: immediate, Days 1-2: 2/day, Days 3-7: 1/day) followed by weekly touches through Day 30 to maximize show/enrollment rates.
+- **process**: The assisted checkout process requires capturing the parent's email early to send a registration link, then walking them through the process live on the phone without haggling on price.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
