@@ -33,6 +33,10 @@ brand_id: "orlando_event_venue"
   - `e1` (source_body): Decisión: estrategia multicanal, no migración total. ... Ejecutar el piloto multicanal de 60 días: mantener Peerspace, lanzar Giggster + Tagvenue + Eventective, reforzar Google Business Profile y la web propia, y medir reservas netas por origen.
 - **decision**: OEV is adopting a multi-channel marketing strategy, maintaining Peerspace while expanding to Giggster and Tagvenue to increase lead volume, while keeping all bookings and payments within the existing CRM and booking systems.
 
+- 2026-10-22T01:42:29.334Z — `clickup_doc_page:8cqnrff-4897/8cqnrff-2877` (validation `8519f3d0-d750-4efa-bcca-4eaaa67a66df`)
+  - `e1` (source_body): Subject: Reservation Confirmation for Your Event... Important Notes: Setup and Breakdown Times... Alcohol Policy... Setup and Breakdown Responsibility... Prohibited Items... Production/AV Needs
+- **fact**: OEV uses standardized email templates for reservation confirmation, pre-event reminders, and post-event follow-up, which include venue details, setup/breakdown policies, alcohol policies, and prohibited items.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

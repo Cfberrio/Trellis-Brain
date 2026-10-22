@@ -107,6 +107,32 @@ brand_id: "orlando_event_venue"
 - **fact**: OEV Peerspace listing pricing is set at $79/h (Mon–Thu) and $139/h (Fri–Sun) with a 3-hour minimum, a $99 cleaning fee, and a 19% discount for 8-hour bookings ($900 daily rate).
 - **rule**: OEV enforces a strict alcohol policy on Peerspace: bar service is only available through OEV, and standard penalty fees ($100–$250) apply for policy violations.
 
+- 2026-10-22T01:41:01.925Z — `clickup_doc_page:8cqnrff-4897/8cqnrff-2817` (validation `5716a21c-9e8d-43f2-a763-7e171f08e321`)
+  - `e1` (source_body): Rental Rates: Hourly Rate: $140/hour (4-hour minimum); Daily Rate Special: $899/day (24-hour access); Cleaning Fee: $199 per reservation. Production Packages: Basic Package: $79/hour; LED Package: $99/hour; Workshop Package: $149/hour.
+- **fact**: OEV offers a standard hourly rate of $140/hour (4-hour minimum) and a daily rate of $899/day (24-hour access), with a $199 cleaning fee per reservation.
+- **fact**: Production packages include a Basic Package ($79/hour), LED Package ($99/hour), and Workshop Package ($149/hour), with optional setup/breakdown ($100) and tablecloth rental ($5/tablecloth + $25 cleaning fee).
+
+- 2026-10-22T01:41:32.457Z — `clickup_doc_page:8cqnrff-4897/8cqnrff-2837` (validation `0874263a-1b6b-4205-aefb-9f9c11eb14ef`)
+  - `e1` (source_body): Included in Your Reservation
+* 90 chairs
+* 10 tables
+* 1 TV screen
+* 2 projectors and LED Screen (production package needed to use any technical equipment)
+Available for an Additional Cost
+* Screen Projection with Audio... Microphone Use... Setup and Breakdown... Specialized Audio/Visual Needs
+- **fact**: The standard venue reservation includes 90 chairs, 10 tables, 1 TV screen, and 2 projectors/LED screen (production package required for technical use).
+- **fact**: Additional services available for cost include screen projection with audio, microphone setup, furniture arrangement/breakdown, and specialized AV support (requires 3-hour technician minimum).
+
+- 2026-10-22T01:43:50.427Z — `clickup_doc_page:8cqnrff-4977/8cqnrff-11737` (validation `59cdfc23-4674-4322-b0fa-42063b7185af`)
+  - `e1` (source_body): OEV-LM-E01 | Email | Immediately | Deliver the Event Planning Kit and PLAN50
+OEV-LM-S01 | SMS | Immediately | Deliver the Event Planning Kit and PLAN50
+  - `e2` (source_body): Use PLAN50 for $50 OFF your venue rental
+Code: PLAN50
+Offer: $50 OFF your venue rental
+Use: Enter the code during checkout
+- **fact**: The OEV Lead Magnet system delivers an Event Planning Kit and a $50 discount (PLAN50) to leads via email and SMS immediately upon form submission.
+- **fact**: The PLAN50 offer is a $50 discount on venue rental, applied during checkout.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`
