@@ -224,6 +224,14 @@ Revenue acumulado | $65,082.45
   - `e1` (source_child): Fix: the dashboard now lists open, ongoing and upcoming. It always shows at least what the public page shows, and a test enforces that.
 - **fact**: The Parent Portal dashboard registration flow must display open, ongoing, and upcoming seasons to ensure parents can successfully register for teams, matching the visibility of the public website.
 
+- 2026-10-23T18:01:20.899Z — `clickup_doc_page:8cqnrff-23197/8cqnrff-34437#brand=discipline_rift` (validation `8b9f2c3c-3515-41af-8154-a186045a29bb`)
+  - `e1` (source_body): Lovable cobra el database server así: tamaño de instancia × tiempo que la base permanece activa × tráfico. Una base encendida cuesta prácticamente lo mismo con 10 visitas que con 1,000. Está prendida 24/7 y eso se paga todos los días
+  - `e2` (source_body): La regla que evita el problema: un sitio informativo (páginas, fotos, formulario de contacto) no necesita base de datos. El formulario puede enviar directo a GHL, que ya es el CRM. Solo necesitan base los sitios con reservas, pagos o cuentas de usuario.
+  - `e3` (source_body): Supabase Realtime sincronizaba en vivo dos tablas de chat que reciben 3 mensajes al mes... el hook de notificaciones se monta en el Sidebar, la campana y la vista de mensajes, así que cada padre que entraba a su dashboard abría hasta 3 canales de Realtime a la vez.
+- **fact**: Lovable database costs are primarily driven by the server instance being active 24/7, regardless of traffic volume. Optimization of variable consumption (queries, functions) has a technical ceiling; the base cost remains constant while the project exists.
+- **rule**: Informational websites (pages, photos, contact forms) should not use a database to avoid unnecessary server costs. Databases are reserved only for sites requiring reservations, payments, or user accounts.
+- **fact**: Supabase Realtime synchronization was a major CPU consumer for Discipline Rift due to redundant channel subscriptions in the UI. Disabling Realtime for chat features (where message volume is low) significantly reduced CPU usage without breaking functionality.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
