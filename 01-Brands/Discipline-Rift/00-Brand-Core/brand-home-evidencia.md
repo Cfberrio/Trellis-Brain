@@ -220,6 +220,10 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): Decisión: inyectar CURRENT_DATETIME... en TODAS las llamadas... Regla general: una política de seguridad que depende de que el modelo se auto-limite no es una política — es una sugerencia. El enforcement va en código; el prompt solo calibra el score honesto.
 - **decision**: AI bot architecture for Discipline Rift must use dynamic grounding from the database for operational data, inject CURRENT_DATETIME as mandatory context, and enforce safety gates (e.g., confidence scores) in code rather than relying on prompt instructions.
 
+- 2026-10-23T17:56:27.067Z — `clickup:86e3v9cgm` (validation `a5c86cad-3ebc-40c9-a745-e00424f6eccf`)
+  - `e1` (source_child): Fix: the dashboard now lists open, ongoing and upcoming. It always shows at least what the public page shows, and a test enforces that.
+- **fact**: The Parent Portal dashboard registration flow must display open, ongoing, and upcoming seasons to ensure parents can successfully register for teams, matching the visibility of the public website.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

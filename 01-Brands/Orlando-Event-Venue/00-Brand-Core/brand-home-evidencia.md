@@ -43,6 +43,11 @@ brand_id: "orlando_event_venue"
 ![](https://t9017418223.p.clickup-attachments.com/t9017418223/cd38be93-bdf0-4590-aa18-43d3153e5d64/oev-logo-icon.png)
 - **fact**: The Orlando Event Venue brand utilizes a specific logo and icon set for its visual identity.
 
+- 2026-10-23T17:54:41.487Z — `clickup_doc_page:8cqnrff-7037/8cqnrff-4737` (validation `0d5ae284-bbba-49dd-9f92-03878470a5b5`)
+  - `e1` (source_body): Primary model (recommended focus: corporate + workshops)
+We help corporate teams and local hosts run smooth, professional events via a flexible 90-guest venue + optional staffed AV/LED/streaming production, and we get paid via hourly/day venue rental + cleaning fee + add-on production packages.
+- **fact**: The OEV business model is structured into a primary focus on corporate teams and workshops (venue rental + cleaning + production packages) and a secondary focus on social celebrations (venue rental + cleaning + setup/production add-ons).
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
