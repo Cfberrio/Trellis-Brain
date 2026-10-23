@@ -37,6 +37,12 @@ brand_id: "orlando_event_venue"
   - `e1` (source_body): Subject: Reservation Confirmation for Your Event... Important Notes: Setup and Breakdown Times... Alcohol Policy... Setup and Breakdown Responsibility... Prohibited Items... Production/AV Needs
 - **fact**: OEV uses standardized email templates for reservation confirmation, pre-event reminders, and post-event follow-up, which include venue details, setup/breakdown policies, alcohol policies, and prohibited items.
 
+- 2026-10-23T01:38:49.549Z — `clickup_doc_page:8cqnrff-5957/8cqnrff-3997` (validation `7446bc4d-561a-4f0b-abb6-c40f2b1b9f16`)
+  - `e1` (source_body): ![](https://t9017418223.p.clickup-attachments.com/t9017418223/52e5eab5-d34f-464c-8e16-9c3de1de263b/image.png)
+
+![](https://t9017418223.p.clickup-attachments.com/t9017418223/cd38be93-bdf0-4590-aa18-43d3153e5d64/oev-logo-icon.png)
+- **fact**: The Orlando Event Venue brand utilizes a specific logo and icon set for its visual identity.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

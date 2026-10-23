@@ -15,6 +15,12 @@ brand_id: "orlando_event_venue"
 - 2026-10-06T16:17:23.300Z — `clickup_chat_thread:8cqnrff-2077/80170034876584`
   - `e1` (source_body): Creo que en conversaciones pasadas hemos conversado de que literalmente vamos a copiar y pegar lo que ya hemos construido para otros venues... Lo único que he visto es un landing page bien diferente a lo que necesitamos hacer
 
+- 2026-10-23T01:41:43.558Z — `clickup_doc_page:8cqnrff-7037/8cqnrff-4757` (validation `99573b29-48b9-4c69-95be-a0c20820a88f`)
+  - `e1` (source_body): Submarkets we serve today: corporate gatherings, workshops, celebrations. ... Hourly minimum: 4 hours × $140/hr = $560. Cleaning fee (required): $199. True minimum to book hourly: $759. ... 50% deposit required to reserve the date
+- **fact**: OEV targets corporate gatherings, workshops, and celebrations with a focus on time-bound events where the buyer values certainty and smooth execution.
+- **rule**: The true minimum to book hourly is $759 (4 hours at $140/hr + $199 cleaning fee).
+- **rule**: A 50% deposit is required to reserve a date, based on the total invoice.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170034876584`

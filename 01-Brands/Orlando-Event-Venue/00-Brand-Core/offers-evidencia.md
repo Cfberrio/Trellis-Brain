@@ -133,6 +133,16 @@ Use: Enter the code during checkout
 - **fact**: The OEV Lead Magnet system delivers an Event Planning Kit and a $50 discount (PLAN50) to leads via email and SMS immediately upon form submission.
 - **fact**: The PLAN50 offer is a $50 discount on venue rental, applied during checkout.
 
+- 2026-10-23T01:42:43.856Z — `clickup_doc_page:8cqnrff-7037/8cqnrff-4797` (validation `890bd82d-9bc5-4e74-82a3-b15e9498414d`)
+  - `e1` (source_body): Offer A (Core): Corporate Ready Room (4+ Hours)... $140/hr (4-hr min) + $199 cleaning; $899/day + $199 cleaning... Offer D (Downsell / Schedule-Filler): Celebration Lite... Offer E (Barter Downsell): Personal Event Promo... $100 credit in exchange for specific post-event promotion assets.
+- **fact**: The OEV offer stack is structured into five distinct tiers: Corporate Ready Room (Core), Presentation Pro (Upsell), Workshop Broadcast Studio (Premium Upsell), Celebration Lite (Downsell/Schedule-Filler), and Personal Event Promo (Barter Downsell).
+- **fact**: The Corporate Ready Room is priced at $140/hr (4-hr min) + $199 cleaning fee, or $899/day + $199 cleaning fee, with 50% deposit terms.
+- **fact**: The Personal Event Promo offers a $100 credit in exchange for specific marketing assets (Google review, video testimonial, social post/story, optional referral) for personal events like baby showers or birthdays.
+
+- 2026-10-23T01:43:07.983Z — `clickup_doc_page:8cqnrff-7037/8cqnrff-4817` (validation `3e91d475-2c3c-457c-8112-9412c686efe3`)
+  - `e1` (source_body): This gives you a planned sequence: Deposit conversion (Entry) → Rental (Core) → Production + execution add-ons (Upsells) → Repeat-booking membership (Continuity) → Controlled downsells (Feature/Celebration/Baby-shower barter)
+- **process**: The OEV customer journey follows a structured ladder: Date-Lock Deposit (Entry) → Venue Rental (Core) → Production/Execution Add-ons (Upsells) → Corporate Calendar Membership (Continuity) → Controlled Downsells (Feature/Celebration/Barter).
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`
