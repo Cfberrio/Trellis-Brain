@@ -48,6 +48,12 @@ brand_id: "orlando_event_venue"
 We help corporate teams and local hosts run smooth, professional events via a flexible 90-guest venue + optional staffed AV/LED/streaming production, and we get paid via hourly/day venue rental + cleaning fee + add-on production packages.
 - **fact**: The OEV business model is structured into a primary focus on corporate teams and workshops (venue rental + cleaning + production packages) and a secondary focus on social celebrations (venue rental + cleaning + setup/production add-ons).
 
+- 2026-10-24T16:56:13.154Z — `clickup_doc_page:8cqnrff-8097/8cqnrff-6297` (validation `b6aaf56b-b5ce-4ac5-9692-390e111db42d`)
+  - `e1` (source_body): Max capacity: 90 guests... Deposit: 50% is paid to request/secure the booking for review. Balance: remaining 50% is due 15 days before the event date... Access instructions are typically sent 72 hours prior... Host Report... completed after the booking ends
+- **fact**: Booking types include hourly and daily options. Payments consist of a 50% deposit to secure the date and a 50% balance due 15 days before the event.
+- **fact**: Access instructions are sent 72 hours prior to the event. The Host Report is a mandatory post-event form to document venue condition.
+- **rule**: Capacity is strictly capped at 90 guests. Prohibited items include glitter, confetti, rice, and open flames without approval.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
