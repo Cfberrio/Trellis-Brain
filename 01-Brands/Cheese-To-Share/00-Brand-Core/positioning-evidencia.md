@@ -65,6 +65,33 @@ brand_id: "cheese_to_share"
 - **fact**: The brand's product philosophy treats charcuterie not just as food, but as art where every piece has a place and colors/textures are balanced to create something people gather around.
 - **decision**: The founder defines discipline as 'doing what you said you were going to do, even when you don’t feel like it,' a principle that guides the brand's consistency.
 
+- 2026-10-25T01:15:45.651Z — `clickup_doc_page:8cqnrff-8357/8cqnrff-6497` (validation `6b5cc0d8-60e3-445c-a9fe-729cdd3e8950`)
+  - `e1` (source_body): La página actual de “Order Now” solo muestra “Choose a location” y “Avalon Park”. No está mal, sin embargo, siento que al ser una sola locación esto se siente como un paso extra. La página intermedia “Choose a Location” es innecesaria con una sola sede.
+- **process**: Website architecture should prioritize clear separation between daily ordering (Menu) and event booking (Catering) to reduce user friction and improve conversion.
+- **fact**: The current 'Order Now' flow is inefficient for a single-location brand; it should be simplified to direct users to the menu and location details immediately.
+
+- 2026-10-25T01:22:42.826Z — `clickup_doc_page:8cqnrff-8597/8cqnrff-15217` (validation `6cdfef78-5a05-4fa9-912b-e0e5fc93a0c0`)
+  - `e1` (source_body): CTS debe pasar de “producto bien hecho” a “producto culturalmente significativo”... CTS necesita usar lenguaje que lo convierta en: experiencia, estándar, gesto social inteligente, elección con criterio.
+- **decision**: CTS must evolve its positioning from 'premium/craft' to 'culturally significant/status-driven', emphasizing cultural identity, social status, and the product as a 'smart social choice' rather than just a premium dessert.
+- **rule**: Content strategy must incorporate 'staff-as-characters' (recurring team members as narrative vehicles) and 'status-reframing' (using language to elevate the product from a casual treat to a social asset).
+
+- 2026-10-25T01:23:04.657Z — `clickup_doc_page:8cqnrff-8597/8cqnrff-15537` (validation `ccb0aefd-0286-464e-b316-d689833a4ac1`)
+  - `e1` (source_body): CTS debe construir códigos de marca, no solo piezas bonitas... La marca no necesita verse más artesanal. Necesita verse más selectiva... El catering no debe mostrarse solo como servicio; debe mostrarse como espectáculo comprobable.
+- **decision**: CTS will shift its brand communication from purely aesthetic/appetizing to an authoritative, standard-driven approach, focusing on 'brand codes', 'criterio' (standard), and positioning products as 'social decisions' that elevate occasions.
+- **rule**: Catering content must evolve from showing setup/food to documenting 'proof social' (reactions, crowd, impact, and repeat behavior) to demonstrate the brand's value as a social experience.
+
+- 2026-10-25T01:24:31.586Z — `clickup_doc_page:8cqnrff-8597/8cqnrff-17857` (validation `44cbaaae-b4a1-4163-9f73-3cc6b4a81e95`)
+  - `e1` (source_body): CTS no debe verse solo como: una marca con productos lindos, una marca con buen storytelling humano, una marca que presenta bien sus lanzamientos. Ahora debe verse como: una marca que convierte técnica en contenido adictivo, una marca que vende desde sensaciones físicas concretas.
+- **rule**: CTS content strategy must shift from generic product/storytelling to 'skill spectacle' (technical demonstration), 'sensory contrast' (physical sensation), 'geo-belonging' (local hooks), 'reaction proof' (authentic social response), and 'behavior-based conversion' (narrating customer transformation).
+
+- 2026-10-25T01:26:33.849Z — `clickup_doc_page:8cqnrff-8597/8cqnrff-24277` (validation `f399a3f9-8d35-4208-8614-90e6bab6d4f6`)
+  - `e1` (source_body): CTS puede convertirse en una marca que no solo muestra postres y eventos bonitos, sino que prueba cuánto esfuerzo hay detrás, hace que el espacio también se vuelva protagonista, demuestra que la gente cruza tiempo o distancia por vivirlo y convierte cada montaje en una transformación
+- **decision**: CTS will shift its communication strategy to emphasize 'stamina proof' (effort behind results), 'atmosphere-as-product', 'extreme social proof', 'urgency with friction removal', 'prestige-by-association', and 'visible event transformation' to differentiate from generic catering.
+
+- 2026-10-25T01:26:59.251Z — `clickup_doc_page:8cqnrff-8597/8cqnrff-25597` (validation `7a0587b7-e3a3-4a78-874c-e5113bcbc329`)
+  - `e1` (source_body): CTS no debe verse solo como: marca con postres bonitos, marca cálida, marca con buen proceso. Ahora debe verse como: marca que vende atmósfera como parte del producto, marca que prueba valor a través de comportamientos extremos o memorables, marca que hace visible el esfuerzo largo.
+- **preference**: CTS must shift from selling product-only to selling 'atmosphere-as-product', emphasizing the experience, visible effort (hustle), and extreme social proof to drive conversion.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11017/8cqnrff-10757`

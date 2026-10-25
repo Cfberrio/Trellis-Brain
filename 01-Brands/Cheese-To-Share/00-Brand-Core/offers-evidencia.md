@@ -65,6 +65,21 @@ brand_id: "cheese_to_share"
 - **decision**: For the Easter/Lent season, the brand will promote the Salmon Toast as a meatless option for Catholic customers.
 - **rule**: Social media strategy requires posting at least one sandwich-related story per day to maintain engagement and showcase menu variety.
 
+- 2026-10-25T01:27:39.902Z — `clickup_doc_page:8cqnrff-8857/8cqnrff-6957` (validation `fe796a04-3af8-4959-8a3f-174b3b502b81`)
+  - `e1` (source_body): Precio: $25 por persona. Mínimo: 30 personas. 50% anticipo para reservar fecha. 50% restante 24 horas antes del evento. Evento estándar: 1 semana de anticipación. Si es customizado/tema: 15 días. Todas las cotizaciones: se le dice al cliente que Luis Torres las envía.
+- **process**: The catering base package is $25/person with a 30-person minimum. Booking requires a 50% deposit at reservation and the remaining 50% 24 hours before the event. Standard events require 1 week notice; custom/themed events require 15 days.
+- **process**: Catering inquiries are managed by Luis Torres, requiring a phone call and the exchange of reference photos to coordinate details.
+
+- 2026-10-25T01:28:13.276Z — `clickup_doc_page:8cqnrff-8917/8cqnrff-7897` (validation `97c686ab-b0f0-4440-9705-4e0b4b4e718e`)
+  - `e1` (source_body): Catering starts at $25 per person, with setup options starting at $300... Basic setups start at $300, premium themed setups at $600... 50% upfront and the remaining balance 24 hours before the event... We require one week advance notice to prepare everything fresh.
+- **fact**: The live dessert station is a core catering differentiator for Cheese To Share, characterized by on-site preparation that creates a visual, engaging experience for guests.
+- **fact**: Standard catering pricing starts at $25 per person, with setup options beginning at $300 and premium themed setups at $600.
+- **fact**: Catering booking terms require a 50% deposit upfront, with the remaining balance due 24 hours before the event, and a one-week advance notice for fresh preparation.
+
+- 2026-10-25T01:28:48.123Z — `clickup_doc_page:8cqnrff-8917/8cqnrff-8677` (validation `0b9de57d-c159-44f5-9cc5-c8453b36a262`)
+  - `e1` (source_body): Catering starts at $25 per person, with setup options starting at $300. ... Basic setups start at $300, premium themed setups at $600 ... To reserve your date, it’s 50% upfront and the remaining balance 24 hours before the event. ... We require one week advance notice to prepare everything fresh.
+- **fact**: Catering services are marketed with a base price of $25 per person, with setup options starting at $300 and premium themed setups at $600. Booking requires a 50% deposit with the balance due 24 hours before the event, and a one-week notice is requested for fresh preparation.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-11017/8cqnrff-16497`

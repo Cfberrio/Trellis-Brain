@@ -54,6 +54,11 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **fact**: Access instructions are sent 72 hours prior to the event. The Host Report is a mandatory post-event form to document venue condition.
 - **rule**: Capacity is strictly capped at 90 guests. Prohibited items include glitter, confetti, rice, and open flames without approval.
 
+- 2026-10-25T01:14:57.970Z — `clickup_doc_page:8cqnrff-8097/8cqnrff-6317` (validation `f7b2c396-e006-4b39-bf22-5ccaae02e10a`)
+  - `e1` (source_body): 1) Guest requests a booking and pays a 50% deposit. 2) Booking goes under review... 3) Remaining 50% balance is due 15 days before the event date... 4) Tap screen → enter CODE: 12112025 → retrieve magnetic key... Staff assigned to cleaning must submit: 10-item checklist + Photos
+- **process**: The OEV booking and access process includes a 50% deposit, a 15-day balance deadline, and a specific access code (12112025) for the venue entrance.
+- **process**: Post-event, hosts must complete a Host Report via a specific URL format, and cleaning staff must follow a 10-item checklist with mandatory photo documentation.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

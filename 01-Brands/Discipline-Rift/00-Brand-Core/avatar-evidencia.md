@@ -232,6 +232,15 @@ brand_id: "discipline_rift"
 - **process**: The conversion system for parents follows a 7-day front-loaded sprint (Day 0: immediate, Days 1-2: 2/day, Days 3-7: 1/day) followed by weekly touches through Day 30 to maximize show/enrollment rates.
 - **process**: The assisted checkout process requires capturing the parent's email early to send a registration link, then walking them through the process live on the phone without haggling on price.
 
+- 2026-10-25T01:18:23.221Z — `clickup_doc_page:8cqnrff-8557/8cqnrff-8857` (validation `0697dffa-f9d5-414a-99b8-91c5b0934e26`)
+  - `e1` (source_body): Parents, kids, do not fear sports. They fear being judged. They do not walk in confidently. They walk in worried they will mess up. And if they feel embarrassed even once, many never want to return. That is what we fix.
+- **fact**: Marketing scripts for the Spring season are structured to address specific parent segments: beginner/anxious kids, logistics-focused parents, and value-conscious parents, using the established DR voice.
+
+- 2026-10-25T01:18:51.759Z — `clickup_doc_page:8cqnrff-8557/8cqnrff-24597` (validation `5a6b88c7-aa2c-4a24-a3f9-ad79f1844c82`)
+  - `e1` (source_body): Recomendado: producir 3 angles paralelos, no uno solo. Segmento 1 — Anxious/beginner kid → emocional + reassurance. Segmento 2 — Logistics-overwhelmed → informativo + convenience. Segmento 3 — Price-sensitive → directo a inscripción + certainty.
+- **fact**: Fall 2026 parent recruitment strategy focuses on three segments: Anxious/beginner kids (emotional/reassurance), Logistics-overwhelmed parents (convenience/on-campus), and Price-sensitive parents (certainty/fixed-commitment).
+- **fact**: The Fall 2026 coach recruitment strategy emphasizes attracting coaches who value the DR methodology, structured practice, and the ability to make a tangible impact on children's development, rather than just seeking generic part-time work.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
