@@ -232,6 +232,25 @@ Revenue acumulado | $65,082.45
 - **rule**: Informational websites (pages, photos, contact forms) should not use a database to avoid unnecessary server costs. Databases are reserved only for sites requiring reservations, payments, or user accounts.
 - **fact**: Supabase Realtime synchronization was a major CPU consumer for Discipline Rift due to redundant channel subscriptions in the UI. Disabling Realtime for chat features (where message volume is low) significantly reduced CPU usage without breaking functionality.
 
+- 2026-10-26T01:23:53.530Z — `clickup_chat_thread:8cqnrff-9037/80170044635051` (validation `7bd57ab1-e66d-4f6f-967c-b0b63c373ad3`)
+  - `e1` (source_body): Targeting de anuncios ajustado a edad mínima 30 (rango 30–60/65). ... Secuencia de recordatorios confirmada: 30 días (email), 7 días (SMS), 1 día (email+SMS), 1 hora (según configuración); caso específico ajustable de 1 hora a 1 día.
+- **process**: The standard reminder sequence for Discipline Rift seasons is: 30 days (email), 7 days (SMS), 1 day (email + SMS), and 1 hour (optional/configurable).
+- **fact**: Ad targeting for Discipline Rift is adjusted to a minimum age of 30 (range 30–65) to reach the parent demographic.
+
+- 2026-10-26T01:26:10.780Z — `clickup_doc_page:8cqnrff-23537/8cqnrff-35477#brand=discipline_rift` (validation `370a5c5d-1be6-4f7c-bb84-113a81c4694f`)
+  - `e1` (source_body): Ese motor es lo único de Ruflo que terminó en producción. ... Se apagó: El catálogo de Ruflo de la configuración de usuario, El plugin ruflo-core, El plugin neural-trader.
+- **decision**: Discipline Rift integrates only the meaning-based search engine component of the Ruflo toolset into its backend operations; all other Ruflo tools, including the 300-tool catalog and neural-trader, are disabled to maintain system performance and avoid unnecessary technical debt.
+
+- 2026-10-26T01:27:23.069Z — `clickup_doc_page:8cqnrff-23537/8cqnrff-35497#brand=discipline_rift` (validation `e2bb8985-34a8-4036-8916-80be16cfca3c`)
+  - `e1` (source_body): Regla nueva: todo texto que salga con la marca pasa por el guardián antes de publicarse. ... Una pieza de DR — la que arma los recordatorios de 24 horas — está abierta a internet sin ninguna llave. ... Está anotado como deuda ALTA en el manual de DR.
+- **process**: Discipline Rift has implemented 14 specialized 'Agency-Agents' (auditors and strategists) to execute backend and marketing tasks. A new rule mandates that all outgoing brand text must be reviewed by the 'Brand Guardian' agent before publication.
+- **fact**: A high-priority security vulnerability exists in the DR backend piece responsible for 24-hour reminders, which is currently exposed to the internet without authentication.
+
+- 2026-10-26T01:29:25.805Z — `clickup_doc_page:8cqnrff-24517/8cqnrff-37097#brand=discipline_rift` (validation `bc6ff29e-478a-4834-b971-116b42c9e2e8`)
+  - `e1` (source_body): Se incorporó OpenAI Codex como segundo motor de código con un rol acotado — revisor adversarial de diffs y ejecutor de trabajo mecánico con especificación cerrada — mientras Claude Code sigue siendo el cerebro que decide, contextualiza y es dueño del cambio.
+- **process**: Codex is integrated as a secondary adversarial review engine for code changes, specifically to run tests and verify diffs before deployment, while Claude Code remains the primary orchestrator and owner of brand context and decision-making.
+- **rule**: The rule 'Claude Code is the orchestrator. There is no second system' is clarified to mean no parallel infrastructure (databases/APIs) should be built, but does not prohibit the use of a second AI model for verification and adversarial review.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

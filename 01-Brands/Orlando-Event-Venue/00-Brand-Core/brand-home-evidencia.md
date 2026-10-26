@@ -59,6 +59,10 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **process**: The OEV booking and access process includes a 50% deposit, a 15-day balance deadline, and a specific access code (12112025) for the venue entrance.
 - **process**: Post-event, hosts must complete a Host Report via a specific URL format, and cleaning staff must follow a 10-item checklist with mandatory photo documentation.
 
+- 2026-10-26T01:27:50.459Z — `clickup_doc_page:8cqnrff-23537/8cqnrff-35497#brand=orlando_event_venue` (validation `d1e5f31e-f669-4c90-997a-b3c6570f3c4d`)
+  - `e1` (source_body): OEV | 46 piezas de backend · 134 cambios de base de datos
+- **fact**: OEV is managed as a code-based system with 46 backend pieces and 134 database changes, distinct from marketing-led brands.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
