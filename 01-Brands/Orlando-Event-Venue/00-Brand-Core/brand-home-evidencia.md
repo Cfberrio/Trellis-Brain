@@ -63,6 +63,10 @@ We help corporate teams and local hosts run smooth, professional events via a fl
   - `e1` (source_body): OEV | 46 piezas de backend · 134 cambios de base de datos
 - **fact**: OEV is managed as a code-based system with 46 backend pieces and 134 database changes, distinct from marketing-led brands.
 
+- 2026-10-26T19:26:59.650Z — `clickup_doc_page:8cqnrff-9917/8cqnrff-10037` (validation `bdf19858-b675-4f0e-b10e-bbd115a52063`)
+  - `e1` (source_body): Contacts opt in via our public website contact form at https://orlandoeventvenue.org/contact using two unchecked consent checkboxes (one for transactional booking SMS and one for marketing SMS). Users must explicitly check the box(es) to consent; consent is not required to submit the form.
+- **process**: OEV manages SMS consent via two unchecked checkboxes on the contact form (transactional vs. marketing). Consent is not a condition of purchase. Evidence (timestamp, IP, URL, contact record) is stored. Standard STOP/HELP keywords are supported.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

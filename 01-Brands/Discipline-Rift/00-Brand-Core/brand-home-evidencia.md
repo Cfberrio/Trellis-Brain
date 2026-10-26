@@ -251,6 +251,10 @@ Revenue acumulado | $65,082.45
 - **process**: Codex is integrated as a secondary adversarial review engine for code changes, specifically to run tests and verify diffs before deployment, while Claude Code remains the primary orchestrator and owner of brand context and decision-making.
 - **rule**: The rule 'Claude Code is the orchestrator. There is no second system' is clarified to mean no parallel infrastructure (databases/APIs) should be built, but does not prohibit the use of a second AI model for verification and adversarial review.
 
+- 2026-10-26T19:27:31.380Z — `clickup_doc_page:8cqnrff-9917/8cqnrff-9417` (validation `5dff38d3-3ebc-4e5c-b244-7ad49fe18c05`)
+  - `e1` (source_body): The 'Mirror Rule': Since your opt-in form mentions both marketing and non-marketing, your Campaign Description and User Consent sections must mirror that exactly. The carrier is flagging this because the application only mentions one type, but the form offers both.
+- **rule**: For A2P campaign registration, the 'Mirror Rule' must be followed: the Campaign Description and User Consent sections must exactly mirror the language and messaging types (e.g., marketing vs. non-marketing/logistics) stated on the website's opt-in form to avoid carrier rejection.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
