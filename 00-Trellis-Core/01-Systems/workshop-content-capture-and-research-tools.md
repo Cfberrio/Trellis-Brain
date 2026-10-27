@@ -16,6 +16,12 @@ brand_id: "trellis_core"
   - `e1` (source_body): Si ven los videos (avisen), por favor grabenlos con Google Meets o con el ClickUp AI NoteTaker para que no perdamos el contenido y podamos implementarlo en el futuro.
   - `e2` (source_body): recomienda la utilización de Perplexity Desktop, que es una nueva herramienta que te permite navegar y hacer research en tu día a día... pero igual estamos implementando herramientas como Claude Code Agents para poder hacer tareas que nosotros hacemos en el diario.
 
+- 2026-10-27T18:50:35.994Z — `clickup_chat_thread:7-9017418223-8/80170026183116` (validation `5cf920bc-d7dd-4206-ba19-1b1a2ae58f02`)
+  - `e1` (source_body): Si ven los videos (avisen), por favor grabenlos con Google Meets o con el ClickUp AI NoteTaker para que no perdamos el contenido y podamos implementarlo en el futuro.
+  - `e2` (source_body): recomienda la utilización de Perplexity Desktop, que es una nueva herramienta que te permite navegar y hacer research en tu día a día... pero igual estamos implementando herramientas como Claude Code Agents para poder hacer tareas que nosotros hacemos en el diario.
+- **process**: When attending or viewing workshops, recordings must be captured using Google Meets or ClickUp AI NoteTaker to ensure content is preserved for future implementation.
+- **preference**: Perplexity Desktop is recommended for daily research and specific punctual tasks, while Claude Code Agents are prioritized for daily operational tasks.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `7-9017418223-8/80170026183116`

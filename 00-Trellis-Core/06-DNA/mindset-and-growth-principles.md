@@ -20,6 +20,16 @@ brand_id: "trellis_core"
   - `e3` (source_child): uno es egoísta consigo mismo por no darse los consejos que uno le daría a un amigo... si va a sobrepensar las cosas malas, que entonces también le dé lugar a sobrepensar cosas en el mejor escenario posible.
   - `e4` (source_child): si sabe lo que tiene que hacer pero siente mucho miedo, empiece con pasos pequeños. Los cambios bruscos rara vez funcionan bien... lo importante es avanzar de forma progresiva y sostenible.
 
+- 2026-10-27T18:49:45.096Z — `clickup_chat_thread:7-9017418223-8/80170026538010` (validation `b91bc562-b67c-46ce-a6d7-54979697d432`)
+  - `e1` (source_body): a veces uno piensa que la mejor forma de estar tranquilo es evitar lo que le incomoda. No tener esa conversación difícil, ignorar ese error que nos da pena o aplazar una decisión porque da miedo... Pero la mayoría de las veces no desaparece, solo se queda ahí… esperando.
+  - `e2` (source_child): Le diría que deje de postergar lo que sabe que tiene que enfrentar... muchas veces el miedo está más en la cabeza que en la realidad, y que cuando uno actúa, gana claridad. No tiene que tener todo resuelto para empezar, solo dar el primer paso.
+  - `e3` (source_child): uno es egoísta consigo mismo por no darse los consejos que uno le daría a un amigo... si va a sobrepensar las cosas malas, que entonces también le dé lugar a sobrepensar cosas en el mejor escenario posible.
+  - `e4` (source_child): si sabe lo que tiene que hacer pero siente mucho miedo, empiece con pasos pequeños. Los cambios bruscos rara vez funcionan bien... lo importante es avanzar de forma progresiva y sostenible.
+- **preference**: Avoid the trap of avoiding discomfort; ignoring difficult conversations or errors only delays the problem and increases the mental weight.
+- **rule**: When facing fear or uncertainty, act from criteria rather than guilt. Take the first step even without having everything resolved, as action generates clarity.
+- **preference**: Practice self-compassion by giving yourself the same advice you would give a friend, and allow space to visualize successful scenarios rather than just negative ones.
+- **process**: Implement changes through progressive, sustainable steps (baby steps) rather than abrupt shifts to avoid burnout or failure.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `7-9017418223-8/80170026538010`

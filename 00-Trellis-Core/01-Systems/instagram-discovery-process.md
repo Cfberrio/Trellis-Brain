@@ -20,6 +20,12 @@ brand_id: "trellis_core"
 - **process**: Instagram discovery process: Use Claude Code with Apify MCP (DeepMine Reels Search for recent content, Instagram Search Scraper for baseline). Filter by date window, deduplicate by shortcode, and validate permalinks. Prioritize recent content (postedAt within window) over scrape date.
 - **fact**: DeepMine Reels Search is more effective for recent Instagram discovery than standard Instagram Search Scraper for technical/niche topics, yielding higher precision and relevance within a 30-day window.
 
+- 2026-10-27T18:46:30.632Z — `clickup:86e3v9jnn` (validation `be972d39-cf56-4eb0-8eed-868af5d43ac9`)
+  - `e1` (source_child): Piloto ejecutado de punta a punta: 5 runs, USD 0.525 de gasto real, ganador DeepMine. ... B trajo 39 Reels, el 100% dentro de la ventana, y 12 útiles (7 de valor alto). A trajo 42 posts, 6 en ventana y 4 útiles.
+  - `e2` (source_body): Stack recomendado: plugin Apify para Claude Code → MCP de Apify → Actor DeepMine Reels Search (descubrimiento reciente) → Apify Reel Scraper solo para enriquecer → skill local para evaluar.
+- **process**: Instagram discovery process: Use Claude Code with Apify MCP (DeepMine Reels Search for recent content, Instagram Search Scraper for baseline). Filter by date window, deduplicate by shortcode, and validate permalinks. Prioritize recent content (postedAt within window) over scrape date.
+- **fact**: DeepMine Reels Search is more effective for recent Instagram discovery than standard Instagram Search Scraper for technical/niche topics, yielding higher precision and relevance within a 30-day window.
+
 ## Provenance
 
 - Source: `clickup` `86e3v9jnn`
