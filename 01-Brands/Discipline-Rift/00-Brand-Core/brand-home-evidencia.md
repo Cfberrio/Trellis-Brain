@@ -255,6 +255,10 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): The 'Mirror Rule': Since your opt-in form mentions both marketing and non-marketing, your Campaign Description and User Consent sections must mirror that exactly. The carrier is flagging this because the application only mentions one type, but the form offers both.
 - **rule**: For A2P campaign registration, the 'Mirror Rule' must be followed: the Campaign Description and User Consent sections must exactly mirror the language and messaging types (e.g., marketing vs. non-marketing/logistics) stated on the website's opt-in form to avoid carrier rejection.
 
+- 2026-10-27T02:08:19.677Z — `clickup_doc_page:8cqnrff-9917/8cqnrff-8617` (validation `c2171e95-483e-406d-aa1c-bd1913dc82d6`)
+  - `e1` (source_body): Contacts opt in via our public Contact form at https://www.disciplinerift.com/contact Next to the phone field we display an unchecked consent checkbox with this disclosure: “By checking this box, you agree to receive recurring SMS from Discipline (Torres Rivero LLC) Rift about practice schedules, reminders, and updates. Message frequency varies. Msg & data rates may apply. Reply STOP to cancel; HELP for help.”
+- **process**: Discipline Rift maintains A2P compliance for SMS by using a public web form with an unchecked consent checkbox, clear disclosures (brand name, frequency, rates, STOP/HELP instructions), and links to Privacy Policy, Terms of Use, and SMS Terms. Consent evidence (timestamp, IP, URL) is stored, and the use case is defined as Low-Volume Mixed (operational updates and promotional offers).
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

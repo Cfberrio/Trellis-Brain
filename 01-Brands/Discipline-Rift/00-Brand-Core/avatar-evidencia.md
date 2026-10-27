@@ -241,6 +241,13 @@ brand_id: "discipline_rift"
 - **fact**: Fall 2026 parent recruitment strategy focuses on three segments: Anxious/beginner kids (emotional/reassurance), Logistics-overwhelmed parents (convenience/on-campus), and Price-sensitive parents (certainty/fixed-commitment).
 - **fact**: The Fall 2026 coach recruitment strategy emphasizes attracting coaches who value the DR methodology, structured practice, and the ability to make a tangible impact on children's development, rather than just seeking generic part-time work.
 
+- 2026-10-27T02:10:08.429Z — `clickup:86e3vqvx6` (validation `83f96389-c971-4d8d-82c4-a00f012d75e2`)
+  - `90170266386656` (source_child): The Winter / Spring 2027 skeleton was loaded on Jul 16 with flag football on Tuesday and tennis on Monday. The Aug 24 change was applied to Fall only, and those future seasons were never reconciled. The sheet always had flag on Monday.
+  - `90170266391513` (source_child): yes message is needed for current parents
+  - `90170266472003` (source_child): On Oct 23, Winter was corrected with no notice to the 19 families who had already paid.
+- **process**: Seasonal schedule data must be reconciled against the master season sheet immediately upon loading to prevent discrepancies between registration, confirmation, and reminder communications.
+- **rule**: Any schedule change for a program with already-paid families requires immediate, direct notification to those families before the change is reflected in automated systems.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
