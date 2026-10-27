@@ -16,6 +16,10 @@ brand_id: "discipline_rift"
 - 2026-10-07T20:01:22.535Z — `clickup_chat_thread:8cqnrff-9037/80170030700333`
   - `e1` (source_child): A decision was made to transition from the old CRM (combo) to GoHighLevel by setting up three distinct pipelines for general contacts, public schools, and charter/privates. The group agreed to implement automation triggers that send personalized emails as contacts move through pipeline stages.
 
+- 2026-10-27T02:15:58.032Z — `clickup_chat_thread:8cqnrff-9037/80170030700333` (validation `df07e43d-f81e-4f4b-8286-cc698c7e81ad`)
+  - `e1` (source_child): A decision was made to transition from the old CRM (combo) to GoHighLevel by setting up three distinct pipelines for general contacts, public schools, and charter/privates. The group agreed to implement automation triggers that send personalized emails as contacts move through pipeline stages.
+- **process**: Discipline Rift utilizes GoHighLevel (GHL) for school outreach, organizing contacts into three distinct pipelines: General, Public schools, and Charter/Private schools. Automation triggers are implemented to send personalized, county-specific emails as contacts progress through these stages.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-9037/80170030700333`

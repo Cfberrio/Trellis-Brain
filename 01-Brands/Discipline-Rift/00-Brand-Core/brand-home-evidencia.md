@@ -259,6 +259,18 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): Contacts opt in via our public Contact form at https://www.disciplinerift.com/contact Next to the phone field we display an unchecked consent checkbox with this disclosure: “By checking this box, you agree to receive recurring SMS from Discipline (Torres Rivero LLC) Rift about practice schedules, reminders, and updates. Message frequency varies. Msg & data rates may apply. Reply STOP to cancel; HELP for help.”
 - **process**: Discipline Rift maintains A2P compliance for SMS by using a public web form with an unchecked consent checkbox, clear disclosures (brand name, frequency, rates, STOP/HELP instructions), and links to Privacy Policy, Terms of Use, and SMS Terms. Consent evidence (timestamp, IP, URL) is stored, and the use case is defined as Low-Volume Mixed (operational updates and promotional offers).
 
+- 2026-10-27T02:11:11.869Z — `clickup:86e3v9cgm` (validation `a9e42d0f-58bf-4ad0-9bfc-dff8bf54fca6`)
+  - `e1` (source_child): La lista del dashboard sale de la lista pública. Un padre logueado nunca ve menos teams que la página pública (un test lo exige). ... Si la carga de teams falla, el padre ve 'We couldn't load the teams' con link a la página pública e info@. ... Script de chequeo obligatorio antes de cada cambio masivo de status
+- **process**: The Parent Dashboard registration flow must always display at least the same teams as the public registration page. A mandatory check script is required before any mass status change to ensure no season shows zero teams to parents.
+- **process**: If team loading fails in the dashboard, the system must display an error message with a direct link to the public registration page and support contact info, rather than a 'no teams available' message.
+
+- 2026-10-27T02:16:33.643Z — `clickup_chat_thread:8cqnrff-9037/80170025932247` (validation `b9b40b8a-79b6-4521-a2d6-f50979b4eba7`)
+  - `e1` (source_child): drfranchise
+  - `e2` (source_child): franchisedr.lovable.app
+  - `e3` (source_child): The team decided to manually reorganize the feedback form questions and responses to improve the accuracy of data interpretation. The team agreed to update social media account login credentials
+- **fact**: The Discipline Rift Franchise (DRF) uses the Instagram handle 'drfranchise' and the application URL franchisedr.lovable.app.
+- **decision**: The team decided to manually reorganize feedback form questions and update social media credentials to improve data accuracy for the franchise marketing process.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

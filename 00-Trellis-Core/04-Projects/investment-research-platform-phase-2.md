@@ -18,6 +18,10 @@ brand_id: "trellis_core"
   - `90170265764856` (source_child): Hoy avanzamos en la Fase 2 de nuestra plataforma de investigación de inversiones, logrando integrar gratuitamente la API de Alpaca... Ya contamos con gráficos históricos de aproximadamente 6 años
   - `90170266149592` (source_child): desarrollamos una herramienta llamada reverse DCF, que responde una pregunta sencilla: ¿cuánto tendría que crecer esta empresa en el futuro para justificar el precio que tiene hoy?
 
+- 2026-10-27T02:13:03.160Z — `clickup:86e3u4tpt` (validation `1f20d8e0-d43f-4ef0-a02b-03a0a3c1e6ff`)
+  - `e1` (source_child): desarrollamos dos funcionalidades fundamentales: primero, un sistema de tesis y contra-tesis... También implementamos “Vigilar ahora”, que consulta directamente los documentos oficiales de la SEC y detecta novedades que podrían afectar nuestras hipótesis.
+- **decision**: The investment research platform (Phase 2) now includes a thesis/contra-thesis system for tracking investment arguments and a 'Vigilar ahora' feature that monitors SEC filings for events affecting investment hypotheses.
+
 ## Provenance
 
 - Source: `clickup` `86e3u4tpt`

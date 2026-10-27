@@ -7,10 +7,9 @@ brand_id: "discipline_rift"
 
 ## Canonical Statement
 
-- **rule**: Communication must provide tangible value; if a message provides no value, it should not be sent to avoid creating empty space in the recipient's experience.
-- **preference**: Transactional emails (OTP/Registration) should use a warm, direct tone that emphasizes the start of the season (e.g., 'You're only one step away') rather than generic welcome messages.
-- **process**: Parent assistance/absence follow-ups should emphasize accountability and progress, asking for advance notice of absences so coaches aren't searching for students before practice.
-- **fact**: The Discipline Rift coaching mission is to teach developmental skills and life lessons while nurturing relationships and inspiring a passion for sport.
+- **rule**: Communication templates must be direct, warm, and value-driven. Transactional emails (OTP/Registration) should emphasize the season start (e.g., 'You're only one step away').
+- **rule**: Parent absence follow-ups must emphasize accountability and progress, requesting advance notice so coaches are not searching for students before practice.
+- **rule**: The coaching mission is to teach developmental skills and life lessons while nurturing relationships and inspiring a passion for sport.
 
 ## Evidence Log
 

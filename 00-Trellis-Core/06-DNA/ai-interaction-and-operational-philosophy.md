@@ -18,6 +18,13 @@ brand_id: "trellis_core"
   - `e2` (source_child): debemos hablarle a la inteligencia artificial como si fuese una persona. Yo creo que si tú no le hablas a tu amigo con coherencia, obviamente no va a entender el mensaje que estás tratando de transmitirle.
   - `e3` (source_child): la IA da mejores resultados cuando se le habla con comunicación asertiva... La diferencia real no está solo en tener acceso, sino en saber usar esas herramientas correctamente, y eso se nota desde el input.
 
+- 2026-10-27T02:18:47.564Z — `clickup_chat_thread:7-9017418223-8/80170028981060` (validation `db7586d8-af51-4ad5-a9bb-12dcf55ba73a`)
+  - `e1` (source_body): cuando no hay buen input, estructura ni supervisión, lo que devuelve suele ser inconsistente, caro y hasta inútil... lo que realmente mueve un negocio no es lo más llamativo… sino lo más confiable.
+  - `e2` (source_child): debemos hablarle a la inteligencia artificial como si fuese una persona. Yo creo que si tú no le hablas a tu amigo con coherencia, obviamente no va a entender el mensaje que estás tratando de transmitirle.
+  - `e3` (source_child): la IA da mejores resultados cuando se le habla con comunicación asertiva... La diferencia real no está solo en tener acceso, sino en saber usar esas herramientas correctamente, y eso se nota desde el input.
+- **fact**: AI performance is significantly improved by assertive, coherent communication; treating the AI like a person with specific context yields better results than superficial prompting.
+- **preference**: Prioritize reliable, simple, and repeatable systems over complex 'wow' AI solutions that lack structure and supervision.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `7-9017418223-8/80170028981060`

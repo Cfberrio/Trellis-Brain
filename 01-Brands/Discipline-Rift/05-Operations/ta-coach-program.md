@@ -16,6 +16,10 @@ brand_id: "discipline_rift"
 - 2026-10-06T22:18:21.147Z — `clickup_chat_thread:8cqnrff-9037/80170044542987`
   - `e1` (source_child): This program allows middle school students to join the team, not as players, but as assistant coaches. They help the coaches with various tasks, such as managing dismissal, gathering players... The parent receives free registration for their child, who gains experience in a leadership role.
 
+- 2026-10-27T02:14:00.155Z — `clickup_chat_thread:8cqnrff-9037/80170044542987` (validation `d865f5ec-4300-44fc-ba6f-8db66367f33d`)
+  - `e1` (source_child): Since we are currently at capacity for this program, you should explain the TA Coach program to the parent... If they do not have a spot on a team or would like to participate in this capacity, let them know that we are full for now. However, they are welcome to reach out back out in October when our next season begins
+- **process**: When the TA Coach program is at capacity, parents should be informed that the program is full but are welcome to reach out again when the next season begins.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-9037/80170044542987`

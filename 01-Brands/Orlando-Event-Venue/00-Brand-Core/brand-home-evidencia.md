@@ -67,6 +67,11 @@ We help corporate teams and local hosts run smooth, professional events via a fl
   - `e1` (source_body): Contacts opt in via our public website contact form at https://orlandoeventvenue.org/contact using two unchecked consent checkboxes (one for transactional booking SMS and one for marketing SMS). Users must explicitly check the box(es) to consent; consent is not required to submit the form.
 - **process**: OEV manages SMS consent via two unchecked checkboxes on the contact form (transactional vs. marketing). Consent is not a condition of purchase. Evidence (timestamp, IP, URL, contact record) is stored. Standard STOP/HELP keywords are supported.
 
+- 2026-10-27T02:12:14.384Z — `clickup:86e3twwk8` (validation `7761caf8-b099-4b01-b88e-bf2b550a6bdd`)
+  - `e1` (source_child): Solo utilize la de giggster y tagvenue
+  - `e2` (source_child): Se va a utilizar Giggster, que ya esta configurado. Y la otra plataforma se llama tagVenue el cual le faltan lo payouts
+- **fact**: The OEV multi-channel marketing pilot is actively integrating Giggster and Tagvenue, with Giggster fully configured and Tagvenue pending payout setup.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

@@ -18,6 +18,13 @@ brand_id: "discipline_rift"
   - `e2` (source_child): Monday is the odd one out. It loses Sep 7 (Labor Day) and Oct 12 to holidays... That's five sessions where every other day gets six. This is the known shortfall you accepted earlier — Monday teams finish the season one short.
   - `e3` (source_child): We are considering moving flag football from Fridays to Thursdays... Everything else stays the same. Same format, same hour, and your child's spot carries over with nothing to re-register... Please reply and let us know whether Thursdays work for your family.
 
+- 2026-10-27T02:14:34.644Z — `clickup_chat_thread:8cqnrff-9037/80170044336688` (validation `106c17f2-e6ab-467f-ba14-f476ce3c05de`)
+  - `e1` (source_child): Six practices per season... Tuesday — 6 dates... Wednesday — 6 dates... Thursday — 6 dates... Friday — 6 dates
+  - `e2` (source_child): Monday is the odd one out. It loses Sep 7 (Labor Day) and Oct 12 to holidays... That's five sessions where every other day gets six. This is the known shortfall you accepted earlier — Monday teams finish the season one short.
+  - `e3` (source_child): We are considering moving flag football from Fridays to Thursdays... Everything else stays the same. Same format, same hour, and your child's spot carries over with nothing to re-register... Please reply and let us know whether Thursdays work for your family.
+- **fact**: Windermere flag football is being moved from Fridays to Thursdays for facility purposes, with the season structure and child registration status remaining unchanged.
+- **fact**: Monday programs are confirmed to have a five-session schedule due to holiday conflicts (Labor Day, etc.), which is a known operational shortfall.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-9037/80170044336688`
