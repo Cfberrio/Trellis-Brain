@@ -25,6 +25,11 @@ brand_id: "discipline_rift"
 - **fact**: To increase Perceived Likelihood, the offer should define clear 'win conditions' such as guaranteed sessions, 'beginner-to-game' progression milestones, and tracked 'confidence moments'.
 - **fact**: Forcing early wins within 48 hours of purchase (e.g., welcome page, same-day coach intro, gear checklist) reduces perceived time delay and increases trust.
 
+- 2026-10-28T18:55:50.434Z — `clickup:86e3w9wfp` (validation `773b566e-b995-417a-91a8-e9bfa69fdc2f`)
+  - `e1` (source_child): None of the communication habits we ask for moves the needle: messaging every practice, same-day messages, one-to-one messages and answering parents within 24 h. That holds for retention, for program growth and for new families.
+- **fact**: Fall 2026 data shows no statistically significant correlation between coach communication habits (messaging frequency, response time, one-to-one messaging) and player retention or program growth.
+- **fact**: Returning players (those who had previously participated in DR) have a higher retention rate (66%) compared to new players (52%).
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-16057/8cqnrff-18597`

@@ -271,6 +271,11 @@ Revenue acumulado | $65,082.45
 - **fact**: The Discipline Rift Franchise (DRF) uses the Instagram handle 'drfranchise' and the application URL franchisedr.lovable.app.
 - **decision**: The team decided to manually reorganize feedback form questions and update social media credentials to improve data accuracy for the franchise marketing process.
 
+- 2026-10-28T18:58:59.120Z — `clickup_chat_thread:8cqnrff-9037/80170044756918` (validation `29486234-c3a6-4c78-9b06-53b0891774f9`)
+  - `e1` (source_child): Notificaciones previas al evento: estándar en 24 horas antes; reservas antiguas (de julio) permanecieron con la secuencia vieja de 1 hora, explicando la ausencia de notificación del día anterior. Acceso OEB: el portal debía cerrarse completamente 6 horas después de finalizar la reservación
+- **rule**: Notifications for events are standardized to 24 hours prior to the event.
+- **rule**: The OEB portal access must close completely 6 hours after the reservation ends.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
