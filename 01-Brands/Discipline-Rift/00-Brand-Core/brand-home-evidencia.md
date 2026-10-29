@@ -276,6 +276,24 @@ Revenue acumulado | $65,082.45
 - **rule**: Notifications for events are standardized to 24 hours prior to the event.
 - **rule**: The OEB portal access must close completely 6 hours after the reservation ends.
 
+- 2026-10-29T19:01:03.870Z — `clickup:86e3wtqnv` (validation `b9bf9834-2576-45ec-a57d-cb7d19946422`)
+  - `e1` (source_child): in the SyncUp on 10-29, Luis decided to drop the Excel sheet. District mail filters block or strip formatted emails, so the same single email to faculty + coaches now goes out as regular text. Same copy as before. The roster PDF is still attached.
+- **decision**: Faculty roster delivery will continue using PDF attachments in plain-text emails, as Excel files are blocked by district mail filters.
+
+- 2026-10-29T19:04:42.541Z — `clickup_chat_thread:8cqnrff-9037/80170053723170` (validation `e2381929-d404-4e23-b22c-0a9d296d861e`)
+  - `e1` (source_child): Notificaciones push estilo WhatsApp: mostrar nombre del entrenador, nombre del equipo/escuela (grupo) y preview del mensaje con límite de caracteres; historial persistente en el mismo hilo de chat (sin inbox separado). Reminders de temporada (30/7/1 días) y correos semanales convertidos a mensajes in‑app
+- **decision**: Discipline Rift is migrating parent communications from email/SMS to in-app notifications within a mobile app, featuring WhatsApp-style persistent chat threads and coach-authored messaging.
+
+- 2026-10-29T19:05:23.563Z — `clickup_chat_thread:8cqnrff-9037/80170053716236` (validation `b680a097-b378-4686-bd1e-f376ca7c0b4e`)
+  - `e1` (source_child): Estandarización del flujo de Facilitron: selección de escuela/fecha, horario 3–4 pm, repetición por 6 semanas, “volleyball program”, tipo “volleyball”, 20 asistentes, respuestas NA/Yes/No predefinidas, seguro propio y pago completo con tarjeta LT. No enviar archivos Excel por defecto con los rosters; usarlos solo en casos solicitados por la escuela. Unificar el correo de roster para todos los destinatarios (facultad y coaches) en texto plano, sin HTML
+- **process**: Facilitron booking standard: 3–4 pm schedule, 6-week duration, 'volleyball program' type, 20 attendees, pre-defined NA/Yes/No responses, own insurance, and full payment via LT card.
+- **process**: Communication standard: Do not send Excel rosters by default; use plain text emails for rosters to faculty and coaches to avoid HTML formatting issues.
+
+- 2026-10-29T19:06:58.484Z — `clickup_chat_thread:8cqnrff-9037/80170053694253` (validation `8d5e58ff-fb87-45ea-bd29-6a5823d9d4a8`)
+  - `e1` (source_child): Practice start at 3:30 pm remained the intent, but the car loop prevented that start time; a pavilion was to be requested as an alternative. A centralized ClickUp checklist was to be used as the single running to-do for shared visibility instead of scattered phone notes/texts.
+- **fact**: Practice start times are constrained by school car loop logistics, often preventing a 3:30 pm start; pavilion space is an alternative for scheduling.
+- **process**: A centralized ClickUp checklist is the standard for shared operational visibility to replace scattered notes.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

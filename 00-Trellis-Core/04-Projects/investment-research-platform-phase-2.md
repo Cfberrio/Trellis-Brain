@@ -22,6 +22,10 @@ brand_id: "trellis_core"
   - `e1` (source_child): desarrollamos dos funcionalidades fundamentales: primero, un sistema de tesis y contra-tesis... También implementamos “Vigilar ahora”, que consulta directamente los documentos oficiales de la SEC y detecta novedades que podrían afectar nuestras hipótesis.
 - **decision**: The investment research platform (Phase 2) now includes a thesis/contra-thesis system for tracking investment arguments and a 'Vigilar ahora' feature that monitors SEC filings for events affecting investment hypotheses.
 
+- 2026-10-29T19:00:36.291Z — `clickup:86e3u4tpt` (validation `5fb58906-6672-492f-bb0e-3a71c32625a7`)
+  - `e1` (source_child): Hoy desarrollamos dos funcionalidades fundamentales: primero, un sistema de tesis y contra-tesis que permite registrar por qué consideramos interesante una empresa, qué argumentos contradicen esa opinión... También implementamos “Vigilar ahora”, que consulta directamente los documentos oficiales de la SEC
+- **decision**: The investment research platform (Phase 2) now includes a thesis/contra-thesis system for tracking investment arguments and a 'Vigilar ahora' feature that monitors SEC filings for events affecting investment hypotheses.
+
 ## Provenance
 
 - Source: `clickup` `86e3u4tpt`

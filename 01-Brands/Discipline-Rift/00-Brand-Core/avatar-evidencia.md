@@ -248,6 +248,11 @@ brand_id: "discipline_rift"
 - **process**: Seasonal schedule data must be reconciled against the master season sheet immediately upon loading to prevent discrepancies between registration, confirmation, and reminder communications.
 - **rule**: Any schedule change for a program with already-paid families requires immediate, direct notification to those families before the change is reflected in automated systems.
 
+- 2026-10-29T19:00:04.550Z — `clickup:86e3wx68y` (validation `d1774f2d-e458-4d49-ade7-1b376c28c40e`)
+  - `e1` (source_child): Alerta médica en el check-in: lo que escribió el padre ("Peanut allergy") aparece en rojo junto al nombre. ... Contador de no leídos en la pestaña Messages. ... 4 respuestas rápidas en el chat ("Thanks for letting me know!"…). Llenan la caja, no envían.
+- **fact**: The mobile app now includes a medical alert feature in the coach check-in flow, displaying specific notes (e.g., allergies) in red alongside the player's name to ensure safety on the field.
+- **fact**: Parent communication in the app has been streamlined with a direct-touch list, unread counters, and quick-reply templates to reduce friction and improve response times.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
