@@ -294,6 +294,14 @@ Revenue acumulado | $65,082.45
 - **fact**: Practice start times are constrained by school car loop logistics, often preventing a 3:30 pm start; pavilion space is an alternative for scheduling.
 - **process**: A centralized ClickUp checklist is the standard for shared operational visibility to replace scattered notes.
 
+- 2026-10-30T18:39:55.016Z — `clickup_chat_thread:8cqnrff-9037/80170045219481` (validation `2de89627-0fd1-4f49-afce-7f9835723807`)
+  - `e1` (source_body): FALL 2026 — EQUIPOS CON 10 O MENOS ESTUDIANTES (32 equipos de 56 — incluye cerrados/archivados) ... 0 estudiantes ... 1 estudiante ... 2 estudiantes
+- **fact**: Fall 2026 enrollment data shows a significant number of teams (32 out of 56) with 10 or fewer students, including several with 0-2 students, indicating a need for monitoring enrollment health and school-fit.
+
+- 2026-10-30T18:44:30.729Z — `clickup_chat_thread:8cqnrff-9037/80170044818275` (validation `ed0faebb-b142-452d-a6a1-f94bafb101a7`)
+  - `e1` (source_body): Hermano, por favor, asegúrate de que todos los reportes diarios que hemos sacado estén en la documentación de DR en ADS
+- **process**: All daily reports must be included in the Discipline Rift documentation.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

@@ -253,6 +253,14 @@ brand_id: "discipline_rift"
 - **fact**: The mobile app now includes a medical alert feature in the coach check-in flow, displaying specific notes (e.g., allergies) in red alongside the player's name to ensure safety on the field.
 - **fact**: Parent communication in the app has been streamlined with a direct-touch list, unread counters, and quick-reply templates to reduce friction and improve response times.
 
+- 2026-10-30T18:43:23.212Z — `clickup_chat_thread:8cqnrff-9037/80170045190746` (validation `31c17a25-fcaf-4292-a7a0-ed766603d452`)
+  - `e1` (source_child): FALL 2026 — EQUIPOS CON 10 O MENOS ESTUDIANTES (32 equipos de 56 — incluye cerrados/archivados) 0 estudiantes: 1. VOLLEYBALL DILLARD STREET — 0 ... 1 estudiante: 7. VOLLEYBALL HUNTER'S CREEK — 1 ... 2 estudiantes: 10. VOLLEYBALL ALOMA — 2
+- **fact**: As of Fall 2026, several programs are experiencing low enrollment (0-2 students), including multiple volleyball and pickleball sites, indicating a need for continued focus on demand generation and program viability.
+
+- 2026-10-30T18:43:57.946Z — `clickup_chat_thread:8cqnrff-9037/80170044885809` (validation `c5878d7b-4791-48c6-a0b5-7d85705a0d69`)
+  - `e1` (source_body): Cris, estoy viendo los contactos con el tag "fall 2026" en GHL y solo hay 291. Si tenemos más de 500 jugadores registrados esta temporada, por qué solo hay 291 contactos de padres? Aunque haya padres con más de un hijo, la diferencia es demasiado grande.
+- **fact**: Discrepancies between total player registrations and CRM contact counts (e.g., 500+ players vs 291 contacts) indicate potential failures in the automated contact creation or tagging process within the GHL CRM pipeline.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
