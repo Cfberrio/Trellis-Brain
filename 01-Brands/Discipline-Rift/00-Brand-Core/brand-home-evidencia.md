@@ -302,6 +302,14 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): Hermano, por favor, asegúrate de que todos los reportes diarios que hemos sacado estén en la documentación de DR en ADS
 - **process**: All daily reports must be included in the Discipline Rift documentation.
 
+- 2026-10-31T17:48:29.513Z — `clickup:86e3wx660` (validation `1b68ccb6-3161-4593-a8f2-794bc5ad6979`)
+  - `e1` (source_child): Qué pasa: El material de "DR | COACH HUB" ya vive dentro de DR. Notion deja de ser la fuente.
+- **process**: The 'DR | COACH HUB' material (Training & Culture, Curriculum, DR Practice, Fueled Method) is now hosted within the Discipline Rift app. Notion is no longer the source of truth for this content.
+
+- 2026-10-31T17:49:16.197Z — `clickup:86e3xfvnj` (validation `be1d8263-8452-48ae-845f-bb266d3326ca`)
+  - `e1` (source_body): Preserve registration, payment, attendance, and historical records. Use archiving where deletion would lose needed history or break references. Ensure cleaned-up teams and their sessions are excluded from reminder workflows
+- **process**: When cleaning up closed or inactive teams, archive them instead of deleting them to preserve historical data (registrations, payments, attendance) and prevent broken references. Ensure these teams are excluded from all reminder workflows.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
