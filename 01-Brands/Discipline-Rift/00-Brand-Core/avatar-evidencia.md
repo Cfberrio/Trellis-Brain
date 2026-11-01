@@ -261,6 +261,10 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Cris, estoy viendo los contactos con el tag "fall 2026" en GHL y solo hay 291. Si tenemos más de 500 jugadores registrados esta temporada, por qué solo hay 291 contactos de padres? Aunque haya padres con más de un hijo, la diferencia es demasiado grande.
 - **fact**: Discrepancies between total player registrations and CRM contact counts (e.g., 500+ players vs 291 contacts) indicate potential failures in the automated contact creation or tagging process within the GHL CRM pipeline.
 
+- 2026-11-01T18:27:27.649Z — `clickup:86e3wx68y` (validation `cdcc631d-b3f0-47cf-9174-38666927e703`)
+  - `e1` (source_child): Alerta médica en el check-in: lo que escribió el padre ("Peanut allergy") aparece en rojo junto al nombre... Vibración corta al marcar Present o Absent... 4 respuestas rápidas en el chat... "Can't make it" con un solo toque.
+- **fact**: The Discipline Rift mobile app now includes medical alerts visible to coaches during check-in, improved communication workflows for parents and coaches, and streamlined daily task management (e.g., one-tap attendance, quick replies).
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

@@ -15,6 +15,11 @@ brand_id: "discipline_rift"
   - `e1` (source_child): Today: si cada coach tomó attendance y mandó mensaje hoy, con un botón para llamar al coach. Schedule: la semana como el calendario del celular. Teams → Roster: equipos por escuela (Now / Upcoming). Search: niño, padre, teléfono o "escuela + deporte" en un paso. Messages: chats coach ↔ padre al estilo WhatsApp, con Escalations dentro.
   - `e2` (source_child): Today: muestra quién no tomó attendance o no mandó mensaje. Schedule: se toca un día de la semana y salen sus prácticas. Teams: Now / Upcoming, agrupados por escuela. Search: se escribe "mar" y aparecen al instante niño, equipo, coach, pago y botones para llamar o escribir. Messages: primero Chats, luego Escalations.
 
+- 2026-11-01T18:27:54.935Z — `clickup:86e3wx618` (validation `3a87218e-b150-475f-900b-e4090b95ea39`)
+  - `e1` (source_child): Today: si cada coach tomó attendance y mandó mensaje hoy, con un botón para llamar al coach. Schedule: la semana como el calendario del celular. Teams → Roster: equipos por escuela (Now / Upcoming). Search: niño, padre, teléfono o "escuela + deporte" en un paso. Messages: chats coach ↔ padre al estilo WhatsApp, con Escalations dentro.
+  - `e2` (source_child): Today: muestra quién no tomó attendance o no mandó mensaje. Schedule: se toca un día de la semana y salen sus prácticas. Teams: Now / Upcoming, agrupados por escuela. Search: se escribe "mar" y aparecen al instante niño, equipo, coach, pago y botones para llamar o escribir. Messages: primero Chats, luego Escalations.
+- **fact**: The Discipline Rift Admin App (Phase 2) allows full mobile management of daily operations, including: viewing weekly schedules, accessing team rosters with emergency contact and payment details, downloading rosters as PDFs, offline-capable search for children/parents/teams, and managing attendance and parent communications/escalations.
+
 ## Provenance
 
 - Source: `clickup` `86e3wx618`
