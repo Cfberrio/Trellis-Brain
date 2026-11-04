@@ -22,6 +22,12 @@ brand_id: "trellis_core"
   - `e5` (source_body): Run: gh auth login --web --git-protocol https. Choose: GitHub.com, HTTPS, Login with browser.
   - `e6` (source_body): Run the official Claude Code native installer: curl -fsSL https://claude.ai/install.sh | bash. After installation, add Claude to your terminal path: echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
 
+- 2026-11-04T20:30:16.002Z — `clickup_doc_page:8cqnrff-18157/8cqnrff-22697` (validation `e1678f4c-715d-45c7-97b7-514b4eadc56b`)
+  - `e1` (source_body): TRELLIS — Complete Mac Setup Guide: Claude Code, Obsidian & GitHub... 10. Obsidian Local REST API + MCP... 14. Obsidian Git: automatic commit, pull, and push
+- **process**: The complete Mac setup for Trellis development involves: 1) System/Terminal prep, 2) Homebrew/Git/Node.js installation, 3) Claude Code native installation, 4) Obsidian vault setup with Local REST API/MCP, 5) Obsidian Git plugin for automation, and 6) Claude Code Remote Control configuration.
+- **rule**: Obsidian Local REST API should be configured to use HTTP on loopback (127.0.0.1) if TLS certificate issues prevent HTTPS MCP connection.
+- **process**: Obsidian Git plugin should be configured with separate commit and push intervals (e.g., 5 minutes) and 'Push/Pull on commit-and-sync' enabled to ensure reliable synchronization.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-18157/8cqnrff-22697`

@@ -77,6 +77,10 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Customer journey ladder (sequence of offers): 1) Entry / acquisition offer (First-Practice Pass), 2) Core offer (Discipline Rift Developmental Season), 3) Upsell(s) (DR Home Playbook, Season Progress Pack), 4) Continuity (DR Home Club), 5) Downsell(s) (Payment plan, Digital-only).
 - **fact**: The DR money model consists of a structured ladder: 1) Entry (First-Practice Pass), 2) Core (Developmental Season), 3) Upsells (Home Playbook, Progress Pack), 4) Continuity (Home Club), and 5) Downsells (Payment plans, Digital-only).
 
+- 2026-11-04T20:29:48.913Z — `clickup:86e3yd27w` (validation `812292b9-79d0-41e8-b7bb-e4a0c53d2dd3`)
+  - `e1` (source_child): Apple Pay: already enabled and tested. No code needed. What's happening: Apple Pay is enabled in our Default Stripe payment configuration. DR uses hosted Stripe Checkout, which Stripe documents as supporting Apple Pay with no domain setup.
+- **fact**: Discipline Rift's existing Stripe Checkout integration supports Apple Pay by default, requiring no additional code or domain configuration.
+
 ## Provenance
 
 - Source: `clickup` `86e3fen3x`
