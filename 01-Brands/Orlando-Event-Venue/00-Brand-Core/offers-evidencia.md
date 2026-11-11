@@ -143,6 +143,10 @@ Use: Enter the code during checkout
   - `e1` (source_body): This gives you a planned sequence: Deposit conversion (Entry) → Rental (Core) → Production + execution add-ons (Upsells) → Repeat-booking membership (Continuity) → Controlled downsells (Feature/Celebration/Baby-shower barter)
 - **process**: The OEV customer journey follows a structured ladder: Date-Lock Deposit (Entry) → Venue Rental (Core) → Production/Execution Add-ons (Upsells) → Corporate Calendar Membership (Continuity) → Controlled Downsells (Feature/Celebration/Barter).
 
+- 2026-11-11T20:18:33.125Z — `clickup:86e3zfnm0` (validation `df04593b-230e-483e-84a7-9122aed8d00c`)
+  - `90170270055618` (source_child): One calculator. The website, the payment server and the invoices use the same calculator. The server recalculates the price before charging and refuses if it doesn't match. Discounts show on invoices.
+- **process**: The OEV booking system now uses a unified calculator across the website, payment server, and invoices. All discounts are explicitly displayed on customer invoices, and the system validates price calculations server-side before processing payments to prevent configuration errors.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`

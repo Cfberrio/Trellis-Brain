@@ -26,6 +26,13 @@ brand_id: "trellis_core"
   - `e1` (source_child): Hoy desarrollamos dos funcionalidades fundamentales: primero, un sistema de tesis y contra-tesis que permite registrar por qué consideramos interesante una empresa, qué argumentos contradicen esa opinión... También implementamos “Vigilar ahora”, que consulta directamente los documentos oficiales de la SEC
 - **decision**: The investment research platform (Phase 2) now includes a thesis/contra-thesis system for tracking investment arguments and a 'Vigilar ahora' feature that monitors SEC filings for events affecting investment hypotheses.
 
+- 2026-11-11T20:16:49.200Z — `clickup:86e3u4tpt` (validation `c86d2b38-4b2c-438a-b677-3595b324992a`)
+  - `e1` (source_child): desarrollamos dos funcionalidades fundamentales: primero, un sistema de tesis y contra-tesis... También implementamos “Vigilar ahora”, que consulta directamente los documentos oficiales de la SEC
+  - `e2` (source_child): sistema para registrar tesis de inversión y argumentos en contra
+  - `e3` (source_child): corregimos un problema importante de identidad de datos: Figma tenía asociados 27 dividendos que realmente no le correspondían... Ahora el sistema identifica las empresas mediante identificadores verificables
+- **decision**: The investment research platform now includes a thesis/contra-thesis system for tracking investment arguments and a 'Vigilar ahora' feature that monitors SEC filings for events affecting investment hypotheses.
+- **fact**: The platform now distinguishes companies using verifiable identifiers to prevent data attribution errors (e.g., dividend symbol collisions).
+
 ## Provenance
 
 - Source: `clickup` `86e3u4tpt`
