@@ -265,6 +265,11 @@ brand_id: "discipline_rift"
   - `e1` (source_child): Alerta médica en el check-in: lo que escribió el padre ("Peanut allergy") aparece en rojo junto al nombre... Vibración corta al marcar Present o Absent... 4 respuestas rápidas en el chat... "Can't make it" con un solo toque.
 - **fact**: The Discipline Rift mobile app now includes medical alerts visible to coaches during check-in, improved communication workflows for parents and coaches, and streamlined daily task management (e.g., one-tap attendance, quick replies).
 
+- 2026-11-11T20:15:16.896Z — `clickup:86e3yef3d` (validation `46785870-1d5e-4f35-8a7f-4eb604bb4e8f`)
+  - `e1` (source_child): Segundo padre lanzado en piloto (c21b503); falta desplegar 10 funciones y probar envíos reales. Qué pasa: cada padre entra con su cuenta, sin duplicar al niño ni tocar pagos, y comparten un solo chat con el autor registrado.
+  - `e2` (source_child): Listo: segundo padre en producción y las 10 funciones desplegadas. Cada padre entra con su cuenta, sin duplicar al niño ni tocar pagos, y comparten un solo chat con el autor registrado.
+- **process**: Discipline Rift supports multiple parent accounts for a single child. The primary parent invites a second parent via the dashboard; the recipient creates their own account to access the shared child record. This maintains a single canonical child record, prevents duplicate registrations/payments, and allows independent access to shared chat and attendance history.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
