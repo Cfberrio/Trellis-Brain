@@ -18,6 +18,12 @@ brand_id: "discipline_rift"
   - `e2` (source_child): If you notified us of the absence, we appreciate the heads up, but if you didn't, please let us know in advance that we are coaches and are not looking for your student before practice starts.
   - `e3` (source_child): Our mission is to teach developmental skills and life lessons while nurturing relationships. As we develop and inspire a passion for a sport.
 
+- 2026-11-11T20:32:14.707Z — `clickup_chat_thread:8cqnrff-9037/80170043923626` (validation `a692475b-2dbd-46d3-bfcf-998c632182a7`)
+  - `e1` (source_child): We want to communicate in a way that provides value. If what we're communicating provides no value, then it's probably not worth communicating.
+  - `e2` (source_child): If you notified us of the absence, we appreciate the heads up, but if you didn't, please let us know in advance that we are coaches and are not looking for your student before practice starts.
+  - `e3` (source_child): Our mission is to teach developmental skills and life lessons while nurturing relationships. As we develop and inspire a passion for a sport.
+- **rule**: Communication templates must be direct, warm, and value-driven. Transactional emails (OTP/Registration) should emphasize the season start. Parent absence follow-ups must emphasize accountability and progress, requesting advance notice so coaches are not searching for students before practice. Coach application confirmations should emphasize the mission of teaching developmental skills and life lessons.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-9037/80170043923626`
