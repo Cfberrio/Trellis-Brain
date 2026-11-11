@@ -72,6 +72,11 @@ We help corporate teams and local hosts run smooth, professional events via a fl
   - `e2` (source_child): Se va a utilizar Giggster, que ya esta configurado. Y la otra plataforma se llama tagVenue el cual le faltan lo payouts
 - **fact**: The OEV multi-channel marketing pilot is actively integrating Giggster and Tagvenue, with Giggster fully configured and Tagvenue pending payout setup.
 
+- 2026-11-11T20:25:08.601Z — `clickup:86e3zwmg5` (validation `1a4be3bd-a1b1-42d1-bb22-ef99ff14c33f`)
+  - `e1` (source_body): Event Page carries the details. Messages no longer include the door code, Wi-Fi, entry steps or rules. Every message points to orlandoeventvenue.org/accesscode and shows the reservation number. No "deposit." The copy says "first 50%" and "final 50%."
+- **process**: OEV communication strategy now centralizes access information (door codes, Wi-Fi, entry rules) on the website (orlandoeventvenue.org/accesscode) rather than including them in automated messages. Messages now reference the reservation number and the access link.
+- **process**: Financial terminology for bookings has shifted from 'deposit' to 'first 50%' and 'final 50%' to improve clarity.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

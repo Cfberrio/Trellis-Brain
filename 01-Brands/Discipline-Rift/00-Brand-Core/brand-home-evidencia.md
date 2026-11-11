@@ -310,6 +310,10 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): Preserve registration, payment, attendance, and historical records. Use archiving where deletion would lose needed history or break references. Ensure cleaned-up teams and their sessions are excluded from reminder workflows
 - **process**: When cleaning up closed or inactive teams, archive them instead of deleting them to preserve historical data (registrations, payments, attendance) and prevent broken references. Ensure these teams are excluded from all reminder workflows.
 
+- 2026-11-11T20:22:47.295Z — `clickup:86e3zmbdn` (validation `6bcf296b-5f5d-41a7-b3b4-826afd70ea51`)
+  - `e1` (source_body): No practice Wednesday, Nov 11 (no school). Make-up practice: Wednesday, Dec 16, 2:30–3:30 PM. Your player still gets all 6 practices. Updated schedule (Wednesdays, 2:30–3:30 PM): Oct 28 · Nov 4 · Nov 18 · Dec 2 · Dec 9 · Dec 16
+- **process**: When a practice is cancelled (e.g., school closure), the standard procedure is to schedule a make-up session to ensure the full season commitment (e.g., 6 practices) is honored, and to communicate this clearly to parents via SMS and email with specific details: original cancellation, make-up date/time, and updated schedule.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

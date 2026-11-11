@@ -270,6 +270,11 @@ brand_id: "discipline_rift"
   - `e2` (source_child): Listo: segundo padre en producción y las 10 funciones desplegadas. Cada padre entra con su cuenta, sin duplicar al niño ni tocar pagos, y comparten un solo chat con el autor registrado.
 - **process**: Discipline Rift supports multiple parent accounts for a single child. The primary parent invites a second parent via the dashboard; the recipient creates their own account to access the shared child record. This maintains a single canonical child record, prevents duplicate registrations/payments, and allows independent access to shared chat and attendance history.
 
+- 2026-11-11T20:23:43.835Z — `clickup:86e3zqk3t` (validation `27cb9dc5-2beb-4730-bcf9-36569b10f642`)
+  - `e1` (source_body): Remove all promotional advertising of the 100% refund guarantee from the experience and communications shown to parents who are already registered for the season.
+  - `e2` (source_child): Parent Home, blue "Coming up" card: "100% refund anytime during the season." now shows only while nobody in the family holds a paid or active spot in the season on the card.
+- **rule**: Promotional advertising of the 100% refund guarantee must be suppressed for parents who are already registered for the current season to avoid confusion and unnecessary refund requests.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
