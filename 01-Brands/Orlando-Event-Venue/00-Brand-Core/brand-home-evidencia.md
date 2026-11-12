@@ -77,6 +77,11 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **process**: OEV communication strategy now centralizes access information (door codes, Wi-Fi, entry rules) on the website (orlandoeventvenue.org/accesscode) rather than including them in automated messages. Messages now reference the reservation number and the access link.
 - **process**: Financial terminology for bookings has shifted from 'deposit' to 'first 50%' and 'final 50%' to improve clarity.
 
+- 2026-11-12T03:53:26.136Z — `clickup_doc_page:8cqnrff-27337/8cqnrff-40617` (validation `b695c549-cce9-4e20-93f7-a8d908e76beb`)
+  - `e1` (source_body): The admin isn't broken page by page. It breaks because of three patterns that repeat everywhere: 1. Money gets written once and never recalculated. 2. Status has 14 writers and no single set of rules. 3. The catalog of services lives in code, not in admin.
+- **fact**: The OEV platform currently suffers from three systemic issues: money is not recalculated after booking changes, status management lacks unified rules, and the service catalog is hardcoded in the codebase rather than managed in the admin.
+- **decision**: The proposed remediation plan for the platform involves a phased approach: Phase 1A/1B (9 days) for critical patches, Phase 2 (12-14 days) for rebuilding the status transition layer and services catalog, and Phase 3 (3 days) for cleanup.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
