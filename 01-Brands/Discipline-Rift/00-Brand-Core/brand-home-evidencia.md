@@ -314,6 +314,14 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): No practice Wednesday, Nov 11 (no school). Make-up practice: Wednesday, Dec 16, 2:30–3:30 PM. Your player still gets all 6 practices. Updated schedule (Wednesdays, 2:30–3:30 PM): Oct 28 · Nov 4 · Nov 18 · Dec 2 · Dec 9 · Dec 16
 - **process**: When a practice is cancelled (e.g., school closure), the standard procedure is to schedule a make-up session to ensure the full season commitment (e.g., 6 practices) is honored, and to communicate this clearly to parents via SMS and email with specific details: original cancellation, make-up date/time, and updated schedule.
 
+- 2026-11-18T04:19:21.239Z — `clickup:86e3xprtk` (validation `e3302ce6-6f83-484f-b750-83964bde8128`)
+  - `e1` (source_child): IOS ya esta live desde la semana pasada, andoid ahora mismo ya esta en review otra vez
+- **fact**: The Discipline Rift iOS app is live as of mid-November 2026, and the Android app is currently in the store review process.
+
+- 2026-11-18T04:23:29.735Z — `clickup_doc_page:8cqnrff-27437/8cqnrff-40837` (validation `94979f42-7eb8-4f3f-8122-868cbdee0032`)
+  - `e1` (source_body): Mapa de comunicaciones actuales... Estados: ✅ En vivo · ⏸️ Apagado a propósito · ⚠️ Roto o sin salir · ✋ Manual (lo envía una persona)
+- **fact**: The Discipline Rift communication system is mapped across four categories: parent reminders, messaging/chat, coach-specific notifications, and enrollment/payment flows, with specific statuses (live, manual, or paused) for each trigger.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
