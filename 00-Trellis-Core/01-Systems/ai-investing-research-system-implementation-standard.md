@@ -7,10 +7,8 @@ brand_id: "trellis_core"
 
 ## Canonical Statement
 
-- **decision**: The system distinguishes between Vehicle Selection (comparing products following the exact same index) and Exposure Selection (organizing different indices into Exposure Families within a Market Map).
-- **process**: Candidate Generation determines the strongest candidates within comparable groups using cost, performance, risk, access, and quality of evidence, avoiding arbitrary scores.
-- **rule**: When official data sources (like SEC XBRL filings) contain internal contradictions, the system must mark the data as a conflict and exclude it from comparisons to prevent contamination.
-- **fact**: Phase 1 validated 264 share classes across 70 indices; 32 indices have clear winners, 24 have multiple valid options, and others lack sufficient verified data.
+- **fact**: Phase 1 of the AI Investing Research System (ETF vehicle selection) is complete and audited. It compared 264 share classes across 70 indices, identifying 32 clear winners and 24 indices with multiple valid options.
+- **fact**: The system excludes data from official sources (e.g., SEC filings) when internal contradictions are detected, marking them as conflicts to prevent data contamination.
 
 ## Evidence Log
 

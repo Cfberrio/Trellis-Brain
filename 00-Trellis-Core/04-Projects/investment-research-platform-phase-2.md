@@ -33,6 +33,12 @@ brand_id: "trellis_core"
 - **decision**: The investment research platform now includes a thesis/contra-thesis system for tracking investment arguments and a 'Vigilar ahora' feature that monitors SEC filings for events affecting investment hypotheses.
 - **fact**: The platform now distinguishes companies using verifiable identifiers to prevent data attribution errors (e.g., dividend symbol collisions).
 
+- 2026-11-18T04:30:48.692Z — `clickup:86e3u4tpt` (validation `205788f4-77fc-439d-a40a-5aea729a96e0`)
+  - `1600600000005595` (source_child): Cerrado: STOCKS_2B ahora se entiende sin experiencia en inversión, y todo quedó subido a GitHub (17 nov). Revisé 5 herramientas externas de inversión... decidí no integrar ninguna: lo que hacen, nuestro sistema ya lo hace igual o con más control
+- **decision**: The investment research platform (STOCKS_2B) is now considered complete for V1 and V2.1, with all code and documentation committed to GitHub. The platform is designed for long-term (5-10 year) fundamental analysis and is accessible to users without prior investment experience.
+- **decision**: External investment tools and screeners were evaluated and rejected in favor of internal system controls, as the internal platform provides superior data control and verification.
+- **fact**: The platform includes automated validation for financial reports to prevent false alerts, and the UI has been optimized for clarity, significantly reducing word count while maintaining technical depth.
+
 ## Provenance
 
 - Source: `clickup` `86e3u4tpt`

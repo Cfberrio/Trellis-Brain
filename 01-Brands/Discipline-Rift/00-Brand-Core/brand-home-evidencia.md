@@ -348,6 +348,10 @@ Revenue acumulado | $65,082.45
   - `e2` (source_body): Correo de temporada: 15 días antes y 1 día antes. El de 30 días no se manda.
 - **process**: The app launch communication roadmap follows a specific sequence: D1, D3, D6 (email), D9 (SMS for non-app users), and D12 (email 'last chance'). Once 70% of parents have the app, weekly emails are replaced by coach-led messages the day before practice, while season emails (15 days and 1 day before) remain.
 
+- 2026-11-18T04:29:20.000Z — `clickup:86e40p8xr` (validation `972c1462-a221-49cc-a9b1-cd676dee0d17`)
+  - `e1` (source_child): Auditoría completa hecha + 2 tandas de arreglos de seguridad LIVE en producción (17-nov). Quedan mejoras de proceso para planificar. Qué pasa: se auditó todo el código de DR (admin, frontend público, padres, coaches, edge functions, DB)
+- **fact**: The Discipline Rift technical infrastructure underwent a comprehensive security audit in November 2026, resulting in verified fixes for API secret enforcement, data privacy for attachments, and logic hardening for waitlists, coupons, and payment verification.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
