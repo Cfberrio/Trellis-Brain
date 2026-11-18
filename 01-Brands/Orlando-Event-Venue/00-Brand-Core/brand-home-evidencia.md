@@ -94,6 +94,12 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **process**: OEV communication strategy centralizes access information (door codes, Wi-Fi, entry rules) on the website (orlandoeventvenue.org/accesscode) rather than including them in automated messages. Messages now reference the reservation number and the access link.
 - **process**: Financial terminology for bookings has shifted from 'deposit' to 'first 50%' and 'final 50%' to improve clarity.
 
+- 2026-11-18T04:41:09.282Z — `clickup:86e409jk6#brand=orlando_event_venue` (validation `ea546366-63a0-40ae-9a73-c2e617afba05`)
+  - `e1` (source_body): Move the DR app emails off the Inbound Webhook trigger... GHL Conversations API: same LC Email, $0.000675 per email, no premium step... SMS templates to 1 segment... Raise auto-recharge from $10 to $50
+  - `e2` (source_child): OEV "Popup – SMS only (A)": all 4 SMS were 2 segments (212–265 chars) = 8 segments per lead. Rewritten to 1 segment each, plain ASCII, workflow saved and still published
+  - `e3` (source_child): Weekly Practice + New Messages (parent and coach) no longer use the premium Inbound Webhook. Live on the Contact Tag trigger since 9:46 AM ET.
+- **process**: OEV optimizes GHL communication costs by: 1) Moving premium Inbound Webhook triggers to Contact Tag triggers for automated emails; 2) Shortening SMS templates to 160 characters (plain ASCII) to avoid multi-segment billing; 3) Increasing wallet auto-recharge to $50 to reduce transaction frequency.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

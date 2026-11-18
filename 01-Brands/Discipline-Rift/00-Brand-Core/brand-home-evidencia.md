@@ -359,6 +359,12 @@ Revenue acumulado | $65,082.45
   - `e4` (source_child): Aprobado. El contador de adopción y la etiqueta dr_app se ven bien. La página App Adoption es la medida oficial del 70%.
 - **process**: Discipline Rift communication strategy transitions from email-only to a hybrid model using in-app push notifications for season reminders and weekly updates, with email as a fallback. A 70% app adoption threshold (measured by app installation and login) triggers the reduction of email frequency, specifically turning off the 30-day season reminder while retaining 7-day and 1-day email reminders alongside push notifications.
 
+- 2026-11-18T04:40:43.023Z — `clickup:86e409jk6#brand=discipline_rift` (validation `329fd69f-3823-40e7-82b6-9c343edd34af`)
+  - `e1` (source_body): Move the DR app emails off the Inbound Webhook trigger. Luis approved Weekly Practice and New Messages. ... GHL Conversations API: same LC Email, $0.000675 per email, no premium step.
+  - `e2` (source_child): A4 done: auto-recharge raised from $10 to $50 (Agency Settings > Billing > Wallet & Recharge).
+  - `e3` (source_child): A2 — done (Nov 12): Weekly Practice + New Messages (parent and coach) no longer use the premium Inbound Webhook. Live on the Contact Tag trigger since 9:46 AM ET.
+- **process**: Discipline Rift optimizes GHL costs by moving automated emails (Weekly Practice, New Messages) from premium Inbound Webhook triggers to a free Contact Tag trigger system, and by raising the wallet auto-recharge threshold from $10 to $50 to reduce transaction frequency.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
