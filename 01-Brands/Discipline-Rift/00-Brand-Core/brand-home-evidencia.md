@@ -322,6 +322,32 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): Mapa de comunicaciones actuales... Estados: ✅ En vivo · ⏸️ Apagado a propósito · ⚠️ Roto o sin salir · ✋ Manual (lo envía una persona)
 - **fact**: The Discipline Rift communication system is mapped across four categories: parent reminders, messaging/chat, coach-specific notifications, and enrollment/payment flows, with specific statuses (live, manual, or paused) for each trigger.
 
+- 2026-11-18T04:24:42.939Z — `clickup_doc_page:8cqnrff-27437/8cqnrff-40897` (validation `88ad1196-5eec-495e-9efc-be5cb9ce26ed`)
+  - `e1` (source_body): La cuenta de GHL debería bajar de ~$80 al mes (octubre) a ~$30 al mes desde diciembre. ... A2 (el grande): El correo semanal y los de 'tienes mensajes sin leer' (padres y coaches) arrancan en GHL por etiqueta, no por webhook
+- **process**: GHL operational costs are optimized by using tags instead of webhooks for email triggers, shortening SMS text length, and adjusting auto-reload thresholds, reducing monthly costs from ~$80 to ~$30.
+
+- 2026-11-18T04:25:18.752Z — `clickup_doc_page:8cqnrff-27437/8cqnrff-40917` (validation `9c3cb625-9408-4409-851a-2d94051f464e`)
+  - `e1` (source_body): La campaña de adopción es D1, D3, D6 correo · D9 SMS · D12 last chance... Al 70%: apagar solo el correo de temporada más lejano y los semanales; mantener 7 y 1 día... Los recordatorios de 7 y 1 día siguen saliendo por correo aunque el padre haya recibido el push.
+- **decision**: The adoption campaign (D1, D3, D6 email, D9 SMS, D12 last chance) starts once Android is published. For the 70% adoption threshold, only the furthest season email and weekly emails are turned off; 7-day and 1-day reminders and absence notifications are maintained.
+- **rule**: If a parent receives a push notification for a reminder, the corresponding email is not sent. This applies to weekly and unread message reminders, but 7-day and 1-day reminders continue to be sent via email regardless of push receipt.
+
+- 2026-11-18T04:25:44.130Z — `clickup:86e40hqzv` (validation `31e9f459-f9ef-4376-9c96-be2d34fd294e`)
+  - `e1` (source_child): probé con 102 correos reales, sin crear borradores... el código manda una lista corta de equipos + el detalle solo de la escuela o del padre que escribe: −66% de tokens (2.56M → 0.86M). Coincide con lo que decide hoy en 95 de 102.
+- **process**: The Gmail bot optimization strategy involves sending only the relevant school or parent-specific team details to the AI rather than the full catalog, resulting in a ~66% reduction in token usage while maintaining decision accuracy.
+
+- 2026-11-18T04:26:33.216Z — `clickup:86e40b2uj` (validation `8380dce5-1cb5-42fe-9891-a390c328901b`)
+  - `e1` (source_child): el software los incluye solo. Todo alumno que se inscribe y paga aparece automáticamente en Dashboard → Certificates con su equipo y su tier, sin cargarlo a mano.
+- **fact**: Student certificate generation is automated; students who register and pay appear automatically in the Dashboard with their correct team and tier, requiring no manual intervention.
+
+- 2026-11-18T04:27:38.514Z — `clickup:86e409w5f` (validation `350ee83a-7dcd-43bf-953c-6817c7f12073`)
+  - `e1` (source_body): Ghost teams don't appear in, and don't trigger, anything tied to an active season: the schedule and the coach schedule, coach assignments, weekly practice and season start reminders, attendance and 'Missing Session Record', practice counts and reports. ... When a ghost team gets 9 or more families on its waitlist, a yellow card shows up at the top of the admin Home.
+- **process**: Ghost teams (teams with waitlists that are not currently active) are marked with a 'Ghost' badge in the admin dashboard and are excluded from all active-team processes, including schedules, reminders, attendance, and reports. An automated alert triggers on the admin dashboard when a ghost team's waitlist reaches 9 or more players.
+
+- 2026-11-18T04:28:32.445Z — `clickup:86e409aug` (validation `4c73dce2-6ce3-476d-aa7d-604b2338403f`)
+  - `e1` (source_body): Campaña de adopción D1, D3, D6 correo · D9 SMS a los que no tienen la app · D12 correo "last chance"... Al 70% Se apaga solo el correo de temporada más lejano (dijiste 30 días). Se quedan los de 7 y 1 día. Se eliminan los correos semanales y los reemplaza un mensaje del coach el día antes de cada práctica
+  - `e2` (source_body): Correo de temporada: 15 días antes y 1 día antes. El de 30 días no se manda.
+- **process**: The app launch communication roadmap follows a specific sequence: D1, D3, D6 (email), D9 (SMS for non-app users), and D12 (email 'last chance'). Once 70% of parents have the app, weekly emails are replaced by coach-led messages the day before practice, while season emails (15 days and 1 day before) remain.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

@@ -82,6 +82,13 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **fact**: The OEV platform currently suffers from three systemic issues: money is not recalculated after booking changes, status management lacks unified rules, and the service catalog is hardcoded in the codebase rather than managed in the admin.
 - **decision**: The proposed remediation plan for the platform involves a phased approach: Phase 1A/1B (9 days) for critical patches, Phase 2 (12-14 days) for rebuilding the status transition layer and services catalog, and Phase 3 (3 days) for cleanup.
 
+- 2026-11-18T04:27:13.038Z — `clickup:86e40ach2` (validation `3dca44f0-fec3-48ee-a78f-e344b44b9ab1`)
+  - `e1` (source_body): Luis approves the plan before any fix starts. The 7 examples above go in Phase 1–2 unless the audit shows a reason not to.
+  - `e2` (source_child): Approved: the full OEV plan. Full launch. We collect the $456. Plan: all phases approved (1A security and silent data loss → 1B money and what customers see → Phase 2 editing gaps).
+  - `e3` (source_child): Fase 2 en producción (17 de 19 ítems). Faltan E-1/E-2 y la Fase 3.
+- **decision**: The OEV platform audit and phased remediation plan (Phase 1A, 1B, and 2) are approved for implementation to resolve systemic issues in booking, invoicing, and admin editing capabilities.
+- **fact**: The OEV platform suffered from systemic issues including lack of post-change recalculation, inconsistent status tracking across 14+ admin touchpoints, and hard-coded service catalogs.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

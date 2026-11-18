@@ -275,6 +275,10 @@ brand_id: "discipline_rift"
   - `e2` (source_child): Parent Home, blue "Coming up" card: "100% refund anytime during the season." now shows only while nobody in the family holds a paid or active spot in the season on the card.
 - **rule**: Promotional advertising of the 100% refund guarantee must be suppressed for parents who are already registered for the current season to avoid confusion and unnecessary refund requests.
 
+- 2026-11-18T04:28:54.968Z — `clickup:86e409xrz` (validation `03cbe147-ab6e-485d-b543-18c3c1da6bff`)
+  - `e1` (source_body): Cristian launched the second parent feature... it's in production with the 10 functions deployed. Each parent signs in with their own account, the child isn't duplicated, payments aren't touched, and both share one chat with the coach
+- **fact**: Discipline Rift supports shared child access for two parent accounts, allowing both to receive practice reminders, coach messages, and updates without duplicating the child or requiring separate payments.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`

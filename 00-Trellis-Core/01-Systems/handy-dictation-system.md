@@ -15,6 +15,12 @@ brand_id: "trellis_core"
 - 2026-11-12T03:53:09.092Z — `clickup:86e409wgh`
   - `e1` (source_child): Handy > Settings > Advanced > Custom Words, type the word, click Add. Use it for names and brands it gets wrong. Avoid short names that sound like common words: I took "Luis" out because Handy started writing "Luis" instead of "los" and "las".
 
+- 2026-11-18T04:28:08.154Z — `clickup:86e409wgh` (validation `a1f1f6e9-818d-40a7-9996-a8b099d9d0ff`)
+  - `e1` (source_child): Handy > Settings > Advanced > Custom Words, type the word, click Add. Use it for names and brands it gets wrong. Avoid short names that sound like common words: I took "Luis" out because Handy started writing "Luis" instead of "los" and "las".
+- **process**: Handy supports two modes: Toggle (tap shortcut to start/stop) and Auto (hold shortcut to talk). Toggle is recommended for most users. Esc cancels a recording.
+- **process**: Handy automatically detects English or Spanish. If detection fails, the language can be manually set via the menu bar icon.
+- **process**: If Handy stops typing, restart the application via the menu bar. If issues persist, verify Accessibility and Microphone permissions in System Settings.
+
 ## Provenance
 
 - Source: `clickup` `86e409wgh`
