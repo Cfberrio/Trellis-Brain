@@ -15,6 +15,10 @@ brand_id: "st_joseph"
 - 2026-11-11T20:16:07.186Z — `clickup:86e3z12vb`
   - `e1` (source_body): In the October 31 leader conversation, Luis explained that commitment, fellowship, discernment, and willingness to seek the faith matter; OCIA attendance alone does not determine readiness for sacraments. Missed OCIA sessions can prompt an invitation to weekday formation.
 
+- 2026-11-18T04:35:33.473Z — `clickup:86e3z12vb` (validation `02ccc18e-cf1c-4dee-914c-fea44e6a0630`)
+  - `e1` (source_child): No more excused / unexcused. Remove it. We count numbers: OCIA classes scheduled this year vs. total classes attended. Weekday formation modules count toward the total, and that's how people make up a missed OCIA class. If someone says they were there or asks to be marked present, mark them present. These are adults; we trust them.
+- **rule**: OCIA attendance is tracked as a ratio of scheduled classes vs. total classes attended. Weekday formation modules count toward the total and serve as a makeup for missed Sunday OCIA sessions. Adults are trusted: if a participant claims they were present, they are marked present without requiring 'excused' status.
+
 ## Provenance
 
 - Source: `clickup` `86e3z12vb`

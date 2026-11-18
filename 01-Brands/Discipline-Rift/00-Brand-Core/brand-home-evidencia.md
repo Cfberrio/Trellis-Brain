@@ -352,6 +352,13 @@ Revenue acumulado | $65,082.45
   - `e1` (source_child): Auditoría completa hecha + 2 tandas de arreglos de seguridad LIVE en producción (17-nov). Quedan mejoras de proceso para planificar. Qué pasa: se auditó todo el código de DR (admin, frontend público, padres, coaches, edge functions, DB)
 - **fact**: The Discipline Rift technical infrastructure underwent a comprehensive security audit in November 2026, resulting in verified fixes for API secret enforcement, data privacy for attachments, and logic hardening for waitlists, coupons, and payment verification.
 
+- 2026-11-18T04:34:46.328Z — `clickup:86e3xc46q` (validation `a5ab1369-a604-403f-8144-02711eb4fbb7`)
+  - `e1` (source_body): Al alcanzar el 70% de padres de la temporada actual con app instalada y login: Apagar solo el email de 30 días de temporada. Mantener los emails de 7 días y 1 día. Luis corrigió expresamente la propuesta previa de dejar únicamente el de 1 día.
+  - `e2` (source_child): Decisión (punto 3): los recordatorios de 7 días y 1 día siguen saliendo por correo. No se apagan aunque el padre ya haya recibido el push. 7 días y 1 día: correo + push. El correo no se reemplaza por el push.
+  - `e3` (source_child): Admin → App Adoption (disciplinerift.com/dashboard/app-adoption) muestra el % de padres de la temporada con la app y sesión iniciada... Recomiendo: usar esta página como la medida oficial del 70%
+  - `e4` (source_child): Aprobado. El contador de adopción y la etiqueta dr_app se ven bien. La página App Adoption es la medida oficial del 70%.
+- **process**: Discipline Rift communication strategy transitions from email-only to a hybrid model using in-app push notifications for season reminders and weekly updates, with email as a fallback. A 70% app adoption threshold (measured by app installation and login) triggers the reduction of email frequency, specifically turning off the 30-day season reminder while retaining 7-day and 1-day email reminders alongside push notifications.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
