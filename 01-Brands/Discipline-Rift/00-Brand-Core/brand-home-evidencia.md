@@ -365,6 +365,11 @@ Revenue acumulado | $65,082.45
   - `e3` (source_child): A2 — done (Nov 12): Weekly Practice + New Messages (parent and coach) no longer use the premium Inbound Webhook. Live on the Contact Tag trigger since 9:46 AM ET.
 - **process**: Discipline Rift optimizes GHL costs by moving automated emails (Weekly Practice, New Messages) from premium Inbound Webhook triggers to a free Contact Tag trigger system, and by raising the wallet auto-recharge threshold from $10 to $50 to reduce transaction frequency.
 
+- 2026-11-19T04:15:34.855Z — `clickup:86e40p8xr` (validation `a6ad8aaa-c8a7-4b33-9d9e-c85fc2a58082`)
+  - `e1` (source_child): Auditoría completa hecha + 2 tandas de arreglos de seguridad LIVE en producción (17-nov). ... Arreglado y verificado en prod: Tanda 1 ... Tanda 2
+  - `e2` (source_child): Hecho: auditoría DR #1–#11 cubierta completa y en producción (18-nov). ... Arreglos reales: Cualquiera sin login podía apartar todos los cupos ... Coaches quitados de un equipo seguían leyendo sus mensajes ... Errores en admin y chat se veían como listas vacías
+- **fact**: The Discipline Rift codebase underwent a full security and logic audit in November 2026, resulting in verified fixes for edge functions, database permissions, roster management, and payment verification.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

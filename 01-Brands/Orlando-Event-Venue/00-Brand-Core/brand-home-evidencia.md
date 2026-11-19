@@ -100,6 +100,12 @@ We help corporate teams and local hosts run smooth, professional events via a fl
   - `e3` (source_child): Weekly Practice + New Messages (parent and coach) no longer use the premium Inbound Webhook. Live on the Contact Tag trigger since 9:46 AM ET.
 - **process**: OEV optimizes GHL communication costs by: 1) Moving premium Inbound Webhook triggers to Contact Tag triggers for automated emails; 2) Shortening SMS templates to 160 characters (plain ASCII) to avoid multi-segment billing; 3) Increasing wallet auto-recharge to $50 to reduce transaction frequency.
 
+- 2026-11-19T04:14:56.403Z — `clickup:86e40ach2` (validation `7cf305f4-46a0-4abd-b3e6-d68ae4efc7ff`)
+  - `e1` (source_child): Done: every approved audit fix is live on orlandoeventvenue.org. ... Phases 1 and 2 went live 11/17. Phase 3 and E-1 went live today (commits e47c60b, f8b957a, c25df79)
+  - `e2` (source_child): Approved: the full OEV plan. Full launch. We collect the $456. Plan: all phases approved (1A security and silent data loss → 1B money and what customers see → Phase 2 editing gaps). Start 1A now.
+  - `e3` (source_child): Fase 2 en producción (17 de 19 ítems). Faltan E-1/E-2 y la Fase 3.
+- **fact**: The OEV platform audit and phased remediation plan (Phases 1A, 1B, 2, and 3) were successfully implemented as of 2026-11-18, resolving systemic issues with money recalculation, status tracking, and hard-coded service catalogs.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
