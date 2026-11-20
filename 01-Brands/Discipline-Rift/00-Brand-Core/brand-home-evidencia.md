@@ -392,6 +392,23 @@ Revenue acumulado | $65,082.45
 - **process**: Ghost teams are defined as teams closed to registration that must be clearly marked with a 'Ghost' badge in admin interfaces and excluded from all active-team processes, including scheduling, coach assignments, reminders, attendance tracking, and Program Growth reporting.
 - **rule**: An admin dashboard alert triggers for ghost teams when the waitlist reaches 9 or more players (threshold > 8). The alert is manual-dismissal only and does not trigger automated parent emails.
 
+- 2026-11-20T21:12:57.762Z — `clickup:86e40p8xr` (validation `83df307b-26ea-4c12-a7a8-7c218a4d5f45`)
+  - `e1` (source_child): Auditoría completa hecha + 2 tandas de arreglos de seguridad LIVE en producción (17-nov). ... ghl-sms-draft, ghl-sms-cleanup, get_reminders_t24 ahora exigen secreto (sin él → 401). ... Quitado permiso TRUNCATE a anon/authenticated en ~67 tablas
+  - `e2` (source_child): Hecho: auditoría DR #1–#11 cubierta completa y en producción (18-nov). ... edge functions 401 sin secreto/login, crons 51/51 en 200.
+  - `e4` (source_child): CTS: tenía el problema completo. create-checkout-session armaba el link de "pago exitoso" con cualquier URL que mandara el navegador. ... Ahora solo se aceptan cheesetoshare.us, www y las previews de Lovable de este proyecto.
+- **fact**: Discipline Rift completed a full technical audit of its infrastructure (admin, frontend, DB, edge functions) in November 2026, resulting in security hardening (e.g., mandatory secrets for API/cron endpoints, restricted database permissions, and private message attachments).
+- **fact**: The DR technical system enforces strict security for checkout and payment flows, including domain-restricted redirects for Stripe sessions to prevent malicious URL redirection.
+
+- 2026-11-20T21:13:53.290Z — `clickup:86e40hqzv` (validation `ac2f84f0-8e37-4afa-b783-98e732ce3e7e`)
+  - `e1` (source_child): el código manda una lista corta de equipos + el detalle solo de la escuela o del padre que escribe: −66% de tokens (2.56M → 0.86M)
+  - `e2` (source_child): el bot ya manda a la IA una lista corta de todos los equipos + el detalle solo de la escuela o la familia que escribe. Antes mandaba el catálogo entero.
+  - `e3` (source_child): Tokens por correo (datos reales de producción): Antes, últimos 7 días (13–20 nov): 39,217 promedio en 40 correos... Después, mismos 10 correos reales del 18–19 nov, repetidos con el código nuevo ya desplegado: 39,451 → 10,815 (−73%).
+- **process**: The Gmail bot's data retrieval process was optimized to reduce token consumption by sending only a filtered list of relevant teams (based on the school or family) to the AI, rather than the entire team catalog.
+
+- 2026-11-20T21:14:25.821Z — `clickup:86e3xprtk` (validation `1e19605d-fbf2-4bbd-a72a-f3ab50bd9b86`)
+  - `e1` (source_child): Discipline Rift app links: 📱 iPhone (App Store): https://apps.apple.com/us/app/discipline-rift/id6817484664 🤖 Android (Play Store): https://play.google.com/store/apps/details?id=com.trellis.disciplinerift
+- **fact**: The Discipline Rift mobile application is officially live and available for download on both the Apple App Store and Google Play Store as of November 2026.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
