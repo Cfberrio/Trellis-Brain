@@ -17,6 +17,13 @@ brand_id: "trellis_core"
   - `e1` (source_body): Buenas prácticas de tokens (del análisis del 12 nov): sesión nueva por tarea, máximo 2 sesiones a la vez, nota de traspaso en vez de retomar conversaciones largas.
   - `e2` (source_child): Headroom en mi Mac está apagado desde el 13 nov porque la versión 0.44 rompe los pedidos de Claude... Composio es un MCP, no un plugin.
 
+- 2026-11-20T04:03:49.991Z — `clickup:1dfqjx6v2y9` (validation `3e6f504b-74f6-4965-95b4-17863deab371`)
+  - `e1` (source_body): Buenas prácticas de tokens (del análisis del 12 nov): sesión nueva por tarea, máximo 2 sesiones a la vez, nota de traspaso en vez de retomar conversaciones largas.
+  - `e2` (source_child): Headroom en mi Mac está apagado desde el 13 nov porque la versión 0.44 rompe los pedidos de Claude... Composio es un MCP, no un plugin.
+  - `e3` (source_child): Sí, St. Joseph es proyecto de la agencia. Agrégale reglas y hooks.
+- **process**: Claude Code session setup requires specific hooks, MCPs, and environment variables. Headroom is disabled on specific machines due to version 0.44 compatibility issues. Composio is an MCP. St. Joseph is a project requiring rules and hooks.
+- **rule**: To optimize token usage, sessions should be kept short (new session per task), limited to two concurrent sessions, and use transfer notes instead of long conversation histories.
+
 ## Provenance
 
 - Source: `clickup` `1dfqjx6v2y9`

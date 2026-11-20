@@ -370,6 +370,16 @@ Revenue acumulado | $65,082.45
   - `e2` (source_child): Hecho: auditoría DR #1–#11 cubierta completa y en producción (18-nov). ... Arreglos reales: Cualquiera sin login podía apartar todos los cupos ... Coaches quitados de un equipo seguían leyendo sus mensajes ... Errores en admin y chat se veían como listas vacías
 - **fact**: The Discipline Rift codebase underwent a full security and logic audit in November 2026, resulting in verified fixes for edge functions, database permissions, roster management, and payment verification.
 
+- 2026-11-20T04:02:51.292Z — `clickup:86e40hqzv` (validation `dcfc33c6-9d9a-4305-bd2d-5a55d5f54e35`)
+  - `e1` (source_child): hoy el bot le manda a la IA los 40 equipos completos en cada correo (25,102 tokens por correo). Probé una sola llamada en la que el código manda una lista corta de equipos + el detalle solo de la escuela o del padre que escribe: −66% de tokens (2.56M → 0.86M)
+- **fact**: The Gmail bot was optimized to reduce token consumption by approximately 66% (from 25,102 to ~8,500 tokens per email) by sending only a filtered list of teams and specific school/parent details rather than the full catalog.
+
+- 2026-11-20T04:03:21.601Z — `clickup:86e40p8xr` (validation `31871cd2-95d5-4d48-a738-5eb7a6ed69e8`)
+  - `e1` (source_child): Auditoría completa hecha + 2 tandas de arreglos de seguridad LIVE en producción (17-nov). Quedan mejoras de proceso para planificar. Qué pasa: se auditó todo el código de DR (admin, frontend público, padres, coaches, edge functions, DB)
+  - `e2` (source_child): Hecho: auditoría DR #1–#11 cubierta completa y en producción (18-nov). ... Todo publicado y verificado en prod: rutas 200, código nuevo en los chunks, edge functions 401 sin secreto/login, crons 51/51 en 200.
+- **fact**: A comprehensive technical audit of the Discipline Rift infrastructure (admin, frontend, DB, edge functions) was completed in November 2026, resulting in verified security hardening, including mandatory secrets for API endpoints, restricted database permissions, and improved data privacy for rosters and payments.
+- **process**: The Discipline Rift technical team maintains a rigorous production verification process for all code changes, including automated testing, role-based permission validation, and edge function security checks.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

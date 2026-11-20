@@ -16,6 +16,10 @@ brand_id: "st_joseph"
   - `90170270976692` (source_child): Clear statuses: New/Pending → First meeting done → In small group → Ready for sacraments → Staff approved (date assigned). Nobody gets stuck without an owner.
   - `90170271162380` (source_child): The flow you asked for here ("Executar cambios") is built: your 5 statuses with an owner each (New → First meeting done → In small group → Ready for sacraments → Staff approved), small-group management, leader attendance, leader updates
 
+- 2026-11-20T04:04:15.333Z — `clickup:86e40b6ap` (validation `6b60d0eb-bcec-4909-beab-527b12ba76a8`)
+  - `e1` (source_child): Don't change the OCIA link on the parish website yet. We're still waiting on parish approval to move forward. I'll let you know when it's approved.
+- **rule**: The integration of the OCIA registration link on the parish website is paused pending formal parish approval.
+
 ## Provenance
 
 - Source: `clickup` `86e40b6ap`

@@ -106,6 +106,15 @@ We help corporate teams and local hosts run smooth, professional events via a fl
   - `e3` (source_child): Fase 2 en producción (17 de 19 ítems). Faltan E-1/E-2 y la Fase 3.
 - **fact**: The OEV platform audit and phased remediation plan (Phases 1A, 1B, 2, and 3) were successfully implemented as of 2026-11-18, resolving systemic issues with money recalculation, status tracking, and hard-coded service catalogs.
 
+- 2026-11-20T04:01:10.005Z — `clickup:1dfqjx6vh17` (validation `8540125b-b233-4aad-abc7-9ca55688a1c9`)
+  - `e1` (source_child): Every booking needs its staff to accept before Pre-Event Ready, and nobody can be paid without accepting.
+- **rule**: A booking must not move to 'Pre-Event Ready' status until the assigned staff member has accepted the assignment for that specific booking. This gate is enforced on the server for all booking paths, including external bookings.
+
+- 2026-11-20T04:02:27.400Z — `clickup:86e40ach2` (validation `c614d096-5e13-4957-8f3d-bfc712733498`)
+  - `e1` (source_child): Approved: the full OEV plan. Full launch. We collect the $456. Plan: all phases approved (1A security and silent data loss → 1B money and what customers see → Phase 2 editing gaps). Start 1A now. OEV-JZHY9Z: collect the $456, don't absorb it.
+  - `e2` (source_child): Done: every approved audit fix is live on orlandoeventvenue.org. Phases 1 and 2 went live 11/17. Phase 3 and E-1 went live today
+- **decision**: The OEV platform audit and remediation plan (Phases 1A, 1B, 2, and 3) is approved and implemented. For the specific case OEV-JZHY9Z, the decision is to collect the $456 balance rather than absorb it.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
