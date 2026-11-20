@@ -380,6 +380,18 @@ Revenue acumulado | $65,082.45
 - **fact**: A comprehensive technical audit of the Discipline Rift infrastructure (admin, frontend, DB, edge functions) was completed in November 2026, resulting in verified security hardening, including mandatory secrets for API endpoints, restricted database permissions, and improved data privacy for rosters and payments.
 - **process**: The Discipline Rift technical team maintains a rigorous production verification process for all code changes, including automated testing, role-based permission validation, and edge function security checks.
 
+- 2026-11-20T04:05:24.101Z — `clickup:86e3xprtk` (validation `515ba411-1045-46b4-b50e-a5ad51468186`)
+  - `e3` (source_child): IOS ya esta live desde la semana pasada, andoid ahora mismo ya esta en review otra vez
+  - `e4` (source_child): Rejected. This isn't done until Android is public on Google Play.
+- **fact**: The iOS app is live as of mid-November 2026, while the Android app release is pending Google Play review.
+
+- 2026-11-20T04:06:01.550Z — `clickup:86e409w5f` (validation `26ae4e1d-628d-4069-b4b4-c064a4bf42e9`)
+  - `e1` (source_body): Luis's decision: build the alert, with the threshold at more than 8 players. Luis also wants every ghost team to be clearly identifiable as a ghost team... ghost teams don't appear in, and don't trigger, anything tied to an active season
+  - `e2` (source_child): When a ghost team gets 9 or more families on its waitlist, a yellow card shows up at the top of the admin Home... Ghost is easy to spot... Ghost teams never act like active teams
+  - `e3` (source_child): Ghost teams don't count as "offered" anymore. They also don't count as a program of the season you're looking at, and they don't change the season dates.
+- **process**: Ghost teams are defined as teams closed to registration that must be clearly marked with a 'Ghost' badge in admin interfaces and excluded from all active-team processes, including scheduling, coach assignments, reminders, attendance tracking, and Program Growth reporting.
+- **rule**: An admin dashboard alert triggers for ghost teams when the waitlist reaches 9 or more players (threshold > 8). The alert is manual-dismissal only and does not trigger automated parent emails.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

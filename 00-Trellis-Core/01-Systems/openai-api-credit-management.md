@@ -17,6 +17,15 @@ brand_id: "trellis_core"
   - `e2` (source_child): hermano, ya empezamos a usar los creditos de OPEN AI entonces? solo tu? o automaticamnete en mi cpmpu tambien esta?
   - `e3` (source_child): Ahorita solo lo tengo en mi computador
 
+- 2026-11-20T04:05:00.497Z — `clickup:86e40hqzt` (validation `57e7dd5f-0343-4a71-ba89-108e33bffa72`)
+  - `e1` (source_child): configuré Claude Code para que todo lo que le pase a Codex ... se cobre al proyecto DR de la org DISCIPLINE RIFT. ... Consumo de noviembre en toda la org: $0.54 ... Saldo hoy: $196.83. ... Auto-reload está apagado
+  - `e2` (source_child): Dónde se revisa: platform.openai.com con la cuenta info@disciplinerift.com. En Usage, filtrar por el proyecto DR. En Billing, Credit grants muestra saldo y vencimientos.
+  - `e3` (source_child): Done
+  - `e4` (source_child): Ahorita solo lo tengo en mi computador
+  - `e5` (source_child): A penas los estoy probando a ver cómo funciona
+- **process**: OpenAI API usage for development tools (like Codex) is configured to bill against specific project credit grants. Usage is tracked via the OpenAI platform dashboard (platform.openai.com), filtered by project (e.g., 'DR' for Discipline Rift). Credit grants and expiration dates are managed in the Billing section.
+- **fact**: The configuration is currently localized to specific developer machines and requires manual setup. Auto-reload is disabled to prevent unauthorized credit card charges.
+
 ## Provenance
 
 - Source: `clickup` `86e40hqzt`

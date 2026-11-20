@@ -279,6 +279,10 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Cristian launched the second parent feature... it's in production with the 10 functions deployed. Each parent signs in with their own account, the child isn't duplicated, payments aren't touched, and both share one chat with the coach
 - **fact**: Discipline Rift supports shared child access for two parent accounts, allowing both to receive practice reminders, coach messages, and updates without duplicating the child or requiring separate payments.
 
+- 2026-11-20T04:04:32.734Z — `clickup:86e409xrz` (validation `0900688f-9bcc-4971-9e33-5a931f0da292`)
+  - `e1` (source_body): Cristian launched the second parent feature... Each parent signs in with their own account, the child isn't duplicated, payments aren't touched, and both share one chat with the coach, which shows who wrote each message.
+- **fact**: Discipline Rift supports shared account access for two parents, allowing both to receive practice reminders, coach messages, and updates for the same child without duplicating the child record or payment.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
