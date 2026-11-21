@@ -46,6 +46,13 @@ brand_id: "trellis_core"
 - **fact**: External investment tools and screeners were evaluated and rejected in favor of internal system controls, as the internal platform provides superior data control, verification, and alignment with internal investment criteria.
 - **fact**: The platform UI has been optimized for clarity, significantly reducing word count while maintaining technical depth, and now supports 6 companies with automated financial report validation.
 
+- 2026-11-21T20:08:54.757Z — `clickup:86e3u4tpt` (validation `94ad88f2-128b-47e0-b76f-6b239a294245`)
+  - `e1` (source_child): Cerrado: STOCKS_2B ahora se entiende sin experiencia en inversión, y todo quedó subido a GitHub (17 nov). Revisé 5 herramientas externas de inversión... decidí no integrar ninguna: lo que hacen, nuestro sistema ya lo hace igual o con más control
+  - `e2` (source_child): La herramienta de investigación ya se puede ver en internet y se entiende sin saber de inversiones. Hoy cubre 6 empresas; para crecer necesitamos guardar los datos en la nube y no dentro de la página (19 nov). 👉 Enlace para verla: https://easy-sign-express.lovable.app/stocks
+- **decision**: The investment research platform (STOCKS_2B) is complete for V1 and V2.1, with all code and documentation committed to GitHub. The platform is now live and accessible for long-term (5-10 year) fundamental analysis, designed to be understandable without prior investment experience.
+- **fact**: External investment tools and screeners were evaluated and rejected in favor of internal system controls, as the internal platform provides superior data control, verification, and alignment with internal investment criteria.
+- **fact**: The platform UI has been optimized for clarity, significantly reducing word count while maintaining technical depth, and now supports 6 companies with automated financial report validation.
+
 ## Provenance
 
 - Source: `clickup` `86e3u4tpt`

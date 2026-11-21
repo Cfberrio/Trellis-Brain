@@ -115,6 +115,13 @@ We help corporate teams and local hosts run smooth, professional events via a fl
   - `e2` (source_child): Done: every approved audit fix is live on orlandoeventvenue.org. Phases 1 and 2 went live 11/17. Phase 3 and E-1 went live today
 - **decision**: The OEV platform audit and remediation plan (Phases 1A, 1B, 2, and 3) is approved and implemented. For the specific case OEV-JZHY9Z, the decision is to collect the $456 balance rather than absorb it.
 
+- 2026-11-21T20:08:25.083Z — `clickup:86e40ach2` (validation `65a38c66-eec1-4b8d-9e5a-e7d10a9e5057`)
+  - `e1` (source_body): Done: every approved audit fix is live on orlandoeventvenue.org. ... Phases 1 and 2 went live 11/17. Phase 3 and E-1 went live today (commits e47c60b, f8b957a, c25df79)
+  - `e2` (source_child): Corrección del comentario del 11/18: los $456 de OEV-JZHY9Z se decidieron el 11/12 ("We collect it") y ya están aplicados: balance $733.
+  - `e3` (source_child): Second pass hecho y en producción (11/20). 132 hallazgos, 16 decisiones para Luis.
+- **decision**: The OEV platform audit and phased remediation plan (Phases 1A, 1B, 2, and 3) were fully implemented and verified as of 2026-11-20.
+- **decision**: The $456 balance on booking OEV-JZHY9Z is to be collected from the client, not absorbed by the venue.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
