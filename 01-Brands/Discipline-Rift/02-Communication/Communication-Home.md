@@ -84,6 +84,9 @@ related:
 - [[01-Brands/Discipline-Rift/02-Communication/Messages-Reminders/Messages-Reminders-Home|Messages Reminders]] — unread-dashboard-message emails to parents and coaches (live 2026-09-11): max 2 per cycle, business hours only, all logic in the database, GHL only renders. Four templates + design spec inside.
 
 ## Campaigns (dated, one-time — not lifecycle chains)
+- [[01-Brands/Discipline-Rift/02-Communication/DR-Marketing-Email-Language-Guide|Marketing Email Language Guide (2026-11-23)]] — **leer antes de escribir cualquier correo de marketing.** Estructura de 10 bloques, frases fijas, 14 principios de edición de Luis, palabras usadas/prohibidas, urgencia permitida, checklist. Basada en 95+ correos reales.
+- [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-Marketing-Email-History-Index|Marketing Email History Index]] — todos los correos de marketing 2022–2026 (Wix, Gmail, GHL, ClickUp) con fecha, envíos y link al texto literal en `03-Evidence/Marketing-Emails-Verbatim/`.
+- [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-App-Download-Campaign-2026-11|App Download Campaign — v2 (draft)]] — D1/D3/D6 correo, D9 SMS, D12 correo; propuesto para 5-ene-2027; pendiente aprobación de Luis.
 - [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-First-Week-Of-School-Campaign-2026-08|First Week of School Campaign — August 2026]] — 3 emails to the parent house list, fires on the first day of school and retires. Primary approved by Luis 2026-08-09; §0 carries his five binding parent-copy rules; GHL-ready HTML kit in the Trellis repo (`email-html/`).
 - [[01-Brands/Discipline-Rift/02-Communication/Campaigns/DR-Email-Rewrite-Retrospective-2026-08|Email Rewrite Retrospective — August 2026]] — full analysis of Luis's breakdown of the first draft: what each correction protects, what survived, what died. The training document behind the template.
 
