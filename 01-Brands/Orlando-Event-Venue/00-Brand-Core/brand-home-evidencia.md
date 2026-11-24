@@ -122,6 +122,11 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **decision**: The OEV platform audit and phased remediation plan (Phases 1A, 1B, 2, and 3) were fully implemented and verified as of 2026-11-20.
 - **decision**: The $456 balance on booking OEV-JZHY9Z is to be collected from the client, not absorbed by the venue.
 
+- 2026-11-24T23:04:51.721Z — `clickup:86e3zwmg5` (validation `d3609ce7-caa3-4424-9a8e-6819125a087e`)
+  - `e1` (source_body): Event Page carries the details. Messages no longer include the door code, Wi-Fi, entry steps or rules. Every message points to orlandoeventvenue.org/accesscode and shows the reservation number. No "deposit." The copy says "first 50%" and "final 50%."
+- **process**: OEV communication strategy centralizes access information (door codes, Wi-Fi, entry rules) on the website (orlandoeventvenue.org/accesscode) rather than including them in automated messages. Messages now reference the reservation number and the access link.
+- **process**: Financial terminology for bookings has shifted from 'deposit' to 'first 50%' and 'final 50%' to improve clarity.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

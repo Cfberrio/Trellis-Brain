@@ -53,6 +53,11 @@ brand_id: "trellis_core"
 - **fact**: External investment tools and screeners were evaluated and rejected in favor of internal system controls, as the internal platform provides superior data control, verification, and alignment with internal investment criteria.
 - **fact**: The platform UI has been optimized for clarity, significantly reducing word count while maintaining technical depth, and now supports 6 companies with automated financial report validation.
 
+- 2026-11-24T23:04:01.951Z — `clickup:86e3u4tpt` (validation `b994214f-854e-4a22-8572-b93132c5483d`)
+  - `1600600000026194` (source_child): estamos cambiando el enfoque del proyecto: en lugar de seguir agregando información y funcionalidades sin saber si nuestros criterios funcionan, vamos a comprobar científicamente qué tan buenos son nuestros métodos para encontrar oportunidades.
+  - `1600600000026817` (source_child): Suena bien el cambio de enfoque: probar primero si los criterios funcionan antes de seguir agregando funciones.
+- **decision**: The project STOCKS_2B has shifted focus from adding features to scientifically validating the investment criteria and methods to ensure they effectively identify long-term opportunities.
+
 ## Provenance
 
 - Source: `clickup` `86e3u4tpt`

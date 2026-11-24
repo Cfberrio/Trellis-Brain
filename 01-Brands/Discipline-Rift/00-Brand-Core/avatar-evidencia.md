@@ -283,6 +283,10 @@ brand_id: "discipline_rift"
   - `e1` (source_body): Cristian launched the second parent feature... Each parent signs in with their own account, the child isn't duplicated, payments aren't touched, and both share one chat with the coach, which shows who wrote each message.
 - **fact**: Discipline Rift supports shared account access for two parents, allowing both to receive practice reminders, coach messages, and updates for the same child without duplicating the child record or payment.
 
+- 2026-11-24T23:03:26.495Z — `clickup:1dfqjx6vr1k` (validation `e6b784e1-f91b-42bb-a5b7-739f338e74fd`)
+  - `e1` (source_body): Our flag football curriculum is built for ages 7 to 11. For a kindergartner, that pace and structure is a lot to keep up with. We think the kindest choice for Finn, and for the team, is to take him off the Windermere roster for now.
+- **fact**: Discipline Rift maintains the right to remove students who disrupt the learning environment or safety of others, particularly when the program's pace and structure (designed for ages 7-11) are not a fit for the child's current developmental stage.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3m7j`
