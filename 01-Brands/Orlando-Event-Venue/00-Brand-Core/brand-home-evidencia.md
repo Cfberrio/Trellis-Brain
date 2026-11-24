@@ -127,6 +127,12 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **process**: OEV communication strategy centralizes access information (door codes, Wi-Fi, entry rules) on the website (orlandoeventvenue.org/accesscode) rather than including them in automated messages. Messages now reference the reservation number and the access link.
 - **process**: Financial terminology for bookings has shifted from 'deposit' to 'first 50%' and 'final 50%' to improve clarity.
 
+- 2026-11-24T23:08:57.554Z — `clickup:1dfqjx6vh17` (validation `0f082b55-28af-4014-8ae0-edd7021ec653`)
+  - `e1` (source_child): Every booking needs its staff to accept before Pre-Event Ready, and nobody can be paid without accepting.
+  - `e2` (source_child): 6 past pay lines: acceptance recorded by the office on all 6... They are payable now
+- **rule**: A booking cannot move to 'Pre-Event Ready' status until the assigned staff member has formally accepted the assignment. This rule is enforced on the server for all booking paths, including external bookings.
+- **rule**: Staff members cannot be paid for a booking unless they have formally accepted the assignment in the system.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`

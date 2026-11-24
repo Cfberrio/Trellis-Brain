@@ -33,6 +33,11 @@ brand_id: "st_joseph"
   - `e1` (source_child): Los 3 menores de College D (Emerson, Cadence y Suarmy) se quedan donde están. Los tres pueden recibir los sacramentos como adultos. No los saques ni los pases a Youth Faith Formation.
 - **fact**: Minors under 18 in the OCIA program (specifically those in College D) are permitted to remain in their assigned groups and are eligible to receive sacraments as adults; they are not to be transferred to Youth Faith Formation.
 
+- 2026-11-24T23:07:10.917Z — `clickup_chat_thread:8cqnrff-2077/80170057809052` (validation `94a54f23-3461-433d-90fc-2c5f59727c53`)
+  - `e1` (source_child): El acceso comenzará con los líderes de cada pilar o grupo... Se asignará a los asistentes sin grupo respetando los comentarios existentes, equilibrando los grupos y procurando no superar quince personas por grupo. Los menores de dieciocho no deben asignarse... Cada líder recibirá una contraseña inicial
+- **rule**: Dashboard access for leaders is initialized via individual passwords; leaders are instructed to change these upon first login to verify their assigned groups.
+- **rule**: Group assignment logic: Groups should not exceed 15 participants. Minors under 18 are not to be assigned to these groups.
+
 ## Provenance
 
 - Source: `clickup` `86e3k18rn`

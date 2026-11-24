@@ -147,6 +147,10 @@ Use: Enter the code during checkout
   - `90170270055618` (source_child): One calculator. The website, the payment server and the invoices use the same calculator. The server recalculates the price before charging and refuses if it doesn't match. Discounts show on invoices.
 - **process**: The OEV booking system now uses a unified calculator across the website, payment server, and invoices. All discounts are explicitly displayed on customer invoices, and the system validates price calculations server-side before processing payments to prevent configuration errors.
 
+- 2026-11-24T23:11:27.264Z — `clickup:86e40q3xp#brand=orlando_event_venue` (validation `4b149b4c-aef1-4204-ba95-7bcd165aee87`)
+  - `e1` (source_child): Cerrado: GHL confirmó que todo octubre está bien cobrado. No hay cargos duplicados ni ajustes pendientes. ... En nuestro plan de $97 no hay rebilling, así que GHL no cobra por sub-cuenta: todo se factura junto a nivel agencia.
+- **fact**: GHL billing for OEV is aggregated at the agency level, not per sub-account. Carrier fees are bundled into grouped charges at the agency level, and activity mix/SMS segment counts are calculated based on standard GHL platform rules.
+
 ## Provenance
 
 - Source: `clickup_chat_thread` `8cqnrff-2077/80170035503796`

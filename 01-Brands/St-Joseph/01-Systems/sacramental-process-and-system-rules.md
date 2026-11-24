@@ -21,6 +21,11 @@ brand_id: "st_joseph"
   - `e4` (source_child): Leaders can see AND edit everything for their people: history, dates, marriage info, sacraments, all of it. Every leader edit needs a timestamp and goes into an edit history under each profile.
   - `e5` (source_child): Reviewing Ready files and assigning dates is a permission now. Admins always have it, for anyone else you tick it in People. Without it nobody can change a date from any screen.
 
+- 2026-11-24T23:09:44.706Z — `clickup:86e40cv5h` (validation `e44e1cb7-31e6-479d-b5a6-0cce6e3283ba`)
+  - `e1` (source_child): Leaders can see AND edit everything for their people: history, dates, marriage info, sacraments, all of it. Every leader edit needs a timestamp and goes into an edit history under each profile.
+  - `e2` (source_child): Reviewing Ready files and assigning dates is a permission now. Admins always have it, for anyone else you tick it in People. Without it nobody can change a date from any screen.
+- **process**: Leaders have full read/write access to their assigned candidates' files, including marriage history and sacramental status. Every edit made by a leader is tracked with a timestamp in the profile's edit history. Staff review and date assignment is a restricted permission.
+
 ## Provenance
 
 - Source: `clickup` `86e40cv5h`

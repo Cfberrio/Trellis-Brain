@@ -409,6 +409,18 @@ Revenue acumulado | $65,082.45
   - `e1` (source_child): Discipline Rift app links: 📱 iPhone (App Store): https://apps.apple.com/us/app/discipline-rift/id6817484664 🤖 Android (Play Store): https://play.google.com/store/apps/details?id=com.trellis.disciplinerift
 - **fact**: The Discipline Rift mobile application is officially live and available for download on both the Apple App Store and Google Play Store as of November 2026.
 
+- 2026-11-24T23:08:33.610Z — `clickup:86e3xprtk` (validation `db9039d5-d837-4259-a47b-5ac252f2e475`)
+  - `e1` (source_child): Discipline Rift app links: 📱 iPhone (App Store): https://apps.apple.com/us/app/discipline-rift/id6817484664 🤖 Android (Play Store): https://play.google.com/store/apps/details?id=com.trellis.disciplinerift
+- **fact**: The Discipline Rift mobile apps are live on both the Apple App Store and Google Play Store as of November 2026.
+
+- 2026-11-24T23:10:06.447Z — `clickup_doc_page:8cqnrff-27857/8cqnrff-41377` (validation `2b2c2f35-3874-4f14-a0c7-2c0a63799d68`)
+  - `e1` (source_body): Objetivo: que las familias inscritas bajen la app Discipline Rift. Meta del roadmap: 70% de familias con la app... Secuencia: 4 toques en 12 días: 3 correos (A → B → C) + 1 SMS... Reglas en los 3: una sola acción puesta dos veces, menos de 120 palabras, sin dólares, sin garantía, sin urgencia inventada.
+- **process**: The app adoption campaign for Discipline Rift follows a 4-touch sequence over 12 days (3 emails, 1 SMS) to drive app downloads, targeting a 70% adoption rate. The process includes specific rules for content (no dollars, no urgency, one action) and automated exclusion of users who have already downloaded the app via GHL tagging.
+
+- 2026-11-24T23:11:05.254Z — `clickup:86e40q3xp#brand=discipline_rift` (validation `36152d88-aeba-4505-8766-faf2c9f8bf94`)
+  - `e1` (source_body): En nuestro plan de $97 no hay rebilling, así que GHL no cobra por sub-cuenta: todo se factura junto a nivel agencia. Por eso comparábamos 1,083 cargos de la agencia contra "28 por sub-cuenta" y parecía que algo sobraba. Es un error común al leer el wallet de GHL
+- **fact**: GHL billing for carrier fees is aggregated at the agency level rather than per sub-account, meaning individual sub-account views do not show the full count of grouped charges.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`
