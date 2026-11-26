@@ -7,10 +7,11 @@ brand_id: "discipline_rift"
 
 ## Canonical Statement
 
-- **definition**: The DisciplineRift Dashboard is a central administration panel used to manage school sports programs, including schools, services (volleyball, tennis, pickleball), practice schedules, coaches, student registrations, and parent communication.
+- **fact**: The DisciplineRift Dashboard is a central administration panel for managing school sports programs, including schools, services, sections, sessions, enrollments, staff, and parent communication.
 - **fact**: The system uses a hierarchical data structure: School > Service/Program > Section (schedule) > Session (individual class) > Enrollment > Staff > Parent.
 - **process**: The dashboard automates session creation based on repetition patterns (weekly, bi-weekly, monthly) and handles automated reminders for coach attendance and student absences.
 - **fact**: The platform integrates with GoHighLevel (GHL) for CRM synchronization and uses Supabase for secure administrator-only authentication.
+- **process**: The dashboard includes a certificate generation feature that creates personalized PDF diplomas for students based on their sport and skill level (Tier 1–6).
 
 ## Evidence Log
 
