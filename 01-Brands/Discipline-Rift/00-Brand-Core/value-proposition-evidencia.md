@@ -30,6 +30,10 @@ brand_id: "discipline_rift"
 - **fact**: Fall 2026 data shows no statistically significant correlation between coach communication habits (messaging frequency, response time, one-to-one messaging) and player retention or program growth.
 - **fact**: Returning players (those who had previously participated in DR) have a higher retention rate (66%) compared to new players (52%).
 
+- 2026-11-26T05:08:41.930Z — `clickup:1dfqjx6w4uv` (validation `c7058131-ac8c-4c26-adc5-2cbf687709ee`)
+  - `e1` (source_child): My recommendation: give every family a private "calendar link" that updates itself... The parent's calendar comes back to our website every few hours and picks up the latest version. Nobody has to resend anything, and nothing gets duplicated.
+- **decision**: Discipline Rift will implement a private, subscribable calendar feed (ICS) for parents to sync season schedules. This allows parents to add all practices to their personal calendars in one click, with automatic updates for cancellations, make-ups, or schedule changes.
+
 ## Provenance
 
 - Source: `clickup_doc_page` `8cqnrff-16057/8cqnrff-18597`

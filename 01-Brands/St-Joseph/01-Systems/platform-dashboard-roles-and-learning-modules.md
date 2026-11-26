@@ -38,6 +38,12 @@ brand_id: "st_joseph"
 - **rule**: Dashboard access for leaders is initialized via individual passwords; leaders are instructed to change these upon first login to verify their assigned groups.
 - **rule**: Group assignment logic: Groups should not exceed 15 participants. Minors under 18 are not to be assigned to these groups.
 
+- 2026-11-26T05:08:28.004Z — `clickup:1dfqjx6w547` (validation `4a29116c-09fd-4590-9ab4-9e484f9c6559`)
+  - `e1` (source_child): En admin, Leaders, hay un botón Download data que baja un Excel con una pestaña de resumen y una por cada grupo... Los líderes ahora tienen un botón Not answering en My group... También agregué Edit contact en la ficha de OCIA candidate para que puedas cambiar nombre, teléfono y email.
+- **process**: Admin dashboard includes a 'Download data' feature providing an Excel report with group summaries, individual sacramental status, attendance, and unresponsive flags.
+- **process**: Leaders can mark participants as 'Not answering' in the dashboard, which flags the record in red for Admin review.
+- **process**: Staff can edit contact information (name, phone, email) directly within the OCIA candidate profile.
+
 ## Provenance
 
 - Source: `clickup` `86e3k18rn`

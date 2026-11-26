@@ -421,6 +421,15 @@ Revenue acumulado | $65,082.45
   - `e1` (source_body): En nuestro plan de $97 no hay rebilling, así que GHL no cobra por sub-cuenta: todo se factura junto a nivel agencia. Por eso comparábamos 1,083 cargos de la agencia contra "28 por sub-cuenta" y parecía que algo sobraba. Es un error común al leer el wallet de GHL
 - **fact**: GHL billing for carrier fees is aggregated at the agency level rather than per sub-account, meaning individual sub-account views do not show the full count of grouped charges.
 
+- 2026-11-26T05:09:34.121Z — `clickup:86e3xprtk` (validation `552242a5-3922-4932-986a-080cd8d6f5b9`)
+  - `e1` (source_child): Discipline Rift app links: 📱 iPhone (App Store): https://apps.apple.com/us/app/discipline-rift/id6817484664 🤖 Android (Play Store): https://play.google.com/store/apps/details?id=com.trellis.disciplinerift
+- **fact**: The Discipline Rift mobile apps are live on both the Apple App Store and Google Play Store as of November 2026.
+
+- 2026-11-26T05:10:44.066Z — `clickup_doc_page:8cqnrff-21297/8cqnrff-41397` (validation `fab42390-8155-42c9-97a2-21ac8b798cb9`)
+  - `e1` (source_body): Secuencia: 4 toques en 12 días: 3 correos (A → B → C) + 1 SMS. ... Reglas en los 3: una sola acción puesta dos veces, menos de 120 palabras, sin dólares, sin garantía, sin urgencia inventada. ... El sync nocturno le pone el tag dr_app en GHL. Desde el D3, cada envío excluye contactos con dr_app.
+- **process**: The Discipline Rift app adoption campaign follows a 4-touch sequence over 12 days (3 emails, 1 SMS) for enrolled families, using GHL tagging (dr_app) to exclude those who have already downloaded the app from subsequent touches.
+- **rule**: Communication rules for app adoption: one action per message, under 120 words, no dollar signs, no artificial urgency, and no invented guarantees.
+
 ## Provenance
 
 - Source: `clickup` `86e3g3mwu`

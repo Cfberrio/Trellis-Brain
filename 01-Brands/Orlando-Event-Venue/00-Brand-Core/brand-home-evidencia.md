@@ -133,6 +133,11 @@ We help corporate teams and local hosts run smooth, professional events via a fl
 - **rule**: A booking cannot move to 'Pre-Event Ready' status until the assigned staff member has formally accepted the assignment. This rule is enforced on the server for all booking paths, including external bookings.
 - **rule**: Staff members cannot be paid for a booking unless they have formally accepted the assignment in the system.
 
+- 2026-11-26T05:09:12.710Z — `clickup:86e3zwmg5` (validation `b924d0de-9c7e-4b75-9075-c4947983c4a7`)
+  - `e1` (source_body): Event Page carries the details. Messages no longer include the door code, Wi-Fi, entry steps or rules. Every message points to orlandoeventvenue.org/accesscode and shows the reservation number. No "deposit." The copy says "first 50%" and "final 50%."
+- **process**: OEV communication strategy centralizes access information (door codes, Wi-Fi, entry rules) on the website (orlandoeventvenue.org/accesscode) rather than including them in automated messages. Messages now reference the reservation number and the access link.
+- **process**: Financial terminology for bookings has shifted from 'deposit' to 'first 50%' and 'final 50%' to improve clarity.
+
 ## Provenance
 
 - Source: `clickup` `86e3gv11u`
