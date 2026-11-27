@@ -63,6 +63,11 @@ brand_id: "trellis_core"
   - `1600600000026817` (source_child): Suena bien el cambio de enfoque: probar primero si los criterios funcionan antes de seguir agregando funciones. Mantenme al tanto aquí con cada resultado.
 - **decision**: The project STOCKS_2B has shifted focus from adding features to scientifically validating the investment criteria and methods to ensure they effectively identify long-term opportunities.
 
+- 2026-11-27T05:06:53.922Z — `clickup:86e3u4tpt` (validation `0f8acf7b-1d6f-4cdd-8d01-7c35e0a84514`)
+  - `1600600000026194` (source_child): estamos cambiando el enfoque del proyecto: en lugar de seguir agregando información y funcionalidades sin saber si nuestros criterios funcionan, vamos a comprobar científicamente qué tan buenos son nuestros métodos para encontrar oportunidades.
+  - `1600600000026817` (source_child): Suena bien el cambio de enfoque: probar primero si los criterios funcionan antes de seguir agregando funciones.
+- **decision**: The project STOCKS_2B has shifted focus from adding features to scientifically validating the investment criteria and methods to ensure they effectively identify long-term opportunities.
+
 ## Provenance
 
 - Source: `clickup` `86e3u4tpt`

@@ -7,8 +7,8 @@ brand_id: "trellis_core"
 
 ## Canonical Statement
 
-- **fact**: Phase 1 of the AI Investing Research System (ETF vehicle selection) is complete and audited. It compared 264 share classes across 70 indices, identifying 32 clear winners and 24 indices with multiple valid options.
-- **fact**: The system excludes data from official sources (e.g., SEC filings) when internal contradictions are detected, marking them as conflicts to prevent data contamination.
+- **fact**: Phase 1 of the AI Investing Research System (ETF vehicle selection) is complete, audited, and operational. It compared 264 share classes across 70 indices, identifying 32 clear winners and 24 indices with multiple valid options.
+- **fact**: The system now includes a retail access layer and has resolved previous data gaps for the S&P 500 by integrating VOO, IVV, and SPYM.
 
 ## Evidence Log
 

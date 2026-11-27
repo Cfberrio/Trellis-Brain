@@ -44,6 +44,15 @@ brand_id: "st_joseph"
 - **process**: Leaders can mark participants as 'Not answering' in the dashboard, which flags the record in red for Admin review.
 - **process**: Staff can edit contact information (name, phone, email) directly within the OCIA candidate profile.
 
+- 2026-11-27T05:06:36.436Z — `clickup:1dfqjx6vxz3` (validation `8f2ef485-e6de-4dbb-bf13-3af44b77ed93`)
+  - `e1` (source_child): Lideres coordinan la reunión, ellos la crean con fecha, lugar de reunion, contenido que compartir con el grupo y marcan quien esta ausente
+  - `e2` (source_child): No dejalo y que ellos puedan modificar el schedule y content
+  - `e3` (source_child): Yes, permitamos mensajeria
+  - `e4` (source_child): Para sesiones de formacion (ingles y español) catequista, o cualquier persona como lider o admin tambien puede
+- **rule**: Leaders manage their own group meetings, including setting date, time, location, and content. They have full visibility and edit access to their group's schedule and session materials.
+- **rule**: Leaders have messaging capabilities within the dashboard to communicate with their group members via WhatsApp or email.
+- **rule**: Session content (PowerPoint or other materials) for formation nights can be uploaded by catechists, leaders, or admins, and is accessible to all leaders for their respective sessions.
+
 ## Provenance
 
 - Source: `clickup` `86e3k18rn`
